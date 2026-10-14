@@ -1,0 +1,10 @@
+{
+ "snapshot": "Scryfall bulk default_cards",
+ "bulk_updated_at": "2026-10-14T09:05:48.686+00:00",
+ "download_uri": "https://data.scryfall.io/default-cards/default-cards-20261014090548.jsonl.gz",
+ "local_file": "/workspace/mtg/sources/2026-10-14/default-cards-20261014090548.jsonl.gz",
+ "sha256": "c1ca5d84148da3ac3e13db85aa27eaac1173e545942864cbf15923d0c17eaf8e",
+ "retrieved_utc": "2026-10-14T10:56:58Z",
+ "rule": "per card name: minimum prices.usd (non-foil USD) across printings with \"paper\" in games and digital==false; prices.usd_foil/usd_etched ignored",
+ "basic_land_policy": "basic lands priced at the cheapest non-foil paper printing like any other card; totals also shown excluding basics"
+}

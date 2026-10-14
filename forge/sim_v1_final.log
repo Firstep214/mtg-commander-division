@@ -1,0 +1,2810 @@
+Error handling registered!
+10:50:01 [INFO ] GuiBase: ##########################################
+10:50:01 [INFO ] GuiBase: APP: Forge v.2.0.15-SNAPSHOT-09.28
+10:50:01 [INFO ] GuiBase: Java: 21.0.12.1 (Debian)
+10:50:01 [INFO ] GuiBase: OS: Linux 6.12.94+ amd64
+10:50:01 [INFO ] GuiBase: RAM: 4096 MB max, 8 CPUs
+10:50:01 [INFO ] GuiBase: ##########################################
+Language 'en-US' loaded successfully.
+(ThreadUtil first call): Running with priority 5
+Read cards: 34010 archived files in 0 ms (25 parts) using thread pool
+Upcoming set Star Trek (TRK) dated in the future. All `upcoming` cards will be added to this set with unknown rarity.
+The card A-Alrund's Epiphany was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Baba Lysaga, Night Witch was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Divide by Zero was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Esika's Chariot was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Faceless Haven was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Fires of Invention was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Goldspan Dragon was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Hullbreaker Horror was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Kumano Faces Kakkazan was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Luminarch Aspirant was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Monster Manual was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Omnath, Locus of Creation was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-The Meathook Massacre was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Unholy Heat was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Blinding Radiance was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Goblin Bruiser was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Ogre Painbringer was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Titanic Pelagosaur was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Treetop Recluse was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+Upcoming set Star Trek (TRK) dated in the future. All `upcoming` cards will be added to this set with unknown rarity.
+Read cards: 854 files in 0 ms (8 parts) using thread pool
+Simulation mode
+Ai(1)-A vs Ai(2)-B vs Ai(3)-C vs Ai(4)-D - one game of Commander
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Brago, King Eternal for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Veyran, Voice of Duality for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Adeline, Resplendent Cathar for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Brago, King Eternal for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Adeline, Resplendent Cathar for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Teysa Karlov for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Veyran, Voice of Duality for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Brago, King Eternal for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Teysa Karlov for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Veyran, Voice of Duality for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Adeline, Resplendent Cathar for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Adeline, Resplendent Cathar for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Teysa Karlov for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Adeline, Resplendent Cathar for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Moving spell to Exile
+Warning: default (ie. inherited from base class) implementation of chooseSinglePlayer is used by Fact or Fiction for forge.ai.ability.TwoPilesAi. Consider declaring an overloaded method
+Warning: default (ie. inherited from base class) implementation of confirmAction is used by Veyran, Voice of Duality for forge.ai.ability.PermanentCreatureAi. Consider declaring an overloaded method
+Mulligan: Ai(2)-B has kept a hand of 7 cards
+Mulligan: Ai(3)-C has kept a hand of 7 cards
+Mulligan: Ai(4)-D has kept a hand of 7 cards
+Mulligan: Ai(1)-A has kept a hand of 7 cards
+Turn: Turn 1 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Replacement Effect: Prairie Stream enters tapped unless you control two or more basic lands.
+Land: Ai(2)-B played Prairie Stream (180)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 2 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Land: Ai(3)-C played Swamp (255)
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 3 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Replacement Effect: Spirebluff Canal enters tapped unless you control two or fewer other lands.
+Land: Ai(4)-D played Spirebluff Canal (353)
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Add To Stack: Ai(4)-D cast Sol Ring
+Resolve Stack: Sol Ring
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Arcane Signet
+Resolve Stack: Arcane Signet
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 4 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (76)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (76) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Skullclamp
+Resolve Stack: Skullclamp
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 5 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Replacement Effect: Thriving Isle enters tapped.
+Replacement Effect: As Thriving Isle enters, choose a color other than blue.
+Land: Ai(2)-B played Thriving Isle (154)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Sol Ring
+Resolve Stack: Sol Ring
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 6 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Land: Ai(3)-C played Plains (296)
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (296) - {T}: Add {W}.
+Add To Stack: Ai(3)-C cast Zulaport Cutthroat
+Resolve Stack: Zulaport Cutthroat - Creature 1 / 1
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 7 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Land: Ai(4)-D played Island (343)
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Mana: Island (343) - {T}: Add {U}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(4)-D cast Fellwar Stone
+Resolve Stack: Fellwar Stone
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 8 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (61)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Staff of the Storyteller
+Resolve Stack: Staff of the Storyteller
+Add To Stack: Ai(1)-A triggered Staff of the Storyteller
+Resolve Stack: When Staff of the Storyteller enters, create a 1/1 white Spirit creature token with flying. [Zone Changer: Staff of the Storyteller (15)]
+Add To Stack: Ai(1)-A triggered Staff of the Storyteller
+Resolve Stack: Whenever you create one or more creature tokens, put a story counter on Staff of the Storyteller.
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 9 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Mana: Sol Ring (155) - {T}: Add {C}{C}.
+Add To Stack: Ai(2)-B cast Brago, King Eternal
+Resolve Stack: Brago, King Eternal - Creature 2 / 4
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 10 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Replacement Effect: Concealed Courtyard enters tapped unless you control two or fewer other lands.
+Land: Ai(3)-C played Concealed Courtyard (217)
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Concealed Courtyard (217) - {T}: Add {W} or {B}.
+Add To Stack: Ai(3)-C cast Plaguecrafter
+Resolve Stack: Plaguecrafter - Creature 3 / 2
+Add To Stack: Ai(3)-C triggered Plaguecrafter
+Zone Change: Zulaport Cutthroat (221) was put into Graveyard from Battlefield.
+Zone Change: Veyran, Voice of Duality (403) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (410) was put into Graveyard from Battlefield.
+Zone Change: Brago, King Eternal (201) was put into Graveyard from Battlefield.
+Resolve Stack: When Plaguecrafter enters, each player sacrifices a creature or planeswalker. Each player who can't discards a card. [Zone Changer: Plaguecrafter (203)]
+Add To Stack: Ai(3)-C triggered Zulaport Cutthroat
+Life: Life: Ai(4)-D 40 > 39
+Life: Life: Ai(1)-A 40 > 39
+Life: Life: Ai(2)-B 40 > 39
+Life: Life: Ai(3)-C 40 > 41
+Resolve Stack: Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life. [Zone Changer: Zulaport Cutthroat (221)]
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 11 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Land: Ai(4)-D played Mountain (392)
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Island (343) - {T}: Add {U}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(4)-D cast Chart a Course
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Chart a Course (375), Activator: Ai(4)-D, SpellAbility: Draw two cards. Then discard a card unless you attacked this turn. ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Chart a Course (375), Activator: Ai(4)-D, SpellAbility: Draw two cards. Then discard a card unless you attacked this turn. ]
+Discard: Ai(4)-D discards Increasing Vengeance (366).
+Resolve Stack: Chart a Course (375) - Ai(4)-D draws two cards. Ai(4)-D discards a card.
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 12 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (91)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 13 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Sol Ring (155) - {T}: Add {C}{C}.
+Add To Stack: Ai(2)-B cast Man-o'-War
+Resolve Stack: Man-o'-War - Creature 2 / 2
+Add To Stack: Ai(2)-B triggered Man-o'-War targeting [Adeline, Resplendent Cathar (100)]
+Resolve Stack: When Man-o'-War enters, return target creature to its owner's hand. (Targeting: [[Adeline, Resplendent Cathar (100)]]) [Zone Changer: Man-o'-War (144)]
+Mana: Prairie Stream (180) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Cloudshift targeting [Man-o'-War (144)]
+Zone Change: Man-o'-War (144) was put into Exile from Battlefield.
+Resolve Stack: Cloudshift (152) - Exile Man-o'-War (144).  
+Add To Stack: Ai(2)-B triggered Man-o'-War targeting [Veyran, Voice of Duality (403)]
+Resolve Stack: When Man-o'-War enters, return target creature to its owner's hand. (Targeting: [[Veyran, Voice of Duality (403)]]) [Zone Changer: Man-o'-War (144)]
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 14 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Combat: Ai(3)-C assigned Plaguecrafter (203) to attack Ai(4)-D.
+Phase: Ai(3)-C's Declare Blockers Step
+Combat: Ai(4)-D didn't block Plaguecrafter (203).
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Damage: Plaguecrafter (203) deals 3 combat damage to Ai(4)-D.
+Life: Life: Ai(4)-D 39 > 36
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Replacement Effect: Myriad Landscape enters tapped.
+Land: Ai(3)-C played Myriad Landscape (279)
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Swamp (255) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Fellwar Stone
+Resolve Stack: Fellwar Stone
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 15 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Replacement Effect: Sulfur Falls enters tapped unless you control an Island or a Mountain.
+Land: Ai(4)-D played Sulfur Falls (361)
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Island (343) - {T}: Add {U}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Add To Stack: Ai(4)-D cast Baral, Chief of Compliance
+Resolve Stack: Baral, Chief of Compliance - Creature 1 / 3
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 16 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (80)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Resolute Reinforcements
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(4)-D cast Chaos Warp targeting [Plaguecrafter (203)]
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Chaos Warp (376), Activator: Ai(4)-D, SpellAbility: The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield. ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Chaos Warp (376), Activator: Ai(4)-D, SpellAbility: The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield. ]
+Resolve Stack: Chaos Warp (376) - Shuffle Plaguecrafter (203) into its owner's library. Ai(4)-D reveals the top card of Ai(3)-C's library.
+Resolve Stack: Resolute Reinforcements - Creature 1 / 1
+Add To Stack: Ai(1)-A triggered Resolute Reinforcements
+Resolve Stack: When Resolute Reinforcements enters, create a 1/1 white Soldier creature token. [Zone Changer: Resolute Reinforcements (94)]
+Add To Stack: Ai(1)-A triggered Staff of the Storyteller
+Resolve Stack: Whenever you create one or more creature tokens, put a story counter on Staff of the Storyteller.
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (91) - {T}: Add {W}.
+Add To Stack: Ai(1)-A activated Staff of the Storyteller
+Resolve Stack: Staff of the Storyteller (15) - Ai(1)-A draws a card.
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 17 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Sol Ring (155) - {T}: Add {C}{C}.
+Add To Stack: Ai(2)-B cast Mulldrifter
+Resolve Stack: Mulldrifter (Evoked)
+Add To Stack: Ai(2)-B triggered Mulldrifter
+Add To Stack: Ai(2)-B triggered Mulldrifter
+Resolve Stack: When Mulldrifter enters, draw two cards. [Zone Changer: Mulldrifter (168)]
+Zone Change: Mulldrifter (168) was put into Graveyard from Battlefield.
+Resolve Stack: Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.) [Zone Changer: Mulldrifter (168)]
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Wayfarer's Bauble
+Resolve Stack: Wayfarer's Bauble
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 18 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Fellwar Stone (278) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Zone Change: Myriad Landscape (279) was put into Graveyard from Battlefield.
+Add To Stack: Ai(3)-C activated Myriad Landscape
+Resolve Stack: Myriad Landscape (279) - Ai(3)-C searches their library for  up to two basic land cards, puts them onto the battlefield tapped, then shuffles.
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Land: Ai(3)-C played Plains (289)
+Mana: Swamp (255) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Unearth targeting [Zulaport Cutthroat (221)]
+Resolve Stack: Unearth (235) - Return Zulaport Cutthroat (221) from the graveyard to the battlefield.
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 19 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Combat: Ai(4)-D assigned Veyran, Voice of Duality (403) and Baral, Chief of Compliance (319) to attack Ai(1)-A.
+Phase: Ai(4)-D's Declare Blockers Step
+Combat: Ai(1)-A didn't block Veyran, Voice of Duality (403).
+Ai(1)-A didn't block Baral, Chief of Compliance (319).
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Damage: Veyran, Voice of Duality (403) deals 2 combat damage to Ai(1)-A.
+Damage: Baral, Chief of Compliance (319) deals 1 combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 39 > 36
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Land: Ai(4)-D played Mountain (383)
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Electrostatic Field
+Resolve Stack: Electrostatic Field - Creature 0 / 4
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 20 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (66)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Emeria Angel
+Resolve Stack: Emeria Angel - Creature 3 / 3
+Mana: Plains (66) - {T}: Add {W}.
+Add To Stack: Ai(1)-A activated Staff of the Storyteller
+Resolve Stack: Staff of the Storyteller (15) - Ai(1)-A draws a card.
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 21 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Mana: Sol Ring (155) - {T}: Add {C}{C}.
+Zone Change: Wayfarer's Bauble (113) was put into Graveyard from Battlefield.
+Add To Stack: Ai(2)-B activated Wayfarer's Bauble
+Resolve Stack: Wayfarer's Bauble (113) - Ai(2)-B searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Plains (186)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Plains (186) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Fblthp, the Lost
+Resolve Stack: Fblthp, the Lost - Creature 1 / 1
+Add To Stack: Ai(2)-B triggered Fblthp, the Lost
+Resolve Stack: When Fblthp, the Lost enters, draw a card. If it enters from your library or was cast from your library, draw two cards instead. [Zone Changer: Fblthp, the Lost (196)]
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 22 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Mana: Plains (296) - {T}: Add {W}.
+Add To Stack: Ai(3)-C cast Swords to Plowshares targeting [Emeria Angel (19)]
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Add To Stack: Ai(4)-D cast Reverberate targeting [Exile target creature. Its controller gains life equal to its power.]
+Add To Stack: Ai(4)-D triggered Electrostatic Field
+Add To Stack: Ai(4)-D triggered Electrostatic Field
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Reverberate (346), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell. You may choose new targets for the copy.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Reverberate (346), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell. You may choose new targets for the copy.]
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(1)-A.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(2)-B.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 36 > 35
+Life: Life: Ai(2)-B 39 > 38
+Life: Life: Ai(3)-C 41 > 40
+Resolve Stack: Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent. [Card: Reverberate (346), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell. You may choose new targets for the copy.]
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(1)-A.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(2)-B.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 35 > 34
+Life: Life: Ai(2)-B 38 > 37
+Life: Life: Ai(3)-C 40 > 39
+Resolve Stack: Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent. [Card: Reverberate (346), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell. You may choose new targets for the copy.]
+Resolve Stack: Reverberate (346) - Copy Swords to Plowshares (284).
+Add To Stack: Ai(4)-D cast Swords to Plowshares targeting [Resolute Reinforcements (94)]
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Swords to Plowshares (415), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Swords to Plowshares (415), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Sulfur Falls (361) - {T}: Add {U} or {R}.
+Mana: Island (343) - {T}: Add {U}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Add To Stack: Ai(4)-D cast Increasing Vengeance targeting [Exile target creature. Its controller gains life equal to its power.]
+Add To Stack: Ai(4)-D triggered Electrostatic Field
+Add To Stack: Ai(4)-D triggered Electrostatic Field
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Increasing Vengeance (366), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Increasing Vengeance (366), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.]
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(1)-A.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(2)-B.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 34 > 33
+Life: Life: Ai(2)-B 37 > 36
+Life: Life: Ai(3)-C 39 > 38
+Resolve Stack: Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent. [Card: Increasing Vengeance (366), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.]
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(1)-A.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(2)-B.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 33 > 32
+Life: Life: Ai(2)-B 36 > 35
+Life: Life: Ai(3)-C 38 > 37
+Resolve Stack: Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent. [Card: Increasing Vengeance (366), Activator: Ai(4)-D, SpellAbility: Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.]
+Resolve Stack: Increasing Vengeance (366) - Copy Swords to Plowshares (415) two times.
+Replacement Effect: Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Add To Stack: Ai(4)-D cast Swords to Plowshares targeting [Soldier Token (414)]
+Add To Stack: Ai(4)-D cast Swords to Plowshares targeting [Soldier Token (414)]
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Swords to Plowshares (416), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Swords to Plowshares (416), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Swords to Plowshares (417), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Swords to Plowshares (417), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Zone Change: Soldier Token (414) was put into Exile from Battlefield.
+Life: Life: Ai(1)-A 32 > 33
+Resolve Stack: Swords to Plowshares (416) - Exile Soldier Token (414). Ai(1)-A gains life equal to its power.
+Resolve Stack: Swords to Plowshares ability fizzles.
+Zone Change: Resolute Reinforcements (94) was put into Exile from Battlefield.
+Life: Life: Ai(1)-A 33 > 34
+Resolve Stack: Swords to Plowshares (415) - Exile Resolute Reinforcements (94). Ai(1)-A gains life equal to its power.
+Zone Change: Emeria Angel (19) was put into Exile from Battlefield.
+Life: Life: Ai(1)-A 34 > 37
+Resolve Stack: Swords to Plowshares (284) - Exile Emeria Angel (19). Ai(1)-A gains life equal to its power.
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Fellwar Stone (278) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Swamp (253) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Teysa Karlov
+Resolve Stack: Teysa Karlov - Creature 2 / 4
+Mana: Swamp (258) - {T}: Add {B}.
+Add To Stack: Ai(3)-C activated Skullclamp targeting [Teysa Karlov (302)]
+Resolve Stack: Skullclamp (247) -  Attach to Teysa Karlov (302)
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 23 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Island (343) - {T}: Add {U}.
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Ral, Storm Conduit
+Replacement Effect: Ral, Storm Conduit enters with four loyalty counters on it.
+Resolve Stack: Ral, Storm Conduit
+Add To Stack: Ai(4)-D activated Ral, Storm Conduit
+Resolve Stack: Ai(4)-D scried 1 card(s) to the top of the library
+Resolve Stack: Ral, Storm Conduit (402) - Ai(4)-D scries 1.
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 24 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (67)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Tocasia's Welcome
+Resolve Stack: Tocasia's Welcome
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 25 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Replacement Effect: Irrigated Farmland enters tapped.
+Land: Ai(2)-B played Irrigated Farmland (136)
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Sol Ring (155) - {T}: Add {C}{C}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Sun Titan
+Resolve Stack: Sun Titan - Creature 6 / 6
+Add To Stack: Ai(2)-B triggered Sun Titan targeting [Wayfarer's Bauble (113)]
+Resolve Stack: Whenever Sun Titan enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. (Targeting: [[Wayfarer's Bauble (113)]]) [Zone Changer: Sun Titan (169)]
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 26 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Land: Ai(3)-C played Plains (295)
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 27 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Add To Stack: Ai(4)-D activated Ral, Storm Conduit
+Resolve Stack: Ral, Storm Conduit (402) - When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Mountain (383) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Vandalblast
+Add To Stack: Ai(4)-D triggered Ral, Storm Conduit targeting [Ral, Storm Conduit (402)]
+Add To Stack: Ai(4)-D triggered Ral, Storm Conduit targeting [Ral, Storm Conduit (402)]
+Add To Stack: Ai(4)-D triggered Electrostatic Field
+Add To Stack: Ai(4)-D triggered Electrostatic Field
+Add To Stack: Ai(4)-D triggered Ral, Storm Conduit
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Add To Stack: Ai(4)-D cast Vandalblast
+Add To Stack: Ai(4)-D triggered Ral, Storm Conduit targeting [Ral, Storm Conduit (402)]
+Add To Stack: Ai(4)-D triggered Ral, Storm Conduit targeting [Ral, Storm Conduit (402)]
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Vandalblast (418), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Vandalblast (418), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker. (Targeting: [[Ral, Storm Conduit (402)]]) [Card: Vandalblast (418), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker. (Targeting: [[Ral, Storm Conduit (402)]]) [Card: Vandalblast (418), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Zone Change: Skullclamp (38) was put into Graveyard from Battlefield.
+Zone Change: Staff of the Storyteller (15) was put into Graveyard from Battlefield.
+Zone Change: Sol Ring (155) was put into Graveyard from Battlefield.
+Zone Change: Wayfarer's Bauble (113) was put into Graveyard from Battlefield.
+Zone Change: Fellwar Stone (278) was put into Graveyard from Battlefield.
+Zone Change: Skullclamp (247) was put into Graveyard from Battlefield.
+Resolve Stack: Vandalblast (418) - Destroy each artifact you don't control.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(1)-A.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(2)-B.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 37 > 36
+Life: Life: Ai(2)-B 35 > 34
+Life: Life: Ai(3)-C 37 > 36
+Resolve Stack: Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent. [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(1)-A.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(2)-B.
+Damage: Electrostatic Field (308) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 36 > 35
+Life: Life: Ai(2)-B 34 > 33
+Life: Life: Ai(3)-C 36 > 35
+Resolve Stack: Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent. [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker. (Targeting: [[Ral, Storm Conduit (402)]]) [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Resolve Stack: Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker. (Targeting: [[Ral, Storm Conduit (402)]]) [Card: Vandalblast (365), Activator: Ai(4)-D, SpellAbility: Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")]
+Zone Change: Ral, Storm Conduit (402) was put into Graveyard from Battlefield.
+Resolve Stack: Vandalblast (365) - Destroy each artifact you don't control.
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 28 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Collective Effort
+Zone Change: Sun Titan (169) was put into Graveyard from Battlefield.
+Resolve Stack: Collective Effort (53) -  Destroy target creature with power 4 or greater. (Targeting: Sun Titan (169)) Put a +1/+1 counter on each creature target player controls. (Targeting: Ai(1)-A)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Replacement Effect: Castle Ardenvale enters tapped unless you control a Plains.
+Land: Ai(1)-A played Castle Ardenvale (42)
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 29 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Add To Stack: Ai(2)-B cast Banishing Light
+Resolve Stack: Banishing Light
+Add To Stack: Ai(2)-B triggered Banishing Light targeting [Adeline, Resplendent Cathar (100)]
+Zone Change: Adeline, Resplendent Cathar (100) was put into Exile from Battlefield.
+Resolve Stack: When Banishing Light enters, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (Targeting: [[Adeline, Resplendent Cathar (100)]]) [Zone Changer: Banishing Light (176)]
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Mana: Irrigated Farmland (136) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Fellwar Stone
+Resolve Stack: Fellwar Stone
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 30 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Land: Ai(3)-C played Plains (288)
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 31 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Replacement Effect: Swiftwater Cliffs enters tapped.
+Land: Ai(4)-D played Swiftwater Cliffs (373)
+Add To Stack: Ai(4)-D triggered Swiftwater Cliffs
+Life: Life: Ai(4)-D 36 > 37
+Resolve Stack: When Swiftwater Cliffs enters, you gain 1 life. [Zone Changer: Swiftwater Cliffs (373)]
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 32 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (88)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 33 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (129)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Add To Stack: Ai(2)-B cast Hallowed Burial
+Replacement Effect: If a commander would be put into its owner's hand or library from anywhere, its owner may put it into the command zone instead.
+Replacement Effect: If a commander would be put into its owner's hand or library from anywhere, its owner may put it into the command zone instead.
+Replacement Effect: If a commander would be put into its owner's hand or library from anywhere, its owner may put it into the command zone instead.
+Resolve Stack: Hallowed Burial (145) - Put all creatures on the bottom of their owners' libraries.
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 34 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Replacement Effect: Bojuka Bog enters tapped.
+Land: Ai(3)-C played Bojuka Bog (240)
+Add To Stack: Ai(3)-C triggered Bojuka Bog targeting [Ai(2)-B]
+Resolve Stack: When Bojuka Bog enters, exile all cards from target player's graveyard. (Targeting: [[Ai(2)-B]]) [Zone Changer: Bojuka Bog (240)]
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Plains (295) - {T}: Add {W}.
+Mana: Plains (288) - {T}: Add {W}.
+Mana: Swamp (253) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Teysa Karlov
+Resolve Stack: Teysa Karlov - Creature 2 / 4
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 35 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Land: Ai(4)-D played Mountain (382)
+Mana: Island (343) - {T}: Add {U}.
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Mountain (382) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 36 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (78)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Castle Ardenvale (42) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Arcane Signet
+Resolve Stack: Arcane Signet
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 37 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Brago, King Eternal
+Resolve Stack: Brago, King Eternal - Creature 2 / 4
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 38 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Plains (295) - {T}: Add {W}.
+Add To Stack: Ai(3)-C cast Ministrant of Obligation
+Resolve Stack: Ministrant of Obligation - Creature 2 / 1
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (288) - {T}: Add {W}.
+Add To Stack: Ai(3)-C cast Priest of Forgotten Gods
+Resolve Stack: Priest of Forgotten Gods - Creature 1 / 2
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 39 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Land: Ai(4)-D played Island (335)
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 40 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Valorous Stance
+Zone Change: Brago, King Eternal (201) was put into Graveyard from Battlefield.
+Resolve Stack: Valorous Stance (52) -  Destroy target creature with toughness 4 or greater. (Targeting: Brago, King Eternal (201))
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (79)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Jazal Goldmane
+Resolve Stack: Jazal Goldmane - Creature 4 / 4
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 41 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Mana: Plains (88) - {T}: Add {W}.
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Plains (79) - {T}: Add {W}.
+Add To Stack: Ai(1)-A activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (42) - Ai(1)-A creates a 1/1 white Human creature token.
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Add To Stack: Ai(2)-B cast Teferi, Hero of Dominaria
+Replacement Effect: Teferi, Hero of Dominaria enters with four loyalty counters on it.
+Resolve Stack: Teferi, Hero of Dominaria
+Add To Stack: Ai(2)-B activated Teferi, Hero of Dominaria targeting [Jazal Goldmane (57)]
+Resolve Stack: Teferi, Hero of Dominaria (106) - Put Jazal Goldmane (57) 3 from the top of its owner's library.
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 42 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Combat: Ai(3)-C assigned Ministrant of Obligation (225) and Priest of Forgotten Gods (231) to attack Ai(2)-B.
+Ai(3)-C assigned Teysa Karlov (302) to attack Teferi, Hero of Dominaria (106).
+Phase: Ai(3)-C's Declare Blockers Step
+Combat: Ai(2)-B didn't block Ministrant of Obligation (225).
+Ai(2)-B didn't block Priest of Forgotten Gods (231).
+Ai(2)-B didn't block Teysa Karlov (302).
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Damage: Ministrant of Obligation (225) deals 2 combat damage to Ai(2)-B.
+Damage: Priest of Forgotten Gods (231) deals 1 combat damage to Ai(2)-B.
+Life: Life: Ai(2)-B 33 > 30
+Zone Change: Teferi, Hero of Dominaria (106) was put into Graveyard from Battlefield.
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 43 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Mana: Island (343) - {T}: Add {U}.
+Mana: Mountain (392) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Stormcatch Mentor
+Resolve Stack: Stormcatch Mentor - Creature 1 / 1
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Combat: Ai(4)-D assigned Veyran, Voice of Duality (403) and Stormcatch Mentor (396) to attack Ai(3)-C.
+Phase: Ai(4)-D's Declare Blockers Step
+Combat: Ai(3)-C didn't block Veyran, Voice of Duality (403).
+Ai(3)-C didn't block Stormcatch Mentor (396).
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Damage: Veyran, Voice of Duality (403) deals 2 combat damage to Ai(3)-C.
+Damage: Stormcatch Mentor (396) deals 1 combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 35 > 32
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 44 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (84)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Combat: Ai(1)-A assigned Human Token (537) and Adeline, Resplendent Cathar (100) to attack Ai(3)-C.
+Add To Stack: Ai(1)-A triggered Adeline, Resplendent Cathar
+Resolve Stack: Whenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control. [Number Attackers: [Human Token (537), Adeline, Resplendent Cathar (100)]]
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 3]
+Phase: Ai(1)-A's Declare Blockers Step
+Combat: Ai(2)-B didn't block Human Token (543).
+Combat: Ai(3)-C didn't block Human Token (537).
+Ai(3)-C didn't block Adeline, Resplendent Cathar (100).
+Ai(3)-C didn't block Human Token (545).
+Combat: Ai(4)-D didn't block Human Token (547).
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Moment of Heroism targeting [Adeline, Resplendent Cathar (100)]
+Resolve Stack: Moment of Heroism (24) - Adeline, Resplendent Cathar (100) gets +2/+2 and gains lifelink until end of turn.
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Damage: Human Token (537) deals 1 combat damage to Ai(3)-C.
+Damage: Adeline, Resplendent Cathar (100) deals 7 combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 35 > 42
+Damage: Human Token (545) deals 1 combat damage to Ai(3)-C.
+Damage: Human Token (543) deals 1 combat damage to Ai(2)-B.
+Damage: Human Token (547) deals 1 combat damage to Ai(4)-D.
+Life: Life: Ai(2)-B 30 > 29
+Life: Life: Ai(3)-C 32 > 23
+Life: Life: Ai(4)-D 37 > 36
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 45 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Add To Stack: Ai(1)-A activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (42) - Ai(1)-A creates a 1/1 white Human creature token.
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Add To Stack: Ai(2)-B cast Cloudblazer
+Resolve Stack: Cloudblazer - Creature 2 / 2
+Add To Stack: Ai(2)-B triggered Cloudblazer
+Life: Life: Ai(2)-B 29 > 31
+Resolve Stack: When Cloudblazer enters, you gain 2 life and draw two cards. [Zone Changer: Cloudblazer (108)]
+Land: Ai(2)-B played Plains (189)
+Mana: Plains (189) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Ephemerate targeting [Cloudblazer (108)]
+Zone Change: Cloudblazer (108) was put into Exile from Battlefield.
+Resolve Stack: Ephemerate (195) - Exile Cloudblazer (108), then return it to the battlefield under its owner's control. 
+Replacement Effect: Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Add To Stack: Ai(2)-B triggered Cloudblazer
+Life: Life: Ai(2)-B 31 > 33
+Resolve Stack: When Cloudblazer enters, you gain 2 life and draw two cards. [Zone Changer: Cloudblazer (108)]
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 46 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Land: Ai(3)-C played Swamp (261)
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 47 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Mana: Mountain (392) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Fire targeting [Ministrant of Obligation (225), Ai(3)-C]
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Stormcatch Mentor
+Add To Stack: Ai(4)-D triggered Stormcatch Mentor
+Resolve Stack: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) [Card: Fire (323), Activator: Ai(4)-D, SpellAbility: Fire deals 2 damage divided as you choose among one or two targets.]
+Resolve Stack: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) [Card: Fire (323), Activator: Ai(4)-D, SpellAbility: Fire deals 2 damage divided as you choose among one or two targets.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Fire (323), Activator: Ai(4)-D, SpellAbility: Fire deals 2 damage divided as you choose among one or two targets.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Fire (323), Activator: Ai(4)-D, SpellAbility: Fire deals 2 damage divided as you choose among one or two targets.]
+Damage: Fire (323) deals 1 damage to Ministrant of Obligation (225).
+Damage: Fire (323) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 23 > 22
+Resolve Stack: Fire (323) - Fire (323) deals 2 damage divided to 
+Ministrant of Obligation (225) (1 damage) and Ai(3)-C (1 damage).
+Zone Change: Ministrant of Obligation (225) was put into Graveyard from Battlefield.
+Add To Stack: Ai(3)-C triggered Ministrant of Obligation
+Add To Stack: Ai(3)-C triggered Ministrant of Obligation
+Resolve Stack: Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.) [Zone Changer: Ministrant of Obligation (225)]
+Resolve Stack: Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.) [Zone Changer: Ministrant of Obligation (225)]
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 48 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (85)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Combat: Ai(1)-A assigned Adeline, Resplendent Cathar (100) to attack Ai(3)-C.
+Add To Stack: Ai(1)-A triggered Adeline, Resplendent Cathar
+Resolve Stack: Whenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control. [Number Attackers: [Adeline, Resplendent Cathar (100)]]
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 3]
+Phase: Ai(1)-A's Declare Blockers Step
+Combat: Ai(2)-B assigned Cloudblazer (108) to block Human Token (576).
+Combat: Ai(3)-C didn't block Adeline, Resplendent Cathar (100).
+Ai(3)-C assigned Priest of Forgotten Gods (231) to block Human Token (578).
+Combat: Ai(4)-D assigned Veyran, Voice of Duality (403) to block Human Token (580).
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Damage: Adeline, Resplendent Cathar (100) deals 9 combat damage to Ai(3)-C.
+Damage: Human Token (578) deals 1 damage to Priest of Forgotten Gods (231).
+Damage: Human Token (576) deals 1 damage to Cloudblazer (108).
+Damage: Human Token (580) deals 1 damage to Veyran, Voice of Duality (403).
+Damage: Cloudblazer (108) deals 2 damage to Human Token (576).
+Damage: Priest of Forgotten Gods (231) deals 1 damage to Human Token (578).
+Damage: Veyran, Voice of Duality (403) deals 2 damage to Human Token (580).
+Life: Life: Ai(3)-C 22 > 13
+Zone Change: Human Token (576) was put into Graveyard from Battlefield.
+Zone Change: Human Token (578) was put into Graveyard from Battlefield.
+Zone Change: Human Token (580) was put into Graveyard from Battlefield.
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Jazal Goldmane
+Resolve Stack: Jazal Goldmane - Creature 4 / 4
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Militia Bugler
+Resolve Stack: Militia Bugler - Creature 2 / 3
+Add To Stack: Ai(1)-A triggered Militia Bugler
+Resolve Stack: When Militia Bugler enters, look at the top four cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. [Zone Changer: Militia Bugler (51)]
+Mana: Plains (78) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Sol Ring
+Resolve Stack: Sol Ring
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 49 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Add To Stack: Ai(2)-B triggered Ephemerate
+Add To Stack: Ai(2)-B cast Ephemerate targeting [Cloudblazer (108)]
+Resolve Stack: At the beginning of your next upkeep, you may cast Ephemerate (Original) without paying its mana cost. ([Ephemerate (195)]) [Phase: Ai(2)-B]
+Zone Change: Cloudblazer (108) was put into Exile from Battlefield.
+Resolve Stack: Ephemerate (195) - Exile Cloudblazer (108), then return it to the battlefield under its owner's control. 
+Add To Stack: Ai(2)-B triggered Cloudblazer
+Life: Life: Ai(2)-B 33 > 35
+Resolve Stack: When Cloudblazer enters, you gain 2 life and draw two cards. [Zone Changer: Cloudblazer (108)]
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Replacement Effect: Castle Ardenvale enters tapped unless you control a Plains.
+Land: Ai(2)-B played Castle Ardenvale (163)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Plains (79) - {T}: Add {W}.
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Add To Stack: Ai(1)-A activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (42) - Ai(1)-A creates a 1/1 white Human creature token.
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Flickerwisp
+Resolve Stack: Flickerwisp - Creature 3 / 1
+Add To Stack: Ai(2)-B triggered Flickerwisp targeting [Cloudblazer (108)]
+Zone Change: Cloudblazer (108) was put into Exile from Battlefield.
+Resolve Stack: When Flickerwisp enters, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step. (Targeting: [[Cloudblazer (108)]]) [Zone Changer: Flickerwisp (110)]
+Mana: Plains (189) - {T}: Add {W}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Solemn Simulacrum
+Resolve Stack: Solemn Simulacrum - Creature 2 / 2
+Add To Stack: Ai(2)-B triggered Solemn Simulacrum
+Resolve Stack: When Solemn Simulacrum enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. [Zone Changer: Solemn Simulacrum (142)]
+Mana: Irrigated Farmland (136) - {T}: Add {U}.
+Mana: Castle Ardenvale (163) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Mind Stone
+Resolve Stack: Mind Stone
+Phase: Ai(2)-B's End step
+Add To Stack: Ai(2)-B triggered Flickerwisp
+Resolve Stack: Return exiled permanent to the battlefield. ([Cloudblazer (108)]) [Phase: Ai(2)-B]
+Add To Stack: Ai(2)-B triggered Cloudblazer
+Life: Life: Ai(2)-B 35 > 37
+Resolve Stack: When Cloudblazer enters, you gain 2 life and draw two cards. [Zone Changer: Cloudblazer (108)]
+Phase: Ai(2)-B's Cleanup step
+Discard: Ai(2)-B discards Plains (192).
+Turn: Turn 50 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Swamp (253) - {T}: Add {B}.
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Plains (295) - {T}: Add {W}.
+Add To Stack: Ai(3)-C cast Living Death
+Zone Change: Teysa Karlov (302) was put into Graveyard from Battlefield.
+Zone Change: Priest of Forgotten Gods (231) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (566) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (567) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (569) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (570) was put into Graveyard from Battlefield.
+Zone Change: Veyran, Voice of Duality (403) was put into Graveyard from Battlefield.
+Zone Change: Stormcatch Mentor (396) was put into Graveyard from Battlefield.
+Zone Change: Adeline, Resplendent Cathar (100) was put into Graveyard from Battlefield.
+Zone Change: Human Token (537) was put into Graveyard from Battlefield.
+Zone Change: Human Token (543) was put into Graveyard from Battlefield.
+Zone Change: Human Token (545) was put into Graveyard from Battlefield.
+Zone Change: Human Token (547) was put into Graveyard from Battlefield.
+Zone Change: Human Token (562) was put into Graveyard from Battlefield.
+Zone Change: Jazal Goldmane (57) was put into Graveyard from Battlefield.
+Zone Change: Militia Bugler (51) was put into Graveyard from Battlefield.
+Zone Change: Human Token (602) was put into Graveyard from Battlefield.
+Zone Change: Flickerwisp (110) was put into Graveyard from Battlefield.
+Zone Change: Solemn Simulacrum (142) was put into Graveyard from Battlefield.
+Zone Change: Cloudblazer (108) was put into Graveyard from Battlefield.
+Resolve Stack: Living Death (216) - Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield. Sacrifice permanents. Put  onto the battlefield. 
+Add To Stack: Ai(2)-B triggered Solemn Simulacrum
+Resolve Stack: When Solemn Simulacrum dies, you may draw a card. [Zone Changer: Solemn Simulacrum (142)]
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 51 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Land: Ai(4)-D played Reliquary Tower (362)
+Mana: Island (343) - {T}: Add {U}.
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Reliquary Tower (362) - {T}: Add {C}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (335) - {T}: Add {U}.
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Mountain (382) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 52 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (89)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (78) - {T}: Add {W}.
+Discard: Ai(1)-A discards Secluded Steppe (6).
+Add To Stack: Ai(1)-A activated Secluded Steppe
+Resolve Stack: Secluded Steppe (6) - Ai(1)-A draws a card.
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 53 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (130)
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Island (128) - {T}: Add {U}.
+Mana: Island (130) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Venser, Shaper Savant
+Resolve Stack: Venser, Shaper Savant - Creature 2 / 2
+Add To Stack: Ai(2)-B triggered Venser, Shaper Savant targeting [Adeline, Resplendent Cathar (100)]
+Resolve Stack: When Venser, Shaper Savant enters, return target spell or permanent to its owner's hand. (Targeting: [[Adeline, Resplendent Cathar (100)]]) [Zone Changer: Venser, Shaper Savant (159)]
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Plains (79) - {T}: Add {W}.
+Mana: Plains (84) - {T}: Add {W}.
+Mana: Plains (85) - {T}: Add {W}.
+Add To Stack: Ai(1)-A activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (42) - Ai(1)-A creates a 1/1 white Human creature token.
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Plains (189) - {T}: Add {W}.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Mana: Irrigated Farmland (136) - {T}: Add {U}.
+Mana: Mind Stone (121) - {T}: Add {C}.
+Mana: Castle Ardenvale (163) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Brago, King Eternal
+Resolve Stack: Brago, King Eternal - Creature 2 / 4
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 54 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Land: Ai(3)-C played Caves of Koilos (267)
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Plains (295) - {T}: Add {W}.
+Mana: Plains (288) - {T}: Add {W}.
+Mana: Swamp (253) - {T}: Add {B}.
+Mana: Swamp (258) - {T}: Add {B}.
+Mana: Bojuka Bog (240) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Teysa Karlov
+Resolve Stack: Teysa Karlov - Creature 2 / 4
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 55 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 56 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (59)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Add To Stack: Ai(1)-A cast Wrath of God
+Mana: Swamp (261) - {T}: Add {B}.
+Zone Change: Ministrant of Obligation (225) was put into Graveyard from Battlefield.
+Add To Stack: Ai(3)-C cast Village Rites
+Add To Stack: Ai(3)-C triggered Ministrant of Obligation
+Add To Stack: Ai(3)-C triggered Ministrant of Obligation
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Cathar Commando
+Resolve Stack: Cathar Commando - Creature 3 / 1
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Resolve Stack: Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.) [Zone Changer: Ministrant of Obligation (225)]
+Resolve Stack: Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.) [Zone Changer: Ministrant of Obligation (225)]
+Resolve Stack: Village Rites (270) - Ai(3)-C draws two cards.
+Zone Change: Human Token (630) was put into Graveyard from Battlefield.
+Zone Change: Cathar Commando (2) was put into Graveyard from Battlefield.
+Zone Change: Venser, Shaper Savant (159) was put into Graveyard from Battlefield.
+Zone Change: Brago, King Eternal (201) was put into Graveyard from Battlefield.
+Zone Change: Teysa Karlov (302) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (641) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (642) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (645) was put into Graveyard from Battlefield.
+Zone Change: Spirit Token (646) was put into Graveyard from Battlefield.
+Zone Change: Veyran, Voice of Duality (403) was put into Graveyard from Battlefield.
+Resolve Stack: Wrath of God (95) - Destroy all creatures. They can't be regenerated.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Knight of the White Orchid
+Resolve Stack: Knight of the White Orchid - Creature 2 / 2
+Mana: Plains (88) - {T}: Add {W}.
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Mana: Plains (79) - {T}: Add {W}.
+Mana: Plains (84) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Selfless Spirit
+Resolve Stack: Selfless Spirit - Creature 2 / 1
+Phase: Ai(1)-A's Beginning of Combat Step
+Mana: Concealed Courtyard (217) - {T}: Add {W} or {B}.
+Mana: Caves of Koilos (267) - {T}: Add {C}.
+Add To Stack: Ai(3)-C cast Infernal Grasp targeting [Adeline, Resplendent Cathar (100)]
+Zone Change: Adeline, Resplendent Cathar (100) was put into Graveyard from Battlefield.
+Life: Life: Ai(3)-C 13 > 11
+Resolve Stack: Infernal Grasp (298) - Destroy Adeline, Resplendent Cathar (100). Ai(3)-C loses 2 life.
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 57 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (132)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Island (128) - {T}: Add {U}.
+Mana: Island (130) - {T}: Add {U}.
+Mana: Island (132) - {T}: Add {U}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Plains (189) - {T}: Add {W}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Brago, King Eternal
+Resolve Stack: Brago, King Eternal - Creature 2 / 4
+Mana: Irrigated Farmland (136) - {T}: Add {U}.
+Mana: Mind Stone (121) - {T}: Add {C}.
+Mana: Castle Ardenvale (163) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Commander's Sphere
+Resolve Stack: Commander's Sphere
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 58 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Plains (295) - {T}: Add {W}.
+Mana: Plains (288) - {T}: Add {W}.
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Swamp (253) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Requiem Angel
+Resolve Stack: Requiem Angel - Creature 5 / 5
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 59 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Island (343) - {T}: Add {U}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Haughty Djinn
+Resolve Stack: Haughty Djinn - Creature * / 4
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 60 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Replacement Effect: Emeria, the Sky Ruin enters tapped.
+Land: Ai(1)-A played Emeria, the Sky Ruin (96)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Mana: Plains (79) - {T}: Add {W}.
+Mana: Plains (84) - {T}: Add {W}.
+Mana: Plains (85) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Inspiring Overseer
+Resolve Stack: Inspiring Overseer - Creature 2 / 1
+Add To Stack: Ai(1)-A triggered Inspiring Overseer
+Life: Life: Ai(1)-A 42 > 43
+Resolve Stack: When Inspiring Overseer enters, you gain 1 life and draw a card. [Zone Changer: Inspiring Overseer (8)]
+Mana: Plains (89) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Path to Exile targeting [Requiem Angel (281)]
+Zone Change: Requiem Angel (281) was put into Exile from Battlefield.
+Resolve Stack: Path to Exile (7) - Exile Requiem Angel (281). Ai(3)-C may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library. 
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Phase: Ai(1)-A's End step
+Zone Change: Commander's Sphere (112) was put into Graveyard from Battlefield.
+Add To Stack: Ai(2)-B activated Commander's Sphere
+Resolve Stack: Commander's Sphere (112) - Ai(2)-B draws a card.
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 61 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (133)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Combat: Ai(2)-B assigned Brago, King Eternal (201) to attack Ai(1)-A.
+Phase: Ai(2)-B's Declare Blockers Step
+Combat: Ai(1)-A didn't block Brago, King Eternal (201).
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Damage: Brago, King Eternal (201) deals 2 combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 43 > 41
+Add To Stack: Ai(2)-B triggered Brago, King Eternal targeting [Banishing Light (176)]
+Zone Change: Banishing Light (176) was put into Exile from Battlefield.
+Resolve Stack: Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control. (Targeting: [[Banishing Light (176)]]) [Damage Source: Brago, King Eternal (201), Damaged: Ai(1)-A, Amount: 2]
+Add To Stack: Ai(2)-B triggered Banishing Light targeting [Adeline, Resplendent Cathar (100)]
+Zone Change: Adeline, Resplendent Cathar (100) was put into Exile from Battlefield.
+Resolve Stack: When Banishing Light enters, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (Targeting: [[Adeline, Resplendent Cathar (100)]]) [Zone Changer: Banishing Light (176)]
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 62 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Land: Ai(3)-C played Command Tower (219)
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Island (128) - {T}: Add {U}.
+Add To Stack: Ai(2)-B activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (163) - Ai(2)-B creates a 1/1 white Human creature token.
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Plains (295) - {T}: Add {W}.
+Mana: Plains (288) - {T}: Add {W}.
+Mana: Plains (290) - {T}: Add {W}.
+Mana: Swamp (253) - {T}: Add {B}.
+Mana: Swamp (258) - {T}: Add {B}.
+Mana: Bojuka Bog (240) - {T}: Add {B}.
+Mana: Swamp (261) - {T}: Add {B}.
+Add To Stack: Ai(3)-C cast Teysa Karlov
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (130) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Arcane Denial targeting [Teysa Karlov - Creature 2 / 4]
+Zone Change: Send countered spell to Graveyard
+Resolve Stack: Arcane Denial (166) - Counter Teysa Karlov (302). Draw a card. Draw up to two cards. 
+Mana: Island (132) - {T}: Add {U}.
+Mana: Island (133) - {T}: Add {U}.
+Mana: Plains (189) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Thirst for Discovery
+Discard: Ai(2)-B discards Island (124).
+Resolve Stack: Thirst for Discovery (177) - Ai(2)-B draws three cards. Then discard two cards unless you discard a basic land card.
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 63 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Add To Stack: Ai(2)-B triggered Arcane Denial
+Add To Stack: Ai(2)-B triggered Arcane Denial
+Resolve Stack: Draw up to two cards. ([Ai(3)-C]) [Phase: Ai(4)-D]
+Resolve Stack: Draw a card. [Phase: Ai(4)-D]
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Mana: Irrigated Farmland (136) - {T}: Add {U}.
+Mana: Mind Stone (121) - {T}: Add {C}.
+Add To Stack: Ai(2)-B cast Restoration Angel
+Resolve Stack: Restoration Angel - Creature 3 / 4
+Add To Stack: Ai(2)-B triggered Restoration Angel targeting [Brago, King Eternal (201)]
+Resolve Stack: When Restoration Angel enters, you may exile target non-Angel creature you control, then return that creature to the battlefield under your control. (Targeting: [[Brago, King Eternal (201)]]) [Zone Changer: Restoration Angel (194)]
+Phase: Ai(4)-D's Draw step
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Discard: Ai(4)-D discards Past in Flames (368).
+Add To Stack: Ai(4)-D cast Big Score
+Resolve Stack: Big Score (369) - Draw two cards and create two Treasure tokens. 
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Combat: Ai(4)-D assigned Haughty Djinn (351) to attack Ai(2)-B.
+Phase: Ai(4)-D's Declare Blockers Step
+Combat: Ai(2)-B didn't block Haughty Djinn (351).
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Damage: Haughty Djinn (351) deals 7 combat damage to Ai(2)-B.
+Life: Life: Ai(2)-B 37 > 30
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Island (343) - {T}: Add {U}.
+Mana: Reliquary Tower (362) - {T}: Add {C}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (335) - {T}: Add {U}.
+Mana: Mountain (382) - {T}: Add {R}.
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Sulfur Falls (361) - {T}: Add {U} or {R}.
+Mana: Swiftwater Cliffs (373) - {T}: Add {U} or {R}.
+Zone Change: Treasure Token (790) was put into Graveyard from Battlefield.
+Mana: Treasure Token (790) - {T}, Sacrifice this token: Add one mana of any color.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 64 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Add To Stack: Ai(1)-A triggered Emeria, the Sky Ruin targeting [Jazal Goldmane (57)]
+Resolve Stack: At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield. (Targeting: [[Jazal Goldmane (57)]]) [Phase: Ai(1)-A]
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (75)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Plains (79) - {T}: Add {W}.
+Mana: Plains (84) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (85) - {T}: Add {W}.
+Mana: Plains (89) - {T}: Add {W}.
+Mana: Plains (59) - {T}: Add {W}.
+Mana: Emeria, the Sky Ruin (96) - {T}: Add {W}.
+Mana: Plains (75) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Divine Visitation
+Resolve Stack: Divine Visitation
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 65 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Plains (190)
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (129) - {T}: Add {U}.
+Mana: Island (128) - {T}: Add {U}.
+Mana: Island (130) - {T}: Add {U}.
+Mana: Island (132) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Angel of Serenity
+Resolve Stack: Angel of Serenity - Creature 5 / 6
+Add To Stack: Ai(2)-B triggered Angel of Serenity targeting [Adeline, Resplendent Cathar (100), Jazal Goldmane (57), Haughty Djinn (351)]
+Zone Change: Adeline, Resplendent Cathar (100) was put into Exile from Battlefield.
+Zone Change: Jazal Goldmane (57) was put into Exile from Battlefield.
+Zone Change: Haughty Djinn (351) was put into Exile from Battlefield.
+Resolve Stack: When Angel of Serenity enters, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards. (Targeting: [[Adeline, Resplendent Cathar (100), Jazal Goldmane (57), Haughty Djinn (351)]]) [Zone Changer: Angel of Serenity (173)]
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Combat: Ai(2)-B assigned Restoration Angel (194) and Brago, King Eternal (201) to attack Ai(1)-A.
+Phase: Ai(2)-B's Declare Blockers Step
+Combat: Ai(1)-A didn't block Restoration Angel (194).
+Ai(1)-A didn't block Brago, King Eternal (201).
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Damage: Restoration Angel (194) deals 3 combat damage to Ai(1)-A.
+Damage: Brago, King Eternal (201) deals 2 combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 41 > 36
+Add To Stack: Ai(2)-B triggered Brago, King Eternal targeting [Angel of Serenity (173), Restoration Angel (194), Banishing Light (176)]
+Zone Change: Angel of Serenity (173) was put into Exile from Battlefield.
+Zone Change: Restoration Angel (194) was put into Exile from Battlefield.
+Zone Change: Banishing Light (176) was put into Exile from Battlefield.
+Resolve Stack: Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control. (Targeting: [[Angel of Serenity (173), Restoration Angel (194), Banishing Light (176)]]) [Damage Source: Brago, King Eternal (201), Damaged: Ai(1)-A, Amount: 2]
+Add To Stack: Ai(2)-B triggered Angel of Serenity
+Add To Stack: Ai(2)-B triggered Angel of Serenity targeting [Militia Bugler (51), Knight of the White Orchid (97), Inspiring Overseer (8)]
+Add To Stack: Ai(2)-B triggered Banishing Light targeting [Divine Visitation (33)]
+Add To Stack: Ai(2)-B triggered Restoration Angel targeting [Brago, King Eternal (201)]
+Resolve Stack: When Restoration Angel enters, you may exile target non-Angel creature you control, then return that creature to the battlefield under your control. (Targeting: [[Brago, King Eternal (201)]]) [Zone Changer: Restoration Angel (194)]
+Zone Change: Divine Visitation (33) was put into Exile from Battlefield.
+Resolve Stack: When Banishing Light enters, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (Targeting: [[Divine Visitation (33)]]) [Zone Changer: Banishing Light (176)]
+Zone Change: Knight of the White Orchid (97) was put into Exile from Battlefield.
+Zone Change: Inspiring Overseer (8) was put into Exile from Battlefield.
+Resolve Stack: When Angel of Serenity enters, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards. (Targeting: [[Militia Bugler (51), Knight of the White Orchid (97), Inspiring Overseer (8)]]) [Zone Changer: Angel of Serenity (173)]
+Resolve Stack: When Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands. [Zone Changer: Angel of Serenity (173)]
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Mana: Island (133) - {T}: Add {U}.
+Mana: Plains (189) - {T}: Add {W}.
+Add To Stack: Ai(2)-B cast Thought Vessel
+Resolve Stack: Thought Vessel
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 66 (Ai(3)-C)
+Phase: Ai(3)-C's Untap step
+Phase: Ai(3)-C's Upkeep step
+Phase: Ai(3)-C's Draw step
+Phase: Ai(3)-C's Main phase, precombat
+Land: Ai(3)-C played Vault of the Archangel (213)
+Phase: Ai(3)-C's Beginning of Combat Step
+Phase: Ai(3)-C's Declare Attackers Step
+Mana: Plains (190) - {T}: Add {W}.
+Mana: Thriving Isle (154) - {T}: Add {U} or one mana of the chosen color.
+Mana: Thought Vessel (137) - {T}: Add {C}.
+Mana: Prairie Stream (180) - {T}: Add {U}.
+Add To Stack: Ai(2)-B activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (163) - Ai(2)-B creates a 1/1 white Human creature token.
+Phase: Ai(3)-C's Declare Blockers Step
+Phase: Ai(3)-C's First Strike Damage Step
+Phase: Ai(3)-C's Combat Damage Step
+Phase: Ai(3)-C's End of Combat Step
+Phase: Ai(3)-C's Main phase, postcombat
+Mana: Plains (296) - {T}: Add {W}.
+Mana: Plains (289) - {T}: Add {W}.
+Mana: Swamp (255) - {T}: Add {B}.
+Mana: Plains (295) - {T}: Add {W}.
+Mana: Plains (288) - {T}: Add {W}.
+Add To Stack: Ai(3)-C cast Liesa, Shroud of Dusk
+Resolve Stack: Liesa, Shroud of Dusk - Creature 5 / 5
+Phase: Ai(3)-C's End step
+Phase: Ai(3)-C's Cleanup step
+Turn: Turn 67 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Land: Ai(4)-D played Island (339)
+Mana: Island (343) - {T}: Add {U}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Add To Stack: Ai(4)-D cast Haughty Djinn
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Life: Life: Ai(4)-D 36 > 34
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Haughty Djinn (351), Activator: Ai(4)-D, SpellAbility: Haughty Djinn - Creature * / 4]
+Resolve Stack: Haughty Djinn - Creature * / 4
+Mana: Island (335) - {T}: Add {U}.
+Mana: Island (339) - {T}: Add {U}.
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Mountain (382) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Niv-Mizzet, Parun
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Life: Life: Ai(4)-D 34 > 32
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Niv-Mizzet, Parun (313), Activator: Ai(4)-D, SpellAbility: Niv-Mizzet, Parun - Creature 5 / 5]
+Resolve Stack: Niv-Mizzet, Parun - Creature 5 / 5
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(4)-D cast Kessig Flamebreather
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Life: Life: Ai(4)-D 32 > 30
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Kessig Flamebreather (306), Activator: Ai(4)-D, SpellAbility: Kessig Flamebreather - Creature 1 / 3]
+Resolve Stack: Kessig Flamebreather - Creature 1 / 3
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 68 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Add To Stack: Ai(1)-A triggered Emeria, the Sky Ruin targeting [Cathar Commando (2)]
+Resolve Stack: At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield. (Targeting: [[Cathar Commando (2)]]) [Phase: Ai(1)-A]
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (62)
+Mana: Plains (76) - {T}: Add {W}.
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Plains (79) - {T}: Add {W}.
+Mana: Plains (84) - {T}: Add {W}.
+Mana: Plains (85) - {T}: Add {W}.
+Mana: Plains (89) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Adeline, Resplendent Cathar
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Life: Life: Ai(1)-A 36 > 34
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Adeline, Resplendent Cathar (100), Activator: Ai(1)-A, SpellAbility: Adeline, Resplendent Cathar - Creature * / 4]
+Resolve Stack: Adeline, Resplendent Cathar - Creature * / 4
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (59) - {T}: Add {W}.
+Mana: Emeria, the Sky Ruin (96) - {T}: Add {W}.
+Mana: Plains (75) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Spectral Procession
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Spectral Procession (47), Activator: Ai(1)-A, SpellAbility: Create three 1/1 white Spirit creature tokens with flying.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 11 > 10
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Life: Life: Ai(1)-A 34 > 32
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Spectral Procession (47), Activator: Ai(1)-A, SpellAbility: Create three 1/1 white Spirit creature tokens with flying.]
+Mana: Sulfur Falls (361) - {T}: Add {U} or {R}.
+Add To Stack: Ai(4)-D cast Arcane Denial targeting [Create three 1/1 white Spirit creature tokens with flying.]
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 10 > 9
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 9 > 8
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 32 > 31
+Life: Life: Ai(2)-B 30 > 29
+Life: Life: Ai(3)-C 8 > 7
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 31 > 30
+Life: Life: Ai(2)-B 29 > 28
+Life: Life: Ai(3)-C 7 > 6
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Life: Life: Ai(4)-D 30 > 28
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Arcane Denial (367), Activator: Ai(4)-D, SpellAbility: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep.   ]
+Zone Change: Send countered spell to Graveyard
+Resolve Stack: Arcane Denial (367) - Counter Spectral Procession (47). Draw a card. Draw up to two cards. 
+Mana: Plains (62) - {T}: Add {W}.
+Mana: Castle Ardenvale (42) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Gift of Estates
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Gift of Estates (49), Activator: Ai(1)-A, SpellAbility: If an opponent controls more lands than you, search your library for up to three Plains cards and put them into your hand.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 6 > 5
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Life: Life: Ai(1)-A 30 > 28
+Resolve Stack: Whenever a player casts a spell, they lose 2 life. [Card: Gift of Estates (49), Activator: Ai(1)-A, SpellAbility: If an opponent controls more lands than you, search your library for up to three Plains cards and put them into your hand.]
+Resolve Stack: Gift of Estates (49) - Ai(1)-A searches their library for  up to three Plains cards, reveals them, puts them into their owner's hand, then shuffles.
+Phase: Ai(1)-A's End step
+Mana: Irrigated Farmland (136) - {T}: Add {U}.
+Zone Change: Mind Stone (121) was put into Graveyard from Battlefield.
+Add To Stack: Ai(2)-B activated Mind Stone
+Resolve Stack: Mind Stone (121) - Ai(2)-B draws a card.
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 69 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Add To Stack: Ai(4)-D triggered Arcane Denial
+Add To Stack: Ai(4)-D triggered Arcane Denial
+Resolve Stack: Draw up to two cards. ([Ai(1)-A]) [Phase: Ai(2)-B]
+Resolve Stack: Draw a card. [Phase: Ai(2)-B]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 5 > 4
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Mana: Swiftwater Cliffs (373) - {T}: Add {U} or {R}.
+Add To Stack: Ai(4)-D cast Brainstorm
+Add To Stack: Ai(3)-C triggered Liesa, Shroud of Dusk
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Brainstorm (378), Activator: Ai(4)-D, SpellAbility: Draw three cards, then put two cards from your hand on top of your library in any order. ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Brainstorm (378), Activator: Ai(4)-D, SpellAbility: Draw three cards, then put two cards from your hand on top of your library in any order. ]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Brainstorm (378), Activator: Ai(4)-D, SpellAbility: Draw three cards, then put two cards from your hand on top of your library in any order. ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 4 > 3
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Brainstorm (378), Activator: Ai(4)-D, SpellAbility: Draw three cards, then put two cards from your hand on top of your library in any order. ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(3)-C]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(3)-C 3 > 2
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(3)-C]]) [Player: Ai(4)-D]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 28 > 27
+Life: Life: Ai(2)-B 28 > 27
+Life: Life: Ai(3)-C 2 > 1
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Brainstorm (378), Activator: Ai(4)-D, SpellAbility: Draw three cards, then put two cards from your hand on top of your library in any order. ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(3)-C.
+Life: Life: Ai(1)-A 27 > 26
+Life: Life: Ai(2)-B 27 > 26
+Life: Life: Ai(3)-C 1 > 0
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Brainstorm (378), Activator: Ai(4)-D, SpellAbility: Draw three cards, then put two cards from your hand on top of your library in any order. ]
+Resolve Stack: Brainstorm (378) - Ai(4)-D draws three cards, then puts two cards from their hand on top of their library in any order.
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Selfless Spirit (30)]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Cathar Commando (2)]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 26 > 25
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Zone Change: Selfless Spirit (30) was put into Graveyard from Battlefield.
+Add To Stack: Ai(1)-A activated Selfless Spirit
+Resolve Stack: Selfless Spirit (30) - Creatures you control gain indestructible until end of turn.
+Damage: Niv-Mizzet, Parun (313) deals 1 damage to Cathar Commando (2).
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Cathar Commando (2)]]) [Player: Ai(4)-D]
+Resolve Stack: Niv-Mizzet, Parun ability fizzles.
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (127)
+Zone Change: Treasure Token (789) was put into Graveyard from Battlefield.
+Mana: Treasure Token (789) - {T}, Sacrifice this token: Add one mana of any color.
+Add To Stack: Ai(4)-D cast Reality Shift targeting [Angel of Serenity (173)]
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Thought Vessel (137) - {T}: Add {C}.
+Add To Stack: Ai(2)-B cast Spell Queller
+Resolve Stack: Spell Queller - Creature 2 / 3
+Add To Stack: Ai(2)-B triggered Spell Queller targeting [Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Resolve Stack: When Spell Queller enters, exile target spell with mana value 4 or less. (Targeting: [[Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]]) [Zone Changer: Spell Queller (164)]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 25 > 24
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 24 > 23
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 23 > 22
+Life: Life: Ai(2)-B 26 > 25
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 22 > 21
+Life: Life: Ai(2)-B 25 > 24
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) ]
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 70 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Mana: Island (343) - {T}: Add {U}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Reliquary Tower (362) - {T}: Add {C}.
+Add To Stack: Ai(4)-D cast Sublime Epiphany
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Sublime Epiphany (327), Activator: Ai(4)-D, SpellAbility: Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Sublime Epiphany (327), Activator: Ai(4)-D, SpellAbility: Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Sublime Epiphany (327), Activator: Ai(4)-D, SpellAbility: Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Cathar Commando (2)]
+Damage: Niv-Mizzet, Parun (313) deals 1 damage to Cathar Commando (2).
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Cathar Commando (2)]]) [Player: Ai(4)-D]
+Zone Change: Cathar Commando (2) was put into Graveyard from Battlefield.
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Sublime Epiphany (327), Activator: Ai(4)-D, SpellAbility: Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 21 > 20
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 20 > 19
+Life: Life: Ai(2)-B 24 > 23
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Sublime Epiphany (327), Activator: Ai(4)-D, SpellAbility: Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 19 > 18
+Life: Life: Ai(2)-B 23 > 22
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Sublime Epiphany (327), Activator: Ai(4)-D, SpellAbility: Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Island (129) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Dovin's Veto targeting [Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.
+
+ Return target nonland permanent to its owner's hand. Create a token that's a copy of target creature you control. Target player draws a card.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Dovin's Veto (160), Activator: Ai(2)-B, SpellAbility: Counter target noncreature spell.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 18 > 17
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Zone Change: Send countered spell to Graveyard
+Resolve Stack: Dovin's Veto (160) - Counter Sublime Epiphany (327).
+Phase: Ai(4)-D's Draw step
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 17 > 16
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Mana: Island (335) - {T}: Add {U}.
+Mana: Island (339) - {T}: Add {U}.
+Mana: Mountain (392) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Fact or Fiction
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Fact or Fiction (320), Activator: Ai(4)-D, SpellAbility: Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Fact or Fiction (320), Activator: Ai(4)-D, SpellAbility: Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. ]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Fact or Fiction (320), Activator: Ai(4)-D, SpellAbility: Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 16 > 15
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Fact or Fiction (320), Activator: Ai(4)-D, SpellAbility: Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 15 > 14
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 14 > 13
+Life: Life: Ai(2)-B 22 > 21
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Fact or Fiction (320), Activator: Ai(4)-D, SpellAbility: Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 13 > 12
+Life: Life: Ai(2)-B 21 > 20
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Fact or Fiction (320), Activator: Ai(4)-D, SpellAbility: Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. ]
+Resolve Stack: Fact or Fiction (320) - Ai(4)-D reveals the top five cards of their library. An opponent separates those cards into two piles. Ai(4)-D puts one pile into their hand and the other into their graveyard.
+Phase: Ai(4)-D's Main phase, precombat
+Land: Ai(4)-D played Island (336)
+Mana: Island (336) - {T}: Add {U}.
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Mountain (382) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Commander's Sphere
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 12 > 11
+Life: Life: Ai(2)-B 20 > 19
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Commander's Sphere (315), Activator: Ai(4)-D, SpellAbility: Commander's Sphere]
+Resolve Stack: Commander's Sphere
+Mana: Spirebluff Canal (353) - {T}: Add {U} or {R}.
+Mana: Arcane Signet (354) - {T}: Add one mana of any color in your commander's color identity.
+Add To Stack: Ai(4)-D cast Expressive Iteration
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Expressive Iteration (394), Activator: Ai(4)-D, SpellAbility: Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Expressive Iteration (394), Activator: Ai(4)-D, SpellAbility: Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    ]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Expressive Iteration (394), Activator: Ai(4)-D, SpellAbility: Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 11 > 10
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Expressive Iteration (394), Activator: Ai(4)-D, SpellAbility: Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    ]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Ai(1)-A]
+Damage: Niv-Mizzet, Parun (313) deals 1 non-combat damage to Ai(1)-A.
+Life: Life: Ai(1)-A 10 > 9
+Resolve Stack: Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target. (Targeting: [[Ai(1)-A]]) [Player: Ai(4)-D]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 9 > 8
+Life: Life: Ai(2)-B 19 > 18
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Expressive Iteration (394), Activator: Ai(4)-D, SpellAbility: Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 8 > 7
+Life: Life: Ai(2)-B 18 > 17
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Expressive Iteration (394), Activator: Ai(4)-D, SpellAbility: Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    ]
+Resolve Stack: Expressive Iteration (394) - Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.    
+Mana: Sulfur Falls (361) - {T}: Add {U} or {R}.
+Mana: Swiftwater Cliffs (373) - {T}: Add {U} or {R}.
+Add To Stack: Ai(4)-D cast Talisman of Creativity
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 7 > 6
+Life: Life: Ai(2)-B 17 > 16
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Talisman of Creativity (371), Activator: Ai(4)-D, SpellAbility: Talisman of Creativity]
+Resolve Stack: Talisman of Creativity
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Combat: Ai(4)-D assigned Haughty Djinn (351) and Veyran, Voice of Duality (403) to attack Ai(2)-B.
+Mana: Plains (189) - {T}: Add {W}.
+Mana: Plains (190) - {T}: Add {W}.
+Mana: Island (128) - {T}: Add {U}.
+Mana: Island (130) - {T}: Add {U}.
+Add To Stack: Ai(2)-B activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (163) - Ai(2)-B creates a 1/1 white Human creature token.
+Phase: Ai(4)-D's Declare Blockers Step
+Combat: Ai(2)-B assigned Angel of Serenity (173) to block Haughty Djinn (351).
+Ai(2)-B didn't block Veyran, Voice of Duality (403).
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Damage: Haughty Djinn (351) deals 14 damage to Angel of Serenity (173).
+Damage: Veyran, Voice of Duality (403) deals 8 combat damage to Ai(2)-B.
+Damage: Angel of Serenity (173) deals 5 damage to Haughty Djinn (351).
+Life: Life: Ai(2)-B 16 > 8
+Zone Change: Haughty Djinn (351) was put into Graveyard from Battlefield.
+Zone Change: Angel of Serenity (173) was put into Graveyard from Battlefield.
+Add To Stack: Ai(2)-B triggered Angel of Serenity
+Resolve Stack: When Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands. [Zone Changer: Angel of Serenity (173)]
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Commander's Sphere (315) - {T}: Add one mana of any color in your commander's color identity.
+Damage: Talisman of Creativity (371) deals 1 non-combat damage to Ai(4)-D.
+Life: Life: Ai(4)-D 28 > 27
+Mana: Talisman of Creativity (371) - {T}: Add {U} or {R}. Talisman of Creativity deals 1 damage to you. 
+Add To Stack: Ai(4)-D cast Third Path Iconoclast
+Resolve Stack: Third Path Iconoclast - Creature 2 / 1
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 71 (Ai(1)-A)
+Phase: Ai(1)-A's Untap step
+Phase: Ai(1)-A's Upkeep step
+Add To Stack: Ai(1)-A triggered Emeria, the Sky Ruin targeting [Cathar Commando (2)]
+Resolve Stack: At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield. (Targeting: [[Cathar Commando (2)]]) [Phase: Ai(1)-A]
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Mana: Plains (76) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Swords to Plowshares targeting [Niv-Mizzet, Parun (313)]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun
+Resolve Stack: Whenever a player casts an instant or sorcery spell, you draw a card. [Card: Swords to Plowshares (55), Activator: Ai(1)-A, SpellAbility: Exile target creature. Its controller gains life equal to its power.]
+Add To Stack: Ai(4)-D triggered Niv-Mizzet, Parun targeting [Cathar Commando (2)]
+Mana: Sol Ring (39) - {T}: Add {C}{C}.
+Zone Change: Cathar Commando (2) was put into Graveyard from Battlefield.
+Add To Stack: Ai(1)-A activated Cathar Commando targeting [Banishing Light (176)]
+Zone Change: Banishing Light (176) was put into Graveyard from Battlefield.
+Resolve Stack: Cathar Commando (2) - Destroy Banishing Light (176).
+Resolve Stack: Niv-Mizzet, Parun ability fizzles.
+Zone Change: Niv-Mizzet, Parun (313) was put into Exile from Battlefield.
+Life: Life: Ai(4)-D 27 > 32
+Resolve Stack: Swords to Plowshares (55) - Exile Niv-Mizzet, Parun (313). Ai(4)-D gains life equal to its power.
+Phase: Ai(1)-A's Draw step
+Phase: Ai(1)-A's Main phase, precombat
+Land: Ai(1)-A played Plains (90)
+Phase: Ai(1)-A's Beginning of Combat Step
+Phase: Ai(1)-A's Declare Attackers Step
+Phase: Ai(1)-A's Declare Blockers Step
+Phase: Ai(1)-A's First Strike Damage Step
+Phase: Ai(1)-A's Combat Damage Step
+Phase: Ai(1)-A's End of Combat Step
+Phase: Ai(1)-A's Main phase, postcombat
+Mana: Plains (61) - {T}: Add {W}.
+Mana: Plains (91) - {T}: Add {W}.
+Mana: Plains (80) - {T}: Add {W}.
+Mana: Plains (66) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Jazal Goldmane
+Resolve Stack: Jazal Goldmane - Creature 4 / 4
+Mana: Plains (67) - {T}: Add {W}.
+Mana: Plains (88) - {T}: Add {W}.
+Mana: Plains (78) - {T}: Add {W}.
+Mana: Arcane Signet (36) - {T}: Add one mana of any color in your commander's color identity.
+Mana: Plains (79) - {T}: Add {W}.
+Add To Stack: Ai(1)-A cast Elspeth Resplendent
+Replacement Effect: Elspeth Resplendent enters with five loyalty counters on it.
+Resolve Stack: Elspeth Resplendent
+Add To Stack: Ai(1)-A activated Elspeth Resplendent
+Resolve Stack: Elspeth Resplendent (4) - Ai(1)-A looks at the top seven cards of their library. They may put a permanent card with mana value 3 or less from among them onto the battlefield with a shield counter on it. They put the rest on the bottom of their library in a random order.
+Phase: Ai(1)-A's End step
+Phase: Ai(1)-A's Cleanup step
+Turn: Turn 72 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (125)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Combat: Ai(2)-B assigned Restoration Angel (194), Brago, King Eternal (201), Spell Queller (164), Human Token (764), Human Token (871) and Human Token (1007) to attack Ai(1)-A.
+Mana: Plains (84) - {T}: Add {W}.
+Mana: Plains (85) - {T}: Add {W}.
+Mana: Plains (89) - {T}: Add {W}.
+Mana: Plains (59) - {T}: Add {W}.
+Add To Stack: Ai(1)-A activated Castle Ardenvale
+Replacement Effect: If one or more creature tokens would be created under your control, that many 4/4 white Angel creature tokens with flying and vigilance are created instead.
+Resolve Stack: Castle Ardenvale (42) - Ai(1)-A creates a 1/1 white Human creature token.
+Add To Stack: Ai(1)-A triggered Tocasia's Welcome
+Resolve Stack: Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn. [Amount: 1]
+Phase: Ai(2)-B's Declare Blockers Step
+Combat: Ai(1)-A assigned Angel Token (1034) to block Restoration Angel (194).
+Ai(1)-A didn't block Brago, King Eternal (201).
+Ai(1)-A didn't block Spell Queller (164).
+Ai(1)-A assigned Benalish Marshal (17) to block Human Token (764).
+Ai(1)-A assigned Adeline, Resplendent Cathar (100) to block Human Token (871).
+Ai(1)-A assigned Jazal Goldmane (57) to block Human Token (1007).
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Thought Vessel (137) - {T}: Add {C}.
+Mana: Island (129) - {T}: Add {U}.
+Add To Stack: Ai(2)-B cast Eerie Interlude targeting [Restoration Angel (194)]
+Zone Change: Restoration Angel (194) was put into Exile from Battlefield.
+Resolve Stack: Eerie Interlude (197) - Exile Restoration Angel (194). Return exiled permanent to the battlefield. 
+Phase: Ai(2)-B's First Strike Damage Step
+Damage: Jazal Goldmane (57) deals 5 damage to Human Token (1007).
+Zone Change: Human Token (1007) was put into Graveyard from Battlefield.
+Phase: Ai(2)-B's Combat Damage Step
+Replacement Effect: If damage would be dealt to this permanent, prevent that damage and remove a shield counter from it.
+Damage: Brago, King Eternal (201) deals 2 combat damage to Ai(1)-A.
+Damage: Spell Queller (164) deals 2 combat damage to Ai(1)-A.
+Damage: Human Token (871) deals 1 damage to Adeline, Resplendent Cathar (100).
+Damage: Benalish Marshal (17) deals 3 damage to Human Token (764).
+Damage: Adeline, Resplendent Cathar (100) deals 5 damage to Human Token (871).
+Life: Life: Ai(1)-A 6 > 2
+Zone Change: Human Token (764) was put into Graveyard from Battlefield.
+Zone Change: Human Token (871) was put into Graveyard from Battlefield.
+Add To Stack: Ai(2)-B triggered Brago, King Eternal targeting [Spell Queller (164)]
+Zone Change: Spell Queller (164) was put into Exile from Battlefield.
+Resolve Stack: Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control. (Targeting: [[Spell Queller (164)]]) [Damage Source: Brago, King Eternal (201), Damaged: Ai(1)-A, Amount: 2]
+Add To Stack: Ai(2)-B triggered Spell Queller
+Add To Stack: Ai(4)-D cast Reality Shift targeting [Angel Token (1034)]
+Resolve Stack: When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost. [Zone Changer: Spell Queller (164)]
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Veyran, Voice of Duality
+Add To Stack: Ai(4)-D triggered Third Path Iconoclast
+Add To Stack: Ai(4)-D triggered Third Path Iconoclast
+Resolve Stack: Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) (without paying its mana cost) ]
+Resolve Stack: Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) (without paying its mana cost) ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) (without paying its mana cost) ]
+Resolve Stack: Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran, Voice of Duality gets +1/+1 until end of turn. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) (without paying its mana cost) ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 2 > 1
+Life: Life: Ai(2)-B 8 > 7
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) (without paying its mana cost) ]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(1)-A.
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(1)-A 1 > 0
+Life: Life: Ai(2)-B 7 > 6
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Reality Shift (374), Activator: Ai(4)-D, SpellAbility: Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.) (without paying its mana cost) ]
+Resolve Stack: Reality Shift ability fizzles.
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Phase: Ai(2)-B's End step
+Add To Stack: Ai(2)-B triggered Eerie Interlude
+Resolve Stack: Return exiled permanent to the battlefield. ([Restoration Angel (194)]) [Phase: Ai(2)-B]
+Add To Stack: Ai(2)-B triggered Restoration Angel targeting [Spell Queller (164)]
+Zone Change: Spell Queller (164) was put into Exile from Battlefield.
+Resolve Stack: When Restoration Angel enters, you may exile target non-Angel creature you control, then return that creature to the battlefield under your control. (Targeting: [[Spell Queller (164)]]) [Zone Changer: Restoration Angel (194)]
+Add To Stack: Ai(2)-B triggered Spell Queller
+Resolve Stack: When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost. [Zone Changer: Spell Queller (164)]
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 73 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Land: Ai(4)-D played Mountain (388)
+Mana: Island (343) - {T}: Add {U}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Reliquary Tower (362) - {T}: Add {C}.
+Mana: Island (335) - {T}: Add {U}.
+Add To Stack: Ai(4)-D cast Storm of Saruman
+Add To Stack: Ai(4)-D triggered Kessig Flamebreather
+Add To Stack: Ai(4)-D triggered Third Path Iconoclast
+Resolve Stack: Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token. [Card: Storm of Saruman (324), Activator: Ai(4)-D, SpellAbility: Storm of Saruman]
+Damage: Kessig Flamebreather (306) deals 1 non-combat damage to Ai(2)-B.
+Life: Life: Ai(2)-B 6 > 5
+Resolve Stack: Whenever you cast a noncreature spell, Kessig Flamebreather deals 1 damage to each opponent. [Card: Storm of Saruman (324), Activator: Ai(4)-D, SpellAbility: Storm of Saruman]
+Resolve Stack: Storm of Saruman
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Plains (189) - {T}: Add {W}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (128) - {T}: Add {U}.
+Add To Stack: Ai(2)-B activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (163) - Ai(2)-B creates a 1/1 white Human creature token.
+Phase: Ai(4)-D's Declare Blockers Step
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Island (339) - {T}: Add {U}.
+Mana: Island (336) - {T}: Add {U}.
+Add To Stack: Ai(4)-D cast Guttersnipe
+Add To Stack: Ai(4)-D triggered Storm of Saruman
+Resolve Stack: Whenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.) [Card: Guttersnipe (316), Activator: Ai(4)-D, SpellAbility: Guttersnipe - Creature 2 / 2]
+Add To Stack: Ai(4)-D cast Guttersnipe
+Resolve Stack: Guttersnipe - Creature 2 / 2
+Resolve Stack: Guttersnipe - Creature 2 / 2
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Mountain (382) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Firebrand Archer
+Resolve Stack: Firebrand Archer - Creature 2 / 1
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 74 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Replacement Effect: Azorius Chancery enters tapped.
+Land: Ai(2)-B played Azorius Chancery (141)
+Add To Stack: Ai(2)-B triggered Azorius Chancery
+Resolve Stack: When Azorius Chancery enters, return a land you control to its owner's hand. [Zone Changer: Azorius Chancery (141)]
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 75 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Land: Ai(4)-D played Island (332)
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Combat: Ai(4)-D assigned Veyran, Voice of Duality (403), Third Path Iconoclast (399), Guttersnipe (1071), Guttersnipe (316), Firebrand Archer (395), Kessig Flamebreather (306), Soldier Token (1044), Soldier Token (1047) and Soldier Token (1062) to attack Ai(2)-B.
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Thought Vessel (137) - {T}: Add {C}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Add To Stack: Ai(2)-B activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (163) - Ai(2)-B creates a 1/1 white Human creature token.
+Phase: Ai(4)-D's Declare Blockers Step
+Combat: Ai(2)-B assigned Spell Queller (164) to block Veyran, Voice of Duality (403).
+Ai(2)-B assigned Human Token (1070) to block Third Path Iconoclast (399).
+Ai(2)-B assigned Restoration Angel (194) to block Guttersnipe (1071).
+Ai(2)-B assigned Brago, King Eternal (201) to block Guttersnipe (316).
+Ai(2)-B assigned Human Token (1087) to block Firebrand Archer (395).
+Ai(2)-B didn't block Kessig Flamebreather (306).
+Ai(2)-B didn't block Soldier Token (1044).
+Ai(2)-B didn't block Soldier Token (1047).
+Ai(2)-B didn't block Soldier Token (1062).
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Damage: Veyran, Voice of Duality (403) deals 2 damage to Spell Queller (164).
+Damage: Third Path Iconoclast (399) deals 2 damage to Human Token (1070).
+Damage: Guttersnipe (1071) deals 2 damage to Restoration Angel (194).
+Damage: Guttersnipe (316) deals 2 damage to Brago, King Eternal (201).
+Damage: Firebrand Archer (395) deals 2 damage to Human Token (1087).
+Damage: Kessig Flamebreather (306) deals 1 combat damage to Ai(2)-B.
+Damage: Soldier Token (1044) deals 1 combat damage to Ai(2)-B.
+Damage: Soldier Token (1047) deals 1 combat damage to Ai(2)-B.
+Damage: Soldier Token (1062) deals 1 combat damage to Ai(2)-B.
+Damage: Spell Queller (164) deals 2 damage to Veyran, Voice of Duality (403).
+Damage: Brago, King Eternal (201) deals 2 damage to Guttersnipe (316).
+Damage: Human Token (1070) deals 1 damage to Third Path Iconoclast (399).
+Damage: Human Token (1087) deals 1 damage to Firebrand Archer (395).
+Damage: Restoration Angel (194) deals 3 damage to Guttersnipe (1071).
+Life: Life: Ai(2)-B 5 > 1
+Zone Change: Veyran, Voice of Duality (403) was put into Graveyard from Battlefield.
+Zone Change: Third Path Iconoclast (399) was put into Graveyard from Battlefield.
+Zone Change: Guttersnipe (1071) was put into Graveyard from Battlefield.
+Zone Change: Guttersnipe (316) was put into Graveyard from Battlefield.
+Zone Change: Firebrand Archer (395) was put into Graveyard from Battlefield.
+Zone Change: Human Token (1070) was put into Graveyard from Battlefield.
+Zone Change: Human Token (1087) was put into Graveyard from Battlefield.
+Phase: Ai(4)-D's End of Combat Step
+Phase: Ai(4)-D's Main phase, postcombat
+Mana: Mountain (392) - {T}: Add {R}.
+Mana: Island (343) - {T}: Add {U}.
+Mana: Sol Ring (357) - {T}: Add {C}{C}.
+Mana: Reliquary Tower (362) - {T}: Add {C}.
+Mana: Fellwar Stone (377) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Mana: Island (335) - {T}: Add {U}.
+Mana: Island (339) - {T}: Add {U}.
+Mana: Island (336) - {T}: Add {U}.
+Mana: Island (332) - {T}: Add {U}.
+Mana: Mountain (383) - {T}: Add {R}.
+Mana: Mountain (382) - {T}: Add {R}.
+Mana: Mountain (388) - {T}: Add {R}.
+Add To Stack: Ai(4)-D cast Veyran, Voice of Duality
+Resolve Stack: Veyran, Voice of Duality - Creature 2 / 2
+Phase: Ai(4)-D's End step
+Phase: Ai(4)-D's Cleanup step
+Turn: Turn 76 (Ai(2)-B)
+Phase: Ai(2)-B's Untap step
+Phase: Ai(2)-B's Upkeep step
+Phase: Ai(2)-B's Draw step
+Phase: Ai(2)-B's Main phase, precombat
+Land: Ai(2)-B played Island (130)
+Phase: Ai(2)-B's Beginning of Combat Step
+Phase: Ai(2)-B's Declare Attackers Step
+Phase: Ai(2)-B's Declare Blockers Step
+Phase: Ai(2)-B's First Strike Damage Step
+Phase: Ai(2)-B's Combat Damage Step
+Phase: Ai(2)-B's End of Combat Step
+Phase: Ai(2)-B's Main phase, postcombat
+Phase: Ai(2)-B's End step
+Phase: Ai(2)-B's Cleanup step
+Turn: Turn 77 (Ai(4)-D)
+Phase: Ai(4)-D's Untap step
+Phase: Ai(4)-D's Upkeep step
+Phase: Ai(4)-D's Draw step
+Phase: Ai(4)-D's Main phase, precombat
+Land: Ai(4)-D played Mountain (384)
+Phase: Ai(4)-D's Beginning of Combat Step
+Phase: Ai(4)-D's Declare Attackers Step
+Combat: Ai(4)-D assigned Veyran, Voice of Duality (403), Kessig Flamebreather (306), Soldier Token (1044), Soldier Token (1047) and Soldier Token (1062) to attack Ai(2)-B.
+Mana: Plains (188) - {T}: Add {W}.
+Mana: Plains (186) - {T}: Add {W}.
+Mana: Thought Vessel (137) - {T}: Add {C}.
+Mana: Fellwar Stone (170) - {T}: Add one mana of any color that a land an opponent controls could produce.
+Add To Stack: Ai(2)-B activated Castle Ardenvale
+Resolve Stack: Castle Ardenvale (163) - Ai(2)-B creates a 1/1 white Human creature token.
+Phase: Ai(4)-D's Declare Blockers Step
+Combat: Ai(2)-B assigned Human Token (1103) to block Veyran, Voice of Duality (403).
+Ai(2)-B assigned Spell Queller (164) to block Kessig Flamebreather (306).
+Ai(2)-B assigned Brago, King Eternal (201) to block Soldier Token (1044).
+Ai(2)-B assigned Restoration Angel (194) to block Soldier Token (1047).
+Ai(2)-B didn't block Soldier Token (1062).
+Phase: Ai(4)-D's First Strike Damage Step
+Phase: Ai(4)-D's Combat Damage Step
+Damage: Veyran, Voice of Duality (403) deals 2 damage to Human Token (1103).
+Damage: Kessig Flamebreather (306) deals 1 damage to Spell Queller (164).
+Damage: Soldier Token (1044) deals 1 damage to Brago, King Eternal (201).
+Damage: Soldier Token (1047) deals 1 damage to Restoration Angel (194).
+Damage: Soldier Token (1062) deals 1 combat damage to Ai(2)-B.
+Damage: Human Token (1103) deals 1 damage to Veyran, Voice of Duality (403).
+Damage: Spell Queller (164) deals 2 damage to Kessig Flamebreather (306).
+Damage: Brago, King Eternal (201) deals 2 damage to Soldier Token (1044).
+Damage: Restoration Angel (194) deals 3 damage to Soldier Token (1047).
+Life: Life: Ai(2)-B 1 > 0
+Player Control: Ai(1)-A has restored control over themself
+Player Control: Ai(2)-B has restored control over themself
+Player Control: Ai(3)-C has restored control over themself
+Player Control: Ai(4)-D has restored control over themself
+Game Outcome: Match Duration 0m : 58s
+Game Outcome: Turn 39
+Game Outcome: Ai(1)-A has lost because life total reached 0
+Game Outcome: Ai(2)-B has lost because life total reached 0
+Game Outcome: Ai(3)-C has lost because life total reached 0
+Game Outcome: Ai(4)-D has won because all opponents have lost
+Match Result: Ai(1)-A: 0 Ai(2)-B: 0 Ai(3)-C: 0 Ai(4)-D: 1 
+
+Game Result: Game 1 ended in 59061 ms. Ai(4)-D has won!
+

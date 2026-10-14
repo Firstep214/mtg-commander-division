@@ -1,0 +1,161 @@
+{
+ "source": "https://magic.wizards.com/en/formats/commander#gamechangers",
+ "retrieved_utc": "2026-10-14T10:56:58Z",
+ "page_entry_updatedAt": "2026-04-24T17:19:26Z (format entry); per-colour lists below",
+ "bracket_rule": "Bracket 1 and 2 decks exclude Game Changers. Bracket 3 allows up to three. Brackets 4 and 5 unlimited.",
+ "by_color": {
+  "White": {
+   "updatedAt": "2026-02-09T17:04:03.405Z",
+   "cards": [
+    "Drannith Magistrate",
+    "Enlightened Tutor",
+    "Farewell",
+    "Humility",
+    "Serra's Sanctum",
+    "Smothering Tithe",
+    "Teferi's Protection"
+   ]
+  },
+  "Blue": {
+   "updatedAt": "2025-10-22T18:00:44.378Z",
+   "cards": [
+    "Consecrated Sphinx",
+    "Cyclonic Rift",
+    "Force of Will",
+    "Fierce Guardianship",
+    "Gifts Ungiven",
+    "Intuition",
+    "Mystical Tutor",
+    "Narset, Parter of Veils",
+    "Rhystic Study",
+    "Thassa's Oracle"
+   ]
+  },
+  "Black": {
+   "updatedAt": "2025-10-22T18:00:44.397Z",
+   "cards": [
+    "Ad Nauseam",
+    "Bolas's Citadel",
+    "Braids, Cabal Minion",
+    "Demonic Tutor",
+    "Imperial Seal",
+    "Necropotence",
+    "Opposition Agent",
+    "Orcish Bowmasters",
+    "Tergrid, God of Fright",
+    "Vampiric Tutor"
+   ]
+  },
+  "Red": {
+   "updatedAt": "2025-10-22T18:00:44.416Z",
+   "cards": [
+    "Gamble",
+    "Jeska's Will",
+    "Underworld Breach"
+   ]
+  },
+  "Green": {
+   "updatedAt": "2026-02-09T17:04:03.532Z",
+   "cards": [
+    "Crop Rotation",
+    "Biorhythm",
+    "Gaea's Cradle",
+    "Natural Order",
+    "Seedborn Muse",
+    "Survival of the Fittest",
+    "Worldly Tutor"
+   ]
+  },
+  "Multicolor": {
+   "updatedAt": "2025-10-22T18:00:44.455Z",
+   "cards": [
+    "Aura Shards",
+    "Coalition Victory",
+    "Grand Arbiter Augustin IV",
+    "Notion Thief"
+   ]
+  },
+  "Colorless": {
+   "updatedAt": "2025-10-22T18:00:44.476Z",
+   "cards": [
+    "Ancient Tomb",
+    "Chrome Mox",
+    "Field of the Dead",
+    "Glacial Chasm",
+    "Grim Monolith",
+    "Lion's Eye Diamond",
+    "Mana Vault",
+    "Mishra's Workshop",
+    "Mox Diamond",
+    "Panoptic Mirror",
+    "The One Ring",
+    "The Tabernacle at Pendrell Vale"
+   ]
+  }
+ },
+ "all_cards": [
+  "Ad Nauseam",
+  "Ancient Tomb",
+  "Aura Shards",
+  "Biorhythm",
+  "Bolas's Citadel",
+  "Braids, Cabal Minion",
+  "Chrome Mox",
+  "Coalition Victory",
+  "Consecrated Sphinx",
+  "Crop Rotation",
+  "Cyclonic Rift",
+  "Demonic Tutor",
+  "Drannith Magistrate",
+  "Enlightened Tutor",
+  "Farewell",
+  "Field of the Dead",
+  "Fierce Guardianship",
+  "Force of Will",
+  "Gaea's Cradle",
+  "Gamble",
+  "Gifts Ungiven",
+  "Glacial Chasm",
+  "Grand Arbiter Augustin IV",
+  "Grim Monolith",
+  "Humility",
+  "Imperial Seal",
+  "Intuition",
+  "Jeska's Will",
+  "Lion's Eye Diamond",
+  "Mana Vault",
+  "Mishra's Workshop",
+  "Mox Diamond",
+  "Mystical Tutor",
+  "Narset, Parter of Veils",
+  "Natural Order",
+  "Necropotence",
+  "Notion Thief",
+  "Opposition Agent",
+  "Orcish Bowmasters",
+  "Panoptic Mirror",
+  "Rhystic Study",
+  "Seedborn Muse",
+  "Serra's Sanctum",
+  "Smothering Tithe",
+  "Survival of the Fittest",
+  "Teferi's Protection",
+  "Tergrid, God of Fright",
+  "Thassa's Oracle",
+  "The One Ring",
+  "The Tabernacle at Pendrell Vale",
+  "Underworld Breach",
+  "Vampiric Tutor",
+  "Worldly Tutor"
+ ],
+ "count": 53,
+ "scryfall_crosscheck": {
+  "scryfall_game_changer_count": 53,
+  "only_on_wizards": [
+   "Tergrid, God of Fright"
+  ],
+  "only_on_scryfall": [
+   "Tergrid, God of Fright // Tergrid's Lantern"
+  ]
+ }
+}

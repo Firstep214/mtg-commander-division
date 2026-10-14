@@ -1,0 +1,1177 @@
+
+Banned and Restricted Announcement – February 9, 2026
+Skip to main content
+              Products
+Coming Soon
+                    Coming Soon
+Star Trek
+Nauctis: The Sunken Realm
+ Marvel Darkhold Destiny
+Kamigawa: Titanbreach
+Zhalfir
+Available Now
+                    Available Now
+Reality Fracture
+The Hobbit™
+Marvel Super Heroes
+Secrets of Strixhaven
+Teenage Mutant Ninja Turtles
+Lorwyn Eclipsed
+Secret Lair Drop Series
+Latest Products
+Card Set Archive
+              MTG Arena
+Download
+Getting Started
+Drop Rates
+Alchemy
+Draft
+MTG Arena News
+              Play
+Play Events
+                    Play Events
+Prerelease
+Magic Academy
+Standard Showdown
+Commander Box League
+Commander Party
+Store Championship
+Friday Night Magic
+MagicCon
+Pro Tour
+All Events
+Formats
+                    Formats
+Commander
+Standard
+Modern
+Pioneer
+Booster Draft
+Pick-Two Draft
+Sealed Deck
+All Formats
+Platforms
+                    Platforms
+Store Locator
+MTG Arena
+Magic Online
+SpellTable
+Wizards Accounts
+Support
+                    Support
+Player Support
+Store Support
+Club Support
+Military Support
+              Learn
+Resources
+                    Resources
+Where to Start
+How to Play
+Product Guide
+Keyword Glossary
+Banned & Restricted List
+Card Database
+Companion App
+              SHOP
+              News
+Read
+                    Read
+Latest News
+Announcements
+Behind The Scenes
+Making Magic
+MTG Arena News
+Card Previews
+Competitive
+Watch
+                    Watch
+Drive To Work Podcast
+WeeklyMTG
+Magic Story Podcast
+Story
+                    Story
+Latest Stories
+Story Archive
+Planes and Planeswalkers
+More
+                    More
+Wallpapers
+            Locator
+            Card Database
+            Accounts
+News
+          /
+            Announcements
+Banned and Restricted Announcement – February 9, 2026
+            Announcements
+Feb 9, 2026
+                  Carmen Klomparens
+                  Jadine Klomparens
+                  Arya Karamchandani
+                  Gavin Verhey
+                  Daniel Xu
+Standard
+No changes
+Pioneer
+No changes
+Modern
+No changes
+Legacy
+No changes
+Vintage
+No changes
+Pauper
+No changes
+Alchemy
+Kona, Rescue Beastie
+ is rebalanced.
+Val, Marooned Surveyor
+ is rebalanced.
+Dazzling Flameweaver
+ is rebalanced.
+Marshland Hordemaster
+ is rebalanced.
+Charged Conjuration
+ is rebalanced.
+Tempest Trapper
+ is rebalanced.
+Sanguine Soothsayer
+ is rebalanced.
+Polterheist
+ is rebalanced.
+Valiant Emberkin
+ is rebalanced.
+Ethrimik, Imagined Friend
+ is rebalanced.
+Network Marauder
+ is rebalanced.
+Prototype X-8
+ is rebalanced.
+Sliver Weftwinder
+ is rebalanced.
+Historic
+Eldrazi Temple
+ is banned.
+Ajani, Nacatl Pariah
+ is banned.
+Crop Rotation
+ is banned.
+Scholar of the Lost Trove
+ is banned.
+Magus of the Moon
+ is unbanned.
+Harbinger of the Seas
+ is unbanned.
+Force of Vigor
+ is unbanned.
+Force of Negation
+ is unbanned.
+Endurance
+ is unbanned.
+Wilderness Reclamation
+ is unbanned.
+Agent of Treachery
+ is unbanned.
+Timeless
+Necropotence
+ is restricted.
+Brawl
+No changes
+View 
+the list of all banned and restricted cards by format
+.
+Howdy, gamers!
+My name is Carmen Klomparens, and I'm a senior game designer on 
+Magic
+'s Play Design team. Welcome to the first banned and restricted announcement for 2026! In our 
+final announcement of 2025
+, we saw changes in Standard, Pioneer, Legacy, Pauper, and a few formats on 
+MTG Arena
+. We also announced a shift in the cadence of these announcements heading into this year. It was clear to us that we didn't have enough chances to act when a format needed maintenance by way of its banned list. It is always our goal to make 
+Magic
+ as fun as possible and tend to our formats as needed, and those opportunities this year will allow us to focus on upholding that goal. To that end, I would like to emphasize that our view is that these announcements are opportunities to make changes and not necessarily a declaration that we are going to make changes seven times this year. We want players to feel confident whenever they acquire cards to play in each format that they will be able to play with them and have a good time. Finding the balance between regular update timing for banned lists and avoiding the looming specter of potential bans is a tough line to toe, and we're grateful for the community's patience as we work toward that goal.
+As usual, we'll be on WeeklyMTG on 
+twitch.tv/magic
+ tomorrow, February 10, at 10 a.m. PT to discuss these changes.
+Standard
+Written by Jadine Klomparens
+No changes
+Today's Standard is much healthier than it was three months ago at the time of our last banned and restricted update. We are back to a Standard without a clear best deck, where many different strategies have a fair shot of hoisting a trophy on any given weekend. Recently, Pro Tour 
+Lorwyn Eclipsed
+ showcased the incredible diversity in the format, featuring a Top 8 with seven different decks.
+3 Doomsday Excruciator
+3 Harvester of Misery
+2 Intimidation Tactics
+4 Restless Reef
+1 Archenemy's Charm
+2 Deadly Cover-Up
+4 Deceit
+2 Winternight Stories
+11 Swamp
+2 Multiversal Passage
+3 Bitter Triumph
+4 Superior Spider-Man
+1 Undercity Sewers
+4 Requiting Hex
+3 Stock Up
+4 Watery Grave
+4 Gloomlake Verge
+3 Insatiable Avarice
+2 Torpor Orb
+4 Duress
+1 Cruelclaw's Heist
+2 Shoot the Sheriff
+3 Quantum Riddler
+2 Soul-Guide Lantern
+1 Negate
+1 Willowrush Verge
+2 Earthbender Ascension
+1 Thunder Magic
+2 Forest
+2 Spider-Sense
+3 Burst Lightning
+3 Starting Town
+4 Consult the Star Charts
+1 Wistfulness
+1 Analyze the Pollen
+3 Icetill Explorer
+4 Fabled Passage
+3 Island
+3 Mountain
+2 Spell Snare
+2 Thornspire Verge
+1 Into the Flood Maw
+3 Sear
+2 Ba Sing Se
+4 Mightform Harmonizer
+4 Stock Up
+3 Escape Tunnel
+2 Steam Vents
+4 Full Bore
+1 Surrak, Elusive Hunter
+1 Essence Scatter
+1 Sear
+2 Spell Pierce
+3 Pyroclasm
+2 Soul-Guide Lantern
+1 Quantum Riddler
+2 Heritage Reclamation
+1 Sandman, Shifting Scoundrel
+1 Songcrafter Mage
+The successful Standard decks from Pro Tour 
+Lorwyn Eclipsed
+ have even more variety than the Top 8 displays, with many archetypes having performed well over the weekend despite not making the Top 8. The deck-building ingenuity of Pro Tour players was on full display, with many of the successful decks being new innovations developed for use at the Pro Tour.
+4 Sunderflock
+6 Island
+4 Eddymurk Crab
+4 Opt
+4 Burst Lightning
+1 Bounce Off
+4 Winternight Stories
+2 Multiversal Passage
+1 Spell Pierce
+1 Into the Flood Maw
+3 Spell Snare
+4 Hearth Elemental
+2 Abandon Attachments
+4 Riverpyre Verge
+1 Spider-Sense
+4 Steam Vents
+4 Spirebluff Canal
+4 Sleight of Hand
+3 Glacial Dragonhunt
+1 Disdainful Stroke
+1 Get Out
+2 Hydro-Man, Fluid Felon
+2 Annul
+2 Ral, Crackling Wit
+1 Spider-Sense
+1 Abrade
+2 Pyroclasm
+2 Soul-Guide Lantern
+1 Broadside Barrage
+2 Swamp
+4 Starting Town
+1 Greasewrench Goblin
+3 Inti, Seneschal of the Sun
+3 Iron-Shield Elf
+4 Mountain
+4 Multiversal Passage
+4 Monument to Endurance
+4 Moonshadow
+2 Bitter Triumph
+4 Marauding Mako
+3 Tersa Lightshatter
+4 Blazemire Verge
+4 Flamewake Phoenix
+4 Bloodghast
+1 Sunspine Lynx
+1 Restless Vents
+4 Blood Crypt
+4 Bloodthorn Flail
+3 Requiting Hex
+2 Pyroclasm
+2 Vengeful Possession
+3 Soul-Guide Lantern
+2 Case of the Crimson Pulse
+3 Sunspine Lynx
+And the format is still evolving! 
+Badgermole Cub
+ has dominated the narrative of Standard since its release, with many players wondering if it would take over Vivi Cauldron deck as the villain of Standard. There's no question that Badgermole Cub decks have dominated the Standard landscape, but twice now, at World Championship 31 and Pro Tour 
+Lorwyn Eclipsed
+, professional-level play has shown that the tools exist to beat Badgermole Cub strategies and that many different decks can do so.
+1 Craterhoof Behemoth
+1 Forest
+3 Mockingbird
+4 Starting Town
+2 Shimmerwilds Growth
+4 Temple Garden
+1 Keen-Eyed Curator
+4 Llanowar Elves
+1 Seam Rip
+4 Badgermole Cub
+4 Gene Pollinator
+1 Brightglass Gearhulk
+4 Breeding Pool
+4 Nature's Rhythm
+1 Superior Spider-Man
+4 Multiversal Passage
+3 Hushwood Verge
+1 Champion of the Weird
+1 Explosive Prodigy
+2 Spider Manifestation
+1 Soul-Guide Lantern
+2 Botanical Sanctum
+3 Formidable Speaker
+4 Quantum Riddler
+1 Disdainful Stroke
+1 Shimmerwilds Growth
+2 Ouroboroid
+2 Seam Rip
+2 Oko, Lorwyn Liege
+1 Meltstrider's Resolve
+2 Spider-Sense
+2 Soul-Guide Lantern
+1 Insidious Fungus
+1 Doorkeeper Thrull
+At Pro Tour 
+Lorwyn Eclipsed
+, 
+Badgermole Cub
+ decks represented about 40% of the Day One metagame but posted below a 50% non-mirror win rate on Day One. This imbalance between play rate and win rate is a clear signal that the metagame will continue to churn from here. Badgermole Cub decks will look for adaptations that will let them win more against the new decks. The decks that posted high win rates on the back of beating up on Badgermole Cub will need to turn their attention to each other. There's a lot of exploration left before the format reaches an equilibrium state.
+There's no telling where things will go from here, but the Standard metagame currently looks good. Decks of every color are seeing success, and the core macro-archetypes of aggro, midrange, control, and combo all have decks strong enough to bring to the Pro Tour. It's not perfect. Blue is present in more decks than is ideal, and too many games are ending too soon thanks to a high metagame share of fast combo decks powered by tutors and strong card selection. Nonetheless, Standard is currently accomplishing one of its major objectives: no matter what kind of 
+Magic
+ player you are, there's a deck in Standard for you.
+Over the last year, Standard has gone wrong multiple times for the same reason: a lack of adequate counterplay for powerful cards and strategies. We want Standard to have strong decks, but we want those decks to be attackable. Whether by relentlessly targeting the hand with 
+Deceit
+; resetting the battlefield with 
+Sunderflock
+, 
+Pyroclasm
+, 
+Ultima
+, or 
+Deadly Cover-Up
+; managing single threats with any number of removal spells and counterspells; or just absolutely shutting things down with 
+Rest in Peace
+ or 
+Torpor Orb
+, the most successful decks in current Standard place a marked emphasis on interaction. The power level and ubiquity of interaction in Standard right now is much closer to our intent for how Standard should be.
+Finally, I want to talk about the rise in "set theme decks," or decks largely supported by a single set and built out of one of its themes. 
+Magic: The Gathering® | Avatar: The Last Airbender
+™ introduced two of these to Standard with the Izzet Lessons deck and the Ally typal deck, and 
+Lorwyn Eclipsed
+ brought different Elementals decks to the format.
+5 Island
+4 Gran-Gran [A4sKJx4ZC4A9Oy6p3DtDB]
+2 Three Steps Ahead
+1 Agna Qel'a
+4 Combustion Technique
+3 Mountain
+2 Spell Snare
+3 Iroh's Demonstration
+1 Multiversal Passage
+4 Firebending Lesson
+4 Monument to Endurance
+4 Accumulate Wisdom
+4 Abandon Attachments
+2 It'll Quench Ya!
+4 Riverpyre Verge
+4 Artist's Talent [68DOtlHaYq5HJ4FtiBeNd5]
+4 Steam Vents
+4 Spirebluff Canal
+1 Soul-Guide Lantern
+1 Flashfreeze
+1 Annul
+1 Slagstorm
+1 Torpor Orb
+2 Sear
+2 Ral, Crackling Wit
+2 Quantum Riddler
+2 Soul-Guide Lantern
+1 Spell Pierce
+1 Negate
+1 Broadside Barrage
+Set theme decks are something that have always existed in 
+Magic
+ sets, but we have been actively putting more work into them lately. Our goal with decks like these is to give players who really like a particular set a good entry point into Standard. The high power level of these recent examples is not our sole target for set theme decks. We're looking to make these decks at a range of power levels, including ones that are fairly strong, but most of them should be in the range where they can occasionally Top 8 tournaments but aren't a long-term deck to beat. For example, 
+Lorwyn Eclipsed
+ also supports Goblin typal decks, but Goblin typal has not proven as successful in high-level Standard as Elementals.
+We think Standard is at its best when there's a ton of room to explore and a lot of things to discover, which means the strongest decks should most often be showcasing synergies between sets. Currently, Standard has many such decks in addition to a few strong set theme decks, and the overall creativity in deck building is great to see. We are looking forward to seeing where Standard goes from here.
+Pioneer
+Written by Carmen Klomparens
+No changes
+Pioneer continues to be a tale of two cities, in a way. We 
+took action in the format last November
+, in part because the metagame on 
+MTG Arena
+ looked pretty rough despite tabletop and 
+Magic Online
+ metagames looking fairly healthy. In the time since, the health of the metagame has improved, but it isn't perfect. Izzet Prowess variants, either including 
+Vivi Ornitier
+ or a Lessons package, occupy the top seat of the metagame with a strong win rate in 
+MTG Arena
+, despite not showing disproportionately large success on 
+Magic Online
+. Yes, you read that correctly. I did say Lessons while talking about what's going on in Pioneer.
+4 Monastery Swiftspear
+4 Slickshot Show-Off
+3 Emberheart Challenger
+4 Accumulate Wisdom
+4 Stormchaser's Talent
+4 Monstrous Rage
+3 Torch the Tower
+2 Boomerang Basics
+2 Abandon Attachments
+2 Burst Lightning
+1 Into the Flood Maw
+4 Cori-Steel Cutter
+3 Experimental Synthesizer
+4 Mountain
+4 Spirebluff Canal
+4 Steam Vents
+4 Riverpyre Verge
+3 Shivan Reef
+1 Stormcarved Coast
+The deck is seeing a bit of success on 
+Magic Online
+, but frankly, a lot of different decks are as well. Azorius Control, Selesnya 
+Collected Company
+ decks, various flavors of Greasefang, and a bunch of different black midrange decks fueled by 
+Unholy Annex
+ are all finding success in competitive Challenge events. We're keeping an eye on this format as it develops, but at this point it looks like it hasn't reached an end state and players are enjoying a format with a diverse array of strategies and colors.
+Modern
+Written by Carmen Klomparens
+No changes
+Modern rules! I'm naturally a tad biased, but Modern looks like it's in a great spot. To recap the last couple of months, we saw a seven-deck Top 8 at Pro Tour 
+Edge of Eternities
+ last year. The archetype that ended up winning the event, Tameshi Belcher, has seen a fall in population and win rate in the time since then as the format adjusted. Conversely, Boros Energy went into that event with a massive target on its back and had an extremely modest win rate as a result. This ended up carrying into the following set of Regional Championships to an extent, but the deck picked up some steam toward the end of the season. During that season, there was also a breakout deck that took the world by storm: Jeskai Blink.
+1 Thundering Falls
+1 Elegant Parlor
+3 Phelia, Exuberant Shepherd
+4 Flooded Strand
+4 Arid Mesa
+2 Ephemerate
+3 Scalding Tarn
+1 Lightning Bolt
+1 Hallowed Fountain
+2 Arena of Glory
+1 Mountain
+3 Teferi, Time Raveler
+1 Island
+4 Consign to Memory
+1 March of Otherworldly Light
+4 Ragavan, Nimble Pilferer
+2 Sacred Foundry
+1 Meticulous Archive
+1 Wrath of the Skies
+4 Phlage, Titan of Fire's Fury
+3 Prismatic Ending
+4 Solitude
+2 Fable of the Mirror-Breaker
+2 Plains
+1 Steam Vents
+4 Quantum Riddler
+1 Surgical Extraction
+2 Subtlety
+3 Mystical Dispute
+1 Force of Negation
+1 Ghost Vacuum
+4 Obsidian Charmaw
+2 Wrath of the Skies
+1 Celestial Purge
+In the months since the end of the Modern season of Regional Championships, Boros Energy has seen an uptick in popularity on the back of competitive success, while Jeskai Blink has gone down a bit in its metagame share. We still see a number of mainstays in the environment each getting a week or two in the sun on 
+Magic Online
+ before the metagame adjusts and something else takes its place as the top dog of the format. In our eyes, this is a sign of a very healthy metagame, with the ability to self-correct and allow for a wide array of play patterns and strategies with which players can find success.
+Even more exciting still is that players are finding 
+successful homes for new cards
+, like 
+Wan Shi Tong, Librarian
+; 
+Formidable Speaker
+; and others, despite Modern having a fairly stable metagame:
+2 Cling to Dust
+4 Consult the Star Charts
+4 Counterspell
+4 Fatal Push
+4 Field of Ruin
+4 Flooded Strand
+1 Force of Negation
+4 Island
+1 Kaito, Bane of Nightmares
+1 Logic Knot
+4 Orcish Bowmasters
+4 Polluted Delta
+1 Scalding Tarn
+3 Sheoldred's Edict
+1 Spell Pierce
+3 Spell Snare
+4 Subtlety
+1 Swamp
+3 Undercity Sewers
+4 Wan Shi Tong, Librarian
+3 Watery Grave
+4 Break the Ice
+4 Consign to Memory
+1 Damnation
+1 Harbinger of the Seas
+3 Mystical Dispute
+1 Nihil Spellbomb
+1 Toxic Deluge
+1 Swamp
+4 Badgermole Cub
+4 Agatha's Soul Cauldron
+1 Grist, the Hunger Tide
+2 Boseiju, Who Endures
+4 Delighted Halfling
+1 Dryad Arbor
+1 Strangleroot Geist
+4 Malevolent Rumble
+3 Walking Ballista
+1 Underground Mortuary
+4 Yawgmoth, Thran Physician
+4 Verdant Catacombs
+3 Overgrown Tomb
+4 Young Wolf
+3 Spymaster's Vault
+3 Dredger's Insight
+1 Endurance
+2 Forest
+3 Green Sun's Zenith
+4 Windswept Heath
+2 Formidable Speaker
+1 Ignoble Hierarch
+4 Fatal Push
+2 Thoughtseize
+1 Murderous Cut
+1 Vexing Bauble
+1 Scavenging Ooze
+1 Outland Liberator
+1 Soulless Jailer
+1 Grist, the Hunger Tide
+1 Force of Vigor
+1 Fulminator Mage
+1 Mai, Scornful Striker
+At this point in time, Modern looks like it's in the happy place of an established metagame with a steady drip of fresh content from new releases, and we're excited to watch the format continue to develop.
+Legacy
+Written by Carmen Klomparens
+No changes
+Legacy has seen some big changes in the last few months. 
+Last time we talked about the format
+, Dimir Reanimator was on a generational run of dominance in Legacy, and we made the difficult decision to take action against 
+Entomb
+ to bring it down a peg. In that same announcement, we removed 
+Nadu, Winged Wisdom
+ from the format to try and give fairer creature strategies a bit more room to breathe in the format. In the time since, things have been moving around quite a bit. To acknowledge the largest deck in the metagame, 
+Underground Sea
+ is still the top dog:
+2 Barrowgoyf
+1 Bloodstained Mire
+4 Brainstorm
+1 Brazen Borrower
+3 Daze
+4 Fatal Push
+1 Flooded Strand
+4 Force of Will
+1 Island
+2 Kaito, Bane of Nightmares
+1 Misty Rainforest
+3 Murktide Regent
+4 Orcish Bowmasters
+4 Polluted Delta
+4 Ponder
+1 Scalding Tarn
+1 Snuff Out
+1 Swamp
+4 Tamiyo, Inquisitive Student
+4 Thoughtseize
+1 Undercity Sewers
+4 Underground Sea
+1 Verdant Catacombs
+4 Wasteland
+1 Barrowgoyf
+3 Consign to Memory
+2 Dauthi Voidwalker
+2 Engineered Explosives
+1 Feed the Cycle
+2 Force of Negation
+1 Grafdigger's Cage
+1 Hydroblast
+1 Snuff Out
+1 Toxic Deluge
+Even before the banning of Entomb, versions of Dimir combined the various blue favorites in 
+Ponder
+, 
+Brainstorm
+, 
+Force of Will
+, and 
+Daze
+ with some of the strongest standalone threats to protect in 
+Tamiyo, Inquisitive Student
+; 
+Orcish Bowmasters
+; and 
+Kaito, Bane of Nightmares
+. The deck plays out in a sort of "protect the queen" strategy that develops one or two threats and uses the rest of its resources to take over the game while those permanents put the game out of reach for the opponent. We've certainly taken notice of the fact that this deck is public enemy number one coming out of the bans. But at this point, we believe its win rate, metagame share, and the play patterns it encourages are all appropriate for Legacy.
+Dimir Tempo isn't the entire story of what's changed in the format in the last few months, however. We're seeing surges in play from Lands, Death and Taxes variants, blue-based Affinity variants, and fairer 
+Gaea's Cradle
+ decks at a rate that's heartening. We're optimistic about the direction that Legacy is heading at this point and hope to see the recent upticks in archetype diversity continue to pan out in the coming months.
+Vintage
+Written by Carmen Klomparens
+No changes
+This time a couple of months ago, we were happy with the shape of the Vintage metagame on the other side of the North American portion of Eternal Weekend, and things have continued to look good. Despite 
+Lurrus of the Dream-Den
+ being the first card seen in a large portion of games, there is enough archetype diversity among Lurrus shells for it to feel like a healthy part of Vintage. A prime example of this diversity can be seen in the finals of the Asian Vintage Championships at their Eternal Weekend event at the end of last year:
+1 Swamp
+1 Mox Sapphire
+1 Merchant Scroll
+4 Force of Will
+3 Fatal Push
+1 Wan Shi Tong, Librarian
+4 Underground Sea
+1 Mox Jet
+1 Ancestral Recall
+1 Nihil Spellbomb
+1 Snapcaster Mage
+1 Scalding Tarn
+1 Mental Misstep
+1 Mystical Dispute
+1 Treasure Cruise
+4 Wasteland
+1 Mox Pearl
+4 Orcish Bowmasters
+1 Strip Mine
+4 Force of Negation
+1 Island
+1 Gitaxian Probe
+1 Time Walk
+1 Verdant Catacombs
+1 Undercity Sewers
+4 Psychic Frog
+2 Spell Pierce
+1 Mishra's Bauble
+1 Brainstorm
+1 Dig Through Time
+4 Polluted Delta
+1 Demonic Tutor
+1 Black Lotus
+1 Lorien Revealed
+1 Dress Down
+1 Urza's Saga
+1 Nihil Spellbomb
+1 Mystical Dispute
+1 Snuff Out
+2 The Tabernacle at Pendrell Vale
+2 Consign to Memory
+1 Long Goodbye
+2 Null Rod
+2 Grafdigger's Cage
+1 Dismember
+1 Sheoldred's Edict
+1 Lurrus of the Dream-Den
+2 Flooded Strand
+1 Mox Sapphire
+4 Force of Will
+4 Underground Sea
+1 Mox Jet
+1 Ancestral Recall
+2 Misty Rainforest
+4 Ponder
+2 Scalding Tarn
+1 Mental Misstep
+1 Treasure Cruise
+1 Vampiric Tutor
+1 Thassa's Oracle
+1 Island
+3 Flusterstorm
+3 Force of Negation
+1 Tamiyo, Inquisitive Student
+1 Gitaxian Probe
+1 Time Walk
+4 Dark Ritual
+2 Polluted Delta
+1 Gush
+1 Undercity Sewers
+4 Psychic Frog
+1 Unable to Scream
+3 Mishra's Bauble
+1 Dig Through Time
+1 Brainstorm
+4 Doomsday
+1 Demonic Tutor
+1 Black Lotus
+1 Daze
+2 Mindbreak Trap
+1 Consign to Memory
+1 Snuff Out
+1 Steel Sabotage
+3 Unable to Scream
+1 Soul-Guide Lantern
+1 Thoughtseize
+4 Leyline of the Void
+1 Lurrus of the Dream-Den
+It's easy to get caught up in what makes these decks the same: 
+Lurrus of the Dream-Den
+, Dimir mana bases, most of the restricted cards they've chosen to play, and so on. But the types of games they plan to play are radically different, and there are even different choices in which pieces of the Power 9 they're playing. With different versions of macro-archetypes like Initiative, Dredge, and Shops decks all finding success in the format and diversity within archetypes choosing whether to include Lurrus (looking at you, 
+Paradoxical Outcome
+), Vintage looks like it's a lot of fun to choose a deck to play and tune.
+Pauper
+Written by Gavin Verhey
+No changes
+We have been monitoring the format closely in the wake of 
+High Tide
+'s departure. It has mostly had a small but positive effect, reclaiming sideboard slots and helping bring back some decks that had tough matchups against Tide.
+While we've been keeping an eye on decks, like red decks with 
+Sneaky Snacker
+ and 
+Balustrade Spy
+ variants, the largest things on our radar right now are the Mono-Blue 
+Tolarian Terror
+ decks. These decks continue to do well, though there are plenty of counters to their strategy.
+This strategy, while successful, does not have the presence or success level for a ban at this point, but if its success continues growing, it could necessitate a ban at some point.
+We will continue to watch and keep an eye on it as the year continues.
+Alchemy
+Written by Daniel Xu
+Kona, Rescue Beastie
+ is rebalanced.
+Val, Marooned Surveyor
+ is rebalanced.
+Dazzling Flameweaver
+ is rebalanced.
+Marshland Hordemaster
+ is rebalanced.
+Charged Conjuration
+ is rebalanced.
+Tempest Trapper
+ is rebalanced.
+Sanguine Soothsayer
+ is rebalanced.
+Polterheist
+ is rebalanced.
+Valiant Emberkin
+ is rebalanced.
+Ethrimik, Imagined Friend
+ is rebalanced.
+Network Marauder
+ is rebalanced.
+Prototype X-8
+ is rebalanced.
+Sliver Weftwinder
+ is rebalanced.
+The Alchemy metagame has been diverse and fairly dynamic as we settle into 2026, even with the lull in digital-only content after the release of 
+Alchemy: Edge of Eternities
+. Standard all-star 
+Badgermole Cub
+ and the blue-red Lessons package have been swiftly adopted in Alchemy, competing with format stalwarts like Temur Dragons and White-Blue Birds at the top of the metagame share. While we're overall happy with the format and excited for 
+Alchemy: Lorwyn
+ to shake things up, we have two rebalances that address specific issues with Best-of-One Alchemy and Historic.
+4 Kona, Rescue Beastie
+4 Cunning Azurescale
+4 Marang River Regent
+4 Brood Astronomer
+4 Formidable Speaker
+1 Indris, the Hydrostatic Surge
+4 Omniscience
+3 Bounce Off
+3 Stock Up
+3 Dispelling Exhale
+2 Consult the Star Charts
+6 Island
+4 Forest
+4 Breeding Pool
+4 Willowrush Verge
+2 Mistrise Village
+2 Evendo, Waking Haven
+2 Uthros, Titanic Godcore
+Kona, Rescue Beastie
+ has been a frustrating presence in Best-of-One Alchemy, allowing its pilot to win the game from hand when coupled with Omniscience. Alchemy cards like 
+Fountainport Charmer
+, 
+Brood Astronomer
+, and 
+Cunning Azurescale
+ slot in to make this strategy more streamlined and effective compared to its Standard counterpart. While Kona is much tamer once sideboards are introduced, most Alchemy play is best-of-one, and the deck's high win rate—coupled with its noninteractive game plan—make it a consistent boogeyman on the ladder. We believe the format will be more fun when Kona is slower and gives players more room to breathe; therefore, we are increasing Kona's mana cost to 
+ in digital formats.
+Val, Marooned Surveyor
+ combos with 
+Trelasarra, Moon Dancer
+ in Historic formats, yielding infinite instances of damage with any way to trigger one of the two cards. As part of our overhaul to the Historic ban list (more on that below), we're addressing the strength and efficiency of this combo, which has performed at the top of the metagame alongside decks like Eldrazi and Energy. By changing Val from a two-mana card to a four-mana card, we expect Val to remain a player in casual Brawl while keeping her out of competitive Historic.
+We also have a round of buffs to digital cards from 
+Alchemy: Bloomburrow
+, 
+Alchemy: Duskmourn
+, and 
+Alchemy: Edge of Eternities
+. These changes do not aim to solve a particular issue with the format but rather are focused on revitalizing strategies that are popular but not equally effective. 
+You can read more about these changes in this week's 
+MTG Arena
+ announcements
+.
+Historic
+Written by Daniel Xu
+Eldrazi Temple
+ is banned.
+Ajani, Nacatl Pariah
+ is banned.
+Crop Rotation
+ is banned.
+Scholar of the Lost Trove
+ is banned.
+Magus of the Moon
+ is unbanned.
+Harbinger of the Seas
+ is unbanned.
+Force of Vigor
+ is unbanned.
+Force of Negation
+ is unbanned.
+Endurance
+ is unbanned.
+Wilderness Reclamation
+ is unbanned.
+Agent of Treachery
+ is unbanned.
+At the time of Historic's inception, we established several guidelines for determining what makes a card ban-worthy in the format. Philosophically, Historic was meant to be a place where players could queue up with any card in their collection and feel like they had a chance to compete in a fun, interactive game of 
+Magic
+. We didn't want them running into mass land denial like 
+Blood Moon
+, a card that notoriously sees play due to locking players out from casting spells. Free spells, too, detracted from the gameplay experience. The timing stops that free spells constantly inject into the game, along with their rate and strength in Eternal formats, made them undesirable as staples for ladder gameplay, especially when the most popular decks—Elves, Life Gain, Slivers—were on the casual side. This introduced a ceiling on the power and complexity of Historic games. When you queued up on the Historic ladder, you knew that your opponent wasn't going to 
+Solitude
+ your creature while they were tapped out. The average ladder deck had a chance to compete with the format mainstays, which included decks like Mono-Green Devotion at about the Pioneer power level.
+Over time, Historic has come to bear the addition of many powerful, transgressive cards, shifting the metagame dramatically from its early days. The addition of 
+Modern Horizons 3
+ was a key turning point, as several competitive strategies that functioned at a Modern power level were introduced. The popular ladder strategies remained popular, but they could no longer compete with the top decks in the metagame by win share. And as the decks became stronger, they also became less interactive. The most popular deck used to reach Mythic in Best-of-One Historic plays 
+Persist
+ to reanimate 
+Scholar of the Lost Trove
+ as early as turn two, setting off a chain of spells that ends the game. The other top decks, even in Best-of-Three Historic, forgo interaction in favor of linear consistency. Eldrazi, Boros Energy, Val Combo, Lotus Field Combo, and to a lesser extent Auras are all decks that can end the game in short order without clear counterplay apart from "enact my strategy even faster."
+4 Trelasarra, Moon Dancer
+4 Val, Marooned Surveyor
+4 A-Guide of Souls
+4 Prosperous Innkeeper
+4 Soul Warden
+2 Sylvan Safekeeper
+2 Birds of Paradise
+2 Delighted Halfling
+4 Green Sun's Zenith
+4 Break Out
+2 Birthing Ritual
+2 Chord of Calling
+4 Stomping Ground
+4 Mana Confluence
+3 Sacred Foundry
+3 Inspiring Vantage
+2 Temple Garden
+2 Razorverge Thicket
+2 Starting Town
+1 Hushwood Verge
+1 Copperline Gorge
+These bans aim to address the format's clearest power and play pattern outliers. Val Combo is addressed with a rebalance to 
+Val, Marooned Surveyor
+ and is discussed in the Alchemy section above.
+On Bans in Historic
+4 Sowing Mycospawn
+4 Nulldrifter
+4 Devourer of Destiny
+2 Sire of Seven Deaths
+2 Emrakul, the Promised End
+2 Ugin, Eye of the Storms
+4 Kozilek's Command
+4 Utopia Sprawl
+4 Malevolent Rumble
+3 Ugin's Binding
+4 Talisman of Curiosity
+4 Breeding Pool
+4 Eldrazi Temple
+4 Ugin's Labyrinth
+3 Prismatic Vista
+4 Forest
+1 Island
+1 Shifting Woodland
+1 Blast Zone
+1 Sanctum of Ugin
+3 Cavern of Souls
+4 Consign to Memory
+4 Surgical Extraction
+2 Torpor Orb
+2 Dismember
+Eldrazi is the most dominant strategy in the high ranks of Historic and comes in a variety of flavors, all powered by the ramp from 
+Ugin's Labyrinth
+ and 
+Eldrazi Temple
+. This redundancy is key to the consistency and power of the strategy. We are choosing to ban Eldrazi Temple, as Ugin's Labyrinth has other applications in the format outside of the Eldrazi shell. We believe an Eldrazi deck without Eldrazi Temple can still be a reasonable strategy in Historic without pushing out slower strategies, as it was between the release of 
+Modern Horizons 3
+ and 
+Edge of Eternities
+.
+4 Stadium Headliner
+4 A-Ocelot Pride
+4 Amped Raptor
+4 Esper Sentinel
+4 Ajani, Nacatl Pariah
+4 A-Guide of Souls
+2 White Orchid Phantom
+4 Goblin Bombardment
+4 A-Galvanic Discharge
+2 Static Prison
+2 Fragment Reality
+4 Sacred Foundry
+4 Needleverge Pathway
+4 Sunbaked Canyon
+4 Inspiring Vantage
+2 Battlefield Forge
+2 Plains
+1 Sokenzan, Crucible of Defiance
+1 Eiganjo, Seat of the Empire
+2 Thraben Charm
+2 Thought Partition
+2 Invasion of Gobakhan
+2 White Orchid Phantom
+2 Seam Rip
+1 Lurrus of the Dream-Den
+1 Pithing Needle
+1 Wrath of the Skies
+1 Stone of Erech
+1 Surgical Extraction
+Boros Energy has been making waves in Historic since the release of 
+Modern Horizons 3
+. Despite adjustments to 
+Galvanic Discharge
+, 
+Guide of Souls
+, and 
+Ocelot Pride
+, the sheer card quality of the deck continues to propel it to a win rate of well over 60% at all segments of the ladder. The individual card we believe to be the largest rate outlier is 
+Ajani, Nacatl Pariah
+. As a two-drop that is nearly impossible to trade profitably against, Ajani is responsible for many wins on the back of his transformation and many more simply by attacking and blocking. Though this ban will impact other white-based strategies outside of Energy, we believe it is necessary to lower the ceiling of the format.
+4 Hidden Strings
+4 Crop Rotation
+1 Fae of Wishes
+4 Artist's Talent
+4 Pore Over the Pages
+4 Stifle
+4 Stock Up
+4 Consign to Memory
+4 Ponder
+3 Lorien Revealed
+3 Underworld Breach
+1 Wish
+4 Lotus Field
+4 Mana Confluence
+3 Starting Town
+2 Deserted Temple
+2 Island
+1 Otawara, Soaring City
+1 Breeding Pool
+1 Hallowed Fountain
+1 Waterlogged Grove
+1 Steam Vents
+1 Bojuka Bog
+3 Divine Purge
+2 Orim's Chant
+2 Fragment Reality
+1 Tendrils of Agony
+1 Tome Scour
+1 Underworld Breach
+1 Jace, Wielder of Mysteries
+1 Temporary Lockdown
+1 Grapeshot
+1 Lurrus of the Dream-Den
+We initially did not pre-ban 
+Crop Rotation
+ from Historic as an experiment to see if it could function in a reasonable power band in a format without 
+Magic
+'s most-powerful lands, like 
+Gaea's Cradle
+. After a stint where it fueled a resurgence of 
+Lotus Field
+ Combo, we became confident that a forward-facing ban was necessary, especially as more lands like 
+Dark Depths
+ are added to 
+MTG Arena
+. The constraints that Crop Rotation places on Historic's design space are simply too large.
+4 Conspiracy Unraveler
+4 Scholar of the Lost Trove
+2 Glasspool Mimic
+1 Jace, Wielder of Mysteries
+4 Otherworldly Gaze
+4 Izzet Charm
+4 Breach the Multiverse
+4 Faithless Looting
+4 Persist
+4 Life // Death
+4 Emergent Ultimatum
+2 Expropriate
+4 Mana Confluence
+3 Blackcleave Cliffs
+3 Spirebluff Canal
+2 Darkslick Shores
+2 Underground River
+2 Starting Town
+1 Mountain
+1 Shivan Reef
+1 Sulfurous Springs
+Lastly, we are unhappy with the extreme polarity of the Scholar Combo deck and are banning 
+Scholar of the Lost Trove
+ to reduce the number of best-of-one games that end abruptly. It's possible that a different creature will come along that fits into the same reanimation shell, and in that case, we will re-examine the tools in Historic that allow for efficient reanimation. At the same time, we hope that our unbans will give players some options to turn to against powerful graveyard strategies, even in Best-of-One Historic.
+On Unbans in Historic
+These unbans break some of our long-standing heuristics in favor of adding clear counterplay against dominant strategies now and in the future. Though there are some free spells remaining on the banned list that could be unbanned from a power-level standpoint, we didn't see a positive role for those cards in the metagame and are keeping them banned for complexity's sake.
+Overall, Historic's threats far outpace its answers, contributing to its status as a linear, noninteractive format at the higher levels of competition. A recurring theme of these changes is the ability for players to have obvious options for counterplay against these powerful strategies, and as part of that, the ability to address threats efficiently is critical. 
+Force of Negation
+ offers the ability to stop a combo or game-ending spell without snowballing your own game plan, making it an excellent reactive card that can hopefully prop up slower decks. 
+Endurance
+ does the same against graveyard-based combos while being a main deckable creature in best-of-one. With bans taking the current top strategies down a notch, one linear deck with the potential to become problematic in the future is Affinity. 
+Force of Vigor
+ offers clear sideboard counterplay against that and similar strategies that rely on artifacts and enchantments, which would otherwise be difficult to trade favorably against.
+One of the key pain points of Eldrazi's dominance was the lack of options to turn to against its powerful nonbasic lands. Modern, for example, has historically relied on catch-all land-hate effects like 
+Blood Moon
+ that are unavailable in Historic to combat powerful land-based strategies. We believe that 
+Magus of the Moon
+ and 
+Harbinger of the Seas
+ offer the right amount of interactivity against current and future land decks while inflicting minimum damage to the more casual Historic scene. These creatures are generally easier to remove than an enchantment like Blood Moon while being clear and effective options against nonbasic land-centric strategies. We see the additional effect of making basics matter more as another plus in an Eternal format.
+In addition, we are unbanning two cards that are relics of past versions of Historic and we believe would be fine or offer positive content in current Historic. 
+Wilderness Reclamation
+ was troublesome when the top of the format was closer to Pioneer's power level. But now, it has to live alongside more powerful strategies. 
+Agent of Treachery
+ was banned in large part due to its use alongside 
+Winota, Joiner of Forces
+, who is no longer a problem both due to the format's evolution and a rebalance.
+Going forward, we intend to prioritize power level and play pattern on a card-by-card basis over our past heuristics when evaluating Historic legality for new additions to 
+MTG Arena
+. Cards like 
+Force of Negation
+ and 
+Endurance
+ that can contribute to a healthier metagame will no longer be pre-banned, as they were in the past. For all of these changes, we will keep a close eye on how the format develops and continue to adjust things as necessary.
+Timeless
+Written by Arya Karamchandani
+Necropotence
+ is restricted.
+With Arena Championship 10 in December, Timeless has been under a good deal of competitive pressure, and Mono-Black 
+Necropotence
+ variants have emerged as the clear strongest decks. The strategy pairs cheap interaction with fast mana and powerful two-card combos like 
+Sorin, Imperious Bloodlord
+ and 
+Saint Elenda
+ to quickly end the game while disrupting opposing game plans. Necropotence has allowed this deck to reliably assemble its combos while making it impossible to compete with on a card-advantage axis. Necropotence had a breakout performance at the Arena Championship and has continued to overperform since.
+4 Grief
+4 Saint Elenda
+1 Atraxa, Grand Unifier
+4 Chrome Mox
+4 Dark Ritual
+4 Entomb
+4 Fell the Profane
+4 March of Wretched Sorrow
+4 Reanimate
+1 Demonic Tutor
+1 Duress
+4 Necrodominance
+4 Necropotence
+4 Sorin, Imperious Bloodlord
+4 Brightclimb Pathway
+4 Concealed Courtyard
+3 Swamp
+2 Bleachbone Verge
+3 Fragment Reality
+3 Vexing Bauble
+2 Duress
+2 Orcish Bowmasters
+2 Surgical Extraction
+2 Voice of Victory
+1 Iona, Shield of Emeria
+While we are willing to give decks a good deal of leeway in Timeless, the 
+Necropotence
+ deck is a clear power-level outlier and requires action. We believe mono-black combo decks will continue to exist after this change, but their consistency and ability to compete on a card-advantage axis will be more in range with the rest of the format. We will continue to monitor developments in the format after this change, scrutinizing 
+Strip Mine
+ decks in particular. Currently, however, none of these decks meet our bar for action in Timeless.
+Brawl
+Written by Daniel Xu
+No changes
+In the wake of our bans last November, Brawl has become a much more hospitable space for commanders at all levels to develop and enact their game plans. At the same time, we've been experimenting with a new competitive Brawl event as a home for those powerful 99 cards that are too much for non-competitive Brawl—the 
+Strip Mine
+s, 
+Ancient Tomb
+s, and 
+Fierce Guardianship
+s of the world. Look out for more updates in the following months as we close in on formally delineating the identities of these two Brawl events.
+        Announcements
+        Bring Two New Secret Lair Drops to Your Multiverse with Reality Fracture
+    Bring Two New Secret Lair Drops to Your Multiverse with Reality Fracture
+        Announcements
+        Banned and Restricted Announcement – October 12, 2026
+    Banned and Restricted Announcement – October 12, 2026
+        Announcements
+        Magic: The Gathering® | Marvel: Darkhold Destiny Emerges April 2027
+    Magic: The Gathering® | Marvel: Darkhold Destiny Emerges April 2027
+Magic: The Gathering Footer
+Find a store
+      Find a store
+Social
+Find
+        Articles
+        Club Support
+        Digital Books
+        Formats
+        Rules
+        Military Support
+Company
+        About
+        Accounts
+        Careers
+        Support
+        Wizards Play Network
+        Affiliate Program Disclosure
+Magic
+        Magic: The Gathering
+        MTG Arena
+        Magic.gg
+        Store & Events Locator
+        Card Database
+        Secret Lair
+        SpellTable
+Brands
+        Dungeons & Dragons
+        Duel Masters
+        Magic: The Gathering
+Terms
+Code of Conduct
+Privacy Policy
+Customer Support
+Fan Content Policy
+DO NOT SELL OR SHARE MY PERSONAL INFORMATION
+Your Privacy Choices
+简体中文
+繁體中文
+Français
+Deutsch
+Italiano
+日本語
+한국어
+Português (Brasil)
+Русский
+Español
+English
+  © 1993-2026 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.

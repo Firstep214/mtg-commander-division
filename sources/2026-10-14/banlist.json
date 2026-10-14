@@ -1,0 +1,148 @@
+{
+ "source": "https://magic.wizards.com/en/banned-restricted-list",
+ "retrieved_utc": "2026-10-14T10:56:58Z",
+ "format": "commander",
+ "banned": [
+  {
+   "name": "Ancestral Recall"
+  },
+  {
+   "name": "Balance"
+  },
+  {
+   "name": "Black Lotus"
+  },
+  {
+   "name": "Chaos Orb"
+  },
+  {
+   "name": "Channel"
+  },
+  {
+   "name": "Dockside Extortionist"
+  },
+  {
+   "name": "Emrakul, the Aeons Torn"
+  },
+  {
+   "name": "Erayo, Soratami Ascendant"
+  },
+  {
+   "name": "Falling Star"
+  },
+  {
+   "name": "Fastbond"
+  },
+  {
+   "name": "Flash"
+  },
+  {
+   "name": "Golos, Tireless Pilgrim"
+  },
+  {
+   "name": "Griselbrand"
+  },
+  {
+   "name": "Hullbreacher"
+  },
+  {
+   "name": "Iona, Shield of Emeria"
+  },
+  {
+   "name": "Karakas"
+  },
+  {
+   "name": "Jeweled Lotus"
+  },
+  {
+   "name": "Leovold, Emissary of Trest"
+  },
+  {
+   "name": "Library of Alexandria"
+  },
+  {
+   "name": "Limited Resources"
+  },
+  {
+   "name": "Mana Crypt"
+  },
+  {
+   "name": "Mox Emerald"
+  },
+  {
+   "name": "Mox Jet"
+  },
+  {
+   "name": "Mox Pearl"
+  },
+  {
+   "name": "Mox Ruby"
+  },
+  {
+   "name": "Mox Sapphire"
+  },
+  {
+   "name": "Nadu, Winged Wisdom"
+  },
+  {
+   "name": "Paradox Engine"
+  },
+  {
+   "name": "Primeval Titan"
+  },
+  {
+   "name": "Prophet of Kruphix"
+  },
+  {
+   "name": "Recurring Nightmare"
+  },
+  {
+   "name": "Rofellos, Llanowar Emissary"
+  },
+  {
+   "name": "Shahrazad"
+  },
+  {
+   "name": "Sundering Titan"
+  },
+  {
+   "name": "Sylvan Primordial"
+  },
+  {
+   "name": "Time Vault"
+  },
+  {
+   "name": "Time Walk"
+  },
+  {
+   "name": "Tinker"
+  },
+  {
+   "name": "Tolarian Academy"
+  },
+  {
+   "name": "Trade Secrets"
+  },
+  {
+   "name": "Upheaval"
+  },
+  {
+   "name": "Yawgmoth's Bargain"
+  }
+ ],
+ "banned_as_companion_only": [
+  {
+   "name": "Lutri, the Spellchaser",
+   "note": "May be in the 99 or be the commander; cannot be used as a companion. Effective 2026-02-09 (Commander B&R announcement Feb 9 2026)."
+  }
+ ],
+ "category_bans": [
+  "All 25 cards with card type Conspiracy",
+  "9 cards referencing playing for ante",
+  "Cards whose art/text/name are racially or culturally offensive (WotC list, all formats)"
+ ],
+ "not_banned_notes": {
+  "Biorhythm": "Unbanned 2026-02-09; now on Game Changers list (still banned in Oathbreaker, separate format)."
+ },
+ "count_named": 42
+}
