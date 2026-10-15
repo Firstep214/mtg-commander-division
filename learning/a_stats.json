@@ -1,0 +1,6223 @@
+[
+ {
+  "f": "playtest_batch1/rot1_g1.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Hallowed Spiritkeeper": [
+    10,
+    3
+   ],
+   "Mentor of the Meek": [
+    14,
+    4
+   ],
+   "Collective Effort": [
+    18,
+    5
+   ],
+   "Valorous Stance": [
+    22,
+    6
+   ],
+   "Mind Stone": [
+    22,
+    6
+   ],
+   "Flawless Maneuver": [
+    26,
+    7
+   ],
+   "Adeline, Resplendent Cathar": [
+    26,
+    7
+   ],
+   "Captain of the Watch": [
+    30,
+    8
+   ],
+   "Benalish Marshal": [
+    34,
+    9
+   ],
+   "Commander's Sphere": [
+    34,
+    9
+   ],
+   "Angel of Invention": [
+    38,
+    10
+   ],
+   "Elspeth Resplendent": [
+    42,
+    11
+   ],
+   "Cathar Commando": [
+    48,
+    12
+   ],
+   "Intangible Virtue": [
+    49,
+    13
+   ],
+   "Hero of Bladehold": [
+    49,
+    13
+   ],
+   "Bennie Bracks, Zoologist": [
+    49,
+    13
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 4,
+   "Stormcatch Mentor": 3,
+   "Bird Illusion Token": 2
+  },
+  "dmgby": {
+   "B": 4,
+   "D": 5
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 26,
+  "myturns": 14,
+  "lastturn": 51
+ },
+ {
+  "f": "playtest_batch1/rot1_g2.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Welcoming Vampire": [
+    12,
+    3
+   ],
+   "Jazal Goldmane": [
+    16,
+    4
+   ],
+   "Hero of Bladehold": [
+    20,
+    5
+   ],
+   "Benalish Marshal": [
+    24,
+    6
+   ],
+   "Dictate of Heliod": [
+    35,
+    9
+   ],
+   "Raise the Alarm": [
+    47,
+    13
+   ],
+   "Bennie Bracks, Zoologist": [
+    48,
+    14
+   ],
+   "Sol Ring": [
+    48,
+    14
+   ],
+   "Felidar Retreat": [
+    50,
+    15
+   ],
+   "Loran of the Third Path": [
+    50,
+    15
+   ],
+   "Generous Gift": [
+    52,
+    16
+   ],
+   "Adeline, Resplendent Cathar": [
+    52,
+    16
+   ],
+   "Secure the Wastes": [
+    53,
+    16
+   ],
+   "Commander's Sphere": [
+    54,
+    17
+   ],
+   "Divine Visitation": [
+    56,
+    18
+   ],
+   "Mind Stone": [
+    56,
+    18
+   ],
+   "Valorous Stance": [
+    58,
+    19
+   ],
+   "Angel of Invention": [
+    58,
+    19
+   ],
+   "Captain of the Watch": [
+    64,
+    22
+   ]
+  },
+  "dmg": {
+   "Frost Titan": 6,
+   "Brago, King Eternal": 12,
+   "Flickerwisp": 3,
+   "Spell Queller": 4,
+   "Human Token": 3,
+   "Angel of Serenity": 5
+  },
+  "dmgby": {
+   "B": 33
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "B",
+  "outturn": 34,
+  "myturns": 24,
+  "lastturn": 68
+ },
+ {
+  "f": "playtest_batch1/rot1_g3.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Path to Exile": [
+    11,
+    2
+   ],
+   "Inspiring Overseer": [
+    12,
+    3
+   ],
+   "Return to Dust": [
+    16,
+    4
+   ],
+   "Felidar Retreat": [
+    20,
+    5
+   ],
+   "Elspeth, Sun's Champion": [
+    24,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    28,
+    7
+   ],
+   "Commander's Sphere": [
+    28,
+    7
+   ],
+   "Skullclamp": [
+    28,
+    7
+   ],
+   "Arcane Signet": [
+    32,
+    8
+   ],
+   "Secure the Wastes": [
+    37,
+    9
+   ],
+   "Flawless Maneuver": [
+    40,
+    10
+   ],
+   "Austere Command": [
+    40,
+    10
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 2,
+   "Charming Prince": 2
+  },
+  "dmgby": {
+   "B": 4
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "winner": "C",
+  "first": "B",
+  "outturn": 24,
+  "myturns": 10,
+  "lostactive": "B",
+  "lastturn": 47
+ },
+ {
+  "f": "playtest_batch1/rot1_g4.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Skullclamp": [
+    2,
+    1
+   ],
+   "Thought Vessel": [
+    6,
+    2
+   ],
+   "Fateful Absence": [
+    10,
+    3
+   ],
+   "Spectral Procession": [
+    14,
+    4
+   ],
+   "Collective Effort": [
+    18,
+    5
+   ],
+   "Sram's Expertise": [
+    22,
+    6
+   ],
+   "Militia Bugler": [
+    22,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    26,
+    7
+   ],
+   "Arcane Signet": [
+    26,
+    7
+   ],
+   "Raise the Alarm": [
+    31,
+    8
+   ],
+   "Resolute Reinforcements": [
+    34,
+    9
+   ],
+   "Flawless Maneuver": [
+    38,
+    10
+   ],
+   "Hero of Bladehold": [
+    38,
+    10
+   ],
+   "Hallowed Spiritkeeper": [
+    42,
+    11
+   ],
+   "Welcoming Vampire": [
+    42,
+    11
+   ],
+   "Weathered Wayfarer": [
+    46,
+    12
+   ],
+   "Mind Stone": [
+    50,
+    13
+   ],
+   "Mother of Runes": [
+    54,
+    14
+   ],
+   "Benevolent Bodyguard": [
+    54,
+    14
+   ],
+   "Divine Visitation": [
+    54,
+    14
+   ],
+   "Austere Command": [
+    60,
+    16
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 6,
+   "Brago, King Eternal": 6,
+   "Stormcatch Mentor": 1,
+   "Butcher of Malakir": 5
+  },
+  "dmgby": {
+   "D": 7,
+   "B": 6,
+   "C": 5
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 31,
+  "myturns": 17,
+  "lastturn": 62
+ },
+ {
+  "f": "playtest_batch1/rot1_g5.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Benevolent Bodyguard": [
+    2,
+    1
+   ],
+   "Intangible Virtue": [
+    6,
+    2
+   ],
+   "Hallowed Spiritkeeper": [
+    10,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    14,
+    4
+   ],
+   "Collective Effort": [
+    18,
+    5
+   ],
+   "Moment of Heroism": [
+    18,
+    5
+   ],
+   "Raise the Alarm": [
+    23,
+    6
+   ],
+   "Increasing Devotion": [
+    26,
+    7
+   ],
+   "Flawless Maneuver": [
+    30,
+    8
+   ],
+   "Tocasia's Welcome": [
+    30,
+    8
+   ],
+   "Cathar Commando": [
+    34,
+    9
+   ],
+   "Knight of the White Orchid": [
+    36,
+    10
+   ],
+   "Hero of Bladehold": [
+    36,
+    10
+   ],
+   "Captain of the Watch": [
+    38,
+    11
+   ]
+  },
+  "dmg": {
+   "Kessig Flamebreather": 1,
+   "Restoration Angel": 6,
+   "Brago, King Eternal": 2,
+   "Mirkwood Bats": 4
+  },
+  "dmgby": {
+   "D": 1,
+   "B": 8,
+   "C": 4
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 19,
+  "myturns": 11,
+  "lastturn": 38
+ },
+ {
+  "f": "playtest_batch1/rot1_g6.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Wayfarer's Bauble": [
+    3,
+    1
+   ],
+   "Staff of the Storyteller": [
+    7,
+    2
+   ],
+   "Jazal Goldmane": [
+    15,
+    4
+   ],
+   "Sol Ring": [
+    15,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    19,
+    5
+   ],
+   "Glorious Anthem": [
+    19,
+    5
+   ],
+   "Angel of Invention": [
+    27,
+    7
+   ],
+   "Return to Dust": [
+    28,
+    7
+   ],
+   "Moment of Heroism": [
+    35,
+    9
+   ],
+   "Loran of the Third Path": [
+    35,
+    9
+   ],
+   "Flawless Maneuver": [
+    39,
+    10
+   ],
+   "Benevolent Bodyguard": [
+    43,
+    11
+   ],
+   "Cathars' Crusade": [
+    47,
+    12
+   ],
+   "Knight of the White Orchid": [
+    51,
+    13
+   ]
+  },
+  "dmg": {
+   "Spirit Token": 1,
+   "Angel of Serenity": 10,
+   "Brago, King Eternal": 6,
+   "Man-o'-War": 4,
+   "Soldier Token": 27
+  },
+  "dmgby": {
+   "C": 1,
+   "B": 47
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 66,
+  "winner": "D",
+  "first": "C",
+  "outturn": 33,
+  "myturns": 13,
+  "lostactive": "D",
+  "lastturn": 66
+ },
+ {
+  "f": "playtest_batch1/rot2_g1.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Benevolent Bodyguard": [
+    1,
+    1
+   ],
+   "Staff of the Storyteller": [
+    5,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    9,
+    3
+   ],
+   "Jazal Goldmane": [
+    13,
+    4
+   ],
+   "Loran of the Third Path": [
+    17,
+    5
+   ],
+   "Captain of the Watch": [
+    21,
+    6
+   ],
+   "Divine Visitation": [
+    25,
+    7
+   ],
+   "Bennie Bracks, Zoologist": [
+    25,
+    7
+   ],
+   "Spectral Procession": [
+    29,
+    8
+   ],
+   "Intangible Virtue": [
+    33,
+    9
+   ],
+   "Elspeth Resplendent": [
+    36,
+    10
+   ],
+   "Welcoming Vampire": [
+    36,
+    10
+   ]
+  },
+  "dmg": {
+   "Spirit Token": 4,
+   "Brago, King Eternal": 6,
+   "Veyran, Voice of Duality": 12,
+   "Sun Titan": 6
+  },
+  "dmgby": {
+   "C": 4,
+   "B": 12,
+   "D": 12
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 40,
+  "winner": "D",
+  "first": "A11",
+  "outturn": 20,
+  "myturns": 10,
+  "lostactive": "D",
+  "lastturn": 40
+ },
+ {
+  "f": "playtest_batch1/rot2_g2.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Fateful Absence": [
+    7,
+    2
+   ],
+   "Spectral Procession": [
+    11,
+    3
+   ],
+   "Rally the Ranks": [
+    15,
+    4
+   ],
+   "Knight of the White Orchid": [
+    15,
+    4
+   ],
+   "Felidar Retreat": [
+    19,
+    5
+   ],
+   "Adeline, Resplendent Cathar": [
+    23,
+    6
+   ],
+   "Emeria Angel": [
+    27,
+    7
+   ],
+   "Glorious Anthem": [
+    31,
+    8
+   ],
+   "Dawn of Hope": [
+    35,
+    9
+   ],
+   "Sigil of the Empty Throne": [
+    39,
+    10
+   ]
+  },
+  "dmg": {
+   "Spirit Token": 3,
+   "Brago, King Eternal": 2,
+   "Teysa Karlov": 2,
+   "Veyran, Voice of Duality": 2,
+   "Haughty Djinn": 13,
+   "Niv-Mizzet, Parun": 5,
+   "Young Pyromancer": 2
+  },
+  "dmgby": {
+   "C": 5,
+   "B": 2,
+   "D": 22
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 66,
+  "winner": "B",
+  "first": "C",
+  "outturn": 33,
+  "myturns": 11,
+  "lostactive": "B",
+  "lastturn": 66
+ },
+ {
+  "f": "playtest_batch1/rot2_g3.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mother of Runes": [
+    7,
+    2
+   ],
+   "Benalish Marshal": [
+    11,
+    3
+   ],
+   "Glorious Anthem": [
+    15,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    19,
+    5
+   ],
+   "Moment of Heroism": [
+    23,
+    6
+   ],
+   "Return to Dust": [
+    28,
+    7
+   ],
+   "Commander's Sphere": [
+    35,
+    9
+   ]
+  },
+  "dmg": {
+   "Carrion Feeder": 3,
+   "Martyr of Dusk": 6,
+   "Midnight Reaper": 9,
+   "Haughty Djinn": 5,
+   "Docent of Perfection": 5,
+   "Drake Token": 4,
+   "Angel of Serenity": 5,
+   "Brago, King Eternal": 2,
+   "Teysa Karlov": 2
+  },
+  "dmgby": {
+   "C": 20,
+   "D": 14,
+   "B": 7
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 42,
+  "winner": "B",
+  "first": "C",
+  "outturn": 21,
+  "myturns": 9,
+  "lostactive": "B",
+  "lastturn": 42
+ },
+ {
+  "f": "playtest_batch1/rot2_g4.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Raise the Alarm": [
+    6,
+    2
+   ],
+   "Swords to Plowshares": [
+    9,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    13,
+    4
+   ],
+   "Tocasia's Welcome": [
+    17,
+    5
+   ],
+   "Loran of the Third Path": [
+    21,
+    6
+   ],
+   "Mother of Runes": [
+    21,
+    6
+   ],
+   "Increasing Devotion": [
+    29,
+    8
+   ],
+   "Bennie Bracks, Zoologist": [
+    37,
+    10
+   ],
+   "Gift of Estates": [
+    37,
+    10
+   ],
+   "Thought Vessel": [
+    37,
+    10
+   ],
+   "Wayfarer's Bauble": [
+    41,
+    11
+   ],
+   "Rally the Ranks": [
+    45,
+    12
+   ],
+   "Moment of Heroism": [
+    45,
+    12
+   ],
+   "Felidar Retreat": [
+    45,
+    12
+   ],
+   "Arcane Signet": [
+    48,
+    13
+   ],
+   "Intangible Virtue": [
+    51,
+    14
+   ],
+   "Staff of the Storyteller": [
+    51,
+    14
+   ],
+   "Divine Visitation": [
+    54,
+    15
+   ],
+   "Secure the Wastes": [
+    55,
+    15
+   ],
+   "Inspired Charge": [
+    56,
+    16
+   ]
+  },
+  "dmg": {
+   "Teysa Karlov": 4,
+   "Veyran, Voice of Duality": 14,
+   "Cloudblazer": 4,
+   "Frost Titan": 6,
+   "Nadier's Nightblade": 1,
+   "Spirit Token": 4,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "C": 9,
+   "D": 14,
+   "B": 12
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 56,
+  "winner": "C",
+  "first": "A11",
+  "outturn": 28,
+  "myturns": 16,
+  "lostactive": "A11",
+  "lastturn": 56
+ },
+ {
+  "f": "playtest_batch1/rot2_g5.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Selfless Spirit": [
+    5,
+    2
+   ],
+   "Hallowed Spiritkeeper": [
+    9,
+    3
+   ],
+   "Rabble Rousing": [
+    13,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    17,
+    5
+   ],
+   "Inspired Charge": [
+    21,
+    6
+   ],
+   "Arcane Signet": [
+    21,
+    6
+   ],
+   "Benevolent Bodyguard": [
+    21,
+    6
+   ],
+   "Sigil of the Empty Throne": [
+    25,
+    7
+   ],
+   "Resolute Reinforcements": [
+    29,
+    8
+   ],
+   "Emeria Angel": [
+    33,
+    9
+   ],
+   "Elspeth, Sun's Champion": [
+    37,
+    10
+   ]
+  },
+  "dmg": {
+   "Charming Prince": 2,
+   "Restoration Angel": 3,
+   "Brago, King Eternal": 6,
+   "Mirkwood Bats": 6,
+   "Murmuring Mystic": 1,
+   "Bird Illusion Token": 6,
+   "Kor Skyfisher": 4,
+   "Veyran, Voice of Duality": 2,
+   "Elenda, the Dusk Rose": 3
+  },
+  "dmgby": {
+   "B": 15,
+   "C": 9,
+   "D": 9
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 46,
+  "winner": "C",
+  "first": "A11",
+  "outturn": 23,
+  "myturns": 10,
+  "lostactive": "B",
+  "lastturn": 46
+ },
+ {
+  "f": "playtest_batch1/rot2_g6.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(4)-A11 has mulliganed down to 6 cards.",
+   "Mulligan: Ai(4)-A11 has kept a hand of 6 cards"
+  ],
+  "cast": {
+   "Sol Ring": [
+    3,
+    1
+   ],
+   "Militia Bugler": [
+    7,
+    2
+   ],
+   "Rabble Rousing": [
+    11,
+    3
+   ],
+   "Fateful Absence": [
+    15,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    15,
+    4
+   ],
+   "Sigil of the Empty Throne": [
+    19,
+    5
+   ],
+   "Selfless Spirit": [
+    23,
+    6
+   ],
+   "Arcane Signet": [
+    27,
+    7
+   ],
+   "Dawn of Hope": [
+    39,
+    10
+   ],
+   "Cathar Commando": [
+    39,
+    10
+   ],
+   "Generous Gift": [
+    47,
+    12
+   ],
+   "Bennie Bracks, Zoologist": [
+    51,
+    13
+   ],
+   "Jazal Goldmane": [
+    55,
+    14
+   ],
+   "Tocasia's Welcome": [
+    55,
+    14
+   ],
+   "Path to Exile": [
+    59,
+    15
+   ]
+  },
+  "dmg": {
+   "Teysa Karlov": 4,
+   "Veyran, Voice of Duality": 8,
+   "Final Iteration": 6,
+   "Human Wizard Token": 18,
+   "Soldier Token": 9
+  },
+  "dmgby": {
+   "C": 4,
+   "D": 41
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 66,
+  "winner": "C",
+  "first": "C",
+  "outturn": 33,
+  "myturns": 16,
+  "lostactive": "C",
+  "lastturn": 66
+ },
+ {
+  "f": "playtest_batch1/rot3_g1.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Skullclamp": [
+    3,
+    1
+   ],
+   "Dawn of Hope": [
+    7,
+    2
+   ],
+   "Valorous Stance": [
+    11,
+    3
+   ],
+   "Path to Exile": [
+    14,
+    3
+   ],
+   "Benalish Marshal": [
+    15,
+    4
+   ],
+   "Cathars' Crusade": [
+    19,
+    5
+   ],
+   "Adeline, Resplendent Cathar": [
+    23,
+    6
+   ],
+   "Archivist of Oghma": [
+    23,
+    6
+   ],
+   "Angel of Invention": [
+    31,
+    8
+   ],
+   "Rally the Ranks": [
+    31,
+    8
+   ],
+   "Loran of the Third Path": [
+    39,
+    10
+   ]
+  },
+  "dmg": {},
+  "dmgby": {},
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 21,
+  "myturns": 11,
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch1/rot3_g2.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Resolute Reinforcements": [
+    7,
+    2
+   ],
+   "Intangible Virtue": [
+    11,
+    3
+   ],
+   "Hallowed Spiritkeeper": [
+    15,
+    4
+   ],
+   "Collective Effort": [
+    19,
+    5
+   ],
+   "Cathars' Crusade": [
+    23,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    27,
+    7
+   ],
+   "Gift of Estates": [
+    27,
+    7
+   ],
+   "Jazal Goldmane": [
+    31,
+    8
+   ],
+   "Dawn of Hope": [
+    34,
+    9
+   ],
+   "Inspired Charge": [
+    37,
+    10
+   ]
+  },
+  "dmg": {},
+  "dmgby": {},
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 19,
+  "myturns": 10,
+  "lastturn": 37
+ },
+ {
+  "f": "playtest_batch1/rot3_g3.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Sol Ring": [
+    1,
+    1
+   ],
+   "Militia Bugler": [
+    5,
+    2
+   ],
+   "Dictate of Heliod": [
+    9,
+    3
+   ],
+   "Benalish Marshal": [
+    13,
+    4
+   ],
+   "Gift of Estates": [
+    13,
+    4
+   ],
+   "Divine Visitation": [
+    17,
+    5
+   ],
+   "Adeline, Resplendent Cathar": [
+    21,
+    6
+   ],
+   "Weathered Wayfarer": [
+    21,
+    6
+   ],
+   "Inspired Charge": [
+    33,
+    9
+   ],
+   "Austere Command": [
+    36,
+    10
+   ],
+   "Increasing Devotion": [
+    38,
+    11
+   ],
+   "Secure the Wastes": [
+    39,
+    11
+   ],
+   "Generous Gift": [
+    40,
+    12
+   ]
+  },
+  "dmg": {
+   "Restoration Angel": 6,
+   "Docent of Perfection": 10,
+   "Dream Trawler": 5
+  },
+  "dmgby": {
+   "B": 11,
+   "D": 10
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 21,
+  "myturns": 13,
+  "lastturn": 42
+ },
+ {
+  "f": "playtest_batch1/rot3_g4.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Skullclamp": [
+    3,
+    1
+   ],
+   "Valorous Stance": [
+    7,
+    2
+   ],
+   "Raise the Alarm": [
+    12,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    19,
+    5
+   ],
+   "Welcoming Vampire": [
+    23,
+    6
+   ],
+   "Dictate of Heliod": [
+    27,
+    7
+   ],
+   "Jazal Goldmane": [
+    31,
+    8
+   ],
+   "Wayfarer's Bauble": [
+    38,
+    10
+   ],
+   "Emeria Angel": [
+    41,
+    11
+   ],
+   "Divine Visitation": [
+    44,
+    12
+   ],
+   "Inspiring Overseer": [
+    44,
+    12
+   ],
+   "Collective Effort": [
+    47,
+    13
+   ],
+   "Thought Vessel": [
+    47,
+    13
+   ]
+  },
+  "dmg": {
+   "Liesa, Shroud of Dusk": 5,
+   "Teysa Karlov": 6,
+   "Cruel Celebrant": 2,
+   "Vampire Token": 4,
+   "Brago, King Eternal": 4,
+   "Kor Skyfisher": 2,
+   "Fblthp, the Lost": 1
+  },
+  "dmgby": {
+   "C": 17,
+   "B": 7
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 54,
+  "winner": "B",
+  "first": "C",
+  "outturn": 27,
+  "myturns": 13,
+  "lostactive": "B",
+  "lastturn": 54
+ },
+ {
+  "f": "playtest_batch1/rot3_g5.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Selfless Spirit": [
+    8,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    12,
+    3
+   ],
+   "Emeria Angel": [
+    16,
+    4
+   ],
+   "Angel of Invention": [
+    20,
+    5
+   ],
+   "Inspired Charge": [
+    24,
+    6
+   ],
+   "Return to Dust": [
+    36,
+    9
+   ],
+   "Archivist of Oghma": [
+    39,
+    9
+   ],
+   "Raise the Alarm": [
+    41,
+    10
+   ],
+   "Inspiring Overseer": [
+    44,
+    11
+   ],
+   "Flawless Maneuver": [
+    48,
+    12
+   ]
+  },
+  "dmg": {
+   "Mirkwood Bats": 2,
+   "Teysa Karlov": 2,
+   "Niv-Mizzet, Parun": 5,
+   "Docent of Perfection": 5
+  },
+  "dmgby": {
+   "C": 4,
+   "D": 10
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 48,
+  "winner": "D",
+  "first": "B",
+  "outturn": 24,
+  "myturns": 12,
+  "lostactive": "A11",
+  "lastturn": 48
+ },
+ {
+  "f": "playtest_batch1/rot3_g6.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Hallowed Spiritkeeper": [
+    12,
+    3
+   ],
+   "Generous Gift": [
+    16,
+    4
+   ],
+   "Felidar Retreat": [
+    20,
+    5
+   ],
+   "Elspeth, Sun's Champion": [
+    24,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    32,
+    8
+   ],
+   "Tocasia's Welcome": [
+    32,
+    8
+   ],
+   "Glorious Anthem": [
+    36,
+    9
+   ],
+   "Knight of the White Orchid": [
+    40,
+    10
+   ],
+   "Dawn of Hope": [
+    44,
+    11
+   ],
+   "Swords to Plowshares": [
+    52,
+    13
+   ],
+   "Wayfarer's Bauble": [
+    52,
+    13
+   ],
+   "Mother of Runes": [
+    56,
+    14
+   ],
+   "Collective Effort": [
+    56,
+    14
+   ],
+   "Emeria Angel": [
+    56,
+    14
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 4,
+   "Elephant Token": 6,
+   "Brago, King Eternal": 10,
+   "Spirit Token": 2,
+   "Adeline, Resplendent Cathar": 6,
+   "Requiem Angel": 5,
+   "Spell Queller": 4,
+   "Kor Skyfisher": 2,
+   "Teysa Karlov": 2
+  },
+  "dmgby": {
+   "D": 10,
+   "B": 30,
+   "C": 1
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 69,
+  "winner": "B",
+  "first": "B",
+  "outturn": 35,
+  "myturns": 14,
+  "lostactive": "B",
+  "lastturn": 69
+ },
+ {
+  "f": "playtest_batch1/rot4_g1.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Sol Ring": [
+    4,
+    1
+   ],
+   "Hero of Bladehold": [
+    8,
+    2
+   ],
+   "Militia Bugler": [
+    12,
+    3
+   ],
+   "Valorous Stance": [
+    16,
+    4
+   ],
+   "Welcoming Vampire": [
+    20,
+    5
+   ],
+   "Generous Gift": [
+    24,
+    6
+   ],
+   "Glorious Anthem": [
+    32,
+    8
+   ],
+   "Divine Visitation": [
+    36,
+    9
+   ],
+   "Adeline, Resplendent Cathar": [
+    40,
+    10
+   ],
+   "Loran of the Third Path": [
+    40,
+    10
+   ],
+   "Resolute Reinforcements": [
+    44,
+    11
+   ],
+   "Felidar Retreat": [
+    44,
+    11
+   ],
+   "Knight of the White Orchid": [
+    47,
+    12
+   ],
+   "Inspiring Overseer": [
+    50,
+    13
+   ],
+   "Swords to Plowshares": [
+    50,
+    13
+   ],
+   "Rabble Rousing": [
+    50,
+    13
+   ]
+  },
+  "dmg": {
+   "Carrion Feeder": 4,
+   "Cruel Celebrant": 1,
+   "Sun Titan": 6,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "C": 5,
+   "B": 8
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "B",
+  "outturn": 26,
+  "myturns": 14,
+  "lastturn": 52
+ },
+ {
+  "f": "playtest_batch1/rot4_g2.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Wayfarer's Bauble": [
+    6,
+    2
+   ],
+   "Mentor of the Meek": [
+    14,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    18,
+    5
+   ],
+   "Inspired Charge": [
+    22,
+    6
+   ],
+   "Mind Stone": [
+    22,
+    6
+   ],
+   "Collective Effort": [
+    26,
+    7
+   ],
+   "Sigil of the Empty Throne": [
+    26,
+    7
+   ],
+   "Divine Visitation": [
+    30,
+    8
+   ],
+   "Secure the Wastes": [
+    31,
+    8
+   ],
+   "Arcane Signet": [
+    34,
+    9
+   ],
+   "Archivist of Oghma": [
+    37,
+    9
+   ],
+   "Staff of the Storyteller": [
+    38,
+    10
+   ]
+  },
+  "dmg": {
+   "Guttersnipe": 2,
+   "Soldier Token": 3
+  },
+  "dmgby": {
+   "D": 5
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 40,
+  "winner": "D",
+  "first": "D",
+  "outturn": 20,
+  "myturns": 10,
+  "lostactive": "D",
+  "lastturn": 40
+ },
+ {
+  "f": "playtest_batch1/rot4_g3.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has mulliganed down to 6 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 6 cards"
+  ],
+  "cast": {
+   "Benevolent Bodyguard": [
+    2,
+    1
+   ],
+   "Moment of Heroism": [
+    10,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    14,
+    4
+   ],
+   "Valorous Stance": [
+    22,
+    6
+   ],
+   "Sram's Expertise": [
+    22,
+    6
+   ],
+   "Mind Stone": [
+    22,
+    6
+   ],
+   "Intangible Virtue": [
+    26,
+    7
+   ],
+   "Wayfarer's Bauble": [
+    34,
+    9
+   ],
+   "Mother of Runes": [
+    38,
+    10
+   ],
+   "Sol Ring": [
+    42,
+    11
+   ],
+   "Inspired Charge": [
+    46,
+    12
+   ],
+   "Commander's Sphere": [
+    50,
+    13
+   ],
+   "Mentor of the Meek": [
+    54,
+    14
+   ]
+  },
+  "dmg": {
+   "Spirit Token": 40,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "C": 40,
+   "B": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 86,
+  "winner": "B",
+  "first": "D",
+  "outturn": 43,
+  "myturns": 14,
+  "lostactive": "B",
+  "lastturn": 86
+ },
+ {
+  "f": "playtest_batch1/rot4_g4.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Adeline, Resplendent Cathar": [
+    10,
+    3
+   ],
+   "Emeria Angel": [
+    14,
+    4
+   ],
+   "Cathars' Crusade": [
+    18,
+    5
+   ],
+   "Benevolent Bodyguard": [
+    22,
+    6
+   ],
+   "Archivist of Oghma": [
+    26,
+    7
+   ],
+   "Hero of Bladehold": [
+    30,
+    8
+   ],
+   "Increasing Devotion": [
+    33,
+    9
+   ],
+   "Inspiring Overseer": [
+    35,
+    10
+   ],
+   "Weathered Wayfarer": [
+    35,
+    10
+   ],
+   "Dictate of Heliod": [
+    37,
+    11
+   ],
+   "Collective Effort": [
+    41,
+    13
+   ],
+   "Glorious Anthem": [
+    41,
+    13
+   ]
+  },
+  "dmg": {
+   "Stormcatch Mentor": 1,
+   "Falkenrath Noble": 2,
+   "Drake Token": 16,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "D": 17,
+   "C": 2,
+   "B": 2
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 21,
+  "myturns": 13,
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch1/rot4_g5.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Raise the Alarm": [
+    6,
+    2
+   ],
+   "Glorious Anthem": [
+    9,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    13,
+    4
+   ],
+   "Divine Visitation": [
+    17,
+    5
+   ],
+   "Hero of Bladehold": [
+    25,
+    7
+   ],
+   "Inspiring Overseer": [
+    25,
+    7
+   ]
+  },
+  "dmg": {
+   "Bartolom\u00e9 del Presidio": 4,
+   "Firebrand Archer": 4,
+   "Zulaport Cutthroat": 1,
+   "Haughty Djinn": 19,
+   "Dream Trawler": 5,
+   "Brago, King Eternal": 2,
+   "Crackling Drake": 8
+  },
+  "dmgby": {
+   "C": 5,
+   "D": 31,
+   "B": 7
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 42,
+  "winner": "B",
+  "first": "A11",
+  "outturn": 21,
+  "myturns": 7,
+  "lostactive": "B",
+  "lastturn": 42
+ },
+ {
+  "f": "playtest_batch1/rot4_g6.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Rally the Ranks": [
+    8,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    12,
+    3
+   ],
+   "Staff of the Storyteller": [
+    16,
+    4
+   ],
+   "Intangible Virtue": [
+    16,
+    4
+   ],
+   "Collective Effort": [
+    20,
+    5
+   ],
+   "Thought Vessel": [
+    24,
+    6
+   ],
+   "Raise the Alarm": [
+    25,
+    6
+   ],
+   "Captain of the Watch": [
+    28,
+    7
+   ],
+   "Angel of Invention": [
+    32,
+    8
+   ],
+   "Resolute Reinforcements": [
+    36,
+    9
+   ],
+   "Jazal Goldmane": [
+    36,
+    9
+   ]
+  },
+  "dmg": {
+   "Venser, Shaper Savant": 2
+  },
+  "dmgby": {
+   "B": 2
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "B",
+  "outturn": 21,
+  "myturns": 11,
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch2/g01.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Thought Vessel": [
+    8,
+    2
+   ],
+   "Loran of the Third Path": [
+    12,
+    3
+   ],
+   "Intangible Virtue": [
+    16,
+    4
+   ],
+   "Emeria Angel": [
+    20,
+    5
+   ],
+   "Flawless Maneuver": [
+    24,
+    6
+   ],
+   "Weathered Wayfarer": [
+    24,
+    6
+   ],
+   "Angel of Invention": [
+    28,
+    7
+   ],
+   "Resolute Reinforcements": [
+    32,
+    8
+   ],
+   "Glorious Anthem": [
+    32,
+    8
+   ],
+   "Inspired Charge": [
+    36,
+    9
+   ],
+   "Captain of the Watch": [
+    40,
+    10
+   ],
+   "Adeline, Resplendent Cathar": [
+    46,
+    12
+   ],
+   "Gift of Estates": [
+    49,
+    13
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 2,
+   "Mulldrifter": 4,
+   "Veyran, Voice of Duality": 8,
+   "Angel of Serenity": 5,
+   "Dream Trawler": 6,
+   "Glen Elendra Archmage": 1,
+   "Requiem Angel": 5,
+   "Elas il-Kor, Sadistic Pilgrim": 2
+  },
+  "dmgby": {
+   "B": 18,
+   "D": 8,
+   "C": 7
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "B",
+  "outturn": 26,
+  "myturns": 14,
+  "lastturn": 51
+ },
+ {
+  "f": "playtest_batch2/g02.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Skullclamp": [
+    4,
+    1
+   ],
+   "Knight of the White Orchid": [
+    8,
+    2
+   ],
+   "Mentor of the Meek": [
+    12,
+    3
+   ],
+   "Glorious Anthem": [
+    16,
+    4
+   ],
+   "Secure the Wastes": [
+    21,
+    5
+   ],
+   "Return to Dust": [
+    24,
+    6
+   ],
+   "Welcoming Vampire": [
+    28,
+    7
+   ],
+   "Cathars' Crusade": [
+    32,
+    8
+   ],
+   "Adeline, Resplendent Cathar": [
+    36,
+    9
+   ],
+   "Cathar Commando": [
+    40,
+    10
+   ],
+   "Archivist of Oghma": [
+    40,
+    10
+   ],
+   "Tocasia's Welcome": [
+    44,
+    11
+   ],
+   "Mother of Runes": [
+    48,
+    12
+   ]
+  },
+  "dmg": {
+   "Vampire Token": 2,
+   "Angel of Serenity": 5,
+   "Brago, King Eternal": 6,
+   "Cloudblazer": 6,
+   "Welcoming Vampire": 10,
+   "Docent of Perfection": 10,
+   "Human Wizard Token": 1,
+   "Soldier Token": 3
+  },
+  "dmgby": {
+   "C": 2,
+   "B": 41
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 60,
+  "winner": "B",
+  "first": "B",
+  "outturn": 30,
+  "myturns": 12,
+  "lostactive": "B",
+  "lastturn": 60
+ },
+ {
+  "f": "playtest_batch2/g03.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has mulliganed down to 6 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 6 cards"
+  ],
+  "cast": {
+   "Resolute Reinforcements": [
+    7,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    11,
+    3
+   ],
+   "Felidar Retreat": [
+    19,
+    5
+   ],
+   "Rabble Rousing": [
+    23,
+    6
+   ],
+   "Divine Visitation": [
+    27,
+    7
+   ],
+   "White Sun's Twilight": [
+    35,
+    9
+   ]
+  },
+  "dmg": {
+   "Yahenni, Undying Partisan": 30,
+   "Priest of Forgotten Gods": 1,
+   "Teysa Karlov": 4,
+   "Veyran, Voice of Duality": 2,
+   "Frost Titan": 6,
+   "Sea Gate Oracle": 1
+  },
+  "dmgby": {
+   "C": 35,
+   "D": 2,
+   "B": 7
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 64,
+  "winner": "B",
+  "first": "C",
+  "outturn": 32,
+  "myturns": 9,
+  "lostactive": "B",
+  "lastturn": 64
+ },
+ {
+  "f": "playtest_batch2/g04.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Staff of the Storyteller": [
+    6,
+    2
+   ],
+   "Path to Exile": [
+    10,
+    3
+   ],
+   "Thought Vessel": [
+    10,
+    3
+   ],
+   "Fateful Absence": [
+    14,
+    4
+   ],
+   "Militia Bugler": [
+    14,
+    4
+   ],
+   "Cathars' Crusade": [
+    18,
+    5
+   ],
+   "Emeria Angel": [
+    22,
+    6
+   ],
+   "Jazal Goldmane": [
+    26,
+    7
+   ],
+   "Adeline, Resplendent Cathar": [
+    34,
+    9
+   ],
+   "Glorious Anthem": [
+    38,
+    10
+   ],
+   "Dictate of Heliod": [
+    45,
+    12
+   ],
+   "Mentor of the Meek": [
+    47,
+    13
+   ]
+  },
+  "dmg": {
+   "Doomed Traveler": 2,
+   "Veyran, Voice of Duality": 6,
+   "Man-o'-War": 2,
+   "Glen Elendra Archmage": 2,
+   "Carrion Feeder": 4
+  },
+  "dmgby": {
+   "C": 6,
+   "D": 6,
+   "B": 4
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 24,
+  "myturns": 13,
+  "lastturn": 47
+ },
+ {
+  "f": "playtest_batch2/g05.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Weathered Wayfarer": [
+    1,
+    1
+   ],
+   "Knight of the White Orchid": [
+    5,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    9,
+    3
+   ],
+   "Swords to Plowshares": [
+    13,
+    4
+   ],
+   "Staff of the Storyteller": [
+    13,
+    4
+   ],
+   "Valorous Stance": [
+    17,
+    5
+   ],
+   "Militia Bugler": [
+    21,
+    6
+   ],
+   "Mentor of the Meek": [
+    29,
+    8
+   ],
+   "Bennie Bracks, Zoologist": [
+    29,
+    8
+   ],
+   "Emeria Angel": [
+    37,
+    10
+   ],
+   "Jazal Goldmane": [
+    41,
+    11
+   ],
+   "Arcane Signet": [
+    41,
+    11
+   ],
+   "Intangible Virtue": [
+    45,
+    12
+   ],
+   "Sram's Expertise": [
+    49,
+    13
+   ],
+   "Inspiring Overseer": [
+    49,
+    13
+   ],
+   "Increasing Devotion": [
+    54,
+    15
+   ]
+  },
+  "dmg": {
+   "Frost Titan": 12,
+   "Brago, King Eternal": 4
+  },
+  "dmgby": {
+   "B": 16
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 28,
+  "myturns": 16,
+  "lastturn": 56
+ },
+ {
+  "f": "playtest_batch2/g06.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Weathered Wayfarer": [
+    3,
+    1
+   ],
+   "Intangible Virtue": [
+    7,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    11,
+    3
+   ],
+   "Tocasia's Welcome": [
+    15,
+    4
+   ],
+   "Commander's Sphere": [
+    19,
+    5
+   ],
+   "Hallowed Spiritkeeper": [
+    23,
+    6
+   ],
+   "Secure the Wastes": [
+    28,
+    7
+   ],
+   "Dictate of Heliod": [
+    31,
+    8
+   ],
+   "White Sun's Twilight": [
+    35,
+    9
+   ],
+   "Cathars' Crusade": [
+    39,
+    10
+   ],
+   "Dawn of Hope": [
+    39,
+    10
+   ],
+   "Jazal Goldmane": [
+    42,
+    11
+   ],
+   "Spectral Procession": [
+    42,
+    11
+   ],
+   "Sram's Expertise": [
+    45,
+    12
+   ],
+   "Mind Stone": [
+    45,
+    12
+   ],
+   "Increasing Devotion": [
+    48,
+    13
+   ],
+   "Sigil of the Empty Throne": [
+    50,
+    14
+   ],
+   "Mother of Runes": [
+    50,
+    14
+   ],
+   "Collective Effort": [
+    50,
+    14
+   ],
+   "Wayfarer's Bauble": [
+    52,
+    15
+   ],
+   "Raise the Alarm": [
+    55,
+    16
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 10,
+   "Human Token": 1,
+   "Solemn Simulacrum": 2
+  },
+  "dmgby": {
+   "B": 13
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 28,
+  "myturns": 17,
+  "lastturn": 56
+ },
+ {
+  "f": "playtest_batch2/g07.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Swords to Plowshares": [
+    5,
+    1
+   ],
+   "Mentor of the Meek": [
+    12,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    16,
+    4
+   ],
+   "Angel of Invention": [
+    20,
+    5
+   ],
+   "Spectral Procession": [
+    24,
+    6
+   ],
+   "Dawn of Hope": [
+    24,
+    6
+   ],
+   "Rabble Rousing": [
+    28,
+    7
+   ],
+   "Hero of Bladehold": [
+    32,
+    8
+   ],
+   "Commander's Sphere": [
+    36,
+    9
+   ],
+   "Knight of the White Orchid": [
+    40,
+    10
+   ],
+   "Intangible Virtue": [
+    51,
+    13
+   ],
+   "Emeria Angel": [
+    53,
+    14
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 7,
+   "Angel of Serenity": 5,
+   "Reflector Mage": 5,
+   "Knight of the White Orchid": 3,
+   "Hero of Bladehold": 3,
+   "Restoration Angel": 4,
+   "Spell Queller": 3,
+   "Agent of Treachery": 3,
+   "Soldier Token": 12,
+   "Human Token": 3
+  },
+  "dmgby": {
+   "B": 48
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 54,
+  "winner": "B",
+  "first": "B",
+  "outturn": 27,
+  "myturns": 14,
+  "lostactive": "B",
+  "lastturn": 54
+ },
+ {
+  "f": "playtest_batch2/g08.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mother of Runes": [
+    3,
+    1
+   ],
+   "Thought Vessel": [
+    7,
+    2
+   ],
+   "Welcoming Vampire": [
+    11,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    15,
+    4
+   ],
+   "Inspiring Overseer": [
+    19,
+    5
+   ],
+   "Path to Exile": [
+    19,
+    5
+   ],
+   "Elspeth, Sun's Champion": [
+    23,
+    6
+   ],
+   "Divine Visitation": [
+    27,
+    7
+   ],
+   "Felidar Retreat": [
+    31,
+    8
+   ],
+   "Sram's Expertise": [
+    31,
+    8
+   ],
+   "Benalish Marshal": [
+    35,
+    9
+   ],
+   "Spectral Procession": [
+    43,
+    11
+   ],
+   "Jazal Goldmane": [
+    43,
+    11
+   ]
+  },
+  "dmg": {
+   "Elephant Token": 4,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "C": 4,
+   "B": 2
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 26,
+  "myturns": 14,
+  "lastturn": 52
+ },
+ {
+  "f": "playtest_batch2/g09.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Swords to Plowshares": [
+    5,
+    1
+   ],
+   "Intangible Virtue": [
+    6,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    10,
+    3
+   ],
+   "Loran of the Third Path": [
+    14,
+    4
+   ],
+   "Commander's Sphere": [
+    18,
+    5
+   ],
+   "Mother of Runes": [
+    18,
+    5
+   ],
+   "Glorious Anthem": [
+    22,
+    6
+   ],
+   "Increasing Devotion": [
+    26,
+    7
+   ],
+   "Divine Visitation": [
+    30,
+    8
+   ],
+   "Gift of Estates": [
+    34,
+    9
+   ],
+   "Felidar Retreat": [
+    38,
+    10
+   ],
+   "Mind Stone": [
+    38,
+    10
+   ],
+   "Cathar Commando": [
+    39,
+    10
+   ],
+   "Valorous Stance": [
+    46,
+    12
+   ],
+   "Benevolent Bodyguard": [
+    50,
+    13
+   ]
+  },
+  "dmg": {
+   "Haughty Djinn": 14,
+   "Talrand, Sky Summoner": 2,
+   "Angel of Serenity": 5,
+   "Veyran, Voice of Duality": 10
+  },
+  "dmgby": {
+   "D": 26,
+   "B": 5
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 74,
+  "winner": "C",
+  "first": "D",
+  "outturn": 37,
+  "myturns": 13,
+  "lostactive": "B",
+  "lastturn": 74
+ },
+ {
+  "f": "playtest_batch2/g10.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has mulliganed down to 6 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 6 cards"
+  ],
+  "cast": {
+   "Resolute Reinforcements": [
+    6,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    10,
+    3
+   ],
+   "Gift of Estates": [
+    14,
+    4
+   ],
+   "Increasing Devotion": [
+    18,
+    5
+   ],
+   "Return to Dust": [
+    22,
+    6
+   ],
+   "Rally the Ranks": [
+    22,
+    6
+   ],
+   "Elspeth, Sun's Champion": [
+    26,
+    7
+   ],
+   "Skullclamp": [
+    30,
+    8
+   ],
+   "Sigil of the Empty Throne": [
+    30,
+    8
+   ],
+   "Hallowed Spiritkeeper": [
+    38,
+    10
+   ],
+   "Moment of Heroism": [
+    42,
+    11
+   ],
+   "Militia Bugler": [
+    46,
+    12
+   ],
+   "Jazal Goldmane": [
+    54,
+    14
+   ]
+  },
+  "dmg": {
+   "Stormcatch Mentor": 2,
+   "Dream Trawler": 5,
+   "Sun Titan": 6,
+   "Brago, King Eternal": 6,
+   "Spell Queller": 8,
+   "Flickerwisp": 5
+  },
+  "dmgby": {
+   "D": 2,
+   "B": 30
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 80,
+  "winner": "D",
+  "first": "D",
+  "outturn": 40,
+  "myturns": 15,
+  "lostactive": "B",
+  "lastturn": 80
+ },
+ {
+  "f": "playtest_batch2/g11.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Rally the Ranks": [
+    6,
+    2
+   ],
+   "Spectral Procession": [
+    10,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    14,
+    4
+   ],
+   "Knight of the White Orchid": [
+    18,
+    5
+   ],
+   "Secure the Wastes": [
+    19,
+    5
+   ],
+   "Cathars' Crusade": [
+    22,
+    6
+   ],
+   "Captain of the Watch": [
+    26,
+    7
+   ],
+   "Loran of the Third Path": [
+    33,
+    9
+   ],
+   "Archivist of Oghma": [
+    36,
+    10
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 6,
+   "Sea Gate Oracle": 1
+  },
+  "dmgby": {
+   "B": 7
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 19,
+  "myturns": 11,
+  "lastturn": 38
+ },
+ {
+  "f": "playtest_batch2/g12.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Skullclamp": [
+    4,
+    1
+   ],
+   "Spectral Procession": [
+    12,
+    3
+   ],
+   "Mentor of the Meek": [
+    16,
+    4
+   ],
+   "Jazal Goldmane": [
+    20,
+    5
+   ],
+   "Mother of Runes": [
+    20,
+    5
+   ],
+   "Bennie Bracks, Zoologist": [
+    24,
+    6
+   ],
+   "Felidar Retreat": [
+    28,
+    7
+   ],
+   "Benalish Marshal": [
+    28,
+    7
+   ],
+   "Cathars' Crusade": [
+    32,
+    8
+   ],
+   "Adeline, Resplendent Cathar": [
+    32,
+    8
+   ],
+   "Hero of Bladehold": [
+    40,
+    10
+   ],
+   "Intangible Virtue": [
+    48,
+    12
+   ],
+   "Angel of Invention": [
+    51,
+    13
+   ],
+   "Loran of the Third Path": [
+    53,
+    14
+   ]
+  },
+  "dmg": {
+   "Carrion Feeder": 6,
+   "Brago, King Eternal": 4
+  },
+  "dmgby": {
+   "C": 6,
+   "B": 4
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "B",
+  "outturn": 27,
+  "myturns": 14,
+  "lastturn": 53
+ },
+ {
+  "f": "playtest_batch2/g13.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mind Stone": [
+    6,
+    2
+   ],
+   "Skullclamp": [
+    6,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    10,
+    3
+   ],
+   "Angel of Invention": [
+    14,
+    4
+   ],
+   "Valorous Stance": [
+    18,
+    5
+   ],
+   "Collective Effort": [
+    18,
+    5
+   ],
+   "Captain of the Watch": [
+    26,
+    7
+   ],
+   "Path to Exile": [
+    34,
+    9
+   ],
+   "Flawless Maneuver": [
+    34,
+    9
+   ],
+   "Sigil of the Empty Throne": [
+    38,
+    10
+   ],
+   "Sram's Expertise": [
+    42,
+    11
+   ],
+   "Inspiring Overseer": [
+    42,
+    11
+   ],
+   "Gift of Estates": [
+    42,
+    11
+   ],
+   "Wayfarer's Bauble": [
+    46,
+    12
+   ],
+   "Raise the Alarm": [
+    51,
+    13
+   ],
+   "Weathered Wayfarer": [
+    54,
+    14
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 10,
+   "Elas il-Kor, Sadistic Pilgrim": 2,
+   "Brago, King Eternal": 8,
+   "Kor Skyfisher": 3,
+   "Angel of Serenity": 5,
+   "Restoration Angel": 3,
+   "Spell Queller": 2,
+   "Mulldrifter": 2
+  },
+  "dmgby": {
+   "D": 10,
+   "C": 2,
+   "B": 23
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 72,
+  "winner": "B",
+  "first": "D",
+  "outturn": 36,
+  "myturns": 15,
+  "lostactive": "B",
+  "lastturn": 72
+ },
+ {
+  "f": "playtest_batch2/g14.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Valorous Stance": [
+    7,
+    2
+   ],
+   "Inspiring Overseer": [
+    10,
+    3
+   ],
+   "Mentor of the Meek": [
+    14,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    18,
+    5
+   ],
+   "Jazal Goldmane": [
+    22,
+    6
+   ],
+   "Benalish Marshal": [
+    26,
+    7
+   ],
+   "Path to Exile": [
+    34,
+    9
+   ],
+   "Sram's Expertise": [
+    38,
+    10
+   ],
+   "Cathars' Crusade": [
+    45,
+    12
+   ],
+   "Resolute Reinforcements": [
+    48,
+    13
+   ],
+   "Felidar Retreat": [
+    48,
+    13
+   ],
+   "Arcane Signet": [
+    48,
+    13
+   ],
+   "Mother of Runes": [
+    48,
+    13
+   ],
+   "Welcoming Vampire": [
+    50,
+    14
+   ],
+   "Dawn of Hope": [
+    50,
+    14
+   ],
+   "Staff of the Storyteller": [
+    50,
+    14
+   ],
+   "Fateful Absence": [
+    51,
+    14
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 6,
+   "Kor Skyfisher": 2,
+   "Teysa Karlov": 2
+  },
+  "dmgby": {
+   "B": 8,
+   "C": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 51,
+  "winner": "C",
+  "first": "D",
+  "outturn": 26,
+  "myturns": 14,
+  "lostactive": "C",
+  "lastturn": 51
+ },
+ {
+  "f": "playtest_batch2/g15.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Resolute Reinforcements": [
+    7,
+    2
+   ],
+   "Dawn of Hope": [
+    11,
+    3
+   ],
+   "Mind Stone": [
+    15,
+    4
+   ],
+   "Wayfarer's Bauble": [
+    15,
+    4
+   ],
+   "Mentor of the Meek": [
+    23,
+    6
+   ],
+   "Mother of Runes": [
+    23,
+    6
+   ],
+   "Rabble Rousing": [
+    27,
+    7
+   ],
+   "Adeline, Resplendent Cathar": [
+    31,
+    8
+   ],
+   "Thought Vessel": [
+    31,
+    8
+   ],
+   "Elspeth, Sun's Champion": [
+    35,
+    9
+   ]
+  },
+  "dmg": {
+   "Doomed Traveler": 1,
+   "Brago, King Eternal": 6,
+   "Spell Queller": 2,
+   "Sea Gate Oracle": 1,
+   "Spirit Token": 1,
+   "Haughty Djinn": 20
+  },
+  "dmgby": {
+   "C": 2,
+   "B": 9,
+   "D": 20
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 55,
+  "winner": "D",
+  "first": "C",
+  "outturn": 28,
+  "myturns": 9,
+  "lostactive": "D",
+  "lastturn": 55
+ },
+ {
+  "f": "playtest_batch2/g16.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Spectral Procession": [
+    10,
+    3
+   ],
+   "Benalish Marshal": [
+    14,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    18,
+    5
+   ],
+   "Glorious Anthem": [
+    22,
+    6
+   ],
+   "Emeria Angel": [
+    26,
+    7
+   ],
+   "Angel of Invention": [
+    34,
+    9
+   ],
+   "Sigil of the Empty Throne": [
+    38,
+    10
+   ],
+   "Inspired Charge": [
+    42,
+    11
+   ],
+   "Wayfarer's Bauble": [
+    42,
+    11
+   ],
+   "Generous Gift": [
+    46,
+    12
+   ],
+   "Elspeth Resplendent": [
+    50,
+    13
+   ],
+   "Valorous Stance": [
+    51,
+    13
+   ],
+   "Archivist of Oghma": [
+    57,
+    14
+   ],
+   "Militia Bugler": [
+    58,
+    15
+   ],
+   "Hallowed Spiritkeeper": [
+    58,
+    15
+   ],
+   "Return to Dust": [
+    62,
+    16
+   ],
+   "Moment of Heroism": [
+    62,
+    16
+   ],
+   "Dictate of Heliod": [
+    70,
+    18
+   ],
+   "Fateful Absence": [
+    78,
+    20
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 14,
+   "Third Path Iconoclast": 2,
+   "Glen Elendra Archmage": 1,
+   "Docent of Perfection": 5,
+   "Teysa Karlov": 4,
+   "Vampire Token": 4,
+   "Spirit Token": 8,
+   "Butcher of Malakir": 5
+  },
+  "dmgby": {
+   "D": 21,
+   "B": 1,
+   "C": 21
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 94,
+  "winner": "C",
+  "first": "D",
+  "outturn": 47,
+  "myturns": 21,
+  "lostactive": "C",
+  "lastturn": 94
+ },
+ {
+  "f": "playtest_batch2/g17.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mother of Runes": [
+    4,
+    1
+   ],
+   "Intangible Virtue": [
+    8,
+    2
+   ],
+   "Knight of the White Orchid": [
+    12,
+    3
+   ],
+   "Swords to Plowshares": [
+    16,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    16,
+    4
+   ],
+   "Rabble Rousing": [
+    20,
+    5
+   ],
+   "Increasing Devotion": [
+    24,
+    6
+   ],
+   "Inspired Charge": [
+    31,
+    8
+   ],
+   "Militia Bugler": [
+    33,
+    9
+   ],
+   "Loran of the Third Path": [
+    33,
+    9
+   ],
+   "Wayfarer's Bauble": [
+    35,
+    10
+   ],
+   "Raise the Alarm": [
+    36,
+    10
+   ],
+   "Bennie Bracks, Zoologist": [
+    39,
+    12
+   ],
+   "Secure the Wastes": [
+    40,
+    12
+   ]
+  },
+  "dmg": {
+   "Carrion Feeder": 11,
+   "Flickerwisp": 3,
+   "Bird Illusion Token": 6,
+   "Haughty Djinn": 14
+  },
+  "dmgby": {
+   "C": 11,
+   "B": 3,
+   "D": 20
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 42,
+  "winner": "D",
+  "first": "B",
+  "outturn": 21,
+  "myturns": 13,
+  "lostactive": "D",
+  "lastturn": 42
+ },
+ {
+  "f": "playtest_batch2/g18.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Staff of the Storyteller": [
+    5,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    9,
+    3
+   ],
+   "Moment of Heroism": [
+    13,
+    4
+   ],
+   "Captain of the Watch": [
+    21,
+    6
+   ],
+   "Return to Dust": [
+    25,
+    7
+   ],
+   "White Sun's Twilight": [
+    25,
+    7
+   ],
+   "Intangible Virtue": [
+    29,
+    8
+   ],
+   "Divine Visitation": [
+    29,
+    8
+   ],
+   "Weathered Wayfarer": [
+    33,
+    9
+   ],
+   "Bennie Bracks, Zoologist": [
+    37,
+    10
+   ],
+   "Welcoming Vampire": [
+    37,
+    10
+   ],
+   "Loran of the Third Path": [
+    37,
+    10
+   ],
+   "Wayfarer's Bauble": [
+    37,
+    10
+   ],
+   "Commander's Sphere": [
+    41,
+    11
+   ],
+   "Jazal Goldmane": [
+    41,
+    11
+   ],
+   "Austere Command": [
+    45,
+    12
+   ],
+   "Swords to Plowshares": [
+    45,
+    12
+   ],
+   "Mother of Runes": [
+    53,
+    14
+   ],
+   "Flawless Maneuver": [
+    56,
+    14
+   ],
+   "Hallowed Spiritkeeper": [
+    57,
+    15
+   ],
+   "Collective Effort": [
+    60,
+    16
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 4
+  },
+  "dmgby": {
+   "B": 4
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 31,
+  "myturns": 17,
+  "lastturn": 62
+ },
+ {
+  "f": "playtest_batch2/g19.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Skullclamp": [
+    2,
+    1
+   ],
+   "Knight of the White Orchid": [
+    6,
+    2
+   ],
+   "Inspiring Overseer": [
+    10,
+    3
+   ],
+   "Resolute Reinforcements": [
+    14,
+    4
+   ],
+   "Dictate of Heliod": [
+    18,
+    5
+   ],
+   "Rally the Ranks": [
+    22,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    22,
+    6
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 18,
+   "Stormcatch Mentor": 6,
+   "Charming Prince": 2,
+   "Teysa Karlov": 2
+  },
+  "dmgby": {
+   "D": 24,
+   "B": 2,
+   "C": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 43,
+  "winner": "D",
+  "first": "D",
+  "outturn": 22,
+  "myturns": 7,
+  "lostactive": "D",
+  "lastturn": 43
+ },
+ {
+  "f": "playtest_batch2/g20.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Benevolent Bodyguard": [
+    3,
+    1
+   ],
+   "Gift of Estates": [
+    7,
+    2
+   ],
+   "Spectral Procession": [
+    11,
+    3
+   ],
+   "Glorious Anthem": [
+    15,
+    4
+   ],
+   "Mother of Runes": [
+    15,
+    4
+   ],
+   "Sram's Expertise": [
+    19,
+    5
+   ],
+   "Inspiring Overseer": [
+    19,
+    5
+   ],
+   "Wayfarer's Bauble": [
+    19,
+    5
+   ],
+   "Return to Dust": [
+    23,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    27,
+    7
+   ],
+   "Thought Vessel": [
+    27,
+    7
+   ],
+   "Arcane Signet": [
+    27,
+    7
+   ],
+   "Archivist of Oghma": [
+    30,
+    7
+   ],
+   "Commander's Sphere": [
+    31,
+    8
+   ],
+   "Jazal Goldmane": [
+    43,
+    11
+   ],
+   "Cathar Commando": [
+    50,
+    12
+   ],
+   "Selfless Spirit": [
+    59,
+    15
+   ],
+   "Rabble Rousing": [
+    74,
+    19
+   ],
+   "Captain of the Watch": [
+    77,
+    20
+   ],
+   "Mentor of the Meek": [
+    80,
+    21
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 4,
+   "Glen Elendra Archmage": 4,
+   "Venser, Shaper Savant": 2,
+   "Brago, King Eternal": 2,
+   "Liesa, Shroud of Dusk": 5
+  },
+  "dmgby": {
+   "D": 4,
+   "B": 8,
+   "C": 5
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 80,
+  "winner": "C",
+  "first": "C",
+  "outturn": 40,
+  "myturns": 21,
+  "lostactive": "A11",
+  "lastturn": 80
+ },
+ {
+  "f": "playtest_batch2/g21.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Wayfarer's Bauble": [
+    5,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    13,
+    4
+   ],
+   "Bennie Bracks, Zoologist": [
+    17,
+    5
+   ],
+   "Welcoming Vampire": [
+    21,
+    6
+   ],
+   "Benevolent Bodyguard": [
+    21,
+    6
+   ],
+   "Moment of Heroism": [
+    25,
+    7
+   ],
+   "Inspiring Overseer": [
+    25,
+    7
+   ],
+   "Thought Vessel": [
+    29,
+    8
+   ],
+   "Flawless Maneuver": [
+    33,
+    9
+   ],
+   "Path to Exile": [
+    33,
+    9
+   ],
+   "Secure the Wastes": [
+    34,
+    9
+   ],
+   "Militia Bugler": [
+    37,
+    10
+   ],
+   "Mentor of the Meek": [
+    37,
+    10
+   ],
+   "Archivist of Oghma": [
+    40,
+    10
+   ],
+   "Sigil of the Empty Throne": [
+    41,
+    11
+   ],
+   "Valorous Stance": [
+    44,
+    12
+   ],
+   "Return to Dust": [
+    44,
+    12
+   ],
+   "Selfless Spirit": [
+    44,
+    12
+   ],
+   "Rabble Rousing": [
+    47,
+    13
+   ],
+   "Weathered Wayfarer": [
+    47,
+    13
+   ],
+   "Cathar Commando": [
+    48,
+    13
+   ],
+   "Elspeth Resplendent": [
+    49,
+    14
+   ],
+   "Elspeth, Sun's Champion": [
+    49,
+    14
+   ],
+   "Mother of Runes": [
+    49,
+    14
+   ],
+   "Generous Gift": [
+    51,
+    15
+   ]
+  },
+  "dmg": {
+   "Midnight Reaper": 3,
+   "Elephant Token": 3,
+   "Veyran, Voice of Duality": 6,
+   "Haughty Djinn": 7
+  },
+  "dmgby": {
+   "C": 3,
+   "D": 16
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 26,
+  "myturns": 15,
+  "lastturn": 51
+ },
+ {
+  "f": "playtest_batch2/g22.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Weathered Wayfarer": [
+    3,
+    1
+   ],
+   "Wayfarer's Bauble": [
+    7,
+    2
+   ],
+   "Generous Gift": [
+    15,
+    4
+   ],
+   "Dawn of Hope": [
+    15,
+    4
+   ],
+   "Bennie Bracks, Zoologist": [
+    19,
+    5
+   ],
+   "Return to Dust": [
+    23,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    27,
+    7
+   ],
+   "Welcoming Vampire": [
+    27,
+    7
+   ],
+   "Spectral Procession": [
+    31,
+    8
+   ]
+  },
+  "dmg": {
+   "Teysa Karlov": 2,
+   "Elephant Token": 6,
+   "Liesa, Shroud of Dusk": 11,
+   "Butcher of Malakir": 10
+  },
+  "dmgby": {
+   "C": 29
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "winner": "C",
+  "first": "C",
+  "outturn": 21,
+  "myturns": 8,
+  "lostactive": "B",
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch2/g23.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Militia Bugler": [
+    11,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    15,
+    4
+   ],
+   "Angel of Invention": [
+    19,
+    5
+   ],
+   "Flawless Maneuver": [
+    19,
+    5
+   ],
+   "Elspeth, Sun's Champion": [
+    23,
+    6
+   ],
+   "Bennie Bracks, Zoologist": [
+    23,
+    6
+   ],
+   "Rally the Ranks": [
+    27,
+    7
+   ],
+   "Dictate of Heliod": [
+    31,
+    8
+   ],
+   "Inspiring Overseer": [
+    31,
+    8
+   ],
+   "Path to Exile": [
+    35,
+    9
+   ],
+   "Fateful Absence": [
+    39,
+    10
+   ],
+   "Divine Visitation": [
+    43,
+    11
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 24,
+   "Young Pyromancer": 2,
+   "Flickerwisp": 3,
+   "Teysa Karlov": 2,
+   "Spell Queller": 2,
+   "Final Iteration": 6,
+   "Human Wizard Token": 6
+  },
+  "dmgby": {
+   "D": 38,
+   "B": 5,
+   "C": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 62,
+  "winner": "C",
+  "first": "C",
+  "outturn": 31,
+  "myturns": 11,
+  "lostactive": "C",
+  "lastturn": 62
+ },
+ {
+  "f": "playtest_batch2/g24.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Militia Bugler": [
+    9,
+    3
+   ],
+   "Jazal Goldmane": [
+    13,
+    4
+   ],
+   "Generous Gift": [
+    17,
+    5
+   ],
+   "Cathars' Crusade": [
+    21,
+    6
+   ],
+   "Fateful Absence": [
+    25,
+    7
+   ],
+   "Angel of Invention": [
+    29,
+    8
+   ],
+   "Knight of the White Orchid": [
+    29,
+    8
+   ],
+   "Benalish Marshal": [
+    37,
+    10
+   ],
+   "Loran of the Third Path": [
+    45,
+    12
+   ],
+   "Adeline, Resplendent Cathar": [
+    45,
+    12
+   ],
+   "Inspiring Overseer": [
+    45,
+    12
+   ],
+   "Glorious Anthem": [
+    49,
+    13
+   ],
+   "Archivist of Oghma": [
+    49,
+    13
+   ],
+   "Divine Visitation": [
+    49,
+    13
+   ],
+   "Skullclamp": [
+    52,
+    14
+   ],
+   "Increasing Devotion": [
+    55,
+    15
+   ],
+   "Swords to Plowshares": [
+    60,
+    17
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 4,
+   "Spirit Token": 4
+  },
+  "dmgby": {
+   "B": 4,
+   "C": 4
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 30,
+  "myturns": 17,
+  "lastturn": 60
+ },
+ {
+  "f": "playtest_batch2/g25.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Path to Exile": [
+    7,
+    1
+   ],
+   "Militia Bugler": [
+    12,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    16,
+    4
+   ],
+   "Welcoming Vampire": [
+    20,
+    5
+   ],
+   "Inspired Charge": [
+    24,
+    6
+   ],
+   "Jazal Goldmane": [
+    28,
+    7
+   ],
+   "Sol Ring": [
+    28,
+    7
+   ],
+   "Swords to Plowshares": [
+    32,
+    8
+   ],
+   "Elspeth, Sun's Champion": [
+    36,
+    9
+   ],
+   "Sigil of the Empty Throne": [
+    40,
+    10
+   ],
+   "Tocasia's Welcome": [
+    40,
+    10
+   ],
+   "Archivist of Oghma": [
+    44,
+    11
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 14,
+   "Bird Illusion Token": 4,
+   "Jazal Goldmane": 12,
+   "Soulherder": 15,
+   "Restoration Angel": 11
+  },
+  "dmgby": {
+   "B": 52,
+   "D": 4
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 57,
+  "winner": "B",
+  "first": "B",
+  "outturn": 29,
+  "myturns": 11,
+  "lostactive": "B",
+  "lastturn": 57
+ },
+ {
+  "f": "playtest_batch2/g26.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Sol Ring": [
+    3,
+    1
+   ],
+   "Skullclamp": [
+    3,
+    1
+   ],
+   "Resolute Reinforcements": [
+    7,
+    2
+   ],
+   "Rabble Rousing": [
+    11,
+    3
+   ],
+   "Sigil of the Empty Throne": [
+    15,
+    4
+   ],
+   "Hero of Bladehold": [
+    19,
+    5
+   ],
+   "Swords to Plowshares": [
+    20,
+    5
+   ],
+   "Adeline, Resplendent Cathar": [
+    23,
+    6
+   ],
+   "Glorious Anthem": [
+    27,
+    7
+   ],
+   "Secure the Wastes": [
+    28,
+    7
+   ],
+   "Emeria Angel": [
+    31,
+    8
+   ],
+   "Archivist of Oghma": [
+    38,
+    9
+   ],
+   "Return to Dust": [
+    39,
+    10
+   ],
+   "Elspeth Resplendent": [
+    47,
+    12
+   ],
+   "Dawn of Hope": [
+    55,
+    14
+   ],
+   "Arcane Signet": [
+    59,
+    15
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 10,
+   "Yahenni, Undying Partisan": 2,
+   "Agent of Treachery": 2,
+   "Teysa Karlov": 2,
+   "Veyran, Voice of Duality": 8,
+   "Human Token": 2,
+   "Elas il-Kor, Sadistic Pilgrim": 2
+  },
+  "dmgby": {
+   "B": 14,
+   "C": 6,
+   "D": 8
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 63,
+  "winner": "C",
+  "first": "C",
+  "outturn": 32,
+  "myturns": 15,
+  "lostactive": "C",
+  "lastturn": 63
+ },
+ {
+  "f": "playtest_batch2/g27.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Resolute Reinforcements": [
+    7,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    11,
+    3
+   ],
+   "Loran of the Third Path": [
+    15,
+    4
+   ],
+   "Valorous Stance": [
+    23,
+    6
+   ],
+   "Return to Dust": [
+    23,
+    6
+   ],
+   "Mother of Runes": [
+    27,
+    7
+   ],
+   "Captain of the Watch": [
+    31,
+    8
+   ],
+   "Flawless Maneuver": [
+    38,
+    9
+   ],
+   "Path to Exile": [
+    42,
+    11
+   ],
+   "Sigil of the Empty Throne": [
+    42,
+    11
+   ],
+   "Austere Command": [
+    44,
+    12
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 4,
+   "Flickerwisp": 3,
+   "Mirkwood Bats": 2
+  },
+  "dmgby": {
+   "B": 7,
+   "C": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 44,
+  "winner": "C",
+  "first": "C",
+  "outturn": 22,
+  "myturns": 12,
+  "lostactive": "A11",
+  "lastturn": 44
+ },
+ {
+  "f": "playtest_batch2/g28.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Staff of the Storyteller": [
+    5,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    9,
+    3
+   ],
+   "Return to Dust": [
+    13,
+    4
+   ],
+   "Bennie Bracks, Zoologist": [
+    17,
+    5
+   ],
+   "Path to Exile": [
+    17,
+    5
+   ],
+   "Generous Gift": [
+    25,
+    7
+   ],
+   "Knight of the White Orchid": [
+    25,
+    7
+   ],
+   "Elspeth, Sun's Champion": [
+    29,
+    8
+   ],
+   "Collective Effort": [
+    37,
+    10
+   ],
+   "Selfless Spirit": [
+    37,
+    10
+   ],
+   "Gift of Estates": [
+    37,
+    10
+   ],
+   "Swords to Plowshares": [
+    41,
+    11
+   ],
+   "Elspeth Resplendent": [
+    41,
+    11
+   ],
+   "Raise the Alarm": [
+    42,
+    11
+   ],
+   "Inspiring Overseer": [
+    53,
+    14
+   ],
+   "Cathar Commando": [
+    56,
+    14
+   ],
+   "Inspired Charge": [
+    57,
+    15
+   ],
+   "Welcoming Vampire": [
+    57,
+    15
+   ],
+   "Loran of the Third Path": [
+    61,
+    16
+   ],
+   "Resolute Reinforcements": [
+    61,
+    16
+   ],
+   "Rabble Rousing": [
+    65,
+    17
+   ],
+   "Hero of Bladehold": [
+    65,
+    17
+   ],
+   "Sol Ring": [
+    65,
+    17
+   ],
+   "Hallowed Spiritkeeper": [
+    65,
+    17
+   ],
+   "Valorous Stance": [
+    69,
+    18
+   ],
+   "Wayfarer's Bauble": [
+    69,
+    18
+   ],
+   "Benalish Marshal": [
+    77,
+    20
+   ],
+   "Weathered Wayfarer": [
+    77,
+    20
+   ],
+   "Jazal Goldmane": [
+    77,
+    20
+   ],
+   "Emeria Angel": [
+    77,
+    20
+   ],
+   "Thought Vessel": [
+    77,
+    20
+   ],
+   "Fateful Absence": [
+    80,
+    21
+   ],
+   "Captain of the Watch": [
+    80,
+    21
+   ],
+   "Militia Bugler": [
+    80,
+    21
+   ]
+  },
+  "dmg": {
+   "Frog Lizard Token": 3,
+   "Brago, King Eternal": 2,
+   "Dream Trawler": 7
+  },
+  "dmgby": {
+   "B": 12
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 40,
+  "myturns": 21,
+  "lastturn": 80
+ },
+ {
+  "f": "playtest_batch2/g29.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Wayfarer's Bauble": [
+    3,
+    1
+   ],
+   "Mentor of the Meek": [
+    11,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    15,
+    4
+   ],
+   "Benalish Marshal": [
+    19,
+    5
+   ],
+   "Flawless Maneuver": [
+    21,
+    5
+   ],
+   "Captain of the Watch": [
+    23,
+    6
+   ],
+   "Welcoming Vampire": [
+    27,
+    7
+   ],
+   "Cathars' Crusade": [
+    30,
+    8
+   ],
+   "Tocasia's Welcome": [
+    33,
+    9
+   ],
+   "Mind Stone": [
+    36,
+    10
+   ],
+   "Thought Vessel": [
+    36,
+    10
+   ],
+   "Return to Dust": [
+    39,
+    11
+   ]
+  },
+  "dmg": {
+   "Yahenni, Undying Partisan": 5,
+   "Priest of Forgotten Gods": 1,
+   "Brago, King Eternal": 2,
+   "Veyran, Voice of Duality": 4,
+   "Guttersnipe": 2,
+   "Kessig Flamebreather": 1
+  },
+  "dmgby": {
+   "C": 6,
+   "B": 2,
+   "D": 7
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "winner": "D",
+  "first": "C",
+  "outturn": 21,
+  "myturns": 11,
+  "lostactive": "D",
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch2/g30.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mother of Runes": [
+    2,
+    1
+   ],
+   "Sol Ring": [
+    6,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    10,
+    3
+   ],
+   "Generous Gift": [
+    14,
+    4
+   ],
+   "Valorous Stance": [
+    17,
+    4
+   ],
+   "Dictate of Heliod": [
+    18,
+    5
+   ],
+   "Captain of the Watch": [
+    22,
+    6
+   ],
+   "Sigil of the Empty Throne": [
+    26,
+    7
+   ],
+   "Raise the Alarm": [
+    27,
+    7
+   ],
+   "Collective Effort": [
+    34,
+    9
+   ],
+   "Mentor of the Meek": [
+    42,
+    11
+   ],
+   "Selfless Spirit": [
+    42,
+    11
+   ],
+   "Thought Vessel": [
+    42,
+    11
+   ],
+   "Moment of Heroism": [
+    46,
+    12
+   ],
+   "Fateful Absence": [
+    54,
+    14
+   ],
+   "Welcoming Vampire": [
+    54,
+    14
+   ],
+   "Bennie Bracks, Zoologist": [
+    57,
+    15
+   ],
+   "Wayfarer's Bauble": [
+    57,
+    15
+   ],
+   "Secure the Wastes": [
+    61,
+    16
+   ],
+   "Archivist of Oghma": [
+    63,
+    17
+   ],
+   "Flawless Maneuver": [
+    63,
+    17
+   ],
+   "Austere Command": [
+    63,
+    17
+   ],
+   "Inspiring Overseer": [
+    63,
+    17
+   ],
+   "Resolute Reinforcements": [
+    66,
+    18
+   ],
+   "Path to Exile": [
+    66,
+    18
+   ],
+   "Increasing Devotion": [
+    66,
+    18
+   ],
+   "Dawn of Hope": [
+    66,
+    18
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 2,
+   "Crackling Drake": 8,
+   "Spirit Token": 3
+  },
+  "dmgby": {
+   "B": 2,
+   "D": 8,
+   "C": 3
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 34,
+  "myturns": 19,
+  "lastturn": 68
+ },
+ {
+  "f": "playtest_batch2/g31.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mother of Runes": [
+    1,
+    1
+   ],
+   "Spectral Procession": [
+    9,
+    3
+   ],
+   "Intangible Virtue": [
+    13,
+    4
+   ],
+   "Benevolent Bodyguard": [
+    13,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    17,
+    5
+   ],
+   "Generous Gift": [
+    21,
+    6
+   ],
+   "Divine Visitation": [
+    25,
+    7
+   ],
+   "Commander's Sphere": [
+    29,
+    8
+   ],
+   "Mentor of the Meek": [
+    33,
+    9
+   ],
+   "Resolute Reinforcements": [
+    37,
+    10
+   ],
+   "Skullclamp": [
+    37,
+    10
+   ],
+   "Wayfarer's Bauble": [
+    37,
+    10
+   ]
+  },
+  "dmg": {
+   "Restoration Angel": 3,
+   "Veyran, Voice of Duality": 10,
+   "Butcher of Malakir": 5,
+   "Sifter of Skulls": 8,
+   "Haughty Djinn": 9
+  },
+  "dmgby": {
+   "B": 3,
+   "D": 19,
+   "C": 13
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "winner": "C",
+  "first": "A11",
+  "outturn": 24,
+  "myturns": 10,
+  "lostactive": "C",
+  "lastturn": 47
+ },
+ {
+  "f": "playtest_batch2/g32.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Sol Ring": [
+    7,
+    2
+   ],
+   "Cathar Commando": [
+    10,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    11,
+    3
+   ],
+   "Weathered Wayfarer": [
+    15,
+    4
+   ],
+   "Archivist of Oghma": [
+    23,
+    6
+   ],
+   "Path to Exile": [
+    27,
+    7
+   ],
+   "Mentor of the Meek": [
+    27,
+    7
+   ],
+   "Resolute Reinforcements": [
+    27,
+    7
+   ],
+   "Skullclamp": [
+    31,
+    8
+   ],
+   "Divine Visitation": [
+    31,
+    8
+   ],
+   "Staff of the Storyteller": [
+    31,
+    8
+   ],
+   "Welcoming Vampire": [
+    39,
+    10
+   ],
+   "Selfless Spirit": [
+    39,
+    10
+   ],
+   "White Sun's Twilight": [
+    39,
+    10
+   ],
+   "Mother of Runes": [
+    43,
+    11
+   ],
+   "Spectral Procession": [
+    47,
+    12
+   ],
+   "Inspired Charge": [
+    51,
+    13
+   ],
+   "Increasing Devotion": [
+    51,
+    13
+   ],
+   "Glorious Anthem": [
+    54,
+    14
+   ]
+  },
+  "dmg": {
+   "Human Soldier Token": 1,
+   "Stormcatch Mentor": 2,
+   "Restoration Angel": 12,
+   "Brago, King Eternal": 10,
+   "Teysa Karlov": 2
+  },
+  "dmgby": {
+   "C": 3,
+   "D": 2,
+   "B": 22
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 28,
+  "myturns": 15,
+  "lastturn": 56
+ },
+ {
+  "f": "playtest_batch2/g33.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Weathered Wayfarer": [
+    1,
+    1
+   ],
+   "Benevolent Bodyguard": [
+    5,
+    2
+   ],
+   "Benalish Marshal": [
+    9,
+    3
+   ],
+   "Mentor of the Meek": [
+    13,
+    4
+   ],
+   "Valorous Stance": [
+    17,
+    5
+   ],
+   "Archivist of Oghma": [
+    19,
+    5
+   ],
+   "Divine Visitation": [
+    25,
+    7
+   ],
+   "Jazal Goldmane": [
+    29,
+    8
+   ],
+   "Bennie Bracks, Zoologist": [
+    29,
+    8
+   ],
+   "Hero of Bladehold": [
+    33,
+    9
+   ],
+   "Welcoming Vampire": [
+    41,
+    11
+   ],
+   "Adeline, Resplendent Cathar": [
+    41,
+    11
+   ],
+   "Mother of Runes": [
+    41,
+    11
+   ],
+   "Thought Vessel": [
+    45,
+    12
+   ],
+   "Skullclamp": [
+    45,
+    12
+   ],
+   "Tocasia's Welcome": [
+    49,
+    13
+   ],
+   "Staff of the Storyteller": [
+    53,
+    14
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 20,
+   "Glen Elendra Archmage": 4,
+   "Brago, King Eternal": 2,
+   "Sun Titan": 6,
+   "Haughty Djinn": 4
+  },
+  "dmgby": {
+   "D": 24,
+   "B": 12
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 67,
+  "winner": "B",
+  "first": "A11",
+  "outturn": 34,
+  "myturns": 14,
+  "lostactive": "B",
+  "lastturn": 67
+ },
+ {
+  "f": "playtest_batch2/g34.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Thought Vessel": [
+    6,
+    2
+   ],
+   "Loran of the Third Path": [
+    10,
+    3
+   ],
+   "Fateful Absence": [
+    14,
+    4
+   ],
+   "Felidar Retreat": [
+    18,
+    5
+   ],
+   "Increasing Devotion": [
+    22,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    26,
+    7
+   ],
+   "Commander's Sphere": [
+    26,
+    7
+   ],
+   "Benalish Marshal": [
+    30,
+    8
+   ],
+   "Flawless Maneuver": [
+    34,
+    9
+   ],
+   "Dawn of Hope": [
+    34,
+    9
+   ],
+   "Raise the Alarm": [
+    35,
+    9
+   ],
+   "Generous Gift": [
+    38,
+    10
+   ],
+   "Benevolent Bodyguard": [
+    42,
+    11
+   ],
+   "Bennie Bracks, Zoologist": [
+    46,
+    12
+   ],
+   "Rabble Rousing": [
+    50,
+    13
+   ],
+   "Collective Effort": [
+    54,
+    14
+   ],
+   "Sol Ring": [
+    54,
+    14
+   ],
+   "Path to Exile": [
+    56,
+    15
+   ],
+   "Elspeth, Sun's Champion": [
+    56,
+    15
+   ],
+   "Militia Bugler": [
+    56,
+    15
+   ],
+   "Tocasia's Welcome": [
+    56,
+    15
+   ],
+   "Welcoming Vampire": [
+    58,
+    16
+   ],
+   "Glorious Anthem": [
+    58,
+    16
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 6,
+   "Brago, King Eternal": 9,
+   "Glen Elendra Archmage": 3
+  },
+  "dmgby": {
+   "D": 6,
+   "B": 12
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "D",
+  "outturn": 29,
+  "myturns": 16,
+  "lastturn": 58
+ },
+ {
+  "f": "playtest_batch2/g35.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Weathered Wayfarer": [
+    2,
+    1
+   ],
+   "Gift of Estates": [
+    6,
+    2
+   ],
+   "Spectral Procession": [
+    10,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    14,
+    4
+   ],
+   "Emeria Angel": [
+    22,
+    6
+   ],
+   "Militia Bugler": [
+    26,
+    7
+   ],
+   "Captain of the Watch": [
+    38,
+    10
+   ]
+  },
+  "dmg": {
+   "Stormcatch Mentor": 5,
+   "Yahenni, Undying Partisan": 8,
+   "Baral, Chief of Compliance": 2,
+   "Brago, King Eternal": 4
+  },
+  "dmgby": {
+   "D": 7,
+   "C": 8,
+   "B": 4
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 45,
+  "winner": "C",
+  "first": "D",
+  "outturn": 23,
+  "myturns": 11,
+  "lostactive": "B",
+  "lastturn": 45
+ },
+ {
+  "f": "playtest_batch2/g36.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Rally the Ranks": [
+    6,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    10,
+    3
+   ],
+   "Collective Effort": [
+    14,
+    4
+   ],
+   "Emeria Angel": [
+    18,
+    5
+   ],
+   "Mother of Runes": [
+    18,
+    5
+   ],
+   "Cathars' Crusade": [
+    22,
+    6
+   ],
+   "Sigil of the Empty Throne": [
+    30,
+    8
+   ],
+   "Raise the Alarm": [
+    31,
+    8
+   ],
+   "Gift of Estates": [
+    34,
+    9
+   ],
+   "Divine Visitation": [
+    38,
+    10
+   ]
+  },
+  "dmg": {
+   "Cruel Celebrant": 1,
+   "Veyran, Voice of Duality": 6,
+   "Reflector Mage": 2,
+   "Teysa Karlov": 2,
+   "Haughty Djinn": 4,
+   "Stormcatch Mentor": 1,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "C": 3,
+   "D": 11,
+   "B": 4
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 54,
+  "winner": "D",
+  "first": "D",
+  "outturn": 27,
+  "myturns": 11,
+  "lostactive": "D",
+  "lastturn": 54
+ },
+ {
+  "f": "playtest_batch2/g37.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Benevolent Bodyguard": [
+    4,
+    1
+   ],
+   "Skullclamp": [
+    8,
+    2
+   ],
+   "Swords to Plowshares": [
+    9,
+    2
+   ],
+   "Loran of the Third Path": [
+    12,
+    3
+   ],
+   "Mentor of the Meek": [
+    16,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    20,
+    5
+   ],
+   "Inspired Charge": [
+    24,
+    6
+   ],
+   "Spectral Procession": [
+    28,
+    7
+   ]
+  },
+  "dmg": {
+   "Teysa Karlov": 2,
+   "Veyran, Voice of Duality": 10,
+   "Haughty Djinn": 21,
+   "Restoration Angel": 3,
+   "Elemental Token": 3
+  },
+  "dmgby": {
+   "C": 2,
+   "D": 34,
+   "B": 3
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 61,
+  "winner": "C",
+  "first": "B",
+  "outturn": 31,
+  "myturns": 7,
+  "lostactive": "C",
+  "lastturn": 61
+ },
+ {
+  "f": "playtest_batch2/g38.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Knight of the White Orchid": [
+    5,
+    2
+   ],
+   "Welcoming Vampire": [
+    9,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    13,
+    4
+   ],
+   "Inspired Charge": [
+    17,
+    5
+   ],
+   "Divine Visitation": [
+    29,
+    8
+   ],
+   "Secure the Wastes": [
+    30,
+    8
+   ],
+   "Return to Dust": [
+    33,
+    9
+   ],
+   "Emeria Angel": [
+    37,
+    10
+   ],
+   "Sram's Expertise": [
+    37,
+    10
+   ],
+   "Commander's Sphere": [
+    37,
+    10
+   ],
+   "Loran of the Third Path": [
+    45,
+    12
+   ],
+   "Thought Vessel": [
+    45,
+    12
+   ],
+   "Austere Command": [
+    48,
+    13
+   ],
+   "Elspeth Resplendent": [
+    51,
+    14
+   ],
+   "Elspeth, Sun's Champion": [
+    54,
+    15
+   ],
+   "Dictate of Heliod": [
+    57,
+    16
+   ],
+   "Flawless Maneuver": [
+    60,
+    17
+   ],
+   "Felidar Retreat": [
+    62,
+    18
+   ],
+   "Path to Exile": [
+    64,
+    19
+   ]
+  },
+  "dmg": {
+   "Elenda, the Dusk Rose": 9,
+   "Yahenni, Undying Partisan": 8,
+   "Vampire Token": 17
+  },
+  "dmgby": {
+   "C": 34
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 32,
+  "myturns": 19,
+  "lastturn": 64
+ },
+ {
+  "f": "playtest_batch2/g39.log",
+  "mull": [
+   "Mulligan: Ai(2)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Resolute Reinforcements": [
+    5,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    9,
+    3
+   ],
+   "Thought Vessel": [
+    13,
+    4
+   ],
+   "Secure the Wastes": [
+    14,
+    4
+   ],
+   "Generous Gift": [
+    17,
+    5
+   ],
+   "Sigil of the Empty Throne": [
+    21,
+    6
+   ],
+   "Knight of the White Orchid": [
+    25,
+    7
+   ],
+   "Inspiring Overseer": [
+    25,
+    7
+   ],
+   "Return to Dust": [
+    29,
+    8
+   ],
+   "Dawn of Hope": [
+    29,
+    8
+   ],
+   "Captain of the Watch": [
+    33,
+    9
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 18,
+   "Falkenrath Noble": 2,
+   "Requiem Angel": 6,
+   "Final Iteration": 12,
+   "Crackling Drake": 12,
+   "Human Wizard Token": 18,
+   "Murmuring Mystic": 3
+  },
+  "dmgby": {
+   "D": 63,
+   "C": 8
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "winner": "D",
+  "first": "A11",
+  "outturn": 21,
+  "myturns": 9,
+  "lostactive": "D",
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch2/g40.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Path to Exile": [
+    5,
+    1
+   ],
+   "Sol Ring": [
+    7,
+    2
+   ],
+   "Welcoming Vampire": [
+    7,
+    2
+   ],
+   "Adeline, Resplendent Cathar": [
+    11,
+    3
+   ],
+   "Benevolent Bodyguard": [
+    11,
+    3
+   ],
+   "Flawless Maneuver": [
+    11,
+    3
+   ],
+   "Captain of the Watch": [
+    15,
+    4
+   ],
+   "Rabble Rousing": [
+    19,
+    5
+   ],
+   "Divine Visitation": [
+    23,
+    6
+   ],
+   "Elspeth Resplendent": [
+    23,
+    6
+   ],
+   "Tocasia's Welcome": [
+    26,
+    7
+   ],
+   "Cathars' Crusade": [
+    28,
+    8
+   ],
+   "Collective Effort": [
+    30,
+    9
+   ],
+   "Raise the Alarm": [
+    31,
+    9
+   ],
+   "Resolute Reinforcements": [
+    32,
+    10
+   ],
+   "Intangible Virtue": [
+    34,
+    11
+   ]
+  },
+  "dmg": {
+   "Doomed Traveler": 1,
+   "Spirit Token": 1
+  },
+  "dmgby": {
+   "C": 2
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 17,
+  "myturns": 11,
+  "lastturn": 34
+ },
+ {
+  "f": "playtest_batch2/g41.log",
+  "mull": [
+   "Mulligan: Ai(4)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Weathered Wayfarer": [
+    2,
+    1
+   ],
+   "Wayfarer's Bauble": [
+    6,
+    2
+   ],
+   "Sol Ring": [
+    10,
+    3
+   ],
+   "Divine Visitation": [
+    14,
+    4
+   ],
+   "Sram's Expertise": [
+    18,
+    5
+   ],
+   "Benevolent Bodyguard": [
+    18,
+    5
+   ],
+   "Resolute Reinforcements": [
+    22,
+    6
+   ],
+   "Adeline, Resplendent Cathar": [
+    22,
+    6
+   ],
+   "Raise the Alarm": [
+    31,
+    8
+   ],
+   "Rabble Rousing": [
+    62,
+    18
+   ],
+   "Skullclamp": [
+    64,
+    19
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 8,
+   "Veyran, Voice of Duality": 6,
+   "Vampire Token": 2,
+   "Glen Elendra Archmage": 8,
+   "Frost Titan": 8,
+   "Cloudblazer": 4,
+   "Venser, Shaper Savant": 4,
+   "Soldier Token": 36,
+   "Fblthp, the Lost": 3,
+   "Human Token": 3
+  },
+  "dmgby": {
+   "B": 74,
+   "D": 6,
+   "C": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 65,
+  "winner": "B",
+  "first": "D",
+  "outturn": 33,
+  "myturns": 19,
+  "lostactive": "B",
+  "lastturn": 65
+ },
+ {
+  "f": "playtest_batch2/g42.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Militia Bugler": [
+    11,
+    3
+   ],
+   "Resolute Reinforcements": [
+    15,
+    4
+   ],
+   "Skullclamp": [
+    15,
+    4
+   ],
+   "Divine Visitation": [
+    19,
+    5
+   ],
+   "Rabble Rousing": [
+    23,
+    6
+   ],
+   "Increasing Devotion": [
+    31,
+    8
+   ],
+   "Adeline, Resplendent Cathar": [
+    31,
+    8
+   ]
+  },
+  "dmg": {
+   "Yahenni, Undying Partisan": 5,
+   "Veyran, Voice of Duality": 16,
+   "Falkenrath Noble": 6,
+   "Teysa Karlov": 6,
+   "Venser, Shaper Savant": 2,
+   "Midnight Reaper": 3
+  },
+  "dmgby": {
+   "C": 20,
+   "D": 16,
+   "B": 2
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 48,
+  "winner": "B",
+  "first": "C",
+  "outturn": 24,
+  "myturns": 8,
+  "lostactive": "B",
+  "lastturn": 48
+ },
+ {
+  "f": "playtest_batch2/g43.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Knight of the White Orchid": [
+    7,
+    2
+   ],
+   "Militia Bugler": [
+    11,
+    3
+   ],
+   "Jazal Goldmane": [
+    15,
+    4
+   ],
+   "Spectral Procession": [
+    19,
+    5
+   ],
+   "Weathered Wayfarer": [
+    19,
+    5
+   ],
+   "Elspeth Resplendent": [
+    23,
+    6
+   ],
+   "Resolute Reinforcements": [
+    27,
+    7
+   ],
+   "Adeline, Resplendent Cathar": [
+    27,
+    7
+   ],
+   "Swords to Plowshares": [
+    34,
+    9
+   ],
+   "Hero of Bladehold": [
+    34,
+    9
+   ],
+   "Glorious Anthem": [
+    37,
+    10
+   ],
+   "Selfless Spirit": [
+    37,
+    10
+   ]
+  },
+  "dmg": {
+   "Brago, King Eternal": 2,
+   "Elenda, the Dusk Rose": 5,
+   "Liesa, Shroud of Dusk": 6
+  },
+  "dmgby": {
+   "B": 2,
+   "C": 11
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 48,
+  "winner": "C",
+  "first": "C",
+  "outturn": 24,
+  "myturns": 13,
+  "lostactive": "C",
+  "lastturn": 48
+ },
+ {
+  "f": "playtest_batch2/g44.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Intangible Virtue": [
+    5,
+    2
+   ],
+   "Hallowed Spiritkeeper": [
+    9,
+    3
+   ],
+   "Skullclamp": [
+    13,
+    4
+   ],
+   "Welcoming Vampire": [
+    17,
+    5
+   ],
+   "Adeline, Resplendent Cathar": [
+    21,
+    6
+   ],
+   "Captain of the Watch": [
+    29,
+    8
+   ],
+   "Militia Bugler": [
+    33,
+    9
+   ],
+   "Rally the Ranks": [
+    33,
+    9
+   ],
+   "Weathered Wayfarer": [
+    37,
+    10
+   ],
+   "Cathars' Crusade": [
+    37,
+    10
+   ],
+   "Emeria Angel": [
+    45,
+    12
+   ],
+   "Cathar Commando": [
+    45,
+    12
+   ]
+  },
+  "dmg": {
+   "Docent of Perfection": 5,
+   "Soulherder": 4,
+   "Brago, King Eternal": 4,
+   "Glen Elendra Archmage": 2
+  },
+  "dmgby": {
+   "D": 5,
+   "B": 10
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 45,
+  "winner": "D",
+  "first": "A11",
+  "outturn": 23,
+  "myturns": 12,
+  "lostactive": "A11",
+  "lastturn": 45
+ },
+ {
+  "f": "playtest_batch2/g45.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Staff of the Storyteller": [
+    6,
+    2
+   ],
+   "Militia Bugler": [
+    10,
+    3
+   ],
+   "Sram's Expertise": [
+    14,
+    4
+   ],
+   "Tocasia's Welcome": [
+    14,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    18,
+    5
+   ],
+   "Archivist of Oghma": [
+    18,
+    5
+   ],
+   "Skullclamp": [
+    22,
+    6
+   ],
+   "Rabble Rousing": [
+    30,
+    8
+   ],
+   "Sol Ring": [
+    30,
+    8
+   ],
+   "Selfless Spirit": [
+    42,
+    11
+   ],
+   "Glorious Anthem": [
+    42,
+    11
+   ],
+   "Mentor of the Meek": [
+    42,
+    11
+   ],
+   "Cathar Commando": [
+    42,
+    11
+   ],
+   "Knight of the White Orchid": [
+    46,
+    12
+   ],
+   "Thought Vessel": [
+    46,
+    12
+   ],
+   "White Sun's Twilight": [
+    54,
+    14
+   ]
+  },
+  "dmg": {
+   "Guttersnipe": 2,
+   "Brago, King Eternal": 6,
+   "Bartolom\u00e9 del Presidio": 4,
+   "Teysa Karlov": 2,
+   "Talrand, Sky Summoner": 2,
+   "Solemn Simulacrum": 2,
+   "Dream Trawler": 5,
+   "Human Token": 2,
+   "Sea Gate Oracle": 1
+  },
+  "dmgby": {
+   "D": 4,
+   "B": 16,
+   "C": 6
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 67,
+  "winner": "D",
+  "first": "D",
+  "outturn": 34,
+  "myturns": 14,
+  "lostactive": "B",
+  "lastturn": 67
+ },
+ {
+  "f": "playtest_batch2/g46.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has mulliganed down to 7 cards.",
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Fateful Absence": [
+    7,
+    2
+   ],
+   "Hallowed Spiritkeeper": [
+    11,
+    3
+   ],
+   "Benalish Marshal": [
+    15,
+    4
+   ],
+   "Generous Gift": [
+    19,
+    5
+   ],
+   "Skullclamp": [
+    23,
+    6
+   ],
+   "Knight of the White Orchid": [
+    23,
+    6
+   ],
+   "Spectral Procession": [
+    27,
+    7
+   ],
+   "Dawn of Hope": [
+    27,
+    7
+   ],
+   "Path to Exile": [
+    31,
+    8
+   ],
+   "Adeline, Resplendent Cathar": [
+    31,
+    8
+   ],
+   "Mother of Runes": [
+    31,
+    8
+   ],
+   "Dictate of Heliod": [
+    35,
+    9
+   ],
+   "Captain of the Watch": [
+    39,
+    10
+   ],
+   "Moment of Heroism": [
+    43,
+    11
+   ],
+   "Rabble Rousing": [
+    46,
+    12
+   ],
+   "Arcane Signet": [
+    46,
+    12
+   ],
+   "Angel of Invention": [
+    52,
+    14
+   ],
+   "Elspeth Resplendent": [
+    52,
+    14
+   ],
+   "Return to Dust": [
+    55,
+    15
+   ],
+   "Divine Visitation": [
+    55,
+    15
+   ],
+   "Increasing Devotion": [
+    58,
+    16
+   ],
+   "Emeria Angel": [
+    63,
+    18
+   ],
+   "Hero of Bladehold": [
+    63,
+    18
+   ],
+   "Swords to Plowshares": [
+    65,
+    19
+   ]
+  },
+  "dmg": {
+   "Bird Illusion Token": 2,
+   "Brago, King Eternal": 7,
+   "Teysa Karlov": 2,
+   "Carrion Feeder": 5
+  },
+  "dmgby": {
+   "D": 2,
+   "B": 7,
+   "C": 7
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "C",
+  "outturn": 33,
+  "myturns": 19,
+  "lastturn": 65
+ },
+ {
+  "f": "playtest_batch2/g47.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Dawn of Hope": [
+    8,
+    2
+   ],
+   "Spectral Procession": [
+    12,
+    3
+   ],
+   "Generous Gift": [
+    16,
+    4
+   ],
+   "Adeline, Resplendent Cathar": [
+    20,
+    5
+   ],
+   "Staff of the Storyteller": [
+    20,
+    5
+   ],
+   "Valorous Stance": [
+    24,
+    6
+   ],
+   "Tocasia's Welcome": [
+    24,
+    6
+   ],
+   "Wayfarer's Bauble": [
+    28,
+    7
+   ],
+   "Commander's Sphere": [
+    32,
+    8
+   ],
+   "Gift of Estates": [
+    32,
+    8
+   ],
+   "Mind Stone": [
+    36,
+    9
+   ]
+  },
+  "dmg": {
+   "Veyran, Voice of Duality": 6,
+   "Elephant Token": 6,
+   "Glen Elendra Archmage": 3,
+   "Dream Trawler": 15,
+   "Angel of Serenity": 10,
+   "Brago, King Eternal": 2
+  },
+  "dmgby": {
+   "D": 12,
+   "B": 30
+  },
+  "turn": null,
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "winner": "B",
+  "first": "B",
+  "outturn": 24,
+  "myturns": 9,
+  "lostactive": "B",
+  "lastturn": 47
+ },
+ {
+  "f": "playtest_batch2/g48.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Knight of the White Orchid": [
+    8,
+    2
+   ],
+   "Collective Effort": [
+    12,
+    3
+   ],
+   "Jazal Goldmane": [
+    16,
+    4
+   ],
+   "Generous Gift": [
+    20,
+    5
+   ],
+   "Dictate of Heliod": [
+    24,
+    6
+   ],
+   "Cathars' Crusade": [
+    28,
+    7
+   ],
+   "Increasing Devotion": [
+    32,
+    8
+   ],
+   "Adeline, Resplendent Cathar": [
+    36,
+    9
+   ],
+   "Raise the Alarm": [
+    37,
+    9
+   ],
+   "Captain of the Watch": [
+    40,
+    10
+   ],
+   "Inspiring Overseer": [
+    45,
+    12
+   ]
+  },
+  "dmg": {
+   "Soulherder": 3,
+   "Elephant Token": 3,
+   "Charming Prince": 2,
+   "Falkenrath Noble": 2
+  },
+  "dmgby": {
+   "B": 8,
+   "C": 2
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "B",
+  "outturn": 23,
+  "myturns": 12,
+  "lastturn": 45
+ },
+ {
+  "f": "playtest_batch2/g49.log",
+  "mull": [
+   "Mulligan: Ai(3)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Hallowed Spiritkeeper": [
+    9,
+    3
+   ],
+   "Jazal Goldmane": [
+    13,
+    4
+   ],
+   "Hero of Bladehold": [
+    17,
+    5
+   ],
+   "Cathars' Crusade": [
+    25,
+    7
+   ],
+   "Staff of the Storyteller": [
+    25,
+    7
+   ],
+   "Valorous Stance": [
+    29,
+    8
+   ],
+   "Adeline, Resplendent Cathar": [
+    29,
+    8
+   ],
+   "Inspiring Overseer": [
+    29,
+    8
+   ],
+   "Skullclamp": [
+    33,
+    9
+   ],
+   "Moment of Heroism": [
+    39,
+    11
+   ],
+   "Bennie Bracks, Zoologist": [
+    39,
+    11
+   ],
+   "Captain of the Watch": [
+    41,
+    12
+   ]
+  },
+  "dmg": {
+   "Martyr of Dusk": 2,
+   "Ministrant of Obligation": 2
+  },
+  "dmgby": {
+   "C": 4
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 21,
+  "myturns": 12,
+  "lastturn": 41
+ },
+ {
+  "f": "playtest_batch2/g50.log",
+  "mull": [
+   "Mulligan: Ai(1)-A11 has kept a hand of 7 cards"
+  ],
+  "cast": {
+   "Mother of Runes": [
+    1,
+    1
+   ],
+   "Rally the Ranks": [
+    5,
+    2
+   ],
+   "Glorious Anthem": [
+    9,
+    3
+   ],
+   "Adeline, Resplendent Cathar": [
+    13,
+    4
+   ],
+   "Increasing Devotion": [
+    17,
+    5
+   ],
+   "Mentor of the Meek": [
+    29,
+    8
+   ],
+   "Mind Stone": [
+    29,
+    8
+   ],
+   "Dawn of Hope": [
+    37,
+    10
+   ],
+   "Generous Gift": [
+    41,
+    11
+   ],
+   "Inspiring Overseer": [
+    41,
+    11
+   ],
+   "Raise the Alarm": [
+    42,
+    11
+   ],
+   "Spectral Procession": [
+    44,
+    12
+   ],
+   "Divine Visitation": [
+    44,
+    12
+   ],
+   "Bennie Bracks, Zoologist": [
+    47,
+    13
+   ],
+   "Cathars' Crusade": [
+    50,
+    14
+   ],
+   "Hero of Bladehold": [
+    52,
+    15
+   ],
+   "Knight of the White Orchid": [
+    52,
+    15
+   ],
+   "Resolute Reinforcements": [
+    52,
+    15
+   ]
+  },
+  "dmg": {
+   "Restoration Angel": 6
+  },
+  "dmgby": {
+   "B": 6
+  },
+  "turn": null,
+  "lost": null,
+  "lostturn": null,
+  "winner": "A11",
+  "first": "A11",
+  "outturn": 26,
+  "myturns": 15,
+  "lastturn": 52
+ }
+]

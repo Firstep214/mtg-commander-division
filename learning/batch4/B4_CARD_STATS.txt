@@ -1,0 +1,267 @@
+games parsed: 200, winners: {'D11': 27, 'B11': 44, 'A12': 94, 'C11': 35}
+
+== A12 (A_tokens_V1.2): 94 wins / 200  base 47.0%
+  cast-in>=15 games, win% when cast (high to low):
+    69.8%   30/ 43  Divine Visitation
+    66.7%   26/ 39  Welcoming Vampire
+    64.5%   20/ 31  Thought Vessel
+    63.1%   41/ 65  Cathars' Crusade
+    62.7%   32/ 51  Dictate of Heliod
+    61.9%   26/ 42  Commander's Sphere
+    61.7%   29/ 47  Inspired Charge
+    60.5%   23/ 38  Return to Dust
+    60.5%   23/ 38  Ghostly Prison
+    59.0%   23/ 39  Moment of Heroism
+    58.7%   27/ 46  Increasing Devotion
+    58.3%   21/ 36  Captain of the Watch
+    58.1%   25/ 43  Cathar Commando
+    57.8%   26/ 45  Inspiring Overseer
+    57.7%   30/ 52  Mother of Runes
+    56.5%   26/ 46  Sram's Expertise
+    56.2%   27/ 48  Arcane Signet
+    56.2%   18/ 32  Collective Effort
+    56.1%   32/ 57  Dawn of Hope
+    56.1%   23/ 41  Selfless Spirit
+    55.8%   24/ 43  Gift of Estates
+    55.6%   20/ 36  Bennie Bracks, Zoologist
+    55.1%   27/ 49  Sol Ring
+    54.5%   18/ 33  Secure the Wastes
+    54.3%   25/ 46  Benalish Marshal
+    53.7%   29/ 54  Resolute Reinforcements
+    53.6%   15/ 28  Mind Stone
+    52.9%   27/ 51  Elspeth Resplendent
+    52.6%   10/ 19  Austere Command
+    52.3%   23/ 44  Generous Gift
+    52.3%   23/ 44  Skullclamp
+    51.9%   27/ 52  Elspeth, Sun's Champion
+    51.5%   17/ 33  Raise the Alarm
+    51.1%   23/ 45  Hero of Bladehold
+    51.1%   24/ 47  Emeria Angel
+    51.1%   24/ 47  Benevolent Bodyguard
+    50.9%   29/ 57  Path to Exile
+    50.0%   22/ 44  Militia Bugler
+    50.0%   25/ 50  Jazal Goldmane
+    50.0%   20/ 40  Angel of Invention
+    50.0%   29/ 58  Rally the Ranks
+    50.0%   28/ 56  Spectral Procession
+    50.0%   22/ 44  Get Lost
+    49.0%   24/ 49  Mentor of the Meek
+    48.7%   19/ 39  Flawless Maneuver
+    48.2%   27/ 56  Weathered Wayfarer
+    48.0%   94/196  Adeline, Resplendent Cathar
+    47.8%   22/ 46  Intangible Virtue
+    47.7%   21/ 44  Knight of the White Orchid
+    47.5%   19/ 40  Archivist of Oghma
+    47.2%   17/ 36  Tocasia's Welcome
+    47.1%   16/ 34  Rabble Rousing
+    46.8%   22/ 47  Glorious Anthem
+    46.7%   21/ 45  Felidar Retreat
+    46.3%   19/ 41  Swords to Plowshares
+    45.8%   22/ 48  Hallowed Spiritkeeper
+    43.4%   23/ 53  Fateful Absence
+    43.2%   16/ 37  Valorous Stance
+    42.3%   22/ 52  Loran of the Third Path
+    40.0%   16/ 40  Sigil of the Empty Throne
+    40.0%    6/ 15  White Sun's Twilight
+    39.5%   15/ 38  Wayfarer's Bauble
+    37.8%   17/ 45  Staff of the Storyteller
+  never cast in 200 games (4): Castle Ardenvale; Emeria, the Sky Ruin; Secluded Steppe; Unbreakable Formation
+  rarely cast (<15 games): 
+  games lost, by winner: {'D11': 27, 'B11': 44, 'C11': 35}
+
+== B11 (B_control_V1.1): 44 wins / 200  base 22.0%
+  cast-in>=15 games, win% when cast (high to low):
+    57.4%   27/ 47  Agent of Treachery
+    44.6%   29/ 65  Fact or Fiction
+    41.8%   23/ 55  Angel of Serenity
+    41.2%   21/ 51  Kor Skyfisher
+    40.7%   24/ 59  Soulherder
+    38.6%   22/ 57  Teferi, Hero of Dominaria
+    38.3%   23/ 60  Glen Elendra Archmage
+    38.3%   18/ 47  Mirrormade
+    38.2%   21/ 55  Sun Titan
+    38.0%   19/ 50  Banishing Light
+    37.0%   17/ 46  Mulldrifter
+    36.4%   24/ 66  Restoration Angel
+    36.2%   21/ 58  Mind Stone
+    36.2%   21/ 58  Venser, Shaper Savant
+    36.2%   17/ 47  Frost Titan
+    35.5%   22/ 62  Cloudshift
+    35.3%   18/ 51  Eerie Interlude
+    34.7%   17/ 49  Detention Sphere
+    34.4%   22/ 64  Oblivion Ring
+    33.9%   19/ 56  Arcane Denial
+    33.3%   16/ 48  Wall of Omens
+    32.7%   17/ 52  Burnished Hart
+    32.7%   17/ 52  Negate
+    32.7%   16/ 49  Thought Vessel
+    32.6%   15/ 46  Cloudblazer
+    32.4%   12/ 37  Teleportation Circle
+    32.2%   19/ 59  Brainstorm
+    31.9%   15/ 47  Dream Trawler
+    31.7%   19/ 60  Ephemerate
+    31.7%   19/ 60  Man-o'-War
+    30.4%   21/ 69  Path to Exile
+    30.4%   14/ 46  Sol Ring
+    29.6%   16/ 54  Thirst for Discovery
+    29.3%   12/ 41  Dovin's Veto
+    29.1%   16/ 55  Fblthp, the Lost
+    28.8%   19/ 66  Flickerwisp
+    28.6%   16/ 56  Wayfarer's Bauble
+    28.6%   10/ 35  Fumigate
+    28.3%   17/ 60  Ponder
+    28.3%   15/ 53  Spell Queller
+    28.0%   14/ 50  Commander's Sphere
+    27.3%   15/ 55  Counterspell
+    26.8%   15/ 56  Arcane Signet
+    25.8%   16/ 62  Generous Gift
+    25.0%   12/ 48  Sea Gate Oracle
+    24.6%   16/ 65  Swords to Plowshares
+    24.6%   14/ 57  Fellwar Stone
+    24.5%   12/ 49  Frantic Search
+    24.2%   15/ 62  Solemn Simulacrum
+    24.0%   12/ 50  Talisman of Progress
+    23.4%   11/ 47  Preordain
+    23.1%    9/ 39  Charming Prince
+    22.5%    9/ 40  Wrath of God
+    22.1%   44/199  Brago, King Eternal
+    21.6%    8/ 37  Austere Command
+    20.4%   10/ 49  Elspeth, Sun's Champion
+    17.0%    9/ 53  Reflector Mage
+    15.4%    6/ 39  Hallowed Burial
+    14.9%    7/ 47  Supreme Verdict
+  never cast in 200 games (17): Azorius Chancery; Azorius Signet; Castle Ardenvale; Command Tower; Deputy of Detention; Exotic Orchard; Ghostly Flicker; Glacial Fortress; Irrigated Farmland; Meandering River; Port Town; Prairie Stream; Reliquary Tower; Sejiri Refuge; Skycloud Expanse; Thriving Isle; Tranquil Cove
+  rarely cast (<15 games): Settle the Wreckage 0/1
+  games lost, by winner: {'D11': 27, 'A12': 94, 'C11': 35}
+
+== C11 (C_aristocrats_V1.1): 35 wins / 200  base 17.5%
+  cast-in>=15 games, win% when cast (high to low):
+    38.9%   14/ 36  Blood Artist
+    35.0%   14/ 40  Midnight Reaper
+    34.9%   15/ 43  Liesa, Shroud of Dusk
+    33.3%   13/ 39  Butcher of Malakir
+    31.8%   14/ 44  Utter End
+    31.7%   13/ 41  Syr Konrad, the Grim
+    31.4%   11/ 35  Return to the Ranks
+    31.2%   15/ 48  Living Death
+    30.0%   12/ 40  Sorin, Vengeful Bloodlord
+    29.0%    9/ 31  Massacre Wurm
+    28.9%   11/ 38  Yahenni, Undying Partisan
+    28.8%   15/ 52  Priest of Forgotten Gods
+    28.3%   15/ 53  Falkenrath Noble
+    28.3%   13/ 46  Sifter of Skulls
+    27.8%   10/ 36  Carrion Feeder
+    27.3%   15/ 55  Kaya's Guile
+    26.0%   13/ 50  Morph
+    25.6%   11/ 43  Zulaport Cutthroat
+    25.0%   12/ 48  Requiem Angel
+    25.0%   10/ 40  Vindictive Vampire
+    24.5%   13/ 53  Wayfarer's Bauble
+    24.5%   12/ 49  Anguished Unmaking
+    24.4%   10/ 41  Elenda, the Dusk Rose
+    24.4%   10/ 41  Kaya's Ghostform
+    24.3%    9/ 37  Pitiless Plunderer
+    24.3%    9/ 37  Ministrant of Obligation
+    24.2%    8/ 33  Unearth
+    24.0%   12/ 50  Doomed Traveler
+    23.8%   10/ 42  Bastion of Remembrance
+    23.5%   12/ 51  Damn
+    23.1%   12/ 52  Sol Ring
+    22.4%   11/ 49  Nadier's Nightblade
+    22.2%    8/ 36  Pestilence
+    22.0%   11/ 50  Mirkwood Bats
+    21.4%    9/ 42  Elas il-Kor, Sadistic Pilgrim
+    21.3%   10/ 47  Arcane Signet
+    20.8%   10/ 48  Skullclamp
+    20.7%    6/ 29  Dark Prophecy
+    20.4%   10/ 49  Mind Stone
+    20.3%   12/ 59  Swords to Plowshares
+    19.6%   10/ 51  Plaguecrafter
+    19.5%    8/ 41  Ashnod's Altar
+    19.5%    8/ 41  Cruel Celebrant
+    19.2%   10/ 52  Spectral Procession
+    19.0%    8/ 42  Commander's Sphere
+    18.8%    6/ 32  Deadly Dispute
+    18.8%    6/ 32  Vindicate
+    18.8%    9/ 48  Darkest Hour
+    18.6%    8/ 43  Painful Truths
+    18.1%   35/193  Teysa Karlov
+    18.0%    9/ 50  Talisman of Hierarchy
+    17.1%    7/ 41  Fellwar Stone
+    17.0%    8/ 47  Martyr of Dusk
+    16.3%    7/ 43  Village Rites
+    16.3%    7/ 43  Infernal Grasp
+    15.9%    7/ 44  Mortify
+    15.9%    7/ 44  Bartolomé del Presidio
+    15.2%    5/ 33  Night's Whisper
+    14.0%    8/ 57  Despark
+     9.3%    4/ 43  Path to Exile
+  never cast in 200 games (17): Bojuka Bog; Brightclimb Pathway; Caves of Koilos; Command Tower; Concealed Courtyard; Exotic Orchard; Fetid Heath; Grim Haruspex; Isolated Chapel; Myriad Landscape; Orzhov Basilica; Orzhov Signet; Scoured Barrens; Temple of Silence; Undying Evil; Vault of the Archangel; Viscera Seer
+  rarely cast (<15 games): Victimize 7/14
+  games lost, by winner: {'D11': 27, 'B11': 44, 'A12': 94}
+
+== D11 (D_spellslinger_V1.1): 27 wins / 200  base 13.5%
+  cast-in>=15 games, win% when cast (high to low):
+    32.3%   10/ 31  Increasing Vengeance
+    30.0%    6/ 20  Reverberate
+    28.1%   16/ 57  Fact or Fiction
+    25.9%   14/ 54  Ral, Storm Conduit
+    25.6%   11/ 43  Niv-Mizzet, Parun
+    25.5%   14/ 55  Storm of Saruman
+    24.1%   13/ 54  Mind Stone
+    23.9%   16/ 67  Sublime Epiphany
+    22.8%   13/ 57  Coruscation Mage
+    22.5%   16/ 71  Fire
+    22.4%   11/ 49  Electrostatic Field
+    22.4%   11/ 49  Pieces of the Puzzle
+    21.8%   12/ 55  Negate
+    21.6%   11/ 51  Big Score
+    21.4%   15/ 70  Ponder
+    21.4%   12/ 56  Archmage Emeritus
+    21.2%   11/ 52  Unexpected Windfall
+    20.8%   11/ 53  Reality Shift
+    20.4%   10/ 49  Arcane Denial
+    20.0%   13/ 65  Kessig Flamebreather
+    20.0%   12/ 60  Opt
+    20.0%   10/ 50  Preordain
+    19.6%   11/ 56  Abrade
+    19.5%    8/ 41  Pongify
+    19.4%   12/ 62  Stormcatch Mentor
+    19.0%   11/ 58  Counterspell
+    19.0%   11/ 58  Chart a Course
+    18.6%   11/ 59  Ral's Outburst
+    18.4%    9/ 49  Docent of Perfection
+    18.3%   11/ 60  Firebrand Archer
+    18.3%   11/ 60  Essence Scatter
+    18.2%    8/ 44  Guttersnipe
+    17.6%    9/ 51  Consider
+    17.6%    9/ 51  Galvanic Iteration
+    17.6%    9/ 51  Fiery Cannonade
+    17.5%   10/ 57  Haughty Djinn
+    17.5%   11/ 63  Expressive Iteration
+    17.2%   10/ 58  Murmuring Mystic
+    17.2%   11/ 64  Brainstorm
+    16.9%   10/ 59  Vandalblast
+    16.1%   10/ 62  Lightning Bolt
+    15.2%    7/ 46  Anger of the Gods
+    15.0%    9/ 60  Chaos Warp
+    15.0%    9/ 60  Young Pyromancer
+    14.9%    7/ 47  Rapid Hybridization
+    14.8%    8/ 54  Arcane Signet
+    14.8%    9/ 61  Thermo-Alchemist
+    14.8%    9/ 61  Commander's Sphere
+    14.8%    9/ 61  Frantic Search
+    14.5%    8/ 55  Crackling Drake
+    13.7%   27/197  Veyran, Voice of Duality
+    13.1%    8/ 61  Storm-Kiln Artist
+    12.3%    7/ 57  Fellwar Stone
+    12.3%    7/ 57  Thrill of Possibility
+    12.2%    6/ 49  Baral, Chief of Compliance
+    11.8%    6/ 51  Third Path Iconoclast
+    11.7%    7/ 60  Talisman of Creativity
+    11.1%    6/ 54  Talrand, Sky Summoner
+    10.3%    6/ 58  Sol Ring
+     9.5%    4/ 42  Blasphemous Act
+  never cast in 200 games (16): Command Tower; Exotic Orchard; Faithless Looting; Fiery Islet; Fire // Ice; Frostboil Snarl; Izzet Boilerworks; Izzet Signet; Mystic Sanctuary; Reliquary Tower; Riverglide Pathway; Shivan Reef; Spirebluff Canal; Sulfur Falls; Swiftwater Cliffs; Thriving Isle
+  rarely cast (<15 games): Austere Command 1/1; Generous Gift 0/1; Ice 2/3; Increasing Devotion 1/1; Path to Exile 0/1; Raise the Alarm 0/1; Return to the Ranks 0/1; Settle the Wreckage 0/1; Sram's Expertise 0/1; Swords to Plowshares 0/1; Utter End 0/1
+  games lost, by winner: {'B11': 44, 'A12': 94, 'C11': 35}

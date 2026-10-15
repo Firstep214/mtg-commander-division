@@ -81,3 +81,21 @@ Legality / Game Changer check (banlist.json, game_changers.json, Scryfall legali
 | 1 | Emeria, the Sky Ruin | 7.47 | SOC #368 | 7.47 |
 | 1 | Secluded Steppe | 0.11 | ARC #133 | 0.11 |
 | 33 | Plains | 0.06 | C15 #326 | 1.98 |
+
+## Approval — 2026-10-15
+Voltaire approved Deck A at up to $106.87 strict retail ($102.19 cheapest printing), 2026-10-15. (Applies to A_tokens_V1.2: -Sunfall +Ghostly Prison, -Mirror Entity +Get Lost; relayed by Magnus, CH001-LEARN-01.)
+
+## Budget rule (effective 2026-10-15 04:44 PHT, from Voltaire via OSL Manager)
+- Target: $100 per deck, kept as close as possible.
+- Hard cap: $120 at strict retail (cheapest non-foil Scryfall USD for a regular printing).
+- Any deck over $100 must have a ledger line in decks/PRICE_LEDGER_<deck>.md with the amount and a reason.
+- This supersedes the earlier $100 cap and the one-off Deck A approval up to $106.87.
+- Deck A V1.2 is $106.87 strict retail, $6.87 over the $100 target. Reason: Ghostly Prison and Get Lost answer the flyers and evasive damage that caused A's losses (see learning/A_ANALYSIS.md). It is within the $120 cap.
+
+## V1.2 re-price — 2026-10-15 (CH001-LEARN-01, Kael)
+Deck: `A_tokens_V1.2.txt` (= V1.1 −Sunfall +Ghostly Prison, −Mirror Entity +Get Lost). 100 cards. Same Scryfall snapshot as above.
+- Strict retail (audits/nemesis_strict_retail.py method, regular printings, PLST/promos excluded): **$106.87** (V1.1 was $99.30). Within $120 hard cap; **$6.87 over $100 target**.
+- Line items changed: Ghostly Prison $5.78 (C19 #64; $5.68 PLST cheapest), Get Lost $3.22 (LCI); removed Sunfall $0.31, Mirror Entity $1.12 (C16 #70).
+- Reason for >$100: A_ANALYSIS.md §3/§7 — all 44 A losses in 74 games were life-total kills, mostly from evasive/flying and non-blockable damage (Veyran 260, Brago 239, Haughty Djinn 130 damage to A); Sunfall and Mirror Entity were cast 0 times in 74 games (§5).
+- Game Changers: none (checked vs sources/2026-10-14/game_changers.json).
+- The table above is V1 and is kept for history.

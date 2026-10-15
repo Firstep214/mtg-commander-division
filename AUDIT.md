@@ -5,7 +5,7 @@ Auditor: Grok Bot executor. Source: Slack C0C6RUK92Q5 thread 1791969594.215289 (
 |---|---|---|
 | Persistent independent agents | **LIVE** — 15 agents [MTG-00]..[MTG-14] exist, created 2026-10-14 by the Studio Manager via CreateAgent | Manager confirmation (CreateAgent) |
 | Naming / department tags `[MTG-##] Name \| Dept \| Role` | LIVE (name strings) | Used in agents, prompts/, office |
-| Role prompts | **DRAFTED, NOT INSTALLED** | prompts/MTG-00..14_*.md; install with UpdateAgent (direct profile.json writes revert) |
+| Role prompts | **APPLIED** (v2.2 + v2.3) | prompts/v2.3_installed/; READBACK.md 15/15 match |
 | Scryfall data | **LIVE** on box | data/oracle.jsonl.gz (updated 2026-10-14T09:01:55Z = 17:01 Manila), data/default.jsonl.gz (09:05:48Z = 17:05 Manila); carddb.json 35,335 names, 53 Game Changers flagged. Shared to any agent on this box (shared filesystem). Refresh: build_db.py |
 | Slack orchestration | LIVE connector (user-Slack read/send). Outgoing posts still need Voltaire's approval card | Read the request thread successfully |
 | Java | **LIVE** — installed openjdk-21-jre-headless (21.0.12.1) this session (17 not available on Debian 13) | `java -version` |

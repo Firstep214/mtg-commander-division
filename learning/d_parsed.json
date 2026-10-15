@@ -1,0 +1,6683 @@
+[
+ {
+  "log": "playtest_batch2/g01.log",
+  "cast": {
+   "Third Path Iconoclast": 1,
+   "Veyran, Voice of Duality": 2,
+   "Galvanic Iteration": 2,
+   "Ponder": 2,
+   "Reality Shift": 1,
+   "Lightning Bolt": 2,
+   "Fact or Fiction": 1,
+   "Young Pyromancer": 1,
+   "Fellwar Stone": 1,
+   "Arcane Signet": 1,
+   "Big Score": 1,
+   "Chart a Course": 1,
+   "Storm-Kiln Artist": 1,
+   "Essence Scatter": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 51,
+  "first": null,
+  "dturns": 10,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Third Path Iconoclast"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Galvanic Iteration",
+    "Ponder",
+    "Ponder",
+    "Reality Shift"
+   ],
+   "6": [
+    "Galvanic Iteration",
+    "Lightning Bolt",
+    "Lightning Bolt"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Fact or Fiction",
+    "Young Pyromancer"
+   ],
+   "9": [
+    "Fellwar Stone",
+    "Arcane Signet",
+    "Big Score",
+    "Chart a Course"
+   ],
+   "10": [
+    "Storm-Kiln Artist",
+    "Essence Scatter"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   41,
+   "B",
+   "Glen Elendra Archmage (276)",
+   "2"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   41,
+   "B",
+   "Glen Elendra Archmage (276)",
+   "2"
+  ],
+  "turns": 51
+ },
+ {
+  "log": "playtest_batch2/g02.log",
+  "cast": {
+   "Abrade": 1,
+   "Talisman of Creativity": 1,
+   "Talrand, Sky Summoner": 1,
+   "Veyran, Voice of Duality": 4,
+   "Docent of Perfection": 3,
+   "Chaos Warp": 1,
+   "Haughty Djinn": 1,
+   "Third Path Iconoclast": 1,
+   "Storm of Saruman": 1,
+   "Chart a Course": 1,
+   "Lightning Bolt": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 60,
+  "first": null,
+  "dturns": 15,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "2": [
+    "Abrade"
+   ],
+   "3": [
+    "Talisman of Creativity"
+   ],
+   "4": [
+    "Talrand, Sky Summoner"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Docent of Perfection"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Chaos Warp",
+    "Haughty Djinn"
+   ],
+   "9": [
+    "Docent of Perfection"
+   ],
+   "10": [
+    "Docent of Perfection"
+   ],
+   "11": [
+    "Third Path Iconoclast"
+   ],
+   "13": [
+    "Storm of Saruman"
+   ],
+   "14": [
+    "Veyran, Voice of Duality",
+    "Chart a Course",
+    "Lightning Bolt"
+   ],
+   "15": [
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   58,
+   "B",
+   "Human Token (1017)",
+   "3"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   58,
+   "B",
+   "Human Token (1017)",
+   "3"
+  ],
+  "turns": 60
+ },
+ {
+  "log": "playtest_batch2/g03.log",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Pieces of the Puzzle": 1,
+   "Vandalblast": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 7,
+   "Arcane Signet": 1,
+   "Brainstorm": 1,
+   "Sol Ring": 1,
+   "Negate": 2,
+   "Increasing Vengeance": 2,
+   "Big Score": 3,
+   "Fact or Fiction": 1,
+   "Reality Shift": 1,
+   "Expressive Iteration": 1,
+   "Rapid Hybridization": 1,
+   "Docent of Perfection": 1,
+   "Consider": 1,
+   "Kessig Flamebreather": 1,
+   "Arcane Denial": 1,
+   "Lightning Bolt": 1,
+   "Pongify": 1,
+   "Ponder": 1,
+   "Thrill of Possibility": 1,
+   "Unexpected Windfall": 1,
+   "Preordain": 1,
+   "Chart a Course": 2,
+   "Reverberate": 1,
+   "Abrade": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 64,
+  "first": null,
+  "dturns": 19,
+  "lands": 18,
+  "dcast_by_own_turn": {
+   "2": [
+    "Baral, Chief of Compliance"
+   ],
+   "3": [
+    "Pieces of the Puzzle"
+   ],
+   "4": [
+    "Vandalblast"
+   ],
+   "5": [
+    "Murmuring Mystic"
+   ],
+   "6": [
+    "Veyran, Voice of Duality",
+    "Arcane Signet",
+    "Brainstorm"
+   ],
+   "7": [
+    "Sol Ring",
+    "Negate",
+    "Increasing Vengeance",
+    "Negate"
+   ],
+   "10": [
+    "Big Score",
+    "Increasing Vengeance",
+    "Big Score",
+    "Big Score",
+    "Fact or Fiction",
+    "Reality Shift",
+    "Expressive Iteration"
+   ],
+   "11": [
+    "Rapid Hybridization",
+    "Docent of Perfection",
+    "Consider"
+   ],
+   "12": [
+    "Veyran, Voice of Duality",
+    "Kessig Flamebreather"
+   ],
+   "13": [
+    "Veyran, Voice of Duality"
+   ],
+   "14": [
+    "Arcane Denial"
+   ],
+   "15": [
+    "Veyran, Voice of Duality",
+    "Lightning Bolt",
+    "Pongify"
+   ],
+   "16": [
+    "Ponder",
+    "Thrill of Possibility",
+    "Unexpected Windfall",
+    "Preordain",
+    "Veyran, Voice of Duality"
+   ],
+   "18": [
+    "Veyran, Voice of Duality"
+   ],
+   "19": [
+    "Chart a Course",
+    "Reverberate",
+    "Chart a Course",
+    "Abrade",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   64,
+   "B",
+   "Soldier Token (768)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   64,
+   "B",
+   "Soldier Token (768)",
+   "1"
+  ],
+  "turns": 64
+ },
+ {
+  "log": "playtest_batch2/g04.log",
+  "cast": {
+   "Brainstorm": 1,
+   "Talisman of Creativity": 1,
+   "Veyran, Voice of Duality": 2,
+   "Docent of Perfection": 1,
+   "Thrill of Possibility": 1,
+   "Fire": 1,
+   "Pieces of the Puzzle": 1,
+   "Counterspell": 1,
+   "Ral, Storm Conduit": 1,
+   "Chart a Course": 2,
+   "Unexpected Windfall": 1,
+   "Abrade": 1,
+   "Electrostatic Field": 1,
+   "Thermo-Alchemist": 1,
+   "Mind Stone": 1,
+   "Negate": 1,
+   "Arcane Denial": 1,
+   "Big Score": 1,
+   "Pongify": 1,
+   "Consider": 1,
+   "Ponder": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "first": null,
+  "dturns": 12,
+  "lands": 6,
+  "dcast_by_own_turn": {
+   "1": [
+    "Brainstorm"
+   ],
+   "2": [
+    "Talisman of Creativity"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Docent of Perfection"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Thrill of Possibility",
+    "Fire"
+   ],
+   "7": [
+    "Pieces of the Puzzle",
+    "Counterspell"
+   ],
+   "8": [
+    "Ral, Storm Conduit",
+    "Chart a Course",
+    "Chart a Course"
+   ],
+   "9": [
+    "Unexpected Windfall",
+    "Abrade",
+    "Electrostatic Field"
+   ],
+   "10": [
+    "Thermo-Alchemist",
+    "Mind Stone",
+    "Negate"
+   ],
+   "11": [
+    "Arcane Denial",
+    "Big Score",
+    "Pongify",
+    "Consider"
+   ],
+   "12": [
+    "Ponder"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   45,
+   "A11",
+   "Ape Token (459)",
+   "6"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   45,
+   "A11",
+   "Ape Token (459)",
+   "6"
+  ],
+  "turns": 47
+ },
+ {
+  "log": "playtest_batch2/g05.log",
+  "cast": {
+   "Veyran, Voice of Duality": 3,
+   "Crackling Drake": 1,
+   "Chaos Warp": 1,
+   "Frantic Search": 1,
+   "Pieces of the Puzzle": 1,
+   "Expressive Iteration": 1,
+   "Ral's Outburst": 1,
+   "Firebrand Archer": 1,
+   "Fellwar Stone": 1,
+   "Counterspell": 1,
+   "Ponder": 1,
+   "Electrostatic Field": 1,
+   "Murmuring Mystic": 1,
+   "Galvanic Iteration": 3,
+   "Sublime Epiphany": 3
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 56,
+  "first": null,
+  "dturns": 15,
+  "lands": 13,
+  "dcast_by_own_turn": {
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Crackling Drake"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Chaos Warp",
+    "Frantic Search",
+    "Pieces of the Puzzle"
+   ],
+   "7": [
+    "Expressive Iteration",
+    "Ral's Outburst"
+   ],
+   "8": [
+    "Firebrand Archer",
+    "Fellwar Stone",
+    "Counterspell"
+   ],
+   "9": [
+    "Ponder",
+    "Electrostatic Field"
+   ],
+   "10": [
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Murmuring Mystic"
+   ],
+   "14": [
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Sublime Epiphany",
+    "Sublime Epiphany",
+    "Sublime Epiphany"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   56,
+   "A11",
+   "Human Token (856)",
+   "2"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   56,
+   "A11",
+   "Human Token (856)",
+   "2"
+  ],
+  "turns": 56
+ },
+ {
+  "log": "playtest_batch2/g06.log",
+  "cast": {
+   "Ponder": 1,
+   "Preordain": 1,
+   "Fact or Fiction": 1,
+   "Storm-Kiln Artist": 1,
+   "Sublime Epiphany": 1,
+   "Chaos Warp": 1,
+   "Commander's Sphere": 1,
+   "Chart a Course": 1,
+   "Talisman of Creativity": 1,
+   "Crackling Drake": 1,
+   "Unexpected Windfall": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 1,
+   "Kessig Flamebreather": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Firebrand Archer": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 56,
+  "first": null,
+  "dturns": 10,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "3": [
+    "Ponder",
+    "Preordain"
+   ],
+   "4": [
+    "Fact or Fiction"
+   ],
+   "5": [
+    "Storm-Kiln Artist"
+   ],
+   "6": [
+    "Sublime Epiphany"
+   ],
+   "7": [
+    "Chaos Warp",
+    "Commander's Sphere",
+    "Chart a Course",
+    "Talisman of Creativity",
+    "Crackling Drake"
+   ],
+   "8": [
+    "Unexpected Windfall",
+    "Archmage Emeritus",
+    "Veyran, Voice of Duality",
+    "Kessig Flamebreather"
+   ],
+   "9": [
+    "Niv-Mizzet, Parun"
+   ],
+   "10": [
+    "Firebrand Archer"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   40,
+   "B",
+   "Brago, King Eternal (201)",
+   "2"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   40,
+   "B",
+   "Brago, King Eternal (201)",
+   "2"
+  ],
+  "turns": 56
+ },
+ {
+  "log": "playtest_batch2/g07.log",
+  "cast": {
+   "Arcane Denial": 1,
+   "Veyran, Voice of Duality": 6,
+   "Talisman of Creativity": 1,
+   "Sol Ring": 1,
+   "Big Score": 1,
+   "Anger of the Gods": 1,
+   "Unexpected Windfall": 2,
+   "Opt": 1,
+   "Vandalblast": 1,
+   "Negate": 1,
+   "Haughty Djinn": 2,
+   "Archmage Emeritus": 2
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 54,
+  "first": null,
+  "dturns": 12,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "2": [
+    "Arcane Denial"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Talisman of Creativity",
+    "Sol Ring",
+    "Big Score"
+   ],
+   "5": [
+    "Anger of the Gods",
+    "Unexpected Windfall",
+    "Opt"
+   ],
+   "6": [
+    "Vandalblast",
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Negate"
+   ],
+   "9": [
+    "Haughty Djinn",
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Unexpected Windfall",
+    "Archmage Emeritus"
+   ],
+   "11": [
+    "Haughty Djinn",
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Archmage Emeritus",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   49,
+   "B",
+   "Agent of Treachery (219)",
+   "3"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   49,
+   "B",
+   "Agent of Treachery (219)",
+   "3"
+  ],
+  "turns": 54
+ },
+ {
+  "log": "playtest_batch2/g08.log",
+  "cast": {
+   "Veyran, Voice of Duality": 2,
+   "Fact or Fiction": 1,
+   "Murmuring Mystic": 1,
+   "Kessig Flamebreather": 1,
+   "Pieces of the Puzzle": 1,
+   "Chart a Course": 1,
+   "Expressive Iteration": 1,
+   "Commander's Sphere": 1,
+   "Talrand, Sky Summoner": 1,
+   "Essence Scatter": 1,
+   "Abrade": 1,
+   "Sublime Epiphany": 1,
+   "Vandalblast": 1,
+   "Blasphemous Act": 1,
+   "Mind Stone": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 52,
+  "first": null,
+  "dturns": 14,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Fact or Fiction"
+   ],
+   "6": [
+    "Murmuring Mystic",
+    "Kessig Flamebreather"
+   ],
+   "7": [
+    "Pieces of the Puzzle",
+    "Chart a Course",
+    "Expressive Iteration"
+   ],
+   "8": [
+    "Commander's Sphere",
+    "Talrand, Sky Summoner",
+    "Essence Scatter"
+   ],
+   "9": [
+    "Abrade",
+    "Sublime Epiphany"
+   ],
+   "10": [
+    "Vandalblast"
+   ],
+   "11": [
+    "Blasphemous Act",
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Mind Stone"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   52,
+   "A11",
+   "Jazal Goldmane (361)",
+   "34"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   52,
+   "A11",
+   "Jazal Goldmane (361)",
+   "34"
+  ],
+  "turns": 52
+ },
+ {
+  "log": "playtest_batch2/g09.log",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Fire": 1,
+   "Haughty Djinn": 3,
+   "Ponder": 1,
+   "Talrand, Sky Summoner": 1,
+   "Veyran, Voice of Duality": 3,
+   "Counterspell": 1,
+   "Third Path Iconoclast": 1,
+   "Arcane Denial": 1,
+   "Storm of Saruman": 1,
+   "Preordain": 1,
+   "Opt": 1,
+   "Frantic Search": 1,
+   "Chaos Warp": 3,
+   "Niv-Mizzet, Parun": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 1,
+   "Ral's Outburst": 2,
+   "Anger of the Gods": 1,
+   "Lightning Bolt": 1,
+   "Consider": 1,
+   "Archmage Emeritus": 1,
+   "Baral, Chief of Compliance": 1,
+   "Young Pyromancer": 1,
+   "Fellwar Stone": 1,
+   "Mind Stone": 1,
+   "Rapid Hybridization": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 74,
+  "first": null,
+  "dturns": 16,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "2": [
+    "Stormcatch Mentor"
+   ],
+   "3": [
+    "Fire"
+   ],
+   "4": [
+    "Haughty Djinn"
+   ],
+   "5": [
+    "Ponder",
+    "Talrand, Sky Summoner"
+   ],
+   "6": [
+    "Veyran, Voice of Duality",
+    "Counterspell"
+   ],
+   "7": [
+    "Veyran, Voice of Duality",
+    "Third Path Iconoclast"
+   ],
+   "8": [
+    "Veyran, Voice of Duality"
+   ],
+   "9": [
+    "Arcane Denial"
+   ],
+   "10": [
+    "Storm of Saruman"
+   ],
+   "11": [
+    "Preordain",
+    "Haughty Djinn",
+    "Haughty Djinn",
+    "Opt"
+   ],
+   "12": [
+    "Frantic Search",
+    "Chaos Warp",
+    "Chaos Warp",
+    "Chaos Warp",
+    "Niv-Mizzet, Parun"
+   ],
+   "14": [
+    "Fact or Fiction",
+    "Galvanic Iteration",
+    "Ral's Outburst",
+    "Ral's Outburst",
+    "Anger of the Gods",
+    "Lightning Bolt",
+    "Consider"
+   ],
+   "15": [
+    "Archmage Emeritus",
+    "Baral, Chief of Compliance",
+    "Young Pyromancer",
+    "Fellwar Stone",
+    "Mind Stone"
+   ],
+   "16": [
+    "Rapid Hybridization"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   55,
+   "C",
+   "Teysa Karlov (100)",
+   "2"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   55,
+   "C",
+   "Teysa Karlov (100)",
+   "2"
+  ],
+  "turns": 74
+ },
+ {
+  "log": "playtest_batch2/g10.log",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Fire": 1,
+   "Pieces of the Puzzle": 1,
+   "Haughty Djinn": 2,
+   "Veyran, Voice of Duality": 5,
+   "Fellwar Stone": 1,
+   "Archmage Emeritus": 1,
+   "Ral's Outburst": 1,
+   "Baral, Chief of Compliance": 1,
+   "Blasphemous Act": 1,
+   "Galvanic Iteration": 3,
+   "Reverberate": 3,
+   "Return to the Ranks": 3,
+   "Talrand, Sky Summoner": 1,
+   "Expressive Iteration": 2,
+   "Pongify": 1,
+   "Unexpected Windfall": 1,
+   "Opt": 1,
+   "Storm of Saruman": 1,
+   "Electrostatic Field": 2,
+   "Chart a Course": 1,
+   "Crackling Drake": 2,
+   "Thermo-Alchemist": 1,
+   "Brainstorm": 2,
+   "Reality Shift": 1,
+   "Negate": 1,
+   "Niv-Mizzet, Parun": 2,
+   "Abrade": 1,
+   "Arcane Denial": 1,
+   "Ral, Storm Conduit": 1,
+   "Firebrand Archer": 2,
+   "Ponder": 1,
+   "Sublime Epiphany": 1,
+   "Anger of the Gods": 1,
+   "Mind Stone": 1,
+   "Talisman of Creativity": 1,
+   "Frantic Search": 1,
+   "Big Score": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 22,
+  "lands": 18,
+  "dcast_by_own_turn": {
+   "2": [
+    "Stormcatch Mentor"
+   ],
+   "3": [
+    "Fire",
+    "Pieces of the Puzzle"
+   ],
+   "4": [
+    "Haughty Djinn"
+   ],
+   "5": [
+    "Veyran, Voice of Duality",
+    "Fellwar Stone"
+   ],
+   "6": [
+    "Archmage Emeritus"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Ral's Outburst",
+    "Baral, Chief of Compliance"
+   ],
+   "9": [
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Blasphemous Act"
+   ],
+   "11": [
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Reverberate",
+    "Reverberate",
+    "Return to the Ranks",
+    "Reverberate",
+    "Return to the Ranks",
+    "Return to the Ranks"
+   ],
+   "12": [
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Talrand, Sky Summoner"
+   ],
+   "14": [
+    "Expressive Iteration",
+    "Expressive Iteration"
+   ],
+   "15": [
+    "Pongify",
+    "Unexpected Windfall",
+    "Opt"
+   ],
+   "16": [
+    "Storm of Saruman",
+    "Electrostatic Field",
+    "Electrostatic Field",
+    "Chart a Course",
+    "Crackling Drake"
+   ],
+   "17": [
+    "Thermo-Alchemist",
+    "Brainstorm",
+    "Brainstorm",
+    "Reality Shift",
+    "Negate"
+   ],
+   "18": [
+    "Haughty Djinn",
+    "Niv-Mizzet, Parun",
+    "Niv-Mizzet, Parun"
+   ],
+   "19": [
+    "Veyran, Voice of Duality"
+   ],
+   "20": [
+    "Crackling Drake"
+   ],
+   "21": [
+    "Abrade",
+    "Arcane Denial"
+   ],
+   "22": [
+    "Ral, Storm Conduit",
+    "Firebrand Archer",
+    "Firebrand Archer",
+    "Ponder",
+    "Sublime Epiphany",
+    "Anger of the Gods",
+    "Mind Stone",
+    "Talisman of Creativity",
+    "Frantic Search",
+    "Big Score"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   80,
+   "B",
+   "Talisman of Creativity (68)",
+   "1"
+  ],
+  "firstturn": "D",
+  "turns": 80
+ },
+ {
+  "log": "playtest_batch2/g11.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Mind Stone": 1,
+   "Veyran, Voice of Duality": 3,
+   "Pieces of the Puzzle": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Opt": 1,
+   "Anger of the Gods": 1,
+   "Docent of Perfection": 1,
+   "Guttersnipe": 1,
+   "Preordain": 1,
+   "Arcane Signet": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 38,
+  "first": null,
+  "dturns": 11,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring",
+    "Mind Stone"
+   ],
+   "2": [
+    "Veyran, Voice of Duality"
+   ],
+   "3": [
+    "Pieces of the Puzzle",
+    "Kessig Flamebreather"
+   ],
+   "4": [
+    "Chart a Course",
+    "Opt"
+   ],
+   "5": [
+    "Anger of the Gods"
+   ],
+   "6": [
+    "Docent of Perfection"
+   ],
+   "7": [
+    "Veyran, Voice of Duality",
+    "Guttersnipe"
+   ],
+   "8": [
+    "Preordain"
+   ],
+   "9": [
+    "Veyran, Voice of Duality",
+    "Arcane Signet"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   38,
+   "A11",
+   "Human Token (573)",
+   "3"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   38,
+   "A11",
+   "Human Token (573)",
+   "3"
+  ],
+  "turns": 38
+ },
+ {
+  "log": "playtest_batch2/g12.log",
+  "cast": {
+   "Crackling Drake": 1,
+   "Blasphemous Act": 1,
+   "Veyran, Voice of Duality": 4,
+   "Opt": 1,
+   "Unexpected Windfall": 1,
+   "Lightning Bolt": 1,
+   "Kessig Flamebreather": 1,
+   "Negate": 1,
+   "Consider": 1,
+   "Sol Ring": 1,
+   "Reality Shift": 1,
+   "Rapid Hybridization": 1,
+   "Storm-Kiln Artist": 1,
+   "Commander's Sphere": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 53,
+  "first": null,
+  "dturns": 12,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "4": [
+    "Crackling Drake"
+   ],
+   "5": [
+    "Blasphemous Act",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Veyran, Voice of Duality",
+    "Opt"
+   ],
+   "7": [
+    "Unexpected Windfall",
+    "Lightning Bolt",
+    "Kessig Flamebreather",
+    "Negate"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Consider"
+   ],
+   "9": [
+    "Sol Ring",
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Reality Shift",
+    "Rapid Hybridization",
+    "Storm-Kiln Artist"
+   ],
+   "12": [
+    "Commander's Sphere"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   48,
+   "A11",
+   "Human Token (1065)",
+   "5"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   48,
+   "A11",
+   "Human Token (1065)",
+   "5"
+  ],
+  "turns": 53
+ },
+ {
+  "log": "playtest_batch2/g13.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Veyran, Voice of Duality": 3,
+   "Thermo-Alchemist": 1,
+   "Sublime Epiphany": 1,
+   "Galvanic Iteration": 2,
+   "Haughty Djinn": 4,
+   "Consider": 1,
+   "Pieces of the Puzzle": 1,
+   "Storm-Kiln Artist": 1,
+   "Arcane Signet": 1,
+   "Niv-Mizzet, Parun": 3,
+   "Talrand, Sky Summoner": 3,
+   "Big Score": 1,
+   "Reality Shift": 1,
+   "Storm of Saruman": 1,
+   "Counterspell": 1,
+   "Mind Stone": 1,
+   "Arcane Denial": 1,
+   "Docent of Perfection": 1,
+   "Preordain": 1,
+   "Thrill of Possibility": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 72,
+  "first": null,
+  "dturns": 22,
+  "lands": 19,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring"
+   ],
+   "2": [
+    "Veyran, Voice of Duality"
+   ],
+   "3": [
+    "Thermo-Alchemist"
+   ],
+   "4": [
+    "Sublime Epiphany"
+   ],
+   "5": [
+    "Galvanic Iteration",
+    "Haughty Djinn"
+   ],
+   "6": [
+    "Galvanic Iteration",
+    "Consider"
+   ],
+   "9": [
+    "Pieces of the Puzzle"
+   ],
+   "10": [
+    "Storm-Kiln Artist"
+   ],
+   "12": [
+    "Veyran, Voice of Duality",
+    "Arcane Signet"
+   ],
+   "15": [
+    "Niv-Mizzet, Parun",
+    "Haughty Djinn",
+    "Talrand, Sky Summoner"
+   ],
+   "16": [
+    "Niv-Mizzet, Parun",
+    "Haughty Djinn",
+    "Talrand, Sky Summoner"
+   ],
+   "17": [
+    "Niv-Mizzet, Parun",
+    "Haughty Djinn",
+    "Talrand, Sky Summoner",
+    "Big Score"
+   ],
+   "18": [
+    "Reality Shift",
+    "Storm of Saruman",
+    "Counterspell",
+    "Veyran, Voice of Duality"
+   ],
+   "19": [
+    "Mind Stone"
+   ],
+   "20": [
+    "Arcane Denial"
+   ],
+   "21": [
+    "Docent of Perfection"
+   ],
+   "22": [
+    "Preordain",
+    "Thrill of Possibility"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   72,
+   "B",
+   "Fblthp, the Lost (196)",
+   "1"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   72,
+   "B",
+   "Fblthp, the Lost (196)",
+   "1"
+  ],
+  "turns": 72
+ },
+ {
+  "log": "playtest_batch2/g14.log",
+  "cast": {
+   "Firebrand Archer": 1,
+   "Pieces of the Puzzle": 1,
+   "Frantic Search": 1,
+   "Lightning Bolt": 1,
+   "Commander's Sphere": 1,
+   "Ral's Outburst": 1,
+   "Murmuring Mystic": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 2,
+   "Kessig Flamebreather": 1,
+   "Fact or Fiction": 1,
+   "Negate": 1,
+   "Blasphemous Act": 1,
+   "Preordain": 1,
+   "Ral, Storm Conduit": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 51,
+  "first": null,
+  "dturns": 11,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "2": [
+    "Firebrand Archer"
+   ],
+   "3": [
+    "Pieces of the Puzzle"
+   ],
+   "4": [
+    "Frantic Search",
+    "Lightning Bolt",
+    "Commander's Sphere"
+   ],
+   "5": [
+    "Ral's Outburst"
+   ],
+   "6": [
+    "Murmuring Mystic",
+    "Baral, Chief of Compliance"
+   ],
+   "7": [
+    "Veyran, Voice of Duality",
+    "Kessig Flamebreather"
+   ],
+   "8": [
+    "Fact or Fiction"
+   ],
+   "9": [
+    "Negate"
+   ],
+   "10": [
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Blasphemous Act",
+    "Preordain",
+    "Ral, Storm Conduit"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   42,
+   "A11",
+   "Human Token (794)",
+   "11"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   42,
+   "A11",
+   "Human Token (794)",
+   "11"
+  ],
+  "turns": 51
+ },
+ {
+  "log": "playtest_batch2/g15.log",
+  "cast": {
+   "Expressive Iteration": 1,
+   "Arcane Denial": 1,
+   "Veyran, Voice of Duality": 4,
+   "Frantic Search": 1,
+   "Fire": 1,
+   "Rapid Hybridization": 1,
+   "Ral's Outburst": 2,
+   "Storm of Saruman": 1,
+   "Galvanic Iteration": 1,
+   "Thrill of Possibility": 4,
+   "Abrade": 1,
+   "Preordain": 1,
+   "Haughty Djinn": 3,
+   "Archmage Emeritus": 1,
+   "Reality Shift": 1,
+   "Docent of Perfection": 2,
+   "Firebrand Archer": 1,
+   "Essence Scatter": 1,
+   "Crackling Drake": 1,
+   "Unexpected Windfall": 1,
+   "Stormcatch Mentor": 2
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 16,
+  "lands": 14,
+  "dcast_by_own_turn": {
+   "2": [
+    "Expressive Iteration"
+   ],
+   "3": [
+    "Arcane Denial"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Frantic Search",
+    "Fire",
+    "Rapid Hybridization"
+   ],
+   "6": [
+    "Ral's Outburst"
+   ],
+   "7": [
+    "Storm of Saruman",
+    "Ral's Outburst"
+   ],
+   "8": [
+    "Galvanic Iteration",
+    "Thrill of Possibility",
+    "Thrill of Possibility",
+    "Thrill of Possibility",
+    "Thrill of Possibility",
+    "Abrade"
+   ],
+   "9": [
+    "Preordain",
+    "Haughty Djinn",
+    "Haughty Djinn",
+    "Archmage Emeritus"
+   ],
+   "10": [
+    "Reality Shift",
+    "Docent of Perfection",
+    "Docent of Perfection",
+    "Firebrand Archer"
+   ],
+   "11": [
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Haughty Djinn",
+    "Veyran, Voice of Duality",
+    "Veyran, Voice of Duality"
+   ],
+   "14": [
+    "Essence Scatter"
+   ],
+   "15": [
+    "Crackling Drake"
+   ],
+   "16": [
+    "Unexpected Windfall",
+    "Stormcatch Mentor",
+    "Stormcatch Mentor"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   46,
+   "C",
+   "Sorin, Vengeful Bloodlord (367)",
+   "1"
+  ],
+  "firstturn": "C",
+  "turns": 55
+ },
+ {
+  "log": "playtest_batch2/g16.log",
+  "cast": {
+   "Arcane Denial": 1,
+   "Veyran, Voice of Duality": 7,
+   "Abrade": 1,
+   "Archmage Emeritus": 1,
+   "Pieces of the Puzzle": 1,
+   "Expressive Iteration": 1,
+   "Fire": 1,
+   "Sublime Epiphany": 1,
+   "Essence Scatter": 1,
+   "Storm-Kiln Artist": 1,
+   "Third Path Iconoclast": 1,
+   "Consider": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Haughty Djinn": 1,
+   "Talrand, Sky Summoner": 1,
+   "Reality Shift": 1,
+   "Thermo-Alchemist": 1,
+   "Blasphemous Act": 1,
+   "Docent of Perfection": 1,
+   "Electrostatic Field": 1,
+   "Thrill of Possibility": 1,
+   "Negate": 1,
+   "Preordain": 1,
+   "Galvanic Iteration": 4,
+   "Reverberate": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 94,
+  "first": null,
+  "dturns": 25,
+  "lands": 17,
+  "dcast_by_own_turn": {
+   "2": [
+    "Arcane Denial"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Abrade"
+   ],
+   "5": [
+    "Archmage Emeritus"
+   ],
+   "6": [
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Pieces of the Puzzle",
+    "Expressive Iteration",
+    "Fire"
+   ],
+   "8": [
+    "Sublime Epiphany",
+    "Essence Scatter"
+   ],
+   "9": [
+    "Storm-Kiln Artist",
+    "Third Path Iconoclast",
+    "Consider"
+   ],
+   "10": [
+    "Niv-Mizzet, Parun"
+   ],
+   "12": [
+    "Haughty Djinn",
+    "Talrand, Sky Summoner"
+   ],
+   "13": [
+    "Reality Shift"
+   ],
+   "14": [
+    "Thermo-Alchemist"
+   ],
+   "15": [
+    "Veyran, Voice of Duality"
+   ],
+   "16": [
+    "Blasphemous Act",
+    "Docent of Perfection",
+    "Veyran, Voice of Duality"
+   ],
+   "18": [
+    "Veyran, Voice of Duality",
+    "Electrostatic Field"
+   ],
+   "19": [
+    "Thrill of Possibility"
+   ],
+   "20": [
+    "Negate"
+   ],
+   "21": [
+    "Preordain",
+    "Veyran, Voice of Duality"
+   ],
+   "22": [
+    "Veyran, Voice of Duality"
+   ],
+   "25": [
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Reverberate",
+    "Galvanic Iteration"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   94,
+   "C",
+   "Spirit Token (1155)",
+   "1"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   94,
+   "C",
+   "Spirit Token (1155)",
+   "1"
+  ],
+  "turns": 94
+ },
+ {
+  "log": "playtest_batch2/g17.log",
+  "cast": {
+   "Fire": 1,
+   "Thermo-Alchemist": 1,
+   "Electrostatic Field": 1,
+   "Expressive Iteration": 1,
+   "Murmuring Mystic": 1,
+   "Storm-Kiln Artist": 1,
+   "Frantic Search": 1,
+   "Anger of the Gods": 1,
+   "Veyran, Voice of Duality": 1,
+   "Sol Ring": 1,
+   "Arcane Denial": 1,
+   "Haughty Djinn": 1,
+   "Talisman of Creativity": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 14,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "3": [
+    "Fire"
+   ],
+   "4": [
+    "Thermo-Alchemist"
+   ],
+   "5": [
+    "Electrostatic Field"
+   ],
+   "6": [
+    "Expressive Iteration"
+   ],
+   "7": [
+    "Murmuring Mystic"
+   ],
+   "8": [
+    "Storm-Kiln Artist"
+   ],
+   "9": [
+    "Frantic Search",
+    "Anger of the Gods",
+    "Veyran, Voice of Duality",
+    "Sol Ring"
+   ],
+   "11": [
+    "Arcane Denial"
+   ],
+   "12": [
+    "Haughty Djinn"
+   ],
+   "13": [
+    "Talisman of Creativity"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   41,
+   "A11",
+   "Adeline, Resplendent Cathar (201)",
+   "10"
+  ],
+  "firstturn": "B",
+  "turns": 42
+ },
+ {
+  "log": "playtest_batch2/g18.log",
+  "cast": {
+   "Abrade": 1,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 4,
+   "Chart a Course": 1,
+   "Essence Scatter": 1,
+   "Arcane Denial": 1,
+   "Expressive Iteration": 1,
+   "Sublime Epiphany": 2,
+   "Fact or Fiction": 1,
+   "Unexpected Windfall": 1,
+   "Reality Shift": 1,
+   "Consider": 1,
+   "Arcane Signet": 1,
+   "Reverberate": 1,
+   "Night's Whisper": 1,
+   "Ral's Outburst": 1,
+   "Blasphemous Act": 1,
+   "Young Pyromancer": 1,
+   "Stormcatch Mentor": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 62,
+  "first": null,
+  "dturns": 15,
+  "lands": 14,
+  "dcast_by_own_turn": {
+   "2": [
+    "Abrade"
+   ],
+   "3": [
+    "Frantic Search",
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Chart a Course",
+    "Essence Scatter"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Arcane Denial"
+   ],
+   "9": [
+    "Expressive Iteration",
+    "Sublime Epiphany"
+   ],
+   "11": [
+    "Fact or Fiction",
+    "Unexpected Windfall",
+    "Reality Shift",
+    "Consider"
+   ],
+   "12": [
+    "Sublime Epiphany",
+    "Arcane Signet"
+   ],
+   "13": [
+    "Veyran, Voice of Duality",
+    "Reverberate",
+    "Night's Whisper",
+    "Ral's Outburst"
+   ],
+   "14": [
+    "Blasphemous Act",
+    "Veyran, Voice of Duality",
+    "Young Pyromancer"
+   ],
+   "15": [
+    "Stormcatch Mentor"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   60,
+   "A11",
+   "Angel Token (470)",
+   "5"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   60,
+   "A11",
+   "Angel Token (470)",
+   "5"
+  ],
+  "turns": 62
+ },
+ {
+  "log": "playtest_batch2/g19.log",
+  "cast": {
+   "Preordain": 1,
+   "Stormcatch Mentor": 1,
+   "Opt": 1,
+   "Talisman of Creativity": 1,
+   "Veyran, Voice of Duality": 2,
+   "Expressive Iteration": 1,
+   "Abrade": 1,
+   "Lightning Bolt": 1,
+   "Unexpected Windfall": 1,
+   "Guttersnipe": 1,
+   "Storm of Saruman": 1,
+   "Big Score": 3,
+   "Arcane Signet": 1,
+   "Ponder": 1,
+   "Baral, Chief of Compliance": 1,
+   "Essence Scatter": 1,
+   "Arcane Denial": 1,
+   "Sublime Epiphany": 1,
+   "Fact or Fiction": 3,
+   "Galvanic Iteration": 1,
+   "Vandalblast": 4,
+   "Pieces of the Puzzle": 1,
+   "Anger of the Gods": 1,
+   "Counterspell": 2,
+   "Storm-Kiln Artist": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Haughty Djinn": 2,
+   "Talrand, Sky Summoner": 1,
+   "Young Pyromancer": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 13,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "1": [
+    "Preordain"
+   ],
+   "2": [
+    "Stormcatch Mentor"
+   ],
+   "3": [
+    "Opt",
+    "Talisman of Creativity"
+   ],
+   "4": [
+    "Veyran, Voice of Duality",
+    "Expressive Iteration"
+   ],
+   "5": [
+    "Abrade",
+    "Lightning Bolt"
+   ],
+   "6": [
+    "Unexpected Windfall",
+    "Guttersnipe"
+   ],
+   "7": [
+    "Storm of Saruman",
+    "Big Score",
+    "Big Score",
+    "Big Score",
+    "Arcane Signet",
+    "Ponder",
+    "Baral, Chief of Compliance",
+    "Essence Scatter",
+    "Arcane Denial"
+   ],
+   "8": [
+    "Sublime Epiphany",
+    "Fact or Fiction",
+    "Fact or Fiction",
+    "Fact or Fiction"
+   ],
+   "9": [
+    "Galvanic Iteration",
+    "Vandalblast",
+    "Vandalblast",
+    "Vandalblast",
+    "Vandalblast",
+    "Pieces of the Puzzle"
+   ],
+   "10": [
+    "Anger of the Gods",
+    "Counterspell",
+    "Counterspell",
+    "Storm-Kiln Artist",
+    "Kessig Flamebreather"
+   ],
+   "11": [
+    "Chart a Course",
+    "Haughty Djinn",
+    "Haughty Djinn",
+    "Talrand, Sky Summoner",
+    "Young Pyromancer"
+   ],
+   "12": [
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   35,
+   "D",
+   "Shivan Reef (224)",
+   "1"
+  ],
+  "firstturn": "D",
+  "turns": 43
+ },
+ {
+  "log": "playtest_batch2/g20.log",
+  "cast": {
+   "Abrade": 1,
+   "Unexpected Windfall": 1,
+   "Arcane Denial": 1,
+   "Opt": 1,
+   "Veyran, Voice of Duality": 6,
+   "Expressive Iteration": 1,
+   "Anger of the Gods": 1,
+   "Ponder": 1,
+   "Vandalblast": 1,
+   "Counterspell": 1,
+   "Frantic Search": 1,
+   "Chaos Warp": 1,
+   "Commander's Sphere": 1,
+   "Talisman of Creativity": 1,
+   "Ral's Outburst": 1,
+   "Sublime Epiphany": 1,
+   "Fire": 1,
+   "Crackling Drake": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Murmuring Mystic": 1,
+   "Fellwar Stone": 1,
+   "Negate": 1,
+   "Big Score": 1,
+   "Fact or Fiction": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 80,
+  "first": null,
+  "dturns": 21,
+  "lands": 16,
+  "dcast_by_own_turn": {
+   "3": [
+    "Abrade"
+   ],
+   "4": [
+    "Unexpected Windfall",
+    "Arcane Denial"
+   ],
+   "5": [
+    "Opt",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Expressive Iteration",
+    "Anger of the Gods"
+   ],
+   "7": [
+    "Ponder",
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Vandalblast",
+    "Counterspell"
+   ],
+   "9": [
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Frantic Search",
+    "Chaos Warp",
+    "Commander's Sphere"
+   ],
+   "12": [
+    "Talisman of Creativity"
+   ],
+   "13": [
+    "Veyran, Voice of Duality"
+   ],
+   "14": [
+    "Ral's Outburst",
+    "Sublime Epiphany",
+    "Fire"
+   ],
+   "15": [
+    "Crackling Drake",
+    "Niv-Mizzet, Parun"
+   ],
+   "16": [
+    "Veyran, Voice of Duality"
+   ],
+   "17": [
+    "Murmuring Mystic"
+   ],
+   "18": [
+    "Fellwar Stone",
+    "Negate"
+   ],
+   "21": [
+    "Big Score",
+    "Fact or Fiction"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   80,
+   "A11",
+   "Syr Konrad, the Grim (285)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   80,
+   "A11",
+   "Syr Konrad, the Grim (285)",
+   "1"
+  ],
+  "turns": 80
+ },
+ {
+  "log": "playtest_batch2/g21.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Baral, Chief of Compliance": 1,
+   "Ice": 1,
+   "Arcane Denial": 1,
+   "Storm-Kiln Artist": 1,
+   "Ral, Storm Conduit": 1,
+   "Veyran, Voice of Duality": 1,
+   "Reality Shift": 1,
+   "Thermo-Alchemist": 1,
+   "Commander's Sphere": 1,
+   "Sublime Epiphany": 1,
+   "Frantic Search": 1,
+   "Essence Scatter": 1,
+   "Stormcatch Mentor": 1,
+   "Haughty Djinn": 1,
+   "Unexpected Windfall": 1,
+   "Young Pyromancer": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 12,
+  "lands": 7,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring"
+   ],
+   "2": [
+    "Baral, Chief of Compliance",
+    "Ice"
+   ],
+   "3": [
+    "Arcane Denial"
+   ],
+   "4": [
+    "Storm-Kiln Artist"
+   ],
+   "5": [
+    "Ral, Storm Conduit",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Reality Shift",
+    "Thermo-Alchemist",
+    "Commander's Sphere"
+   ],
+   "8": [
+    "Sublime Epiphany",
+    "Frantic Search",
+    "Essence Scatter"
+   ],
+   "9": [
+    "Stormcatch Mentor"
+   ],
+   "11": [
+    "Haughty Djinn"
+   ],
+   "12": [
+    "Unexpected Windfall",
+    "Young Pyromancer"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   47,
+   "A11",
+   "Human Token (1157)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "turns": 51
+ },
+ {
+  "log": "playtest_batch2/g22.log",
+  "cast": {
+   "Preordain": 1,
+   "Veyran, Voice of Duality": 3,
+   "Opt": 1,
+   "Talisman of Creativity": 1,
+   "Crackling Drake": 1,
+   "Ponder": 1,
+   "Vandalblast": 1,
+   "Ral, Storm Conduit": 1,
+   "Commander's Sphere": 1,
+   "Counterspell": 1,
+   "Firebrand Archer": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "first": null,
+  "dturns": 9,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Preordain"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Opt",
+    "Talisman of Creativity"
+   ],
+   "5": [
+    "Crackling Drake",
+    "Ponder"
+   ],
+   "6": [
+    "Vandalblast"
+   ],
+   "7": [
+    "Ral, Storm Conduit",
+    "Commander's Sphere"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Counterspell"
+   ],
+   "9": [
+    "Veyran, Voice of Duality",
+    "Firebrand Archer"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   36,
+   "C",
+   "Butcher of Malakir (48)",
+   "5"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   36,
+   "C",
+   "Butcher of Malakir (48)",
+   "5"
+  ],
+  "turns": 41
+ },
+ {
+  "log": "playtest_batch2/g23.log",
+  "cast": {
+   "Opt": 1,
+   "Young Pyromancer": 1,
+   "Veyran, Voice of Duality": 4,
+   "Reality Shift": 1,
+   "Vandalblast": 1,
+   "Ral, Storm Conduit": 1,
+   "Thrill of Possibility": 1,
+   "Storm-Kiln Artist": 1,
+   "Galvanic Iteration": 3,
+   "Chart a Course": 3,
+   "Brainstorm": 1,
+   "Counterspell": 1,
+   "Mind Stone": 1,
+   "Essence Scatter": 1,
+   "Docent of Perfection": 1,
+   "Consider": 1,
+   "Frantic Search": 1,
+   "Negate": 1,
+   "Ponder": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 62,
+  "first": null,
+  "dturns": 18,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "1": [
+    "Opt"
+   ],
+   "2": [
+    "Young Pyromancer"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Reality Shift",
+    "Vandalblast"
+   ],
+   "5": [
+    "Ral, Storm Conduit"
+   ],
+   "6": [
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Thrill of Possibility",
+    "Storm-Kiln Artist"
+   ],
+   "8": [
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Chart a Course",
+    "Chart a Course",
+    "Chart a Course"
+   ],
+   "9": [
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Brainstorm",
+    "Counterspell",
+    "Mind Stone",
+    "Essence Scatter"
+   ],
+   "11": [
+    "Docent of Perfection",
+    "Consider"
+   ],
+   "12": [
+    "Frantic Search"
+   ],
+   "13": [
+    "Negate"
+   ],
+   "18": [
+    "Ponder",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   62,
+   "C",
+   "Nadier's Nightblade (209)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   62,
+   "C",
+   "Nadier's Nightblade (209)",
+   "1"
+  ],
+  "turns": 62
+ },
+ {
+  "log": "playtest_batch2/g24.log",
+  "cast": {
+   "Preordain": 1,
+   "Abrade": 1,
+   "Ponder": 1,
+   "Veyran, Voice of Duality": 4,
+   "Expressive Iteration": 1,
+   "Firebrand Archer": 1,
+   "Rapid Hybridization": 1,
+   "Frantic Search": 1,
+   "Brainstorm": 1,
+   "Chart a Course": 1,
+   "Thrill of Possibility": 1,
+   "Kessig Flamebreather": 1,
+   "Thermo-Alchemist": 1,
+   "Electrostatic Field": 1,
+   "Third Path Iconoclast": 1,
+   "Pieces of the Puzzle": 1,
+   "Vandalblast": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 60,
+  "first": null,
+  "dturns": 16,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "1": [
+    "Preordain"
+   ],
+   "2": [
+    "Abrade"
+   ],
+   "3": [
+    "Ponder"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Expressive Iteration",
+    "Firebrand Archer"
+   ],
+   "6": [
+    "Rapid Hybridization",
+    "Frantic Search",
+    "Brainstorm",
+    "Chart a Course"
+   ],
+   "7": [
+    "Thrill of Possibility",
+    "Kessig Flamebreather",
+    "Thermo-Alchemist"
+   ],
+   "8": [
+    "Electrostatic Field"
+   ],
+   "10": [
+    "Veyran, Voice of Duality",
+    "Third Path Iconoclast"
+   ],
+   "11": [
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Pieces of the Puzzle"
+   ],
+   "15": [
+    "Vandalblast"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   60,
+   "A11",
+   "Angel Token (1132)",
+   "6"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   60,
+   "A11",
+   "Angel Token (1132)",
+   "6"
+  ],
+  "turns": 60
+ },
+ {
+  "log": "playtest_batch2/g25.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Arcane Signet": 1,
+   "Frantic Search": 1,
+   "Haughty Djinn": 1,
+   "Fire": 1,
+   "Murmuring Mystic": 2,
+   "Veyran, Voice of Duality": 1,
+   "Pongify": 1,
+   "Baral, Chief of Compliance": 1,
+   "Reality Shift": 1,
+   "Fact or Fiction": 1,
+   "Chaos Warp": 1,
+   "Abrade": 1,
+   "Young Pyromancer": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 57,
+  "first": null,
+  "dturns": 13,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring",
+    "Arcane Signet"
+   ],
+   "2": [
+    "Frantic Search",
+    "Haughty Djinn"
+   ],
+   "3": [
+    "Fire",
+    "Murmuring Mystic"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Pongify"
+   ],
+   "8": [
+    "Baral, Chief of Compliance"
+   ],
+   "9": [
+    "Reality Shift"
+   ],
+   "10": [
+    "Fact or Fiction",
+    "Chaos Warp",
+    "Abrade"
+   ],
+   "11": [
+    "Murmuring Mystic"
+   ],
+   "13": [
+    "Young Pyromancer"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   51,
+   "B",
+   "Bird Illusion Token (803)",
+   "1"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   51,
+   "B",
+   "Bird Illusion Token (803)",
+   "1"
+  ],
+  "turns": 57
+ },
+ {
+  "log": "playtest_batch2/g26.log",
+  "cast": {
+   "Lightning Bolt": 1,
+   "Veyran, Voice of Duality": 5,
+   "Commander's Sphere": 1,
+   "Fellwar Stone": 1,
+   "Sublime Epiphany": 1,
+   "Stormcatch Mentor": 1,
+   "Mind Stone": 1,
+   "Expressive Iteration": 1,
+   "Thrill of Possibility": 1,
+   "Chaos Warp": 1,
+   "Essence Scatter": 1,
+   "Galvanic Iteration": 2,
+   "Fact or Fiction": 2,
+   "Storm of Saruman": 1,
+   "Frantic Search": 2,
+   "Storm-Kiln Artist": 2,
+   "Talisman of Creativity": 1,
+   "Arcane Signet": 1,
+   "Crackling Drake": 2,
+   "Counterspell": 1,
+   "Opt": 2,
+   "Fire": 3,
+   "Increasing Vengeance": 1,
+   "Preordain": 1,
+   "Sol Ring": 1,
+   "Brainstorm": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 63,
+  "first": null,
+  "dturns": 16,
+  "lands": 13,
+  "dcast_by_own_turn": {
+   "2": [
+    "Lightning Bolt"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Commander's Sphere",
+    "Fellwar Stone"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Sublime Epiphany"
+   ],
+   "7": [
+    "Stormcatch Mentor",
+    "Mind Stone",
+    "Expressive Iteration",
+    "Thrill of Possibility",
+    "Chaos Warp"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Essence Scatter"
+   ],
+   "9": [
+    "Galvanic Iteration",
+    "Fact or Fiction",
+    "Fact or Fiction"
+   ],
+   "10": [
+    "Storm of Saruman",
+    "Frantic Search",
+    "Frantic Search",
+    "Storm-Kiln Artist",
+    "Talisman of Creativity"
+   ],
+   "11": [
+    "Arcane Signet",
+    "Crackling Drake",
+    "Counterspell"
+   ],
+   "12": [
+    "Veyran, Voice of Duality",
+    "Galvanic Iteration",
+    "Opt",
+    "Opt"
+   ],
+   "13": [
+    "Fire",
+    "Increasing Vengeance",
+    "Fire",
+    "Fire"
+   ],
+   "14": [
+    "Crackling Drake",
+    "Storm-Kiln Artist"
+   ],
+   "15": [
+    "Preordain",
+    "Sol Ring",
+    "Brainstorm"
+   ],
+   "16": [
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   63,
+   "C",
+   "Nadier's Nightblade (108)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   63,
+   "C",
+   "Nadier's Nightblade (108)",
+   "1"
+  ],
+  "turns": 63
+ },
+ {
+  "log": "playtest_batch2/g27.log",
+  "cast": {
+   "Talisman of Creativity": 1,
+   "Crackling Drake": 1,
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 4,
+   "Pieces of the Puzzle": 1,
+   "Lightning Bolt": 1,
+   "Opt": 1,
+   "Sublime Epiphany": 1,
+   "Negate": 1,
+   "Fact or Fiction": 1,
+   "Ral's Outburst": 1,
+   "Blasphemous Act": 1,
+   "Arcane Denial": 1,
+   "Firebrand Archer": 1,
+   "Commander's Sphere": 1,
+   "Kessig Flamebreather": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 44,
+  "first": null,
+  "dturns": 11,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "2": [
+    "Talisman of Creativity"
+   ],
+   "3": [
+    "Crackling Drake"
+   ],
+   "4": [
+    "Stormcatch Mentor",
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Pieces of the Puzzle",
+    "Lightning Bolt",
+    "Opt"
+   ],
+   "6": [
+    "Sublime Epiphany"
+   ],
+   "7": [
+    "Veyran, Voice of Duality",
+    "Negate"
+   ],
+   "8": [
+    "Veyran, Voice of Duality"
+   ],
+   "9": [
+    "Fact or Fiction",
+    "Ral's Outburst"
+   ],
+   "10": [
+    "Blasphemous Act",
+    "Arcane Denial",
+    "Firebrand Archer",
+    "Commander's Sphere"
+   ],
+   "11": [
+    "Veyran, Voice of Duality",
+    "Kessig Flamebreather"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   43,
+   "C",
+   "Eldrazi Scion Token (460)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   43,
+   "C",
+   "Eldrazi Scion Token (460)",
+   "1"
+  ],
+  "turns": 44
+ },
+ {
+  "log": "playtest_batch2/g28.log",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Veyran, Voice of Duality": 6,
+   "Chaos Warp": 1,
+   "Rapid Hybridization": 1,
+   "Pongify": 1,
+   "Sublime Epiphany": 1,
+   "Commander's Sphere": 1,
+   "Negate": 1,
+   "Counterspell": 1,
+   "Ral, Storm Conduit": 1,
+   "Murmuring Mystic": 1,
+   "Blasphemous Act": 1,
+   "Haughty Djinn": 1,
+   "Talisman of Creativity": 1,
+   "Big Score": 1,
+   "Frantic Search": 1,
+   "Electrostatic Field": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 80,
+  "first": null,
+  "dturns": 20,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "2": [
+    "Fellwar Stone"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Chaos Warp",
+    "Rapid Hybridization",
+    "Pongify"
+   ],
+   "5": [
+    "Sublime Epiphany"
+   ],
+   "6": [
+    "Veyran, Voice of Duality",
+    "Commander's Sphere"
+   ],
+   "7": [
+    "Negate",
+    "Counterspell"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Ral, Storm Conduit"
+   ],
+   "9": [
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Murmuring Mystic"
+   ],
+   "12": [
+    "Blasphemous Act",
+    "Haughty Djinn"
+   ],
+   "13": [
+    "Talisman of Creativity"
+   ],
+   "15": [
+    "Veyran, Voice of Duality"
+   ],
+   "16": [
+    "Big Score"
+   ],
+   "18": [
+    "Frantic Search"
+   ],
+   "20": [
+    "Electrostatic Field"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   80,
+   "A11",
+   "Soldier Token (1045)",
+   "68"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   80,
+   "A11",
+   "Soldier Token (1045)",
+   "68"
+  ],
+  "turns": 80
+ },
+ {
+  "log": "playtest_batch2/g29.log",
+  "cast": {
+   "Third Path Iconoclast": 1,
+   "Veyran, Voice of Duality": 2,
+   "Vandalblast": 1,
+   "Guttersnipe": 1,
+   "Reality Shift": 1,
+   "Essence Scatter": 1,
+   "Kessig Flamebreather": 1,
+   "Pongify": 1,
+   "Rapid Hybridization": 1,
+   "Electrostatic Field": 1,
+   "Storm of Saruman": 1,
+   "Sublime Epiphany": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 12,
+  "lands": 6,
+  "dcast_by_own_turn": {
+   "2": [
+    "Third Path Iconoclast"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Vandalblast"
+   ],
+   "5": [
+    "Guttersnipe"
+   ],
+   "6": [
+    "Reality Shift",
+    "Essence Scatter"
+   ],
+   "7": [
+    "Kessig Flamebreather",
+    "Pongify"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Rapid Hybridization"
+   ],
+   "9": [
+    "Electrostatic Field"
+   ],
+   "11": [
+    "Storm of Saruman"
+   ],
+   "12": [
+    "Sublime Epiphany"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   19,
+   "A11",
+   "Human Token (994)",
+   "2"
+  ],
+  "firstturn": "C",
+  "turns": 41
+ },
+ {
+  "log": "playtest_batch2/g30.log",
+  "cast": {
+   "Fire": 1,
+   "Ral, Storm Conduit": 1,
+   "Docent of Perfection": 1,
+   "Ponder": 1,
+   "Veyran, Voice of Duality": 3,
+   "Reality Shift": 1,
+   "Chart a Course": 1,
+   "Brainstorm": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Kessig Flamebreather": 1,
+   "Crackling Drake": 1,
+   "Chaos Warp": 1,
+   "Ral's Outburst": 1,
+   "Baral, Chief of Compliance": 1,
+   "Negate": 1,
+   "Murmuring Mystic": 1,
+   "Arcane Signet": 1,
+   "Vandalblast": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 68,
+  "first": null,
+  "dturns": 18,
+  "lands": 15,
+  "dcast_by_own_turn": {
+   "2": [
+    "Fire"
+   ],
+   "4": [
+    "Ral, Storm Conduit"
+   ],
+   "5": [
+    "Docent of Perfection"
+   ],
+   "6": [
+    "Ponder",
+    "Veyran, Voice of Duality",
+    "Reality Shift"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Chart a Course",
+    "Brainstorm"
+   ],
+   "9": [
+    "Niv-Mizzet, Parun",
+    "Kessig Flamebreather"
+   ],
+   "10": [
+    "Crackling Drake"
+   ],
+   "11": [
+    "Chaos Warp",
+    "Ral's Outburst"
+   ],
+   "12": [
+    "Baral, Chief of Compliance"
+   ],
+   "15": [
+    "Negate"
+   ],
+   "16": [
+    "Murmuring Mystic"
+   ],
+   "17": [
+    "Arcane Signet"
+   ],
+   "18": [
+    "Vandalblast",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   66,
+   "A11",
+   "Human Token (967)",
+   "1"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   66,
+   "A11",
+   "Human Token (967)",
+   "1"
+  ],
+  "turns": 68
+ },
+ {
+  "log": "playtest_batch2/g31.log",
+  "cast": {
+   "Veyran, Voice of Duality": 4,
+   "Ral's Outburst": 1,
+   "Expressive Iteration": 1,
+   "Sol Ring": 1,
+   "Thrill of Possibility": 1,
+   "Chart a Course": 1,
+   "Brainstorm": 1,
+   "Frantic Search": 1,
+   "Reality Shift": 1,
+   "Commander's Sphere": 1,
+   "Counterspell": 1,
+   "Unexpected Windfall": 1,
+   "Haughty Djinn": 1,
+   "Third Path Iconoclast": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Lightning Bolt": 1,
+   "Murmuring Mystic": 1,
+   "Storm-Kiln Artist": 1,
+   "Talrand, Sky Summoner": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "first": null,
+  "dturns": 13,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Ral's Outburst"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Expressive Iteration",
+    "Sol Ring",
+    "Thrill of Possibility",
+    "Chart a Course",
+    "Brainstorm"
+   ],
+   "7": [
+    "Frantic Search",
+    "Reality Shift",
+    "Commander's Sphere",
+    "Counterspell"
+   ],
+   "8": [
+    "Unexpected Windfall",
+    "Haughty Djinn",
+    "Third Path Iconoclast"
+   ],
+   "9": [
+    "Niv-Mizzet, Parun",
+    "Lightning Bolt"
+   ],
+   "10": [
+    "Murmuring Mystic",
+    "Storm-Kiln Artist"
+   ],
+   "11": [
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Talrand, Sky Summoner"
+   ],
+   "13": [
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   47,
+   "C",
+   "Vindictive Vampire (123)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   47,
+   "C",
+   "Vindictive Vampire (123)",
+   "1"
+  ],
+  "turns": 47
+ },
+ {
+  "log": "playtest_batch2/g32.log",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Ponder": 1,
+   "Thermo-Alchemist": 1,
+   "Expressive Iteration": 1,
+   "Chaos Warp": 1,
+   "Veyran, Voice of Duality": 4,
+   "Sublime Epiphany": 1,
+   "Negate": 1,
+   "Unexpected Windfall": 1,
+   "Opt": 1,
+   "Sol Ring": 1,
+   "Firebrand Archer": 1,
+   "Niv-Mizzet, Parun": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 56,
+  "first": null,
+  "dturns": 15,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "2": [
+    "Stormcatch Mentor"
+   ],
+   "3": [
+    "Ponder",
+    "Thermo-Alchemist"
+   ],
+   "4": [
+    "Expressive Iteration"
+   ],
+   "5": [
+    "Chaos Warp",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Sublime Epiphany",
+    "Negate"
+   ],
+   "7": [
+    "Unexpected Windfall"
+   ],
+   "8": [
+    "Opt"
+   ],
+   "9": [
+    "Sol Ring"
+   ],
+   "10": [
+    "Veyran, Voice of Duality",
+    "Firebrand Archer"
+   ],
+   "11": [
+    "Veyran, Voice of Duality"
+   ],
+   "14": [
+    "Veyran, Voice of Duality"
+   ],
+   "15": [
+    "Niv-Mizzet, Parun"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   56,
+   "A11",
+   "Human Token (1032)",
+   "2"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   56,
+   "A11",
+   "Human Token (1032)",
+   "2"
+  ],
+  "turns": 56
+ },
+ {
+  "log": "playtest_batch2/g33.log",
+  "cast": {
+   "Consider": 1,
+   "Veyran, Voice of Duality": 4,
+   "Fact or Fiction": 1,
+   "Big Score": 1,
+   "Expressive Iteration": 1,
+   "Lightning Bolt": 1,
+   "Unexpected Windfall": 1,
+   "Ponder": 1,
+   "Reality Shift": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Sublime Epiphany": 1,
+   "Fellwar Stone": 1,
+   "Chaos Warp": 1,
+   "Arcane Denial": 1,
+   "Talisman of Creativity": 1,
+   "Thrill of Possibility": 1,
+   "Haughty Djinn": 1,
+   "Third Path Iconoclast": 1,
+   "Ral's Outburst": 1,
+   "Vandalblast": 1,
+   "Blasphemous Act": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 67,
+  "first": null,
+  "dturns": 16,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "1": [
+    "Consider"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Fact or Fiction"
+   ],
+   "5": [
+    "Big Score",
+    "Expressive Iteration",
+    "Lightning Bolt"
+   ],
+   "6": [
+    "Unexpected Windfall",
+    "Ponder",
+    "Reality Shift"
+   ],
+   "7": [
+    "Niv-Mizzet, Parun"
+   ],
+   "8": [
+    "Sublime Epiphany",
+    "Fellwar Stone"
+   ],
+   "9": [
+    "Veyran, Voice of Duality",
+    "Chaos Warp",
+    "Arcane Denial"
+   ],
+   "10": [
+    "Talisman of Creativity",
+    "Thrill of Possibility"
+   ],
+   "11": [
+    "Haughty Djinn",
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Third Path Iconoclast"
+   ],
+   "14": [
+    "Ral's Outburst",
+    "Vandalblast"
+   ],
+   "15": [
+    "Veyran, Voice of Duality"
+   ],
+   "16": [
+    "Blasphemous Act"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   63,
+   "B",
+   "Glen Elendra Archmage (175)",
+   "2"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   63,
+   "B",
+   "Glen Elendra Archmage (175)",
+   "2"
+  ],
+  "turns": 67
+ },
+ {
+  "log": "playtest_batch2/g34.log",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Sol Ring": 1,
+   "Fact or Fiction": 1,
+   "Ponder": 1,
+   "Veyran, Voice of Duality": 4,
+   "Expressive Iteration": 1,
+   "Electrostatic Field": 1,
+   "Chaos Warp": 1,
+   "Ral's Outburst": 1,
+   "Firebrand Archer": 1,
+   "Brainstorm": 1,
+   "Talisman of Creativity": 1,
+   "Storm-Kiln Artist": 1,
+   "Arcane Denial": 1,
+   "Thrill of Possibility": 1,
+   "Arcane Signet": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 58,
+  "first": null,
+  "dturns": 14,
+  "lands": 13,
+  "dcast_by_own_turn": {
+   "2": [
+    "Fellwar Stone",
+    "Sol Ring"
+   ],
+   "3": [
+    "Fact or Fiction",
+    "Ponder"
+   ],
+   "4": [
+    "Veyran, Voice of Duality",
+    "Expressive Iteration"
+   ],
+   "5": [
+    "Veyran, Voice of Duality",
+    "Electrostatic Field"
+   ],
+   "6": [
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Chaos Warp",
+    "Ral's Outburst",
+    "Firebrand Archer"
+   ],
+   "9": [
+    "Brainstorm",
+    "Talisman of Creativity",
+    "Storm-Kiln Artist",
+    "Arcane Denial"
+   ],
+   "10": [
+    "Thrill of Possibility",
+    "Arcane Signet"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   54,
+   "A11",
+   "Soldier Token (1293)",
+   "3"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   54,
+   "A11",
+   "Soldier Token (1293)",
+   "3"
+  ],
+  "turns": 58
+ },
+ {
+  "log": "playtest_batch2/g35.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Haughty Djinn": 1,
+   "Stormcatch Mentor": 1,
+   "Commander's Sphere": 1,
+   "Brainstorm": 1,
+   "Galvanic Iteration": 2,
+   "Baral, Chief of Compliance": 1,
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 3,
+   "Mind Stone": 1,
+   "Pieces of the Puzzle": 1,
+   "Thrill of Possibility": 1,
+   "Expressive Iteration": 1,
+   "Murmuring Mystic": 2,
+   "Kessig Flamebreather": 1,
+   "Firebrand Archer": 1,
+   "Abrade": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 45,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring"
+   ],
+   "2": [
+    "Haughty Djinn"
+   ],
+   "3": [
+    "Stormcatch Mentor",
+    "Commander's Sphere",
+    "Brainstorm"
+   ],
+   "4": [
+    "Galvanic Iteration",
+    "Baral, Chief of Compliance",
+    "Thermo-Alchemist"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Mind Stone",
+    "Galvanic Iteration"
+   ],
+   "7": [
+    "Veyran, Voice of Duality",
+    "Pieces of the Puzzle",
+    "Thrill of Possibility",
+    "Expressive Iteration"
+   ],
+   "8": [
+    "Murmuring Mystic",
+    "Kessig Flamebreather"
+   ],
+   "9": [
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Murmuring Mystic",
+    "Firebrand Archer"
+   ],
+   "11": [
+    "Abrade"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   42,
+   "A11",
+   "Bird Token (432)",
+   "1"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   42,
+   "A11",
+   "Bird Token (432)",
+   "1"
+  ],
+  "turns": 45
+ },
+ {
+  "log": "playtest_batch2/g36.log",
+  "cast": {
+   "Opt": 1,
+   "Fire": 1,
+   "Veyran, Voice of Duality": 2,
+   "Arcane Denial": 1,
+   "Haughty Djinn": 1,
+   "Anger of the Gods": 1,
+   "Kessig Flamebreather": 1,
+   "Mind Stone": 1,
+   "Fact or Fiction": 2,
+   "Increasing Vengeance": 2,
+   "Abrade": 1,
+   "Blasphemous Act": 3,
+   "Preordain": 1,
+   "Vandalblast": 1,
+   "Stormcatch Mentor": 1,
+   "Chaos Warp": 1,
+   "Arcane Signet": 1,
+   "Thermo-Alchemist": 1,
+   "Expressive Iteration": 1,
+   "Reality Shift": 1,
+   "Rapid Hybridization": 1,
+   "Brainstorm": 1,
+   "Ral's Outburst": 2,
+   "Reverberate": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 16,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "1": [
+    "Opt"
+   ],
+   "2": [
+    "Fire"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Arcane Denial"
+   ],
+   "5": [
+    "Haughty Djinn"
+   ],
+   "6": [
+    "Anger of the Gods",
+    "Kessig Flamebreather"
+   ],
+   "7": [
+    "Mind Stone"
+   ],
+   "8": [
+    "Fact or Fiction",
+    "Increasing Vengeance",
+    "Fact or Fiction",
+    "Abrade"
+   ],
+   "9": [
+    "Blasphemous Act",
+    "Increasing Vengeance",
+    "Blasphemous Act",
+    "Blasphemous Act",
+    "Preordain"
+   ],
+   "10": [
+    "Vandalblast",
+    "Stormcatch Mentor"
+   ],
+   "11": [
+    "Chaos Warp",
+    "Arcane Signet",
+    "Thermo-Alchemist",
+    "Expressive Iteration"
+   ],
+   "12": [
+    "Reality Shift",
+    "Veyran, Voice of Duality",
+    "Rapid Hybridization"
+   ],
+   "16": [
+    "Brainstorm",
+    "Ral's Outburst",
+    "Reverberate",
+    "Ral's Outburst"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   53,
+   "B",
+   "Kor Skyfisher (257)",
+   "2"
+  ],
+  "firstturn": "D",
+  "turns": 54
+ },
+ {
+  "log": "playtest_batch2/g37.log",
+  "cast": {
+   "Haughty Djinn": 1,
+   "Thrill of Possibility": 1,
+   "Veyran, Voice of Duality": 2,
+   "Lightning Bolt": 1,
+   "Big Score": 1,
+   "Commander's Sphere": 1,
+   "Talrand, Sky Summoner": 1,
+   "Preordain": 1,
+   "Young Pyromancer": 1,
+   "Talisman of Creativity": 1,
+   "Counterspell": 1,
+   "Essence Scatter": 1,
+   "Reality Shift": 1,
+   "Thermo-Alchemist": 1,
+   "Brainstorm": 1,
+   "Expressive Iteration": 1,
+   "Fellwar Stone": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 61,
+  "first": null,
+  "dturns": 12,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "3": [
+    "Haughty Djinn"
+   ],
+   "4": [
+    "Thrill of Possibility",
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Lightning Bolt",
+    "Big Score",
+    "Commander's Sphere"
+   ],
+   "6": [
+    "Talrand, Sky Summoner"
+   ],
+   "7": [
+    "Preordain",
+    "Young Pyromancer",
+    "Talisman of Creativity",
+    "Counterspell",
+    "Essence Scatter"
+   ],
+   "8": [
+    "Reality Shift"
+   ],
+   "10": [
+    "Thermo-Alchemist"
+   ],
+   "11": [
+    "Brainstorm",
+    "Expressive Iteration",
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Fellwar Stone"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   44,
+   "B",
+   "Brago, King Eternal (302)",
+   "2"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   44,
+   "B",
+   "Brago, King Eternal (302)",
+   "2"
+  ],
+  "turns": 61
+ },
+ {
+  "log": "playtest_batch2/g38.log",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Chaos Warp": 1,
+   "Unexpected Windfall": 1,
+   "Veyran, Voice of Duality": 3,
+   "Pieces of the Puzzle": 1,
+   "Chart a Course": 1,
+   "Arcane Signet": 1,
+   "Essence Scatter": 1,
+   "Rapid Hybridization": 1,
+   "Third Path Iconoclast": 1,
+   "Arcane Denial": 1,
+   "Abrade": 1,
+   "Preordain": 1,
+   "Crackling Drake": 1,
+   "Storm of Saruman": 1,
+   "Fact or Fiction": 1,
+   "Fellwar Stone": 1,
+   "Blasphemous Act": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 64,
+  "first": null,
+  "dturns": 11,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "2": [
+    "Baral, Chief of Compliance"
+   ],
+   "3": [
+    "Chaos Warp"
+   ],
+   "4": [
+    "Unexpected Windfall",
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Pieces of the Puzzle",
+    "Chart a Course",
+    "Arcane Signet",
+    "Essence Scatter"
+   ],
+   "6": [
+    "Rapid Hybridization",
+    "Third Path Iconoclast",
+    "Arcane Denial"
+   ],
+   "7": [
+    "Abrade",
+    "Preordain",
+    "Crackling Drake"
+   ],
+   "8": [
+    "Storm of Saruman"
+   ],
+   "9": [
+    "Fact or Fiction",
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Fellwar Stone"
+   ],
+   "11": [
+    "Blasphemous Act",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   47,
+   "C",
+   "Vampire Token (896)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   47,
+   "C",
+   "Vampire Token (896)",
+   "1"
+  ],
+  "turns": 64
+ },
+ {
+  "log": "playtest_batch2/g39.log",
+  "cast": {
+   "Brainstorm": 1,
+   "Young Pyromancer": 1,
+   "Veyran, Voice of Duality": 1,
+   "Fact or Fiction": 1,
+   "Ral's Outburst": 1,
+   "Docent of Perfection": 1,
+   "Unexpected Windfall": 1,
+   "Crackling Drake": 1,
+   "Chart a Course": 1,
+   "Reality Shift": 1,
+   "Murmuring Mystic": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Negate": 1,
+   "Frantic Search": 1,
+   "Vandalblast": 1,
+   "Storm-Kiln Artist": 1,
+   "Commander's Sphere": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "1": [
+    "Brainstorm"
+   ],
+   "2": [
+    "Young Pyromancer"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Fact or Fiction"
+   ],
+   "5": [
+    "Ral's Outburst"
+   ],
+   "6": [
+    "Docent of Perfection"
+   ],
+   "7": [
+    "Unexpected Windfall",
+    "Crackling Drake"
+   ],
+   "8": [
+    "Chart a Course",
+    "Reality Shift",
+    "Murmuring Mystic"
+   ],
+   "9": [
+    "Niv-Mizzet, Parun",
+    "Negate"
+   ],
+   "10": [
+    "Frantic Search",
+    "Vandalblast",
+    "Storm-Kiln Artist"
+   ],
+   "11": [
+    "Commander's Sphere"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   38,
+   "C",
+   "Sorin, Vengeful Bloodlord (367)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "turns": 41
+ },
+ {
+  "log": "playtest_batch2/g40.log",
+  "cast": {
+   "Blasphemous Act": 1,
+   "Veyran, Voice of Duality": 1,
+   "Fact or Fiction": 1,
+   "Pongify": 1,
+   "Unexpected Windfall": 1,
+   "Reality Shift": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 34,
+  "first": null,
+  "dturns": 6,
+  "lands": 6,
+  "dcast_by_own_turn": {
+   "4": [
+    "Blasphemous Act",
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Fact or Fiction"
+   ],
+   "6": [
+    "Pongify",
+    "Unexpected Windfall",
+    "Reality Shift"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   23,
+   "A11",
+   "Angel Token (460)",
+   "4"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   23,
+   "A11",
+   "Angel Token (460)",
+   "4"
+  ],
+  "turns": 34
+ },
+ {
+  "log": "playtest_batch2/g41.log",
+  "cast": {
+   "Lightning Bolt": 1,
+   "Veyran, Voice of Duality": 3,
+   "Fact or Fiction": 1,
+   "Baral, Chief of Compliance": 1,
+   "Chaos Warp": 1,
+   "Thrill of Possibility": 1,
+   "Firebrand Archer": 1,
+   "Crackling Drake": 1,
+   "Talisman of Creativity": 1,
+   "Brainstorm": 1,
+   "Opt": 1,
+   "Archmage Emeritus": 1,
+   "Talrand, Sky Summoner": 1,
+   "Ral's Outburst": 1,
+   "Reality Shift": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 65,
+  "first": null,
+  "dturns": 10,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Lightning Bolt"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Fact or Fiction",
+    "Baral, Chief of Compliance"
+   ],
+   "6": [
+    "Chaos Warp",
+    "Thrill of Possibility",
+    "Firebrand Archer"
+   ],
+   "7": [
+    "Crackling Drake",
+    "Talisman of Creativity"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Brainstorm",
+    "Opt"
+   ],
+   "9": [
+    "Archmage Emeritus",
+    "Talrand, Sky Summoner"
+   ],
+   "10": [
+    "Ral's Outburst",
+    "Reality Shift"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   38,
+   "A11",
+   "Angel Token (481)",
+   "4"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   38,
+   "A11",
+   "Angel Token (481)",
+   "4"
+  ],
+  "turns": 65
+ },
+ {
+  "log": "playtest_batch2/g42.log",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 3,
+   "Galvanic Iteration": 2,
+   "Chart a Course": 2,
+   "Chaos Warp": 1,
+   "Arcane Signet": 2,
+   "Pieces of the Puzzle": 2,
+   "Abrade": 1,
+   "Murmuring Mystic": 1,
+   "Reality Shift": 1,
+   "Fellwar Stone": 1,
+   "Counterspell": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 48,
+  "first": null,
+  "dturns": 12,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "2": [
+    "Electrostatic Field"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Galvanic Iteration",
+    "Chart a Course",
+    "Chart a Course"
+   ],
+   "5": [
+    "Chaos Warp",
+    "Arcane Signet"
+   ],
+   "6": [
+    "Galvanic Iteration",
+    "Pieces of the Puzzle",
+    "Pieces of the Puzzle"
+   ],
+   "7": [
+    "Abrade",
+    "Murmuring Mystic"
+   ],
+   "8": [
+    "Reality Shift",
+    "Fellwar Stone",
+    "Counterspell"
+   ],
+   "11": [
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Veyran, Voice of Duality",
+    "Arcane Signet"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   44,
+   "B",
+   "Bird Illusion Token (518)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   44,
+   "B",
+   "Bird Illusion Token (518)",
+   "1"
+  ],
+  "turns": 48
+ },
+ {
+  "log": "playtest_batch2/g43.log",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Fact or Fiction": 1,
+   "Abrade": 1,
+   "Preordain": 1,
+   "Fellwar Stone": 1,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 1,
+   "Arcane Denial": 1,
+   "Thrill of Possibility": 1,
+   "Negate": 1,
+   "Third Path Iconoclast": 1,
+   "Archmage Emeritus": 1
+  },
+  "mull": 1,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 48,
+  "first": null,
+  "dturns": 8,
+  "lands": 5,
+  "dcast_by_own_turn": {
+   "2": [
+    "Young Pyromancer"
+   ],
+   "4": [
+    "Fact or Fiction"
+   ],
+   "5": [
+    "Abrade",
+    "Preordain",
+    "Fellwar Stone"
+   ],
+   "6": [
+    "Frantic Search",
+    "Veyran, Voice of Duality",
+    "Arcane Denial"
+   ],
+   "7": [
+    "Thrill of Possibility",
+    "Negate",
+    "Third Path Iconoclast"
+   ],
+   "8": [
+    "Archmage Emeritus"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   33,
+   "C",
+   "Zulaport Cutthroat (19)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   33,
+   "C",
+   "Zulaport Cutthroat (19)",
+   "1"
+  ],
+  "turns": 48
+ },
+ {
+  "log": "playtest_batch2/g44.log",
+  "cast": {
+   "Thrill of Possibility": 1,
+   "Pieces of the Puzzle": 1,
+   "Third Path Iconoclast": 1,
+   "Archmage Emeritus": 1,
+   "Galvanic Iteration": 1,
+   "Pongify": 2,
+   "Docent of Perfection": 1,
+   "Frantic Search": 1,
+   "Storm-Kiln Artist": 2,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 1,
+   "Mind Stone": 1,
+   "Fellwar Stone": 1,
+   "Chart a Course": 1,
+   "Chaos Warp": 1,
+   "Talisman of Creativity": 1,
+   "Brainstorm": 1,
+   "Sublime Epiphany": 2,
+   "Increasing Vengeance": 2,
+   "Reality Shift": 1,
+   "Fire": 1,
+   "Lightning Bolt": 1,
+   "Arcane Signet": 1,
+   "Talrand, Sky Summoner": 1,
+   "Kessig Flamebreather": 1,
+   "Electrostatic Field": 1,
+   "Unexpected Windfall": 3,
+   "Essence Scatter": 1,
+   "Counterspell": 1,
+   "Fact or Fiction": 1,
+   "Ral's Outburst": 1,
+   "Rapid Hybridization": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Thrill of Possibility"
+   ],
+   "4": [
+    "Pieces of the Puzzle"
+   ],
+   "5": [
+    "Third Path Iconoclast"
+   ],
+   "6": [
+    "Archmage Emeritus"
+   ],
+   "7": [
+    "Galvanic Iteration",
+    "Pongify",
+    "Pongify"
+   ],
+   "8": [
+    "Docent of Perfection"
+   ],
+   "9": [
+    "Frantic Search",
+    "Storm-Kiln Artist",
+    "Baral, Chief of Compliance"
+   ],
+   "10": [
+    "Storm-Kiln Artist",
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Mind Stone",
+    "Fellwar Stone",
+    "Chart a Course",
+    "Chaos Warp",
+    "Talisman of Creativity",
+    "Brainstorm",
+    "Sublime Epiphany",
+    "Increasing Vengeance",
+    "Sublime Epiphany",
+    "Reality Shift",
+    "Fire",
+    "Lightning Bolt",
+    "Arcane Signet",
+    "Talrand, Sky Summoner",
+    "Kessig Flamebreather",
+    "Electrostatic Field",
+    "Unexpected Windfall",
+    "Increasing Vengeance",
+    "Unexpected Windfall",
+    "Unexpected Windfall",
+    "Essence Scatter",
+    "Counterspell",
+    "Fact or Fiction",
+    "Ral's Outburst",
+    "Rapid Hybridization"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   44,
+   "D",
+   "Talisman of Creativity (169)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "turns": 45
+ },
+ {
+  "log": "playtest_batch2/g45.log",
+  "cast": {
+   "Guttersnipe": 1,
+   "Reality Shift": 1,
+   "Veyran, Voice of Duality": 3,
+   "Ral's Outburst": 2,
+   "Increasing Vengeance": 1,
+   "Chart a Course": 1,
+   "Ral, Storm Conduit": 1,
+   "Anger of the Gods": 2,
+   "Talrand, Sky Summoner": 1,
+   "Storm of Saruman": 2,
+   "Vandalblast": 1,
+   "Big Score": 1,
+   "Expressive Iteration": 1,
+   "Abrade": 1,
+   "Archmage Emeritus": 1,
+   "Negate": 1,
+   "Chaos Warp": 3,
+   "Pongify": 1,
+   "Galvanic Iteration": 3,
+   "Fact or Fiction": 3,
+   "Pieces of the Puzzle": 1,
+   "Haughty Djinn": 1,
+   "Storm-Kiln Artist": 1,
+   "Arcane Signet": 1,
+   "Talisman of Creativity": 1,
+   "Mind Stone": 1,
+   "Fellwar Stone": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Kessig Flamebreather": 1,
+   "Electrostatic Field": 1,
+   "Rapid Hybridization": 1,
+   "Lightning Bolt": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 18,
+  "lands": 13,
+  "dcast_by_own_turn": {
+   "4": [
+    "Guttersnipe"
+   ],
+   "5": [
+    "Reality Shift",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Ral's Outburst",
+    "Increasing Vengeance",
+    "Ral's Outburst"
+   ],
+   "7": [
+    "Chart a Course",
+    "Ral, Storm Conduit"
+   ],
+   "8": [
+    "Anger of the Gods",
+    "Anger of the Gods",
+    "Talrand, Sky Summoner"
+   ],
+   "9": [
+    "Storm of Saruman"
+   ],
+   "10": [
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Vandalblast"
+   ],
+   "12": [
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Big Score",
+    "Expressive Iteration",
+    "Abrade"
+   ],
+   "14": [
+    "Archmage Emeritus",
+    "Negate",
+    "Chaos Warp",
+    "Chaos Warp",
+    "Chaos Warp",
+    "Pongify"
+   ],
+   "15": [
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Galvanic Iteration",
+    "Fact or Fiction",
+    "Fact or Fiction",
+    "Fact or Fiction"
+   ],
+   "16": [
+    "Pieces of the Puzzle",
+    "Haughty Djinn",
+    "Storm-Kiln Artist"
+   ],
+   "17": [
+    "Arcane Signet",
+    "Talisman of Creativity",
+    "Mind Stone",
+    "Fellwar Stone",
+    "Niv-Mizzet, Parun"
+   ],
+   "18": [
+    "Storm of Saruman",
+    "Docent of Perfection",
+    "Kessig Flamebreather",
+    "Electrostatic Field",
+    "Rapid Hybridization",
+    "Lightning Bolt"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   67,
+   "B",
+   "Shivan Reef (123)",
+   "1"
+  ],
+  "firstturn": "D",
+  "turns": 67
+ },
+ {
+  "log": "playtest_batch2/g46.log",
+  "cast": {
+   "Veyran, Voice of Duality": 3,
+   "Lightning Bolt": 1,
+   "Commander's Sphere": 1,
+   "Consider": 1,
+   "Abrade": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Murmuring Mystic": 1,
+   "Opt": 1,
+   "Storm of Saruman": 1,
+   "Archmage Emeritus": 2,
+   "Anger of the Gods": 1,
+   "Pongify": 1,
+   "Sol Ring": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 65,
+  "first": null,
+  "dturns": 11,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Lightning Bolt",
+    "Commander's Sphere"
+   ],
+   "5": [
+    "Consider",
+    "Abrade"
+   ],
+   "6": [
+    "Niv-Mizzet, Parun"
+   ],
+   "7": [
+    "Docent of Perfection"
+   ],
+   "8": [
+    "Murmuring Mystic",
+    "Opt"
+   ],
+   "9": [
+    "Storm of Saruman",
+    "Archmage Emeritus",
+    "Archmage Emeritus"
+   ],
+   "10": [
+    "Anger of the Gods",
+    "Veyran, Voice of Duality",
+    "Veyran, Voice of Duality",
+    "Pongify"
+   ],
+   "11": [
+    "Sol Ring"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   43,
+   "A11",
+   "Soldier Token (1191)",
+   "4"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   43,
+   "A11",
+   "Soldier Token (1191)",
+   "4"
+  ],
+  "turns": 65
+ },
+ {
+  "log": "playtest_batch2/g47.log",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 2,
+   "Archmage Emeritus": 2,
+   "Reality Shift": 1,
+   "Young Pyromancer": 1,
+   "Electrostatic Field": 1,
+   "Preordain": 1,
+   "Ponder": 1,
+   "Docent of Perfection": 1,
+   "Big Score": 1,
+   "Thermo-Alchemist": 1,
+   "Arcane Denial": 1,
+   "Fire": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Stormcatch Mentor"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Archmage Emeritus"
+   ],
+   "5": [
+    "Reality Shift",
+    "Young Pyromancer"
+   ],
+   "6": [
+    "Electrostatic Field"
+   ],
+   "7": [
+    "Preordain",
+    "Ponder"
+   ],
+   "8": [
+    "Docent of Perfection"
+   ],
+   "9": [
+    "Big Score",
+    "Thermo-Alchemist",
+    "Arcane Denial"
+   ],
+   "10": [
+    "Fire",
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Archmage Emeritus"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   43,
+   "B",
+   "Glen Elendra Archmage (377)",
+   "2"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   43,
+   "B",
+   "Glen Elendra Archmage (377)",
+   "2"
+  ],
+  "turns": 47
+ },
+ {
+  "log": "playtest_batch2/g48.log",
+  "cast": {
+   "Preordain": 1,
+   "Ponder": 1,
+   "Haughty Djinn": 1,
+   "Veyran, Voice of Duality": 2,
+   "Negate": 1,
+   "Big Score": 1,
+   "Chart a Course": 1,
+   "Opt": 1,
+   "Galvanic Iteration": 2,
+   "Unexpected Windfall": 1,
+   "Crackling Drake": 1,
+   "Vandalblast": 2,
+   "Guttersnipe": 1,
+   "Reality Shift": 1,
+   "Commander's Sphere": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 45,
+  "first": null,
+  "dturns": 12,
+  "lands": 11,
+  "dcast_by_own_turn": {
+   "1": [
+    "Preordain"
+   ],
+   "2": [
+    "Ponder"
+   ],
+   "3": [
+    "Haughty Djinn"
+   ],
+   "4": [
+    "Veyran, Voice of Duality",
+    "Negate"
+   ],
+   "5": [
+    "Big Score",
+    "Chart a Course"
+   ],
+   "6": [
+    "Opt",
+    "Galvanic Iteration"
+   ],
+   "7": [
+    "Unexpected Windfall",
+    "Crackling Drake"
+   ],
+   "8": [
+    "Galvanic Iteration",
+    "Vandalblast",
+    "Vandalblast",
+    "Guttersnipe"
+   ],
+   "9": [
+    "Reality Shift",
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Commander's Sphere"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   45,
+   "A11",
+   "Human Token (986)",
+   "4"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   45,
+   "A11",
+   "Human Token (986)",
+   "4"
+  ],
+  "turns": 45
+ },
+ {
+  "log": "playtest_batch2/g49.log",
+  "cast": {
+   "Fire": 1,
+   "Electrostatic Field": 1,
+   "Talrand, Sky Summoner": 1,
+   "Storm-Kiln Artist": 1,
+   "Talisman of Creativity": 1,
+   "Haughty Djinn": 1,
+   "Expressive Iteration": 1,
+   "Veyran, Voice of Duality": 1,
+   "Unexpected Windfall": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "first": null,
+  "dturns": 8,
+  "lands": 5,
+  "dcast_by_own_turn": {
+   "2": [
+    "Fire"
+   ],
+   "3": [
+    "Electrostatic Field"
+   ],
+   "4": [
+    "Talrand, Sky Summoner"
+   ],
+   "5": [
+    "Storm-Kiln Artist"
+   ],
+   "6": [
+    "Talisman of Creativity",
+    "Haughty Djinn"
+   ],
+   "7": [
+    "Expressive Iteration",
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Unexpected Windfall"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   33,
+   "A11",
+   "Human Token (652)",
+   "4"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   33,
+   "A11",
+   "Human Token (652)",
+   "4"
+  ],
+  "turns": 41
+ },
+ {
+  "log": "playtest_batch2/g50.log",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 3,
+   "Arcane Denial": 1,
+   "Docent of Perfection": 1,
+   "Murmuring Mystic": 1,
+   "Reality Shift": 1,
+   "Stormcatch Mentor": 1,
+   "Anger of the Gods": 2,
+   "Increasing Vengeance": 1,
+   "Young Pyromancer": 1,
+   "Rapid Hybridization": 1,
+   "Abrade": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 52,
+  "first": null,
+  "dturns": 13,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "2": [
+    "Thermo-Alchemist"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Arcane Denial"
+   ],
+   "5": [
+    "Docent of Perfection"
+   ],
+   "6": [
+    "Murmuring Mystic",
+    "Reality Shift"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "11": [
+    "Stormcatch Mentor"
+   ],
+   "12": [
+    "Anger of the Gods",
+    "Increasing Vengeance",
+    "Anger of the Gods",
+    "Young Pyromancer",
+    "Rapid Hybridization"
+   ],
+   "13": [
+    "Abrade",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   50,
+   "A11",
+   "Angel Token (1438)",
+   "5"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   50,
+   "A11",
+   "Angel Token (1438)",
+   "5"
+  ],
+  "turns": 52
+ },
+ {
+  "log": "playtest_batch1/rot1_g1.log",
+  "cast": {
+   "Ponder": 1,
+   "Opt": 1,
+   "Commander's Sphere": 1,
+   "Murmuring Mystic": 1,
+   "Frantic Search": 1,
+   "Stormcatch Mentor": 1,
+   "Arcane Denial": 1,
+   "Expressive Iteration": 1,
+   "Talisman of Creativity": 1,
+   "Veyran, Voice of Duality": 1,
+   "Storm-Kiln Artist": 1,
+   "Thermo-Alchemist": 1,
+   "Preordain": 1,
+   "Abrade": 1,
+   "Rapid Hybridization": 1,
+   "Firebrand Archer": 1,
+   "Unexpected Windfall": 1,
+   "Brainstorm": 1,
+   "Ral, Storm Conduit": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 51,
+  "first": null,
+  "dturns": 14,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "1": [
+    "Ponder"
+   ],
+   "2": [
+    "Opt"
+   ],
+   "3": [
+    "Commander's Sphere"
+   ],
+   "4": [
+    "Murmuring Mystic"
+   ],
+   "5": [
+    "Frantic Search",
+    "Stormcatch Mentor",
+    "Arcane Denial"
+   ],
+   "6": [
+    "Expressive Iteration",
+    "Talisman of Creativity",
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Storm-Kiln Artist",
+    "Thermo-Alchemist"
+   ],
+   "8": [
+    "Preordain",
+    "Abrade",
+    "Rapid Hybridization"
+   ],
+   "12": [
+    "Firebrand Archer"
+   ],
+   "14": [
+    "Unexpected Windfall",
+    "Brainstorm",
+    "Ral, Storm Conduit"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   51,
+   "A11",
+   "Human Token (999)",
+   "5"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   51,
+   "A11",
+   "Human Token (999)",
+   "5"
+  ],
+  "turns": 51
+ },
+ {
+  "log": "playtest_batch1/rot1_g2.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Arcane Signet": 1,
+   "Docent of Perfection": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 1,
+   "Opt": 1,
+   "Lightning Bolt": 1,
+   "Expressive Iteration": 1,
+   "Rapid Hybridization": 1,
+   "Storm of Saruman": 1,
+   "Talrand, Sky Summoner": 1,
+   "Thermo-Alchemist": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 68,
+  "first": null,
+  "dturns": 8,
+  "lands": 7,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring",
+    "Arcane Signet"
+   ],
+   "2": [
+    "Docent of Perfection"
+   ],
+   "3": [
+    "Baral, Chief of Compliance",
+    "Veyran, Voice of Duality",
+    "Opt"
+   ],
+   "4": [
+    "Lightning Bolt",
+    "Expressive Iteration",
+    "Rapid Hybridization"
+   ],
+   "5": [
+    "Storm of Saruman"
+   ],
+   "7": [
+    "Talrand, Sky Summoner"
+   ],
+   "8": [
+    "Thermo-Alchemist"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   34,
+   "C",
+   "Carrion Feeder (237)",
+   "7"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   34,
+   "C",
+   "Carrion Feeder (237)",
+   "7"
+  ],
+  "turns": 68
+ },
+ {
+  "log": "playtest_batch1/rot1_g3.log",
+  "cast": {
+   "Veyran, Voice of Duality": 2,
+   "Storm-Kiln Artist": 1,
+   "Ral's Outburst": 1,
+   "Expressive Iteration": 1,
+   "Arcane Denial": 1,
+   "Big Score": 1,
+   "Storm of Saruman": 1,
+   "Essence Scatter": 1,
+   "Pieces of the Puzzle": 1,
+   "Fact or Fiction": 3,
+   "Mind Stone": 1,
+   "Archmage Emeritus": 1,
+   "Counterspell": 4,
+   "Reverberate": 3,
+   "Galvanic Iteration": 2,
+   "Negate": 2,
+   "Sublime Epiphany": 2,
+   "Vandalblast": 1,
+   "Haughty Djinn": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Talrand, Sky Summoner": 1,
+   "Ral, Storm Conduit": 1,
+   "Guttersnipe": 1,
+   "Young Pyromancer": 1,
+   "Sol Ring": 1,
+   "Arcane Signet": 1,
+   "Thermo-Alchemist": 1,
+   "Electrostatic Field": 2,
+   "Talisman of Creativity": 1,
+   "Pongify": 1,
+   "Reality Shift": 3
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 47,
+  "first": null,
+  "dturns": 10,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Storm-Kiln Artist"
+   ],
+   "5": [
+    "Ral's Outburst",
+    "Expressive Iteration",
+    "Arcane Denial"
+   ],
+   "6": [
+    "Big Score",
+    "Storm of Saruman"
+   ],
+   "7": [
+    "Veyran, Voice of Duality",
+    "Essence Scatter"
+   ],
+   "8": [
+    "Pieces of the Puzzle",
+    "Fact or Fiction",
+    "Fact or Fiction",
+    "Fact or Fiction",
+    "Mind Stone",
+    "Archmage Emeritus",
+    "Counterspell",
+    "Reverberate",
+    "Reverberate",
+    "Counterspell",
+    "Reverberate",
+    "Counterspell",
+    "Counterspell",
+    "Galvanic Iteration",
+    "Negate",
+    "Negate",
+    "Galvanic Iteration",
+    "Sublime Epiphany",
+    "Sublime Epiphany"
+   ],
+   "9": [
+    "Vandalblast",
+    "Haughty Djinn",
+    "Haughty Djinn",
+    "Niv-Mizzet, Parun",
+    "Talrand, Sky Summoner",
+    "Ral, Storm Conduit",
+    "Guttersnipe",
+    "Young Pyromancer",
+    "Sol Ring",
+    "Arcane Signet"
+   ],
+   "10": [
+    "Thermo-Alchemist",
+    "Electrostatic Field",
+    "Electrostatic Field",
+    "Talisman of Creativity",
+    "Pongify",
+    "Reality Shift",
+    "Reality Shift",
+    "Reality Shift"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   40,
+   "A11",
+   "Syr Konrad, the Grim (285)",
+   "1"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   40,
+   "A11",
+   "Syr Konrad, the Grim (285)",
+   "1"
+  ],
+  "turns": 47
+ },
+ {
+  "log": "playtest_batch1/rot1_g4.log",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 5,
+   "Thermo-Alchemist": 1,
+   "Talisman of Creativity": 1,
+   "Storm-Kiln Artist": 1,
+   "Reality Shift": 1,
+   "Big Score": 1,
+   "Fire": 1,
+   "Crackling Drake": 1,
+   "Chaos Warp": 1,
+   "Stormcatch Mentor": 1,
+   "Sol Ring": 1,
+   "Anger of the Gods": 1,
+   "Arcane Signet": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 62,
+  "first": null,
+  "dturns": 14,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "2": [
+    "Electrostatic Field"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Thermo-Alchemist",
+    "Talisman of Creativity"
+   ],
+   "5": [
+    "Storm-Kiln Artist",
+    "Reality Shift"
+   ],
+   "6": [
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Big Score",
+    "Fire"
+   ],
+   "8": [
+    "Crackling Drake",
+    "Chaos Warp"
+   ],
+   "9": [
+    "Stormcatch Mentor",
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Sol Ring"
+   ],
+   "11": [
+    "Veyran, Voice of Duality"
+   ],
+   "12": [
+    "Anger of the Gods"
+   ],
+   "13": [
+    "Veyran, Voice of Duality"
+   ],
+   "14": [
+    "Arcane Signet"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   54,
+   "A11",
+   "Human Token (543)",
+   "1"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   54,
+   "A11",
+   "Human Token (543)",
+   "1"
+  ],
+  "turns": 62
+ },
+ {
+  "log": "playtest_batch1/rot1_g5.log",
+  "cast": {
+   "Lightning Bolt": 1,
+   "Kessig Flamebreather": 1,
+   "Veyran, Voice of Duality": 2,
+   "Guttersnipe": 1,
+   "Brainstorm": 1,
+   "Arcane Signet": 1,
+   "Negate": 1,
+   "Vandalblast": 1,
+   "Thrill of Possibility": 1,
+   "Commander's Sphere": 1,
+   "Firebrand Archer": 1,
+   "Thermo-Alchemist": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 38,
+  "first": null,
+  "dturns": 11,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "1": [
+    "Lightning Bolt"
+   ],
+   "2": [
+    "Kessig Flamebreather"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Guttersnipe",
+    "Brainstorm"
+   ],
+   "6": [
+    "Arcane Signet",
+    "Negate"
+   ],
+   "8": [
+    "Vandalblast"
+   ],
+   "9": [
+    "Thrill of Possibility"
+   ],
+   "10": [
+    "Commander's Sphere"
+   ],
+   "11": [
+    "Veyran, Voice of Duality",
+    "Firebrand Archer",
+    "Thermo-Alchemist"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   38,
+   "A11",
+   "Knight of the White Orchid (97)",
+   "3"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   38,
+   "A11",
+   "Knight of the White Orchid (97)",
+   "3"
+  ],
+  "turns": 38
+ },
+ {
+  "log": "playtest_batch1/rot1_g6.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Ice": 1,
+   "Veyran, Voice of Duality": 3,
+   "Storm-Kiln Artist": 1,
+   "Haughty Djinn": 4,
+   "Crackling Drake": 3,
+   "Frantic Search": 1,
+   "Lightning Bolt": 1,
+   "Baral, Chief of Compliance": 1,
+   "Firebrand Archer": 1,
+   "Big Score": 1,
+   "Guttersnipe": 1,
+   "Expressive Iteration": 1,
+   "Essence Scatter": 1,
+   "Pieces of the Puzzle": 1,
+   "Anger of the Gods": 1,
+   "Pongify": 1,
+   "Docent of Perfection": 1,
+   "Talrand, Sky Summoner": 1,
+   "Fellwar Stone": 1,
+   "Consider": 1,
+   "Kessig Flamebreather": 1,
+   "Archmage Emeritus": 1,
+   "Sublime Epiphany": 1,
+   "Preordain": 1,
+   "Ral, Storm Conduit": 1,
+   "Mind Stone": 1,
+   "Chart a Course": 2
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 20,
+  "lands": 13,
+  "dcast_by_own_turn": {
+   "2": [
+    "Sol Ring",
+    "Ice"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Storm-Kiln Artist"
+   ],
+   "5": [
+    "Haughty Djinn"
+   ],
+   "6": [
+    "Crackling Drake"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Frantic Search",
+    "Lightning Bolt"
+   ],
+   "9": [
+    "Veyran, Voice of Duality"
+   ],
+   "10": [
+    "Baral, Chief of Compliance",
+    "Firebrand Archer"
+   ],
+   "11": [
+    "Big Score",
+    "Guttersnipe"
+   ],
+   "12": [
+    "Expressive Iteration",
+    "Essence Scatter"
+   ],
+   "13": [
+    "Crackling Drake",
+    "Haughty Djinn"
+   ],
+   "14": [
+    "Pieces of the Puzzle",
+    "Anger of the Gods",
+    "Crackling Drake",
+    "Haughty Djinn",
+    "Pongify"
+   ],
+   "15": [
+    "Haughty Djinn",
+    "Docent of Perfection"
+   ],
+   "16": [
+    "Talrand, Sky Summoner",
+    "Fellwar Stone",
+    "Consider"
+   ],
+   "17": [
+    "Kessig Flamebreather"
+   ],
+   "19": [
+    "Archmage Emeritus"
+   ],
+   "20": [
+    "Sublime Epiphany",
+    "Preordain",
+    "Ral, Storm Conduit",
+    "Mind Stone",
+    "Chart a Course",
+    "Chart a Course"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   65,
+   "B",
+   "Restoration Angel (194)",
+   "5"
+  ],
+  "firstturn": "C",
+  "turns": 66
+ },
+ {
+  "log": "playtest_batch1/rot2_g1.log",
+  "cast": {
+   "Commander's Sphere": 1,
+   "Ponder": 1,
+   "Veyran, Voice of Duality": 2,
+   "Pieces of the Puzzle": 1,
+   "Reality Shift": 1,
+   "Brainstorm": 1,
+   "Pongify": 1,
+   "Thrill of Possibility": 1,
+   "Essence Scatter": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Frantic Search": 1,
+   "Stormcatch Mentor": 1,
+   "Talisman of Creativity": 1,
+   "Big Score": 1,
+   "Talrand, Sky Summoner": 1,
+   "Third Path Iconoclast": 1,
+   "Opt": 1,
+   "Fire": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 11,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "3": [
+    "Commander's Sphere",
+    "Ponder"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Pieces of the Puzzle",
+    "Reality Shift",
+    "Brainstorm"
+   ],
+   "7": [
+    "Pongify",
+    "Thrill of Possibility",
+    "Essence Scatter"
+   ],
+   "8": [
+    "Niv-Mizzet, Parun"
+   ],
+   "9": [
+    "Docent of Perfection",
+    "Frantic Search",
+    "Stormcatch Mentor"
+   ],
+   "10": [
+    "Talisman of Creativity",
+    "Big Score",
+    "Talrand, Sky Summoner",
+    "Third Path Iconoclast",
+    "Opt"
+   ],
+   "11": [
+    "Fire"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   35,
+   "D",
+   "Shivan Reef (224)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "turns": 40
+ },
+ {
+  "log": "playtest_batch1/rot2_g2.log",
+  "cast": {
+   "Ponder": 1,
+   "Kessig Flamebreather": 1,
+   "Mind Stone": 1,
+   "Veyran, Voice of Duality": 8,
+   "Sublime Epiphany": 1,
+   "Unexpected Windfall": 1,
+   "Lightning Bolt": 1,
+   "Pongify": 1,
+   "Big Score": 1,
+   "Thrill of Possibility": 1,
+   "Electrostatic Field": 1,
+   "Haughty Djinn": 1,
+   "Fellwar Stone": 1,
+   "Arcane Signet": 1,
+   "Young Pyromancer": 4,
+   "Niv-Mizzet, Parun": 5,
+   "Fire": 1,
+   "Opt": 1,
+   "Abrade": 1,
+   "Reality Shift": 1,
+   "Ral, Storm Conduit": 1,
+   "Thermo-Alchemist": 1,
+   "Talisman of Creativity": 1,
+   "Docent of Perfection": 1,
+   "Essence Scatter": 2,
+   "Reverberate": 1,
+   "Ral's Outburst": 1,
+   "Anger of the Gods": 1,
+   "Crackling Drake": 1,
+   "Talrand, Sky Summoner": 1,
+   "Expressive Iteration": 1,
+   "Sol Ring": 1,
+   "Third Path Iconoclast": 1,
+   "Chaos Warp": 1,
+   "Baral, Chief of Compliance": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 66,
+  "first": null,
+  "dturns": 21,
+  "lands": 19,
+  "dcast_by_own_turn": {
+   "1": [
+    "Ponder"
+   ],
+   "2": [
+    "Kessig Flamebreather"
+   ],
+   "3": [
+    "Mind Stone"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Sublime Epiphany"
+   ],
+   "6": [
+    "Unexpected Windfall",
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Lightning Bolt",
+    "Pongify",
+    "Big Score",
+    "Thrill of Possibility",
+    "Electrostatic Field"
+   ],
+   "9": [
+    "Haughty Djinn",
+    "Fellwar Stone",
+    "Arcane Signet",
+    "Young Pyromancer"
+   ],
+   "10": [
+    "Niv-Mizzet, Parun"
+   ],
+   "11": [
+    "Fire",
+    "Veyran, Voice of Duality",
+    "Opt"
+   ],
+   "12": [
+    "Abrade",
+    "Reality Shift",
+    "Ral, Storm Conduit",
+    "Thermo-Alchemist",
+    "Talisman of Creativity"
+   ],
+   "13": [
+    "Veyran, Voice of Duality"
+   ],
+   "14": [
+    "Docent of Perfection",
+    "Essence Scatter",
+    "Reverberate",
+    "Essence Scatter"
+   ],
+   "15": [
+    "Ral's Outburst",
+    "Anger of the Gods",
+    "Crackling Drake",
+    "Talrand, Sky Summoner"
+   ],
+   "17": [
+    "Niv-Mizzet, Parun",
+    "Young Pyromancer",
+    "Expressive Iteration",
+    "Sol Ring"
+   ],
+   "18": [
+    "Niv-Mizzet, Parun",
+    "Veyran, Voice of Duality",
+    "Young Pyromancer"
+   ],
+   "19": [
+    "Niv-Mizzet, Parun",
+    "Veyran, Voice of Duality"
+   ],
+   "20": [
+    "Niv-Mizzet, Parun",
+    "Young Pyromancer",
+    "Third Path Iconoclast",
+    "Chaos Warp"
+   ],
+   "21": [
+    "Baral, Chief of Compliance",
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   66,
+   "B",
+   "Glen Elendra Archmage (74)",
+   "2"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   66,
+   "B",
+   "Glen Elendra Archmage (74)",
+   "2"
+  ],
+  "turns": 66
+ },
+ {
+  "log": "playtest_batch1/rot2_g3.log",
+  "cast": {
+   "Ponder": 1,
+   "Opt": 1,
+   "Haughty Djinn": 1,
+   "Chaos Warp": 1,
+   "Third Path Iconoclast": 1,
+   "Thrill of Possibility": 1,
+   "Talrand, Sky Summoner": 1,
+   "Docent of Perfection": 1,
+   "Negate": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 1,
+   "Essence Scatter": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 42,
+  "first": null,
+  "dturns": 9,
+  "lands": 6,
+  "dcast_by_own_turn": {
+   "1": [
+    "Ponder"
+   ],
+   "2": [
+    "Opt"
+   ],
+   "3": [
+    "Haughty Djinn"
+   ],
+   "4": [
+    "Chaos Warp",
+    "Third Path Iconoclast"
+   ],
+   "5": [
+    "Thrill of Possibility",
+    "Talrand, Sky Summoner"
+   ],
+   "6": [
+    "Docent of Perfection",
+    "Negate"
+   ],
+   "7": [
+    "Storm-Kiln Artist"
+   ],
+   "8": [
+    "Veyran, Voice of Duality",
+    "Essence Scatter"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   35,
+   "A11",
+   "Human Token (462)",
+   "2"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   35,
+   "A11",
+   "Human Token (462)",
+   "2"
+  ],
+  "turns": 42
+ },
+ {
+  "log": "playtest_batch1/rot2_g4.log",
+  "cast": {
+   "Firebrand Archer": 1,
+   "Veyran, Voice of Duality": 2,
+   "Expressive Iteration": 2,
+   "Increasing Vengeance": 1,
+   "Reality Shift": 1,
+   "Chart a Course": 1,
+   "Lightning Bolt": 1,
+   "Big Score": 1,
+   "Ral, Storm Conduit": 1,
+   "Vandalblast": 1,
+   "Counterspell": 1,
+   "Third Path Iconoclast": 1,
+   "Abrade": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 56,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Firebrand Archer"
+   ],
+   "4": [
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Expressive Iteration",
+    "Increasing Vengeance",
+    "Expressive Iteration"
+   ],
+   "6": [
+    "Reality Shift",
+    "Chart a Course",
+    "Lightning Bolt"
+   ],
+   "7": [
+    "Big Score",
+    "Ral, Storm Conduit"
+   ],
+   "8": [
+    "Vandalblast",
+    "Counterspell"
+   ],
+   "9": [
+    "Veyran, Voice of Duality",
+    "Third Path Iconoclast"
+   ],
+   "11": [
+    "Abrade"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   45,
+   "A11",
+   "Mother of Runes (401)",
+   "4"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   45,
+   "A11",
+   "Mother of Runes (401)",
+   "4"
+  ],
+  "turns": 56
+ },
+ {
+  "log": "playtest_batch1/rot2_g5.log",
+  "cast": {
+   "Firebrand Archer": 2,
+   "Frantic Search": 1,
+   "Chaos Warp": 1,
+   "Murmuring Mystic": 2,
+   "Chart a Course": 1,
+   "Expressive Iteration": 1,
+   "Veyran, Voice of Duality": 1,
+   "Opt": 1,
+   "Talisman of Creativity": 1,
+   "Negate": 1,
+   "Storm of Saruman": 1,
+   "Counterspell": 1,
+   "Ral's Outburst": 1,
+   "Consider": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 46,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "2": [
+    "Firebrand Archer"
+   ],
+   "3": [
+    "Frantic Search",
+    "Chaos Warp"
+   ],
+   "4": [
+    "Murmuring Mystic"
+   ],
+   "5": [
+    "Chart a Course",
+    "Expressive Iteration"
+   ],
+   "6": [
+    "Veyran, Voice of Duality",
+    "Opt"
+   ],
+   "7": [
+    "Firebrand Archer",
+    "Talisman of Creativity",
+    "Negate"
+   ],
+   "8": [
+    "Storm of Saruman"
+   ],
+   "9": [
+    "Murmuring Mystic",
+    "Counterspell"
+   ],
+   "10": [
+    "Ral's Outburst",
+    "Consider"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   44,
+   "B",
+   "Reflector Mage (80)",
+   "2"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   44,
+   "B",
+   "Reflector Mage (80)",
+   "2"
+  ],
+  "turns": 46
+ },
+ {
+  "log": "playtest_batch1/rot2_g6.log",
+  "cast": {
+   "Murmuring Mystic": 1,
+   "Essence Scatter": 1,
+   "Abrade": 1,
+   "Rapid Hybridization": 1,
+   "Blasphemous Act": 1,
+   "Galvanic Iteration": 2,
+   "Preordain": 2,
+   "Sol Ring": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 1,
+   "Negate": 1,
+   "Storm-Kiln Artist": 2,
+   "Kessig Flamebreather": 1,
+   "Third Path Iconoclast": 1,
+   "Big Score": 2,
+   "Ral, Storm Conduit": 1,
+   "Pieces of the Puzzle": 2,
+   "Fact or Fiction": 1,
+   "Fire": 1,
+   "Mind Stone": 1,
+   "Pongify": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Firebrand Archer": 1,
+   "Reality Shift": 1,
+   "Docent of Perfection": 1,
+   "Brainstorm": 1,
+   "Lightning Bolt": 1,
+   "Consider": 1,
+   "Talrand, Sky Summoner": 1
+  },
+  "mull": 0,
+  "winner": "C",
+  "lost": "life total reached 0",
+  "lostturn": 66,
+  "first": null,
+  "dturns": 18,
+  "lands": 12,
+  "dcast_by_own_turn": {
+   "4": [
+    "Murmuring Mystic"
+   ],
+   "5": [
+    "Essence Scatter"
+   ],
+   "6": [
+    "Abrade",
+    "Rapid Hybridization"
+   ],
+   "7": [
+    "Blasphemous Act"
+   ],
+   "8": [
+    "Galvanic Iteration",
+    "Preordain",
+    "Preordain",
+    "Sol Ring",
+    "Archmage Emeritus"
+   ],
+   "9": [
+    "Veyran, Voice of Duality",
+    "Negate"
+   ],
+   "10": [
+    "Storm-Kiln Artist"
+   ],
+   "11": [
+    "Kessig Flamebreather",
+    "Third Path Iconoclast"
+   ],
+   "13": [
+    "Galvanic Iteration",
+    "Big Score",
+    "Big Score",
+    "Ral, Storm Conduit",
+    "Pieces of the Puzzle",
+    "Pieces of the Puzzle"
+   ],
+   "14": [
+    "Fact or Fiction",
+    "Fire",
+    "Mind Stone",
+    "Storm-Kiln Artist"
+   ],
+   "15": [
+    "Pongify",
+    "Niv-Mizzet, Parun",
+    "Firebrand Archer"
+   ],
+   "16": [
+    "Reality Shift",
+    "Docent of Perfection",
+    "Brainstorm",
+    "Lightning Bolt",
+    "Consider"
+   ],
+   "17": [
+    "Talrand, Sky Summoner"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   66,
+   "C",
+   "Spirit Token (1996)",
+   "1"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   66,
+   "C",
+   "Spirit Token (1996)",
+   "1"
+  ],
+  "turns": 66
+ },
+ {
+  "log": "playtest_batch1/rot3_g1.log",
+  "cast": {
+   "Abrade": 1,
+   "Frantic Search": 1,
+   "Haughty Djinn": 2,
+   "Crackling Drake": 1,
+   "Archmage Emeritus": 2,
+   "Expressive Iteration": 1,
+   "Lightning Bolt": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fellwar Stone": 1,
+   "Mind Stone": 1,
+   "Pongify": 1,
+   "Third Path Iconoclast": 1,
+   "Negate": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "first": null,
+  "dturns": 10,
+  "lands": 7,
+  "dcast_by_own_turn": {
+   "2": [
+    "Abrade"
+   ],
+   "3": [
+    "Frantic Search",
+    "Haughty Djinn"
+   ],
+   "4": [
+    "Crackling Drake"
+   ],
+   "5": [
+    "Archmage Emeritus",
+    "Expressive Iteration"
+   ],
+   "6": [
+    "Lightning Bolt",
+    "Baral, Chief of Compliance",
+    "Veyran, Voice of Duality"
+   ],
+   "7": [
+    "Archmage Emeritus",
+    "Fellwar Stone",
+    "Mind Stone"
+   ],
+   "8": [
+    "Pongify",
+    "Haughty Djinn",
+    "Veyran, Voice of Duality"
+   ],
+   "9": [
+    "Third Path Iconoclast",
+    "Negate"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   39,
+   "A11",
+   "Human Token (1539)",
+   "6"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   39,
+   "A11",
+   "Human Token (1539)",
+   "6"
+  ],
+  "turns": 41
+ },
+ {
+  "log": "playtest_batch1/rot3_g2.log",
+  "cast": {
+   "Fire": 1,
+   "Veyran, Voice of Duality": 2,
+   "Ral's Outburst": 1,
+   "Young Pyromancer": 1,
+   "Third Path Iconoclast": 1,
+   "Abrade": 1,
+   "Expressive Iteration": 1,
+   "Blasphemous Act": 1,
+   "Pieces of the Puzzle": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Big Score": 1,
+   "Talisman of Creativity": 1,
+   "Unexpected Windfall": 1,
+   "Kessig Flamebreather": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 37,
+  "first": null,
+  "dturns": 10,
+  "lands": 7,
+  "dcast_by_own_turn": {
+   "2": [
+    "Fire"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Ral's Outburst"
+   ],
+   "5": [
+    "Young Pyromancer",
+    "Third Path Iconoclast"
+   ],
+   "6": [
+    "Abrade",
+    "Expressive Iteration"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Blasphemous Act",
+    "Pieces of the Puzzle"
+   ],
+   "9": [
+    "Niv-Mizzet, Parun"
+   ],
+   "10": [
+    "Big Score",
+    "Talisman of Creativity",
+    "Unexpected Windfall",
+    "Kessig Flamebreather"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   37,
+   "A11",
+   "Human Token (568)",
+   "11"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   37,
+   "A11",
+   "Human Token (568)",
+   "11"
+  ],
+  "turns": 37
+ },
+ {
+  "log": "playtest_batch1/rot3_g3.log",
+  "cast": {
+   "Counterspell": 1,
+   "Veyran, Voice of Duality": 1,
+   "Chaos Warp": 1,
+   "Sol Ring": 1,
+   "Docent of Perfection": 1,
+   "Kessig Flamebreather": 1,
+   "Talisman of Creativity": 1,
+   "Archmage Emeritus": 1,
+   "Blasphemous Act": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 42,
+  "first": null,
+  "dturns": 9,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "2": [
+    "Counterspell"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Chaos Warp",
+    "Sol Ring"
+   ],
+   "5": [
+    "Docent of Perfection"
+   ],
+   "6": [
+    "Kessig Flamebreather",
+    "Talisman of Creativity"
+   ],
+   "7": [
+    "Archmage Emeritus"
+   ],
+   "9": [
+    "Blasphemous Act"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   33,
+   "A11",
+   "Angel Token (428)",
+   "6"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   33,
+   "A11",
+   "Angel Token (428)",
+   "6"
+  ],
+  "turns": 42
+ },
+ {
+  "log": "playtest_batch1/rot3_g4.log",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Veyran, Voice of Duality": 1,
+   "Crackling Drake": 1,
+   "Talisman of Creativity": 1,
+   "Third Path Iconoclast": 1,
+   "Arcane Denial": 1,
+   "Ral's Outburst": 1,
+   "Preordain": 1,
+   "Sublime Epiphany": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 54,
+  "first": null,
+  "dturns": 9,
+  "lands": 6,
+  "dcast_by_own_turn": {
+   "2": [
+    "Stormcatch Mentor"
+   ],
+   "3": [
+    "Kessig Flamebreather"
+   ],
+   "4": [
+    "Chart a Course",
+    "Veyran, Voice of Duality"
+   ],
+   "5": [
+    "Crackling Drake"
+   ],
+   "6": [
+    "Talisman of Creativity",
+    "Third Path Iconoclast",
+    "Arcane Denial"
+   ],
+   "8": [
+    "Ral's Outburst",
+    "Preordain"
+   ],
+   "9": [
+    "Sublime Epiphany"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   36,
+   "B",
+   "Brago, King Eternal (403)",
+   "2"
+  ],
+  "firstturn": "C",
+  "lostlastdmg": [
+   36,
+   "B",
+   "Brago, King Eternal (403)",
+   "2"
+  ],
+  "turns": 54
+ },
+ {
+  "log": "playtest_batch1/rot3_g5.log",
+  "cast": {
+   "Brainstorm": 1,
+   "Veyran, Voice of Duality": 3,
+   "Thermo-Alchemist": 1,
+   "Mind Stone": 1,
+   "Sol Ring": 1,
+   "Galvanic Iteration": 2,
+   "Ral's Outburst": 2,
+   "Docent of Perfection": 2,
+   "Kessig Flamebreather": 1,
+   "Arcane Signet": 1,
+   "Niv-Mizzet, Parun": 2,
+   "Big Score": 1,
+   "Vandalblast": 1,
+   "Sublime Epiphany": 1,
+   "Storm-Kiln Artist": 1,
+   "Frantic Search": 1,
+   "Lightning Bolt": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 12,
+  "lands": 10,
+  "dcast_by_own_turn": {
+   "2": [
+    "Brainstorm"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Thermo-Alchemist",
+    "Mind Stone",
+    "Sol Ring"
+   ],
+   "5": [
+    "Galvanic Iteration",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Galvanic Iteration",
+    "Ral's Outburst",
+    "Ral's Outburst"
+   ],
+   "7": [
+    "Docent of Perfection",
+    "Kessig Flamebreather"
+   ],
+   "8": [
+    "Arcane Signet",
+    "Niv-Mizzet, Parun"
+   ],
+   "9": [
+    "Big Score",
+    "Vandalblast"
+   ],
+   "10": [
+    "Sublime Epiphany",
+    "Niv-Mizzet, Parun"
+   ],
+   "11": [
+    "Docent of Perfection",
+    "Storm-Kiln Artist"
+   ],
+   "12": [
+    "Veyran, Voice of Duality",
+    "Frantic Search",
+    "Lightning Bolt"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   39,
+   "D",
+   "Shivan Reef (123)",
+   "1"
+  ],
+  "firstturn": "B",
+  "turns": 48
+ },
+ {
+  "log": "playtest_batch1/rot3_g6.log",
+  "cast": {
+   "Vandalblast": 1,
+   "Fire": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 3,
+   "Negate": 1,
+   "Ral's Outburst": 1,
+   "Sublime Epiphany": 1,
+   "Lightning Bolt": 1,
+   "Commander's Sphere": 1,
+   "Third Path Iconoclast": 1,
+   "Blasphemous Act": 1,
+   "Young Pyromancer": 1,
+   "Talrand, Sky Summoner": 1,
+   "Thrill of Possibility": 1,
+   "Brainstorm": 1,
+   "Murmuring Mystic": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 69,
+  "first": null,
+  "dturns": 16,
+  "lands": 13,
+  "dcast_by_own_turn": {
+   "2": [
+    "Vandalblast"
+   ],
+   "3": [
+    "Fire"
+   ],
+   "4": [
+    "Storm-Kiln Artist"
+   ],
+   "5": [
+    "Veyran, Voice of Duality",
+    "Negate"
+   ],
+   "6": [
+    "Ral's Outburst"
+   ],
+   "7": [
+    "Sublime Epiphany"
+   ],
+   "8": [
+    "Lightning Bolt",
+    "Commander's Sphere",
+    "Third Path Iconoclast"
+   ],
+   "10": [
+    "Blasphemous Act",
+    "Veyran, Voice of Duality"
+   ],
+   "13": [
+    "Young Pyromancer"
+   ],
+   "15": [
+    "Talrand, Sky Summoner"
+   ],
+   "16": [
+    "Veyran, Voice of Duality",
+    "Thrill of Possibility",
+    "Brainstorm",
+    "Murmuring Mystic"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   63,
+   "B",
+   "Spirit Token (1025)",
+   "1"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   63,
+   "B",
+   "Spirit Token (1025)",
+   "1"
+  ],
+  "turns": 69
+ },
+ {
+  "log": "playtest_batch1/rot4_g1.log",
+  "cast": {
+   "Sol Ring": 1,
+   "Abrade": 1,
+   "Baral, Chief of Compliance": 1,
+   "Kessig Flamebreather": 1,
+   "Big Score": 1,
+   "Lightning Bolt": 1,
+   "Consider": 1,
+   "Fact or Fiction": 1,
+   "Haughty Djinn": 1,
+   "Firebrand Archer": 1,
+   "Reality Shift": 1,
+   "Mind Stone": 1,
+   "Negate": 1,
+   "Sublime Epiphany": 1,
+   "Fellwar Stone": 1,
+   "Crackling Drake": 1,
+   "Thermo-Alchemist": 1,
+   "Vandalblast": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 52,
+  "first": null,
+  "dturns": 14,
+  "lands": 7,
+  "dcast_by_own_turn": {
+   "1": [
+    "Sol Ring"
+   ],
+   "3": [
+    "Abrade"
+   ],
+   "4": [
+    "Baral, Chief of Compliance",
+    "Kessig Flamebreather"
+   ],
+   "5": [
+    "Big Score",
+    "Lightning Bolt",
+    "Consider"
+   ],
+   "6": [
+    "Fact or Fiction"
+   ],
+   "7": [
+    "Haughty Djinn",
+    "Firebrand Archer"
+   ],
+   "8": [
+    "Reality Shift",
+    "Mind Stone",
+    "Negate"
+   ],
+   "9": [
+    "Sublime Epiphany"
+   ],
+   "10": [
+    "Fellwar Stone",
+    "Crackling Drake",
+    "Thermo-Alchemist"
+   ],
+   "11": [
+    "Vandalblast",
+    "Guttersnipe"
+   ],
+   "12": [
+    "Veyran, Voice of Duality"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   52,
+   "A11",
+   "Angel Token (737)",
+   "4"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   52,
+   "A11",
+   "Angel Token (737)",
+   "4"
+  ],
+  "turns": 52
+ },
+ {
+  "log": "playtest_batch1/rot4_g2.log",
+  "cast": {
+   "Brainstorm": 1,
+   "Third Path Iconoclast": 1,
+   "Veyran, Voice of Duality": 2,
+   "Thermo-Alchemist": 1,
+   "Archmage Emeritus": 1,
+   "Storm-Kiln Artist": 1,
+   "Fire": 1,
+   "Talisman of Creativity": 1,
+   "Mind Stone": 1,
+   "Electrostatic Field": 1,
+   "Ral, Storm Conduit": 1,
+   "Guttersnipe": 1,
+   "Negate": 1,
+   "Big Score": 1,
+   "Reverberate": 1,
+   "Utter End": 1,
+   "Young Pyromancer": 1,
+   "Pieces of the Puzzle": 1,
+   "Unexpected Windfall": 1
+  },
+  "mull": 0,
+  "winner": "D",
+  "lost": null,
+  "lostturn": null,
+  "first": null,
+  "dturns": 11,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "1": [
+    "Brainstorm"
+   ],
+   "2": [
+    "Third Path Iconoclast"
+   ],
+   "3": [
+    "Veyran, Voice of Duality"
+   ],
+   "4": [
+    "Thermo-Alchemist"
+   ],
+   "5": [
+    "Archmage Emeritus"
+   ],
+   "6": [
+    "Storm-Kiln Artist"
+   ],
+   "7": [
+    "Fire",
+    "Talisman of Creativity",
+    "Mind Stone",
+    "Electrostatic Field"
+   ],
+   "8": [
+    "Ral, Storm Conduit"
+   ],
+   "9": [
+    "Guttersnipe",
+    "Negate",
+    "Big Score",
+    "Reverberate",
+    "Utter End"
+   ],
+   "10": [
+    "Veyran, Voice of Duality",
+    "Young Pyromancer"
+   ],
+   "11": [
+    "Pieces of the Puzzle",
+    "Unexpected Windfall"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   36,
+   "C",
+   "Falkenrath Noble (309)",
+   "2"
+  ],
+  "firstturn": "D",
+  "turns": 40
+ },
+ {
+  "log": "playtest_batch1/rot4_g3.log",
+  "cast": {
+   "Talisman of Creativity": 1,
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 6,
+   "Essence Scatter": 1,
+   "Talrand, Sky Summoner": 1,
+   "Thrill of Possibility": 1,
+   "Chaos Warp": 1,
+   "Murmuring Mystic": 1,
+   "Blasphemous Act": 1,
+   "Negate": 1,
+   "Expressive Iteration": 1,
+   "Chart a Course": 1,
+   "Big Score": 1,
+   "Fellwar Stone": 1,
+   "Stormcatch Mentor": 1,
+   "Brainstorm": 1,
+   "Young Pyromancer": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Vandalblast": 1,
+   "Sublime Epiphany": 1,
+   "Thermo-Alchemist": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 86,
+  "first": null,
+  "dturns": 23,
+  "lands": 16,
+  "dcast_by_own_turn": {
+   "2": [
+    "Talisman of Creativity"
+   ],
+   "3": [
+    "Abrade"
+   ],
+   "4": [
+    "Veyran, Voice of Duality",
+    "Essence Scatter"
+   ],
+   "5": [
+    "Talrand, Sky Summoner",
+    "Thrill of Possibility"
+   ],
+   "6": [
+    "Chaos Warp",
+    "Murmuring Mystic"
+   ],
+   "7": [
+    "Blasphemous Act"
+   ],
+   "8": [
+    "Veyran, Voice of Duality"
+   ],
+   "9": [
+    "Negate"
+   ],
+   "12": [
+    "Expressive Iteration",
+    "Chart a Course",
+    "Big Score",
+    "Fellwar Stone"
+   ],
+   "13": [
+    "Veyran, Voice of Duality"
+   ],
+   "15": [
+    "Stormcatch Mentor"
+   ],
+   "16": [
+    "Brainstorm"
+   ],
+   "17": [
+    "Veyran, Voice of Duality",
+    "Young Pyromancer"
+   ],
+   "20": [
+    "Niv-Mizzet, Parun",
+    "Veyran, Voice of Duality"
+   ],
+   "21": [
+    "Vandalblast",
+    "Sublime Epiphany"
+   ],
+   "22": [
+    "Veyran, Voice of Duality"
+   ],
+   "23": [
+    "Thermo-Alchemist"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   82,
+   "B",
+   "Syr Konrad, the Grim (386)",
+   "1"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   82,
+   "B",
+   "Syr Konrad, the Grim (386)",
+   "1"
+  ],
+  "turns": 86
+ },
+ {
+  "log": "playtest_batch1/rot4_g4.log",
+  "cast": {
+   "Ponder": 1,
+   "Sol Ring": 1,
+   "Consider": 1,
+   "Stormcatch Mentor": 1,
+   "Frantic Search": 1,
+   "Talrand, Sky Summoner": 1,
+   "Sublime Epiphany": 1,
+   "Chaos Warp": 1,
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 1,
+   "Thermo-Alchemist": 1,
+   "Mind Stone": 1,
+   "Unexpected Windfall": 1,
+   "Counterspell": 1,
+   "Pongify": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "first": null,
+  "dturns": 8,
+  "lands": 6,
+  "dcast_by_own_turn": {
+   "1": [
+    "Ponder"
+   ],
+   "2": [
+    "Sol Ring",
+    "Consider"
+   ],
+   "4": [
+    "Stormcatch Mentor",
+    "Frantic Search",
+    "Talrand, Sky Summoner"
+   ],
+   "5": [
+    "Sublime Epiphany",
+    "Chaos Warp"
+   ],
+   "6": [
+    "Abrade",
+    "Veyran, Voice of Duality",
+    "Thermo-Alchemist"
+   ],
+   "7": [
+    "Mind Stone",
+    "Unexpected Windfall",
+    "Counterspell",
+    "Pongify"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   30,
+   "A11",
+   "Emeria Angel (121)",
+   "14"
+  ],
+  "firstturn": "D",
+  "lostlastdmg": [
+   30,
+   "A11",
+   "Emeria Angel (121)",
+   "14"
+  ],
+  "turns": 41
+ },
+ {
+  "log": "playtest_batch1/rot4_g5.log",
+  "cast": {
+   "Ponder": 1,
+   "Firebrand Archer": 1,
+   "Arcane Signet": 1,
+   "Brainstorm": 1,
+   "Haughty Djinn": 2,
+   "Ral's Outburst": 1,
+   "Veyran, Voice of Duality": 2,
+   "Pieces of the Puzzle": 1,
+   "Frantic Search": 1,
+   "Reality Shift": 1,
+   "Abrade": 1,
+   "Crackling Drake": 2,
+   "Archmage Emeritus": 1,
+   "Anger of the Gods": 1,
+   "Ral, Storm Conduit": 1,
+   "Kessig Flamebreather": 2,
+   "Negate": 1
+  },
+  "mull": 0,
+  "winner": "B",
+  "lost": "life total reached 0",
+  "lostturn": 42,
+  "first": null,
+  "dturns": 10,
+  "lands": 9,
+  "dcast_by_own_turn": {
+   "1": [
+    "Ponder"
+   ],
+   "2": [
+    "Firebrand Archer"
+   ],
+   "3": [
+    "Arcane Signet",
+    "Brainstorm"
+   ],
+   "4": [
+    "Haughty Djinn"
+   ],
+   "5": [
+    "Ral's Outburst",
+    "Veyran, Voice of Duality"
+   ],
+   "6": [
+    "Pieces of the Puzzle",
+    "Frantic Search",
+    "Reality Shift",
+    "Abrade",
+    "Crackling Drake"
+   ],
+   "7": [
+    "Archmage Emeritus",
+    "Anger of the Gods"
+   ],
+   "8": [
+    "Ral, Storm Conduit",
+    "Kessig Flamebreather"
+   ],
+   "9": [
+    "Crackling Drake",
+    "Haughty Djinn",
+    "Kessig Flamebreather"
+   ],
+   "10": [
+    "Veyran, Voice of Duality",
+    "Negate"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   38,
+   "B",
+   "Fblthp, the Lost (297)",
+   "1"
+  ],
+  "firstturn": "A11",
+  "lostlastdmg": [
+   38,
+   "B",
+   "Fblthp, the Lost (297)",
+   "1"
+  ],
+  "turns": 42
+ },
+ {
+  "log": "playtest_batch1/rot4_g6.log",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Abrade": 1,
+   "Guttersnipe": 1,
+   "Docent of Perfection": 1,
+   "Blasphemous Act": 2,
+   "Increasing Vengeance": 1,
+   "Pongify": 1,
+   "Veyran, Voice of Duality": 1,
+   "Preordain": 1,
+   "Young Pyromancer": 1,
+   "Mind Stone": 1,
+   "Big Score": 1
+  },
+  "mull": 0,
+  "winner": "A11",
+  "lost": "life total reached 0",
+  "lostturn": 41,
+  "first": null,
+  "dturns": 11,
+  "lands": 8,
+  "dcast_by_own_turn": {
+   "3": [
+    "Stormcatch Mentor",
+    "Abrade"
+   ],
+   "4": [
+    "Guttersnipe"
+   ],
+   "5": [
+    "Docent of Perfection"
+   ],
+   "6": [
+    "Blasphemous Act",
+    "Increasing Vengeance",
+    "Blasphemous Act",
+    "Pongify"
+   ],
+   "7": [
+    "Veyran, Voice of Duality"
+   ],
+   "8": [
+    "Preordain"
+   ],
+   "9": [
+    "Young Pyromancer",
+    "Mind Stone"
+   ],
+   "11": [
+    "Big Score"
+   ]
+  },
+  "cmdcasts": 0,
+  "killer": {},
+  "lastdmg": [
+   41,
+   "A11",
+   "Angel of Invention (136)",
+   "14"
+  ],
+  "firstturn": "B",
+  "lostlastdmg": [
+   41,
+   "A11",
+   "Angel of Invention (136)",
+   "14"
+  ],
+  "turns": 41
+ }
+]

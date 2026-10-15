@@ -1,27 +1,23 @@
-# STATUS — Commander Challenge #001 (2026-10-14, ~18:45 Manila)
-Settings LOCKED by Voltaire (Slack ts 1791973731.389819): 4 decks, each ≤ US$100 incl. commander + all lands; Bracket 2; zero Game Changers; no 2-card infinites; 3-card combos only if legal + disclosed (none included); 4-player pod.
-Built by Grok Bot executor before the MTG agents were created. MTG agents have not run any of these tasks yet. Owners listed are for V1.1+ and re-audits.
+# STATUS — Commander Challenge #001 (2026-10-15, ~07:55 local)
+Settings LOCKED by Voltaire: Bracket 2, zero Game Changers, no 2-card infinites; budget target $100 / hard cap $120 strict retail (supersedes earlier flat $100).
 
-## Task register
-| Task ID | Deck / item | Owner | Artifact | Audit (fresh script + Arbiter/Nemesis pass) | Status |
-|---|---|---|---|---|---|
-| CH001-A | Tokens/aggro — Adeline, Resplendent Cathar (W) | Forge (MTG-04); prices Codex (MTG-02) | decks/A_tokens.md, decks/A_tokens.txt | decks/AUDIT_A_tokens.md — PASS, $95.61 | V1 LOCKED |
-| CH001-B | Control/value — Brago, King Eternal (WU) | Forge; Codex | decks/B_control.md, .txt | decks/AUDIT_B_control.md — PASS, $83.50 | V1 LOCKED |
-| CH001-C | Aristocrats — Teysa Karlov (WB) | Forge; Codex | decks/C_aristocrats.md, .txt | decks/AUDIT_C_aristocrats.md — PASS, $85.97 | V1 LOCKED |
-| CH001-D | Spellslinger — Veyran, Voice of Duality (UR) | Forge; Codex | decks/D_spellslinger.md, .txt | decks/AUDIT_D_spellslinger.md — PASS, $80.45 | V1 LOCKED |
-| CH001-AUD | Independent re-audit by live agents | Arbiter (MTG-07), Nemesis (MTG-08) | audit_fresh.py | not yet run by the agents | PENDING |
-| CH001-TEST | Rotating-seat/deck Forge plan | Sentinel (MTG-14); analysis Oracle (MTG-09) | forge/decks/*.dck | smoke only | PLAN PENDING |
-| CH001-PROMPTS | v2.2+v2.3 prompts for 15 agents | Studio Manager (UpdateAgent) | prompts/v2.3_installed/, prompts/INSTALL_RECEIPT.md, backups prompts/backup_2026-10-14/, prompts/READBACK.md | readback 15/15 sha256 match | APPLIED / verification pending |
+## Live pod (post LEARN-03)
+| Deck | Version | Commander | Ledger / strict | Notes |
+|---|---|---|---|---|
+| A | V1.2 | Adeline, Resplendent Cathar | see PRICE_LEDGER_A_tokens.md (~$106.87 strict) | Over $100 target, under $120; Ghostly Prison + Get Lost |
+| B | V1.4 | Brago, King Eternal | ~$77.13 / $80.80 (LEARN-03) | Worn Powerstone + LEARN-03 ETB swaps |
+| C | V1.4 | Teysa Karlov | ~$86.56 / $93.80 (LEARN-03) | Worn Powerstone + LEARN-03 wipe swap |
+| D | RETIRED | Veyran, Voice of Duality | — | Replaced by E; files kept |
+| E | V1.1 | Winota, Joiner of Forces | $87.01 / $87.50 | AI:RemoveDeck cleanups; Arbiter rules/budget PASS, Forge AI-flag note |
 
-Prices: Scryfall default_cards 2026-10-14T09:05:48Z (17:05 Manila), cheapest non-foil paper USD. All under /workspace/mtg/ (Grok's box).
+## Playtests (Forge 2.0.15, real logs only)
+- Batches 1–5: summaries in forge/PLAYTEST_BATCH{1..5}.md (batch 5 = V1.3 pod, 200/200)
+- Batch 6: A12/B14/C14/E11, 200 games, dice-roll seating; runner still in progress on the box
 
-## Forge smoke tests (engine verification only, not deck strength)
-- forge/sim_test.log — Forge 2.0.15, 4-player Commander, draft lists, A won T32
-- forge/sim_v1_final.log — final V1 lists, D won T39
-No win-rate stats exist.
+## Evidence
+- Public package: https://github.com/Firstep214/mtg-commander-division
+- Re-sync via publish_evidence.sh after this status write
 
 ## Blockers
-1. Prompts APPLIED (readback 15/15 match); independent verification pending.
-2. Forge uses built-in AI; Kael/Nyx/Vex/Thorne cannot pilot games yet.
-3. Official CR / ban-list docs not downloaded yet (Codex).
-4. Deck A only $4.39 under cap; re-price before purchase.
+1. Player agents (Kael/Nyx/Vex/Thorne) cannot pilot Forge yet (built-in AI only).
+2. ChatGPT evidence gate: keep public repo current (decks, audits, sources, batch summaries).

@@ -1,0 +1,130 @@
+{
+"cands": {
+"Coldsteel Heart": [
+[
+1.1,
+"CSP",
+"136"
+],
+[
+1.1,
+"CSP",
+"136"
+]
+],
+"Prismatic Lens": [
+[
+0.27,
+"EMA",
+"230"
+],
+[
+0.27,
+"EMA",
+"230"
+]
+],
+"Star Compass": [
+[
+0.3,
+"PLST",
+"PLS-134"
+],
+[
+0.49,
+"IMA",
+"229"
+]
+],
+"Worn Powerstone": [
+[
+0.26,
+"SCD",
+"288"
+],
+[
+0.26,
+"SCD",
+"288"
+]
+],
+"Everflowing Chalice": [
+[
+0.28,
+"MM2",
+"212"
+],
+[
+0.28,
+"MM2",
+"212"
+]
+]
+},
+"B": {
+"in_deck": {
+"Coldsteel Heart": false,
+"Prismatic Lens": false,
+"Star Compass": false,
+"Worn Powerstone": false,
+"Everflowing Chalice": false
+},
+"v11": [
+80.48,
+84.15
+],
+"v12": [
+84.06,
+87.73
+],
+"v13p": [
+84.06,
+87.73
+],
+"sig": "Azorius Signet"
+},
+"C": {
+"in_deck": {
+"Coldsteel Heart": false,
+"Prismatic Lens": false,
+"Star Compass": false,
+"Worn Powerstone": false,
+"Everflowing Chalice": false
+},
+"v11": [
+87.08,
+94.33
+],
+"v12": [
+90.95,
+98.19
+],
+"v13p": [
+90.91,
+98.15
+],
+"sig": "Orzhov Signet"
+},
+"D": {
+"in_deck": {
+"Coldsteel Heart": false,
+"Prismatic Lens": false,
+"Star Compass": false,
+"Worn Powerstone": false,
+"Everflowing Chalice": false
+},
+"v11": [
+76.76,
+79.69
+],
+"v12": [
+76.21,
+79.14
+],
+"v13p": [
+76.18,
+79.11
+],
+"sig": "Izzet Signet"
+}
+}

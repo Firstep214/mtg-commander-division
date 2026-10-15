@@ -1,0 +1,313 @@
+{
+ "A_tokens": {
+  "sha256": "3c2b0fd8a5d7a0e206afab840ef6fd3cb8c76bcbb7a6bad551b1155d3999a585",
+  "commander": "Adeline, Resplendent Cathar",
+  "res": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Adeline, Resplendent Cathar",
+     "type": "Legendary Creature \u2014 Human Knight",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "W",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     []
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ },
+ "B_control": {
+  "sha256": "b1e0dbe140c23c3a2be29d99bf7ef4533d4860af6f731b25b21de309a108444b",
+  "commander": "Brago, King Eternal",
+  "res": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Brago, King Eternal",
+     "type": "Legendary Creature \u2014 Spirit Noble",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "UW",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     []
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ },
+ "C_aristocrats": {
+  "sha256": "81b4341240a4b5448d0fc7d5b9e6c4c557c1e7ae6085c9c42bfa9f23fa57bb13",
+  "commander": "Teysa Karlov",
+  "res": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Teysa Karlov",
+     "type": "Legendary Creature \u2014 Human Advisor",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "BW",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     [
+      [
+       [
+        1,
+        "1 Teysa Karlov"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Teysa Karlov + Ashnod's Altar"
+      ],
+      [
+       [
+        34,
+        "1 Pitiless Plunderer"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Pitiless Plunderer + Ashnod's Altar"
+      ],
+      [
+       [
+        20,
+        "1 Yahenni, Undying Partisan"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Yahenni, Undying Partisan + Ashnod's Altar"
+      ],
+      [
+       [
+        64,
+        "1 Sifter of Skulls"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Sifter of Skulls + Ashnod's Altar"
+      ],
+      [
+       [
+        39,
+        "1 Kaya's Ghostform"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Kaya's Ghostform + Ashnod's Altar"
+      ]
+     ]
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ },
+ "D_spellslinger": {
+  "sha256": "596826b2be05ca14f380e8c9e2717947f2c9885ffc8a23081bcbe6fd4ce047d6",
+  "commander": "Veyran, Voice of Duality",
+  "res": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Veyran, Voice of Duality",
+     "type": "Legendary Creature \u2014 Efreet Wizard",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "RU",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     [
+      [
+       [
+        53,
+        "1 Mizzix's Mastery"
+       ],
+       [
+        54,
+        "1 Past in Flames"
+       ],
+       "Mizzix's Mastery + Past in Flames"
+      ],
+      [
+       [
+        16,
+        "1 Storm-Kiln Artist"
+       ],
+       [
+        59,
+        "1 Haughty Djinn"
+       ],
+       "Storm-Kiln Artist + Haughty Djinn"
+      ]
+     ]
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ }
+}

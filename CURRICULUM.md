@@ -39,3 +39,14 @@ Every learned rule entry needs: rule number/source, date, one worked example, on
 | 2026-10-14 | Grok Bot (as Forge) | Draft B included Felidar Guardian with Restoration Angel (2-card infinite) | Known combo; Bracket 2 bars 2-card infinites | Removed pre-audit; added pair to audit_fresh.py | Fresh audit PASS |
 | 2026-10-14 | Grok Bot (as Forge) | Drafts included off-colour cards (Lingering Souls B flashback, Moorland Haunt U, Phyrexian Arena, Monastery Mentor, etc.) | Colour identity includes activated/flashback costs (CR 903.4) | check.py caught; swapped | PASS |
 | 2026-10-14 | Grok Bot (as Forge) | Draft B had Archaeomancer + Ghostly Flicker (+ Mystic Sanctuary) repeatable loop | Mana-gated loop; cut for Bracket 2 spirit | Removed | PASS |
+
+## Budget rule (effective 2026-10-15 04:44 PHT, from Voltaire via OSL Manager)
+- Target: $100 per deck, kept as close as possible.
+- Hard cap: $120 at strict retail (cheapest non-foil Scryfall USD for a regular printing).
+- Any deck over $100 must have a ledger line in decks/PRICE_LEDGER_<deck>.md with the amount and a reason.
+- This supersedes the earlier $100 cap and the one-off Deck A approval up to $106.87.
+
+## Swap rule (effective 2026-10-15 05:12 PHT, from Voltaire)
+- Card swaps are allowed with no per-deck limit, as long as the deck stays within the $120 hard cap at strict retail.
+- Bracket 2, no Game Changers and no 2-card infinites still apply, and Arbiter or Nemesis still verifies swaps before they are applied.
+- Log anything over $100 with a reason in the ledger. Save each change as a new deck version and keep the old one.

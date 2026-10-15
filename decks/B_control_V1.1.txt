@@ -1,0 +1,79 @@
+1 Brago, King Eternal
+1 Sol Ring
+1 Arcane Signet
+1 Mind Stone
+1 Talisman of Progress
+1 Azorius Signet
+1 Commander's Sphere
+1 Thought Vessel
+1 Fellwar Stone
+1 Wayfarer's Bauble
+1 Solemn Simulacrum
+1 Burnished Hart
+1 Mulldrifter
+1 Cloudblazer
+1 Reflector Mage
+1 Venser, Shaper Savant
+1 Man-o'-War
+1 Kor Skyfisher
+1 Restoration Angel
+1 Charming Prince
+1 Wall of Omens
+1 Deputy of Detention
+1 Sea Gate Oracle
+1 Teleportation Circle
+1 Fumigate
+1 Soulherder
+1 Ephemerate
+1 Cloudshift
+1 Ghostly Flicker
+1 Eerie Interlude
+1 Flickerwisp
+1 Oblivion Ring
+1 Banishing Light
+1 Detention Sphere
+1 Swords to Plowshares
+1 Path to Exile
+1 Generous Gift
+1 Counterspell
+1 Arcane Denial
+1 Negate
+1 Dovin's Veto
+1 Supreme Verdict
+1 Wrath of God
+1 Austere Command
+1 Hallowed Burial
+1 Fact or Fiction
+1 Brainstorm
+1 Ponder
+1 Preordain
+1 Frantic Search
+1 Thirst for Discovery
+1 Settle the Wreckage
+1 Sun Titan
+1 Frost Titan
+1 Elspeth, Sun's Champion
+1 Teferi, Hero of Dominaria
+1 Agent of Treachery
+1 Spell Queller
+1 Angel of Serenity
+1 Fblthp, the Lost
+1 Glen Elendra Archmage
+1 Dream Trawler
+1 Mirrormade
+1 Command Tower
+1 Azorius Chancery
+1 Prairie Stream
+1 Glacial Fortress
+1 Port Town
+1 Irrigated Farmland
+1 Skycloud Expanse
+1 Meandering River
+1 Tranquil Cove
+1 Sejiri Refuge
+1 Exotic Orchard
+1 Castle Ardenvale
+1 Reliquary Tower
+1 Thriving Isle
+11 Plains
+12 Island

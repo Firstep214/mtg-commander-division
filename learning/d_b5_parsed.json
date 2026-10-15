@@ -1,0 +1,9142 @@
+[
+ {
+  "log": "g001.log",
+  "winner": "B13",
+  "cast": {
+   "Sol Ring": 1,
+   "Arcane Signet": 1,
+   "Veyran, Voice of Duality": 5,
+   "Chaos Warp": 1,
+   "Frantic Search": 1,
+   "Essence Scatter": 1,
+   "Mind Stone": 1,
+   "Negate": 1,
+   "Kessig Flamebreather": 2,
+   "Ral's Outburst": 1,
+   "Pongify": 1,
+   "Lightning Bolt": 1,
+   "Fiery Cannonade": 1,
+   "Unexpected Windfall": 1,
+   "Aetherize": 1,
+   "Galvanic Iteration": 2,
+   "Reality Shift": 2,
+   "Expressive Iteration": 2,
+   "Fellwar Stone": 1,
+   "Mulldrifter": 2,
+   "Murmuring Mystic": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Preordain": 1,
+   "Guttersnipe": 1,
+   "Ral, Storm Conduit": 1,
+   "Worn Powerstone": 1,
+   "Electrostatic Field": 1
+  },
+  "death": {
+   "line": 2574,
+   "turn": 71,
+   "active": "B13",
+   "lastdmg": [
+    2569,
+    "Human Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    2569,
+    "Damage: Human Token (2184) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    12,
+    -3
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Kessig Flamebreather": 18
+  }
+ },
+ {
+  "log": "g002.log",
+  "winner": "D13",
+  "cast": {
+   "Vandalblast": 1,
+   "Talrand, Sky Summoner": 1,
+   "Pongify": 1,
+   "Veyran, Voice of Duality": 3,
+   "Sublime Epiphany": 1,
+   "Ral's Outburst": 1,
+   "Young Pyromancer": 1,
+   "Preordain": 1,
+   "Guttersnipe": 1,
+   "Electrostatic Field": 1,
+   "Big Score": 1,
+   "Rapid Hybridization": 1,
+   "Aetherize": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Talrand, Sky Summoner": 2,
+   "Young Pyromancer": 2,
+   "Electrostatic Field": 14,
+   "Guttersnipe": 28
+  }
+ },
+ {
+  "log": "g003.log",
+  "winner": "A12",
+  "cast": {
+   "Mind Stone": 1,
+   "Mulldrifter": 1,
+   "Guttersnipe": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 2,
+   "Chaos Warp": 1,
+   "Haughty Djinn": 1,
+   "Talrand, Sky Summoner": 1,
+   "Coruscation Mage": 1,
+   "Fellwar Stone": 1,
+   "Arcane Signet": 1,
+   "Arcane Denial": 1,
+   "Fire": 1,
+   "Sublime Epiphany": 1,
+   "Rapid Hybridization": 1,
+   "Anger of the Gods": 1,
+   "Big Score": 1,
+   "Docent of Perfection": 1,
+   "Opt": 1
+  },
+  "death": {
+   "line": 1584,
+   "turn": 46,
+   "active": "A12",
+   "lastdmg": [
+    1575,
+    "Angel Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1575,
+    "Damage: Angel Token (952) deals 4 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    6,
+    -9
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Archmage Emeritus": 2,
+   "Coruscation Mage": 24
+  }
+ },
+ {
+  "log": "g004.log",
+  "winner": "C13",
+  "cast": {
+   "Arcane Denial": 1,
+   "Haughty Djinn": 1,
+   "Fact or Fiction": 1,
+   "Docent of Perfection": 2,
+   "Veyran, Voice of Duality": 2,
+   "Worn Powerstone": 1,
+   "Ral, Storm Conduit": 1,
+   "Aetherize": 1,
+   "Thermo-Alchemist": 1,
+   "Ponder": 1,
+   "Third Path Iconoclast": 1,
+   "Opt": 1,
+   "Vandalblast": 1,
+   "Guttersnipe": 1,
+   "Coruscation Mage": 1
+  },
+  "death": {
+   "line": 1727,
+   "turn": 51,
+   "active": "C13",
+   "lastdmg": [
+    1685,
+    "Teysa Karlov",
+    "C13",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 3,
+   "Veyran, Voice of Duality": 8,
+   "Thermo-Alchemist": 3,
+   "Docent of Perfection": 5
+  }
+ },
+ {
+  "log": "g005.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 1,
+   "Storm-Kiln Artist": 1,
+   "Sol Ring": 1,
+   "Coruscation Mage": 1,
+   "Kessig Flamebreather": 1,
+   "Preordain": 1,
+   "Frantic Search": 1,
+   "Counterspell": 1,
+   "Reverberate": 1,
+   "Inspired Charge": 1,
+   "Galvanic Iteration": 1,
+   "Crackling Drake": 2,
+   "Talisman of Creativity": 1,
+   "Fellwar Stone": 1
+  },
+  "death": {
+   "line": 1505,
+   "turn": 43,
+   "active": "C13",
+   "lastdmg": [
+    941,
+    "Elephant Token",
+    "token/active=A12",
+    7
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Baral, Chief of Compliance": 1,
+   "Kessig Flamebreather": 36,
+   "Coruscation Mage": 48
+  }
+ },
+ {
+  "log": "g006.log",
+  "winner": "C13",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Mulldrifter": 1,
+   "Crackling Drake": 1,
+   "Veyran, Voice of Duality": 1,
+   "Young Pyromancer": 1,
+   "Big Score": 1,
+   "Lightning Bolt": 1,
+   "Thermo-Alchemist": 1,
+   "Fellwar Stone": 1,
+   "Ponder": 1,
+   "Electrostatic Field": 1,
+   "Negate": 2,
+   "Increasing Vengeance": 1
+  },
+  "death": {
+   "line": 1172,
+   "turn": 34,
+   "active": "B13",
+   "lastdmg": null,
+   "ctx": [
+    1171,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(2)-D13]]) [Zone Changer: Thermo-Alchemist (178)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 12,
+   "Thermo-Alchemist": 3
+  }
+ },
+ {
+  "log": "g007.log",
+  "winner": "D13",
+  "cast": {
+   "Ponder": 1,
+   "Firebrand Archer": 1,
+   "Mind Stone": 1,
+   "Fellwar Stone": 1,
+   "Brainstorm": 1,
+   "Big Score": 1,
+   "Baral, Chief of Compliance": 1,
+   "Talrand, Sky Summoner": 1,
+   "Storm of Saruman": 1,
+   "Veyran, Voice of Duality": 2,
+   "Third Path Iconoclast": 2,
+   "Galvanic Iteration": 1,
+   "Preordain": 4,
+   "Chaos Warp": 1,
+   "Expressive Iteration": 1,
+   "Docent of Perfection": 1,
+   "Pieces of the Puzzle": 2,
+   "Vandalblast": 1,
+   "Arcane Signet": 2,
+   "Haughty Djinn": 1,
+   "Reverberate": 1,
+   "Village Rites": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Firebrand Archer": 14,
+   "Third Path Iconoclast": 2,
+   "Baral, Chief of Compliance": 7,
+   "Veyran, Voice of Duality": 12
+  }
+ },
+ {
+  "log": "g008.log",
+  "winner": "A12",
+  "cast": {
+   "Expressive Iteration": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fact or Fiction": 1,
+   "Crackling Drake": 1,
+   "Brainstorm": 1,
+   "Abrade": 1,
+   "Arcane Denial": 1,
+   "Vandalblast": 1,
+   "Ral's Outburst": 1,
+   "Firebrand Archer": 1,
+   "Frantic Search": 1,
+   "Essence Scatter": 1,
+   "Big Score": 1,
+   "Thrill of Possibility": 1,
+   "Chart a Course": 1,
+   "Chaos Warp": 1,
+   "Commander's Sphere": 1,
+   "Arcane Signet": 1,
+   "Opt": 1
+  },
+  "death": {
+   "line": 1609,
+   "turn": 45,
+   "active": "A12",
+   "lastdmg": [
+    1606,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1606,
+    "Damage: Human Token (478) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    33,
+    -27
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Ral's Outburst": 3,
+   "Firebrand Archer": 28
+  }
+ },
+ {
+  "log": "g009.log",
+  "winner": "B13",
+  "cast": {
+   "Storm-Kiln Artist": 1,
+   "Docent of Perfection": 1,
+   "Stormcatch Mentor": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 2,
+   "Ral's Outburst": 1,
+   "Sublime Epiphany": 1,
+   "Haughty Djinn": 1,
+   "Kessig Flamebreather": 1,
+   "Opt": 1,
+   "Worn Powerstone": 1,
+   "Galvanic Iteration": 2,
+   "Consider": 2,
+   "Baral, Chief of Compliance": 1,
+   "Coruscation Mage": 1,
+   "Electrostatic Field": 1,
+   "Mulldrifter": 1
+  },
+  "death": {
+   "line": 1577,
+   "turn": 45,
+   "active": "B13",
+   "lastdmg": [
+    1576,
+    "Coruscation Mage",
+    "D13",
+    1
+   ],
+   "ctx": [
+    1576,
+    "Damage: Coruscation Mage (351) deals 1 non-combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 38,
+   "Kessig Flamebreather": 7,
+   "Electrostatic Field": 1
+  }
+ },
+ {
+  "log": "g010.log",
+  "winner": "C13",
+  "cast": {
+   "Opt": 1,
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fact or Fiction": 1,
+   "Reality Shift": 1,
+   "Expressive Iteration": 1,
+   "Vandalblast": 1,
+   "Brainstorm": 1,
+   "Haughty Djinn": 1,
+   "Thermo-Alchemist": 1,
+   "Storm-Kiln Artist": 1,
+   "Arcane Denial": 1,
+   "Thrill of Possibility": 1,
+   "Ponder": 1,
+   "Mulldrifter": 1,
+   "Ral, Storm Conduit": 1,
+   "Pieces of the Puzzle": 1,
+   "Coruscation Mage": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 1425,
+   "turn": 43,
+   "active": "C13",
+   "lastdmg": [
+    1251,
+    "Angel of Serenity",
+    "B13",
+    5
+   ],
+   "ctx": [
+    1424,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(4)-D13]]) [Zone Changer: Coruscation Mage (732)]"
+   ],
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 30,
+   "Veyran, Voice of Duality": 16,
+   "Haughty Djinn": 17,
+   "Thermo-Alchemist": 9,
+   "Coruscation Mage": 7
+  }
+ },
+ {
+  "log": "g011.log",
+  "winner": "A12",
+  "cast": {
+   "Consider": 1,
+   "Coruscation Mage": 3,
+   "Reality Shift": 1,
+   "Vandalblast": 1,
+   "Arcane Signet": 1,
+   "Fact or Fiction": 1,
+   "Storm of Saruman": 1,
+   "Talrand, Sky Summoner": 1,
+   "Chaos Warp": 1,
+   "Veyran, Voice of Duality": 2
+  },
+  "death": {
+   "line": 912,
+   "turn": 31,
+   "active": "A12",
+   "lastdmg": [
+    883,
+    "Servo Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    911,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(1)-D13]]) [Zone Changer: Bennie Bracks, Zoologist (156)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 6
+  }
+ },
+ {
+  "log": "g012.log",
+  "winner": "A12",
+  "cast": {
+   "Lightning Bolt": 1,
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 2,
+   "Brainstorm": 1,
+   "Rapid Hybridization": 1,
+   "Docent of Perfection": 1,
+   "Thermo-Alchemist": 1,
+   "Counterspell": 1,
+   "Commander's Sphere": 1,
+   "Coruscation Mage": 1,
+   "Big Score": 1,
+   "Ral's Outburst": 1,
+   "Worn Powerstone": 1
+  },
+  "death": {
+   "line": 1357,
+   "turn": 41,
+   "active": "B13",
+   "lastdmg": [
+    1356,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1356,
+    "Damage: Brago, King Eternal (302) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    -6
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Thermo-Alchemist": 12,
+   "Coruscation Mage": 32
+  }
+ },
+ {
+  "log": "g013.log",
+  "winner": "C13",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Ral, Storm Conduit": 1,
+   "Brainstorm": 1,
+   "Stormcatch Mentor": 1,
+   "Mind Stone": 1,
+   "Veyran, Voice of Duality": 2,
+   "Expressive Iteration": 1,
+   "Electrostatic Field": 1,
+   "Opt": 1,
+   "Anger of the Gods": 1,
+   "Talrand, Sky Summoner": 2,
+   "Commander's Sphere": 1,
+   "Negate": 1,
+   "Big Score": 1,
+   "Unexpected Windfall": 1,
+   "Fire": 1,
+   "Aetherize": 1,
+   "Arcane Denial": 1,
+   "Chart a Course": 2,
+   "Crackling Drake": 1
+  },
+  "death": {
+   "line": 1759,
+   "turn": 54,
+   "active": "C13",
+   "lastdmg": [
+    1216,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Stormcatch Mentor": 3,
+   "Electrostatic Field": 36,
+   "Talrand, Sky Summoner": 2
+  }
+ },
+ {
+  "log": "g014.log",
+  "winner": "A12",
+  "cast": {
+   "Sol Ring": 1,
+   "Fellwar Stone": 1,
+   "Fact or Fiction": 1,
+   "Fiery Cannonade": 1,
+   "Abrade": 1,
+   "Talrand, Sky Summoner": 1,
+   "Veyran, Voice of Duality": 3,
+   "Firebrand Archer": 1,
+   "Thrill of Possibility": 1,
+   "Fire": 1,
+   "Worn Powerstone": 1,
+   "Ral's Outburst": 1,
+   "Vandalblast": 1,
+   "Counterspell": 1,
+   "Docent of Perfection": 1
+  },
+  "death": {
+   "line": 1462,
+   "turn": 51,
+   "active": "A12",
+   "lastdmg": [
+    1459,
+    "Servo Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1459,
+    "Damage: Servo Token (811) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    3,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 6,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g015.log",
+  "winner": "C13",
+  "cast": {
+   "Lightning Bolt": 1,
+   "Abrade": 1,
+   "Coruscation Mage": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 2,
+   "Third Path Iconoclast": 1,
+   "Unexpected Windfall": 1,
+   "Storm-Kiln Artist": 1,
+   "Sublime Epiphany": 1,
+   "Sol Ring": 1,
+   "Guttersnipe": 1,
+   "Young Pyromancer": 1
+  },
+  "death": {
+   "line": 1372,
+   "turn": 38,
+   "active": "A12",
+   "lastdmg": [
+    1369,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1369,
+    "Damage: Syr Konrad, the Grim (185) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 17,
+   "Veyran, Voice of Duality": 8,
+   "Storm-Kiln Artist": 4
+  }
+ },
+ {
+  "log": "g016.log",
+  "winner": "B13",
+  "cast": {
+   "Opt": 1,
+   "Sol Ring": 1,
+   "Sublime Epiphany": 1,
+   "Galvanic Iteration": 1,
+   "Rapid Hybridization": 2,
+   "Storm of Saruman": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 6,
+   "Abrade": 1,
+   "Chart a Course": 4,
+   "Kessig Flamebreather": 1,
+   "Ral's Outburst": 1,
+   "Reality Shift": 4,
+   "Third Path Iconoclast": 1,
+   "Fellwar Stone": 1,
+   "Haughty Djinn": 2,
+   "Talrand, Sky Summoner": 1,
+   "Negate": 1,
+   "Consider": 1,
+   "Stormcatch Mentor": 1,
+   "Baral, Chief of Compliance": 1,
+   "Aetherize": 1,
+   "Archmage Emeritus": 1,
+   "Young Pyromancer": 1
+  },
+  "death": {
+   "line": 1874,
+   "turn": 56,
+   "active": "B13",
+   "lastdmg": [
+    1873,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1873,
+    "Damage: Brago, King Eternal (403) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    8,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 72,
+   "Kessig Flamebreather": 26
+  }
+ },
+ {
+  "log": "g017.log",
+  "winner": "A12",
+  "cast": {
+   "Ponder": 1,
+   "Haughty Djinn": 1,
+   "Veyran, Voice of Duality": 2,
+   "Rapid Hybridization": 1,
+   "Chaos Warp": 1,
+   "Anger of the Gods": 1,
+   "Arcane Signet": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Storm of Saruman": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 3,
+   "Baral, Chief of Compliance": 1,
+   "Vandalblast": 1,
+   "Expressive Iteration": 3,
+   "Thrill of Possibility": 1,
+   "Ral's Outburst": 1,
+   "Murmuring Mystic": 2,
+   "Frantic Search": 1
+  },
+  "death": {
+   "line": 1541,
+   "turn": 46,
+   "active": "A12",
+   "lastdmg": [
+    1538,
+    "Human Token",
+    "token/active=A12",
+    6
+   ],
+   "ctx": [
+    1538,
+    "Damage: Human Token (1472) deals 6 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    2,
+    -24
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 8,
+   "Veyran, Voice of Duality": 8,
+   "Niv-Mizzet, Parun": 7,
+   "Kessig Flamebreather": 24
+  }
+ },
+ {
+  "log": "g018.log",
+  "winner": "A12",
+  "cast": {
+   "Opt": 1,
+   "Abrade": 1,
+   "Haughty Djinn": 2,
+   "Veyran, Voice of Duality": 3,
+   "Third Path Iconoclast": 1,
+   "Thermo-Alchemist": 1,
+   "Talisman of Creativity": 1,
+   "Fact or Fiction": 1,
+   "Negate": 1,
+   "Storm of Saruman": 1,
+   "Counterspell": 1,
+   "Worn Powerstone": 2,
+   "Firebrand Archer": 3,
+   "Young Pyromancer": 2,
+   "Ral, Storm Conduit": 1
+  },
+  "death": {
+   "line": 1504,
+   "turn": 50,
+   "active": "B13",
+   "lastdmg": [
+    1500,
+    "Spirit Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    1500,
+    "Damage: Spirit Token (466) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    3,
+    -5
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Thermo-Alchemist": 3
+  }
+ },
+ {
+  "log": "g019.log",
+  "winner": "B13",
+  "cast": {
+   "Sol Ring": 1,
+   "Storm-Kiln Artist": 1,
+   "Frantic Search": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 2,
+   "Negate": 1,
+   "Arcane Denial": 1,
+   "Talrand, Sky Summoner": 1,
+   "Fact or Fiction": 1,
+   "Sublime Epiphany": 1,
+   "Thermo-Alchemist": 1,
+   "Ral's Outburst": 1,
+   "Brainstorm": 1,
+   "Haughty Djinn": 1,
+   "Fellwar Stone": 1,
+   "Coruscation Mage": 1
+  },
+  "death": {
+   "line": 1480,
+   "turn": 41,
+   "active": "A12",
+   "lastdmg": [
+    1451,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1479,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(4)-D13]]) [Zone Changer: Human Token (755)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Storm-Kiln Artist": 11,
+   "Veyran, Voice of Duality": 6,
+   "Archmage Emeritus": 2,
+   "Stormcatch Mentor": 1
+  }
+ },
+ {
+  "log": "g020.log",
+  "winner": "B13",
+  "cast": {
+   "Preordain": 1,
+   "Ponder": 1,
+   "Veyran, Voice of Duality": 1,
+   "Archmage Emeritus": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Storm-Kiln Artist": 1,
+   "Worn Powerstone": 1
+  },
+  "death": {
+   "line": 895,
+   "turn": 30,
+   "active": "B13",
+   "lastdmg": [
+    672,
+    "Welcoming Vampire",
+    "A12",
+    2
+   ],
+   "ctx": [
+    894,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(1)-D13]]) [Zone Changer: Brago, King Eternal (302)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Niv-Mizzet, Parun": 6
+  }
+ },
+ {
+  "log": "g021.log",
+  "winner": "C13",
+  "cast": {
+   "Expressive Iteration": 1,
+   "Mulldrifter": 1,
+   "Veyran, Voice of Duality": 3,
+   "Ral's Outburst": 1,
+   "Sublime Epiphany": 3,
+   "Baral, Chief of Compliance": 1,
+   "Increasing Vengeance": 1,
+   "Vandalblast": 1,
+   "Guttersnipe": 1
+  },
+  "death": {
+   "line": 1394,
+   "turn": 42,
+   "active": "C13",
+   "lastdmg": [
+    1267,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12
+  }
+ },
+ {
+  "log": "g022.log",
+  "winner": "A12",
+  "cast": {
+   "Veyran, Voice of Duality": 3,
+   "Kessig Flamebreather": 1,
+   "Firebrand Archer": 1,
+   "Arcane Signet": 1,
+   "Preordain": 1,
+   "Brainstorm": 1,
+   "Electrostatic Field": 1,
+   "Murmuring Mystic": 1,
+   "Galvanic Iteration": 3,
+   "Pongify": 3,
+   "Rapid Hybridization": 1,
+   "Ral's Outburst": 1,
+   "Fire": 2
+  },
+  "death": {
+   "line": 1736,
+   "turn": 51,
+   "active": "A12",
+   "lastdmg": [
+    1734,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1734,
+    "Damage: Human Token (1349) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    6,
+    -16
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 18,
+   "Firebrand Archer": 41,
+   "Kessig Flamebreather": 44,
+   "Murmuring Mystic": 2,
+   "Ral's Outburst": 3
+  }
+ },
+ {
+  "log": "g023.log",
+  "winner": "B13",
+  "cast": {
+   "Coruscation Mage": 1,
+   "Veyran, Voice of Duality": 2,
+   "Storm-Kiln Artist": 2,
+   "Stormcatch Mentor": 1,
+   "Thermo-Alchemist": 1,
+   "Opt": 1,
+   "Ral, Storm Conduit": 1,
+   "Expressive Iteration": 2,
+   "Fact or Fiction": 1,
+   "Storm of Saruman": 1,
+   "Commander's Sphere": 2,
+   "Young Pyromancer": 1,
+   "Thrill of Possibility": 1,
+   "Reality Shift": 2,
+   "Talisman of Creativity": 1,
+   "Mind Stone": 1,
+   "Arcane Signet": 1,
+   "Sol Ring": 1,
+   "Kessig Flamebreather": 1,
+   "Negate": 1,
+   "Sublime Epiphany": 1,
+   "Brainstorm": 1,
+   "Third Path Iconoclast": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": {
+   "line": 2083,
+   "turn": 56,
+   "active": "B13",
+   "lastdmg": [
+    2080,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2080,
+    "Damage: Pestilence (367) deals 1 non-combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Storm-Kiln Artist": 5,
+   "Young Pyromancer": 2,
+   "Kessig Flamebreather": 18,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g024.log",
+  "winner": "D13",
+  "cast": {
+   "Brainstorm": 1,
+   "Veyran, Voice of Duality": 3,
+   "Vandalblast": 1,
+   "Preordain": 1,
+   "Coruscation Mage": 1,
+   "Reality Shift": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Ponder": 1,
+   "Fellwar Stone": 1,
+   "Electrostatic Field": 1,
+   "Galvanic Iteration": 2,
+   "Big Score": 2,
+   "Unexpected Windfall": 1,
+   "Abrade": 1,
+   "Sol Ring": 1,
+   "Anger of the Gods": 1,
+   "Docent of Perfection": 2,
+   "Crackling Drake": 1,
+   "Murmuring Mystic": 2,
+   "Ral's Outburst": 1,
+   "Haughty Djinn": 2,
+   "Ral, Storm Conduit": 1,
+   "Pongify": 1,
+   "Archmage Emeritus": 1,
+   "Talrand, Sky Summoner": 1,
+   "Young Pyromancer": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Coruscation Mage": 24,
+   "Kessig Flamebreather": 9,
+   "Veyran, Voice of Duality": 8,
+   "Haughty Djinn": 36,
+   "Docent of Perfection": 15,
+   "Archmage Emeritus": 2,
+   "Talrand, Sky Summoner": 2,
+   "Young Pyromancer": 2
+  }
+ },
+ {
+  "log": "g025.log",
+  "winner": "A12",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 3,
+   "Archmage Emeritus": 1,
+   "Frantic Search": 1,
+   "Unexpected Windfall": 1,
+   "Arcane Signet": 1,
+   "Coruscation Mage": 1,
+   "Arcane Denial": 1,
+   "Galvanic Iteration": 1,
+   "Thermo-Alchemist": 1,
+   "Expressive Iteration": 2,
+   "Chart a Course": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Fire": 1,
+   "Storm of Saruman": 1,
+   "Mind Stone": 2,
+   "Rapid Hybridization": 1
+  },
+  "death": {
+   "line": 1370,
+   "turn": 43,
+   "active": "A12",
+   "lastdmg": [
+    1362,
+    "Angel Token",
+    "token/active=A12",
+    6
+   ],
+   "ctx": [
+    1362,
+    "Damage: Angel Token (1471) deals 6 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    15,
+    -34
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 10,
+   "Coruscation Mage": 12,
+   "Niv-Mizzet, Parun": 10,
+   "Thermo-Alchemist": 6
+  }
+ },
+ {
+  "log": "g026.log",
+  "winner": "B13",
+  "cast": {
+   "Counterspell": 1,
+   "Mulldrifter": 1,
+   "Rapid Hybridization": 1,
+   "Arcane Signet": 1,
+   "Coruscation Mage": 1,
+   "Fact or Fiction": 1,
+   "Chart a Course": 1,
+   "Vandalblast": 1,
+   "Negate": 1,
+   "Veyran, Voice of Duality": 3,
+   "Ral's Outburst": 1,
+   "Baral, Chief of Compliance": 1,
+   "Big Score": 1,
+   "Stormcatch Mentor": 1,
+   "Commander's Sphere": 1,
+   "Thrill of Possibility": 1,
+   "Consider": 1,
+   "Storm-Kiln Artist": 1,
+   "Expressive Iteration": 1,
+   "Sol Ring": 1,
+   "Reality Shift": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 1963,
+   "turn": 50,
+   "active": "B13",
+   "lastdmg": [
+    1927,
+    "Agent of Treachery",
+    "B13",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 27
+  }
+ },
+ {
+  "log": "g027.log",
+  "winner": "A12",
+  "cast": {
+   "Preordain": 1,
+   "Young Pyromancer": 1,
+   "Lightning Bolt": 1,
+   "Sol Ring": 1,
+   "Chaos Warp": 1,
+   "Mulldrifter": 2,
+   "Veyran, Voice of Duality": 2,
+   "Worn Powerstone": 1,
+   "Ral's Outburst": 1,
+   "Expressive Iteration": 1,
+   "Mind Stone": 1,
+   "Murmuring Mystic": 1,
+   "Electrostatic Field": 1,
+   "Talisman of Creativity": 1,
+   "Brainstorm": 1,
+   "Unexpected Windfall": 1,
+   "Rapid Hybridization": 2,
+   "Reverberate": 1,
+   "Opt": 1,
+   "Vandalblast": 1,
+   "Docent of Perfection": 1,
+   "Chart a Course": 1,
+   "Kessig Flamebreather": 1
+  },
+  "death": {
+   "line": 1609,
+   "turn": 42,
+   "active": "A12",
+   "lastdmg": [
+    1605,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1605,
+    "Damage: Human Token (534) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    13,
+    -182
+   ]
+  },
+  "dmg_out": {
+   "Young Pyromancer": 2,
+   "Veyran, Voice of Duality": 2,
+   "Electrostatic Field": 34
+  }
+ },
+ {
+  "log": "g028.log",
+  "winner": "C13",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Fire": 1,
+   "Reality Shift": 1,
+   "Mind Stone": 1,
+   "Sublime Epiphany": 1,
+   "Unexpected Windfall": 1,
+   "Ral, Storm Conduit": 1,
+   "Opt": 1,
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 1,
+   "Niv-Mizzet, Parun": 1
+  },
+  "death": {
+   "line": 1033,
+   "turn": 34,
+   "active": "C13",
+   "lastdmg": [
+    1016,
+    "Mirkwood Bats",
+    "C13",
+    2
+   ],
+   "ctx": [
+    1032,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(2)-D13]]) [Zone Changer: Veyran, Voice of Duality (201)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Young Pyromancer": 8
+  }
+ },
+ {
+  "log": "g029.log",
+  "winner": "A12",
+  "cast": {
+   "Veyran, Voice of Duality": 6,
+   "Commander's Sphere": 1,
+   "Essence Scatter": 1,
+   "Frantic Search": 1,
+   "Ral's Outburst": 1,
+   "Fact or Fiction": 1,
+   "Lightning Bolt": 1,
+   "Big Score": 2,
+   "Ponder": 1,
+   "Talrand, Sky Summoner": 1,
+   "Haughty Djinn": 1,
+   "Worn Powerstone": 1,
+   "Pongify": 1,
+   "Docent of Perfection": 2,
+   "Mulldrifter": 1,
+   "Stormcatch Mentor": 1,
+   "Pieces of the Puzzle": 1,
+   "Sublime Epiphany": 1,
+   "Thrill of Possibility": 1,
+   "Fiery Cannonade": 1,
+   "Baral, Chief of Compliance": 1,
+   "Negate": 1,
+   "Third Path Iconoclast": 1,
+   "Reality Shift": 1,
+   "Unexpected Windfall": 1,
+   "Chaos Warp": 1
+  },
+  "death": {
+   "line": 2296,
+   "turn": 70,
+   "active": "A12",
+   "lastdmg": [
+    2294,
+    "Angel Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": [
+    2294,
+    "Damage: Angel Token (1267) deals 5 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    5,
+    -9
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 20,
+   "Docent of Perfection": 10,
+   "Baral, Chief of Compliance": 3,
+   "Third Path Iconoclast": 2
+  }
+ },
+ {
+  "log": "g030.log",
+  "winner": "C13",
+  "cast": {
+   "Mind Stone": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 1,
+   "Storm of Saruman": 1,
+   "Docent of Perfection": 1,
+   "Ral's Outburst": 1,
+   "Fire": 3,
+   "Baral, Chief of Compliance": 1,
+   "Storm-Kiln Artist": 1,
+   "Consider": 1,
+   "Lightning Bolt": 3,
+   "Fact or Fiction": 1,
+   "Frantic Search": 1,
+   "Big Score": 1,
+   "Mulldrifter": 2,
+   "Ral, Storm Conduit": 1,
+   "Chaos Warp": 1
+  },
+  "death": {
+   "line": 1075,
+   "turn": 35,
+   "active": "A12",
+   "lastdmg": [
+    813,
+    "Liesa, Shroud of Dusk",
+    "C13",
+    5
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 10,
+   "Lightning Bolt": 3
+  }
+ },
+ {
+  "log": "g031.log",
+  "winner": "B13",
+  "cast": {
+   "Brainstorm": 1,
+   "Haughty Djinn": 1,
+   "Ponder": 1,
+   "Guttersnipe": 1,
+   "Rapid Hybridization": 1,
+   "Talrand, Sky Summoner": 1,
+   "Archmage Emeritus": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 1,
+   "Coruscation Mage": 1,
+   "Kessig Flamebreather": 1,
+   "Unexpected Windfall": 1,
+   "Fire": 1,
+   "Big Score": 1,
+   "Galvanic Iteration": 1,
+   "Worn Powerstone": 1
+  },
+  "death": {
+   "line": 1376,
+   "turn": 43,
+   "active": "B13",
+   "lastdmg": [
+    1372,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1372,
+    "Damage: Brago, King Eternal (100) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    6,
+    -3
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 5,
+   "Guttersnipe": 8,
+   "Talrand, Sky Summoner": 2,
+   "Kessig Flamebreather": 19,
+   "Coruscation Mage": 17
+  }
+ },
+ {
+  "log": "g032.log",
+  "winner": "A12",
+  "cast": {
+   "Third Path Iconoclast": 1,
+   "Veyran, Voice of Duality": 1,
+   "Storm-Kiln Artist": 1,
+   "Brainstorm": 1,
+   "Expressive Iteration": 1,
+   "Arcane Denial": 1,
+   "Crackling Drake": 1,
+   "Consider": 1,
+   "Archmage Emeritus": 1,
+   "Talrand, Sky Summoner": 1
+  },
+  "death": {
+   "line": 1266,
+   "turn": 36,
+   "active": "D13",
+   "lastdmg": [
+    1264,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1264,
+    "Damage: Syr Konrad, the Grim (286) deals 1 non-combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Third Path Iconoclast": 2,
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g033.log",
+  "winner": "D13",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Preordain": 1,
+   "Arcane Denial": 1,
+   "Frantic Search": 1,
+   "Fact or Fiction": 1,
+   "Veyran, Voice of Duality": 1,
+   "Lightning Bolt": 1,
+   "Vandalblast": 1,
+   "Ral's Outburst": 1,
+   "Sol Ring": 1,
+   "Aetherize": 1,
+   "Mind Stone": 1,
+   "Ponder": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Murmuring Mystic": 1,
+   "Rapid Hybridization": 1,
+   "Sublime Epiphany": 1,
+   "Galvanic Iteration": 2,
+   "Thrill of Possibility": 2,
+   "Pongify": 1,
+   "Chaos Warp": 2,
+   "Stormcatch Mentor": 1,
+   "Ral, Storm Conduit": 1,
+   "Pieces of the Puzzle": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Niv-Mizzet, Parun": 30,
+   "Murmuring Mystic": 2
+  }
+ },
+ {
+  "log": "g034.log",
+  "winner": "A12",
+  "cast": {
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 2,
+   "Reality Shift": 1,
+   "Firebrand Archer": 1,
+   "Haughty Djinn": 1,
+   "Talrand, Sky Summoner": 1,
+   "Storm-Kiln Artist": 1,
+   "Counterspell": 2,
+   "Reverberate": 1,
+   "Preordain": 1,
+   "Murmuring Mystic": 1,
+   "Rapid Hybridization": 1
+  },
+  "death": {
+   "line": 1054,
+   "turn": 38,
+   "active": "A12",
+   "lastdmg": [
+    1048,
+    "Angel Token",
+    "token/active=A12",
+    7
+   ],
+   "ctx": [
+    1048,
+    "Damage: Angel Token (896) deals 7 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    33,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Firebrand Archer": 24,
+   "Haughty Djinn": 5,
+   "Murmuring Mystic": 1
+  }
+ },
+ {
+  "log": "g035.log",
+  "winner": "A12",
+  "cast": {
+   "Sol Ring": 1,
+   "Commander's Sphere": 1,
+   "Lightning Bolt": 1,
+   "Worn Powerstone": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fellwar Stone": 1,
+   "Ral, Storm Conduit": 1,
+   "Counterspell": 1,
+   "Galvanic Iteration": 2,
+   "Expressive Iteration": 2,
+   "Murmuring Mystic": 1,
+   "Abrade": 1
+  },
+  "death": {
+   "line": 1582,
+   "turn": 41,
+   "active": "A12",
+   "lastdmg": [
+    1576,
+    "Bird Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1576,
+    "Damage: Bird Token (557) deals 3 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    37,
+    -131
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g036.log",
+  "winner": "A12",
+  "cast": {
+   "Fire": 1,
+   "Guttersnipe": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 3,
+   "Talisman of Creativity": 1,
+   "Sol Ring": 1,
+   "Pongify": 1,
+   "Stormcatch Mentor": 1,
+   "Ral, Storm Conduit": 1
+  },
+  "death": {
+   "line": 1303,
+   "turn": 41,
+   "active": "A12",
+   "lastdmg": [
+    1298,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1298,
+    "Damage: Human Token (742) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    2,
+    -6
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 12
+  }
+ },
+ {
+  "log": "g037.log",
+  "winner": "C13",
+  "cast": {
+   "Arcane Signet": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 1,
+   "Preordain": 2,
+   "Abrade": 1,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 4,
+   "Ponder": 1,
+   "Vandalblast": 1,
+   "Arcane Denial": 1,
+   "Kessig Flamebreather": 1,
+   "Pieces of the Puzzle": 1,
+   "Consider": 1,
+   "Chaos Warp": 1,
+   "Negate": 1,
+   "Murmuring Mystic": 1,
+   "Rapid Hybridization": 1,
+   "Lightning Bolt": 1
+  },
+  "death": {
+   "line": 1565,
+   "turn": 44,
+   "active": "D13",
+   "lastdmg": [
+    1564,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1564,
+    "Damage: Syr Konrad, the Grim (286) deals 1 non-combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 20
+  }
+ },
+ {
+  "log": "g038.log",
+  "winner": "C13",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Electrostatic Field": 1,
+   "Thrill of Possibility": 1,
+   "Fire": 1,
+   "Commander's Sphere": 1,
+   "Thermo-Alchemist": 1,
+   "Murmuring Mystic": 1,
+   "Galvanic Iteration": 1,
+   "Abrade": 2,
+   "Veyran, Voice of Duality": 3,
+   "Haughty Djinn": 1,
+   "Fact or Fiction": 1,
+   "Chart a Course": 1,
+   "Fellwar Stone": 1,
+   "Reality Shift": 1,
+   "Storm-Kiln Artist": 1,
+   "Counterspell": 1,
+   "Ral, Storm Conduit": 1,
+   "Essence Scatter": 1,
+   "Brainstorm": 1,
+   "Crackling Drake": 1,
+   "Talrand, Sky Summoner": 1,
+   "Lightning Bolt": 1
+  },
+  "death": {
+   "line": 1952,
+   "turn": 58,
+   "active": "C13",
+   "lastdmg": [
+    1947,
+    "Spirit Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    1947,
+    "Damage: Spirit Token (481) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 38,
+   "Electrostatic Field": 6,
+   "Thermo-Alchemist": 12,
+   "Veyran, Voice of Duality": 4
+  }
+ },
+ {
+  "log": "g039.log",
+  "winner": "B13",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Archmage Emeritus": 1,
+   "Reality Shift": 1,
+   "Baral, Chief of Compliance": 1,
+   "Brainstorm": 1,
+   "Crackling Drake": 1,
+   "Mind Stone": 1,
+   "Sol Ring": 1,
+   "Preordain": 1,
+   "Mulldrifter": 1,
+   "Veyran, Voice of Duality": 1,
+   "Ral's Outburst": 1,
+   "Abrade": 1,
+   "Vandalblast": 1,
+   "Third Path Iconoclast": 1,
+   "Unexpected Windfall": 1
+  },
+  "death": {
+   "line": 1009,
+   "turn": 32,
+   "active": "C13",
+   "lastdmg": [
+    933,
+    "Mulldrifter",
+    "B13",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {}
+ },
+ {
+  "log": "g040.log",
+  "winner": "C13",
+  "cast": {
+   "Coruscation Mage": 1,
+   "Veyran, Voice of Duality": 2,
+   "Chart a Course": 1,
+   "Expressive Iteration": 1,
+   "Baral, Chief of Compliance": 1,
+   "Worn Powerstone": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Talisman of Creativity": 1,
+   "Ral, Storm Conduit": 1,
+   "Counterspell": 1,
+   "Young Pyromancer": 1,
+   "Guttersnipe": 1,
+   "Pieces of the Puzzle": 1,
+   "Ponder": 1,
+   "Arcane Signet": 1,
+   "Negate": 1
+  },
+  "death": {
+   "line": 1360,
+   "turn": 40,
+   "active": "D13",
+   "lastdmg": [
+    1318,
+    "Teysa Karlov",
+    "C13",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Niv-Mizzet, Parun": 1,
+   "Guttersnipe": 36,
+   "Young Pyromancer": 2
+  }
+ },
+ {
+  "log": "g041.log",
+  "winner": "B13",
+  "cast": {
+   "Veyran, Voice of Duality": 3,
+   "Stormcatch Mentor": 1,
+   "Essence Scatter": 1,
+   "Fact or Fiction": 1,
+   "Fellwar Stone": 1,
+   "Chart a Course": 1,
+   "Chaos Warp": 1,
+   "Lightning Bolt": 1,
+   "Mind Stone": 1,
+   "Baral, Chief of Compliance": 1,
+   "Haughty Djinn": 1,
+   "Ral, Storm Conduit": 1,
+   "Aetherize": 1,
+   "Frantic Search": 1,
+   "Kessig Flamebreather": 1,
+   "Sol Ring": 1,
+   "Counterspell": 1,
+   "Young Pyromancer": 1,
+   "Negate": 1,
+   "Murmuring Mystic": 1
+  },
+  "death": {
+   "line": 2089,
+   "turn": 66,
+   "active": "B13",
+   "lastdmg": [
+    2088,
+    "Spell Queller",
+    "B13",
+    2
+   ],
+   "ctx": [
+    2088,
+    "Damage: Spell Queller (264) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    3,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Stormcatch Mentor": 12,
+   "Haughty Djinn": 4,
+   "Kessig Flamebreather": 15
+  }
+ },
+ {
+  "log": "g042.log",
+  "winner": "C13",
+  "cast": {
+   "Ponder": 1,
+   "Electrostatic Field": 1,
+   "Fiery Cannonade": 1,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 3,
+   "Chaos Warp": 1,
+   "Negate": 1,
+   "Thermo-Alchemist": 1,
+   "Storm of Saruman": 1,
+   "Galvanic Iteration": 1,
+   "Thrill of Possibility": 2,
+   "Haughty Djinn": 1,
+   "Guttersnipe": 1,
+   "Firebrand Archer": 1,
+   "Worn Powerstone": 1,
+   "Expressive Iteration": 1,
+   "Coruscation Mage": 1
+  },
+  "death": {
+   "line": 1890,
+   "turn": 50,
+   "active": "B13",
+   "lastdmg": [
+    815,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 18,
+   "Veyran, Voice of Duality": 4,
+   "Thermo-Alchemist": 16,
+   "Firebrand Archer": 6,
+   "Haughty Djinn": 5
+  }
+ },
+ {
+  "log": "g043.log",
+  "winner": "C13",
+  "cast": {
+   "Sol Ring": 1,
+   "Talisman of Creativity": 1,
+   "Mulldrifter": 1,
+   "Stormcatch Mentor": 1,
+   "Arcane Signet": 1,
+   "Veyran, Voice of Duality": 1,
+   "Negate": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Sublime Epiphany": 1,
+   "Reverberate": 1,
+   "Docent of Perfection": 1,
+   "Murmuring Mystic": 1,
+   "Aetherize": 1,
+   "Thrill of Possibility": 1,
+   "Unexpected Windfall": 1,
+   "Counterspell": 1
+  },
+  "death": {
+   "line": 1550,
+   "turn": 50,
+   "active": "B13",
+   "lastdmg": [
+    1397,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1549,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(2)-D13]]) [Zone Changer: Spirit Token (863)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Stormcatch Mentor": 4
+  }
+ },
+ {
+  "log": "g044.log",
+  "winner": "C13",
+  "cast": {
+   "Ponder": 1,
+   "Opt": 1,
+   "Veyran, Voice of Duality": 3,
+   "Vandalblast": 1,
+   "Thrill of Possibility": 1,
+   "Chart a Course": 1,
+   "Preordain": 1,
+   "Ral's Outburst": 1,
+   "Firebrand Archer": 3,
+   "Ral, Storm Conduit": 1,
+   "Pieces of the Puzzle": 1,
+   "Fire": 1,
+   "Docent of Perfection": 5,
+   "Archmage Emeritus": 4,
+   "Young Pyromancer": 1,
+   "Electrostatic Field": 1,
+   "Baral, Chief of Compliance": 1
+  },
+  "death": {
+   "line": 1913,
+   "turn": 58,
+   "active": "B13",
+   "lastdmg": [
+    1909,
+    "Carrion Feeder",
+    "C13",
+    3
+   ],
+   "ctx": [
+    1909,
+    "Damage: Carrion Feeder (236) deals 3 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    7,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 10,
+   "Firebrand Archer": 15
+  }
+ },
+ {
+  "log": "g045.log",
+  "winner": "A12",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 1,
+   "Chaos Warp": 1,
+   "Abrade": 1,
+   "Sublime Epiphany": 1,
+   "Ral, Storm Conduit": 1,
+   "Murmuring Mystic": 1,
+   "Guttersnipe": 1,
+   "Sol Ring": 1,
+   "Firebrand Archer": 1,
+   "Baral, Chief of Compliance": 1
+  },
+  "death": {
+   "line": 1434,
+   "turn": 45,
+   "active": "A12",
+   "lastdmg": [
+    1428,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1428,
+    "Damage: Human Token (1369) deals 3 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    41,
+    -71
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Stormcatch Mentor": 5
+  }
+ },
+ {
+  "log": "g046.log",
+  "winner": "B13",
+  "cast": {
+   "Abrade": 1,
+   "Guttersnipe": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 2,
+   "Storm of Saruman": 1,
+   "Preordain": 1,
+   "Mind Stone": 2,
+   "Arcane Signet": 1,
+   "Third Path Iconoclast": 1,
+   "Talrand, Sky Summoner": 1,
+   "Archmage Emeritus": 1,
+   "Rapid Hybridization": 1,
+   "Pieces of the Puzzle": 1,
+   "Arcane Denial": 1,
+   "Fellwar Stone": 2,
+   "Brainstorm": 1,
+   "Essence Scatter": 1
+  },
+  "death": {
+   "line": 1495,
+   "turn": 47,
+   "active": "B13",
+   "lastdmg": [
+    1494,
+    "Glen Elendra Archmage",
+    "B13",
+    1
+   ],
+   "ctx": [
+    1494,
+    "Damage: Glen Elendra Archmage (174) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g047.log",
+  "winner": "C13",
+  "cast": {
+   "Fire": 1,
+   "Veyran, Voice of Duality": 2,
+   "Essence Scatter": 1,
+   "Chart a Course": 1,
+   "Fellwar Stone": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Storm of Saruman": 1,
+   "Galvanic Iteration": 4,
+   "Ponder": 4,
+   "Third Path Iconoclast": 3,
+   "Vandalblast": 1,
+   "Thermo-Alchemist": 2,
+   "Mind Stone": 1,
+   "Negate": 1
+  },
+  "death": {
+   "line": 1231,
+   "turn": 41,
+   "active": "C13",
+   "lastdmg": [
+    1229,
+    "Liesa, Shroud of Dusk",
+    "C13",
+    5
+   ],
+   "ctx": [
+    1229,
+    "Damage: Liesa, Shroud of Dusk (76) deals 5 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    5,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Niv-Mizzet, Parun": 1
+  }
+ },
+ {
+  "log": "g048.log",
+  "winner": "A12",
+  "cast": {
+   "Ponder": 1,
+   "Brainstorm": 1,
+   "Veyran, Voice of Duality": 1,
+   "Fact or Fiction": 1,
+   "Storm-Kiln Artist": 1,
+   "Worn Powerstone": 1,
+   "Mind Stone": 1,
+   "Consider": 1,
+   "Fiery Cannonade": 1,
+   "Crackling Drake": 2,
+   "Docent of Perfection": 1,
+   "Ral, Storm Conduit": 1,
+   "Kessig Flamebreather": 1,
+   "Counterspell": 1,
+   "Pongify": 1,
+   "Sol Ring": 1,
+   "Ice": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Arcane Denial": 1,
+   "Commander's Sphere": 1,
+   "Chart a Course": 2,
+   "Storm of Saruman": 1,
+   "Arcane Signet": 1
+  },
+  "death": {
+   "line": 1703,
+   "turn": 43,
+   "active": "A12",
+   "lastdmg": [
+    1696,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1696,
+    "Damage: Human Token (1199) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    16,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Kessig Flamebreather": 30,
+   "Niv-Mizzet, Parun": 7
+  }
+ },
+ {
+  "log": "g049.log",
+  "winner": "A12",
+  "cast": {
+   "Consider": 1,
+   "Arcane Signet": 1,
+   "Lightning Bolt": 1,
+   "Abrade": 1,
+   "Arcane Denial": 1,
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 1,
+   "Docent of Perfection": 1,
+   "Crackling Drake": 1,
+   "Coruscation Mage": 1,
+   "Aetherize": 1,
+   "Firebrand Archer": 1,
+   "Galvanic Iteration": 1,
+   "Pongify": 1
+  },
+  "death": {
+   "line": 1544,
+   "turn": 44,
+   "active": "C13",
+   "lastdmg": [
+    1542,
+    "Sorin, Vengeful Bloodlord",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1542,
+    "Damage: Sorin, Vengeful Bloodlord (368) deals 1 non-combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Crackling Drake": 9,
+   "Coruscation Mage": 36,
+   "Firebrand Archer": 12
+  }
+ },
+ {
+  "log": "g050.log",
+  "winner": "A12",
+  "cast": {
+   "Abrade": 1,
+   "Lightning Bolt": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 3,
+   "Pongify": 1,
+   "Galvanic Iteration": 2,
+   "Arcane Denial": 1,
+   "Coruscation Mage": 1,
+   "Preordain": 1,
+   "Fire": 1,
+   "Storm of Saruman": 1,
+   "Commander's Sphere": 1,
+   "Thrill of Possibility": 2,
+   "Anger of the Gods": 1,
+   "Fiery Cannonade": 2,
+   "Fellwar Stone": 1,
+   "Reality Shift": 1,
+   "Arcane Signet": 1,
+   "Chaos Warp": 1
+  },
+  "death": {
+   "line": 2146,
+   "turn": 65,
+   "active": "A12",
+   "lastdmg": [
+    2143,
+    "Angel Token",
+    "token/active=A12",
+    10
+   ],
+   "ctx": [
+    2143,
+    "Damage: Angel Token (1935) deals 10 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    9,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 20
+  }
+ },
+ {
+  "log": "g051.log",
+  "winner": "D13",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 2,
+   "Vandalblast": 1,
+   "Talisman of Creativity": 1,
+   "Murmuring Mystic": 1,
+   "Thrill of Possibility": 1,
+   "Worn Powerstone": 1,
+   "Archmage Emeritus": 1,
+   "Sol Ring": 1,
+   "Aetherize": 1,
+   "Chaos Warp": 1,
+   "Big Score": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Commander's Sphere": 1,
+   "Electrostatic Field": 1,
+   "Arcane Signet": 1,
+   "Reality Shift": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 3,
+   "Lightning Bolt": 3,
+   "Sublime Epiphany": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Thermo-Alchemist": 6,
+   "Veyran, Voice of Duality": 10,
+   "Niv-Mizzet, Parun": 46,
+   "Electrostatic Field": 30,
+   "Lightning Bolt": 6,
+   "Archmage Emeritus": 6,
+   "Murmuring Mystic": 5
+  }
+ },
+ {
+  "log": "g052.log",
+  "winner": "A12",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 1,
+   "Unexpected Windfall": 1,
+   "Worn Powerstone": 1,
+   "Docent of Perfection": 1,
+   "Arcane Signet": 1,
+   "Essence Scatter": 1
+  },
+  "death": {
+   "line": 944,
+   "turn": 32,
+   "active": "A12",
+   "lastdmg": [
+    941,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    941,
+    "Damage: Human Token (450) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    30,
+    -67
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 3,
+   "Guttersnipe": 28,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g053.log",
+  "winner": "A12",
+  "cast": {
+   "Arcane Signet": 1,
+   "Lightning Bolt": 1,
+   "Murmuring Mystic": 1,
+   "Mulldrifter": 1,
+   "Talrand, Sky Summoner": 1,
+   "Pongify": 1,
+   "Veyran, Voice of Duality": 4,
+   "Negate": 1,
+   "Arcane Denial": 1,
+   "Storm-Kiln Artist": 1,
+   "Rapid Hybridization": 1,
+   "Vandalblast": 1,
+   "Expressive Iteration": 1,
+   "Archmage Emeritus": 1,
+   "Aetherize": 1,
+   "Stormcatch Mentor": 1,
+   "Young Pyromancer": 1
+  },
+  "death": {
+   "line": 1770,
+   "turn": 60,
+   "active": "A12",
+   "lastdmg": [
+    1765,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1765,
+    "Damage: Human Token (1050) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    5,
+    -24
+   ]
+  },
+  "dmg_out": {
+   "Talrand, Sky Summoner": 2,
+   "Veyran, Voice of Duality": 10,
+   "Stormcatch Mentor": 2,
+   "Young Pyromancer": 2
+  }
+ },
+ {
+  "log": "g054.log",
+  "winner": "A12",
+  "cast": {
+   "Murmuring Mystic": 1,
+   "Fiery Cannonade": 1,
+   "Veyran, Voice of Duality": 1,
+   "Worn Powerstone": 1,
+   "Chaos Warp": 1,
+   "Talrand, Sky Summoner": 1,
+   "Storm-Kiln Artist": 1,
+   "Anger of the Gods": 1,
+   "Big Score": 1,
+   "Unexpected Windfall": 1,
+   "Ponder": 1,
+   "Guttersnipe": 1
+  },
+  "death": {
+   "line": 1338,
+   "turn": 42,
+   "active": "A12",
+   "lastdmg": [
+    1332,
+    "Human Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": [
+    1332,
+    "Damage: Human Token (488) deals 5 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    3,
+    -29
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12
+  }
+ },
+ {
+  "log": "g055.log",
+  "winner": "C13",
+  "cast": {
+   "Archmage Emeritus": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 3,
+   "Reality Shift": 2,
+   "Consider": 1,
+   "Pongify": 1,
+   "Stormcatch Mentor": 1,
+   "Commander's Sphere": 1,
+   "Electrostatic Field": 1,
+   "Murmuring Mystic": 1,
+   "Aetherize": 1,
+   "Fact or Fiction": 1,
+   "Chaos Warp": 1,
+   "Sol Ring": 1,
+   "Coruscation Mage": 1,
+   "Fellwar Stone": 1,
+   "Haughty Djinn": 1,
+   "Talrand, Sky Summoner": 1,
+   "Thrill of Possibility": 1,
+   "Mind Stone": 1,
+   "Ponder": 1,
+   "Niv-Mizzet, Parun": 1
+  },
+  "death": {
+   "line": 1977,
+   "turn": 50,
+   "active": "C13",
+   "lastdmg": [
+    1215,
+    "Shivan Reef",
+    "D13",
+    1
+   ],
+   "ctx": [
+    1976,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(3)-D13]]) [Zone Changer: Spirit Token (1803)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 36,
+   "Veyran, Voice of Duality": 10,
+   "Stormcatch Mentor": 6,
+   "Murmuring Mystic": 1,
+   "Coruscation Mage": 18,
+   "Niv-Mizzet, Parun": 1
+  }
+ },
+ {
+  "log": "g056.log",
+  "winner": "A12",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Veyran, Voice of Duality": 1,
+   "Electrostatic Field": 1,
+   "Commander's Sphere": 1,
+   "Haughty Djinn": 1,
+   "Essence Scatter": 1,
+   "Young Pyromancer": 1,
+   "Counterspell": 1,
+   "Docent of Perfection": 1,
+   "Talisman of Creativity": 1
+  },
+  "death": {
+   "line": 1027,
+   "turn": 35,
+   "active": "A12",
+   "lastdmg": [
+    1024,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1024,
+    "Damage: Human Token (505) deals 3 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    14,
+    -27
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Electrostatic Field": 10,
+   "Haughty Djinn": 4,
+   "Docent of Perfection": 5
+  }
+ },
+ {
+  "log": "g057.log",
+  "winner": "C13",
+  "cast": {
+   "Pieces of the Puzzle": 1,
+   "Reality Shift": 1,
+   "Storm-Kiln Artist": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 4,
+   "Young Pyromancer": 1,
+   "Galvanic Iteration": 2,
+   "Aetherize": 2,
+   "Worn Powerstone": 1,
+   "Ponder": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Opt": 1,
+   "Haughty Djinn": 1,
+   "Commander's Sphere": 1,
+   "Thrill of Possibility": 2,
+   "Increasing Vengeance": 2,
+   "Fire": 1,
+   "Archmage Emeritus": 1,
+   "Third Path Iconoclast": 1,
+   "Thermo-Alchemist": 1,
+   "Anger of the Gods": 3
+  },
+  "death": {
+   "line": 2206,
+   "turn": 69,
+   "active": "C13",
+   "lastdmg": [
+    2204,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2204,
+    "Damage: Pestilence (64) deals 1 non-combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Niv-Mizzet, Parun": 33,
+   "Veyran, Voice of Duality": 10
+  }
+ },
+ {
+  "log": "g058.log",
+  "winner": "A12",
+  "cast": {
+   "Preordain": 1,
+   "Third Path Iconoclast": 1,
+   "Fact or Fiction": 1,
+   "Vandalblast": 1,
+   "Veyran, Voice of Duality": 2,
+   "Firebrand Archer": 1,
+   "Consider": 1,
+   "Young Pyromancer": 1,
+   "Worn Powerstone": 1,
+   "Mind Stone": 1,
+   "Talisman of Creativity": 1,
+   "Haughty Djinn": 1,
+   "Unexpected Windfall": 1,
+   "Chaos Warp": 1,
+   "Fire": 1
+  },
+  "death": {
+   "line": 1137,
+   "turn": 37,
+   "active": "A12",
+   "lastdmg": [
+    1135,
+    "Soldier Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1135,
+    "Damage: Soldier Token (492) deals 3 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    3,
+    -64
+   ]
+  },
+  "dmg_out": {}
+ },
+ {
+  "log": "g059.log",
+  "winner": "C13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Third Path Iconoclast": 1,
+   "Pieces of the Puzzle": 1,
+   "Opt": 1,
+   "Expressive Iteration": 1,
+   "Brainstorm": 1,
+   "Talrand, Sky Summoner": 1,
+   "Mulldrifter": 1,
+   "Sublime Epiphany": 1,
+   "Vandalblast": 1,
+   "Ponder": 1
+  },
+  "death": {
+   "line": 1189,
+   "turn": 41,
+   "active": "A12",
+   "lastdmg": [
+    1183,
+    "Human Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": [
+    1183,
+    "Damage: Human Token (824) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -4
+   ]
+  },
+  "dmg_out": {}
+ },
+ {
+  "log": "g060.log",
+  "winner": "B13",
+  "cast": {
+   "Opt": 1,
+   "Veyran, Voice of Duality": 4,
+   "Fact or Fiction": 1,
+   "Stormcatch Mentor": 1,
+   "Talisman of Creativity": 1,
+   "Third Path Iconoclast": 2,
+   "Pongify": 1,
+   "Rapid Hybridization": 1,
+   "Negate": 1
+  },
+  "death": {
+   "line": 1274,
+   "turn": 44,
+   "active": "C13",
+   "lastdmg": [
+    1271,
+    "Vindictive Vampire",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1271,
+    "Damage: Vindictive Vampire (124) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {}
+ },
+ {
+  "log": "g061.log",
+  "winner": "B13",
+  "cast": {
+   "Talisman of Creativity": 1,
+   "Storm-Kiln Artist": 1,
+   "Reality Shift": 1,
+   "Veyran, Voice of Duality": 2,
+   "Sublime Epiphany": 1,
+   "Anger of the Gods": 1,
+   "Essence Scatter": 1,
+   "Pieces of the Puzzle": 1,
+   "Rapid Hybridization": 1,
+   "Third Path Iconoclast": 1,
+   "Thermo-Alchemist": 1,
+   "Talrand, Sky Summoner": 1,
+   "Expressive Iteration": 1,
+   "Electrostatic Field": 1,
+   "Chaos Warp": 1,
+   "Counterspell": 1,
+   "Murmuring Mystic": 4,
+   "Stormcatch Mentor": 3,
+   "Preordain": 1,
+   "Baral, Chief of Compliance": 3,
+   "Thrill of Possibility": 1,
+   "Abrade": 1,
+   "Haughty Djinn": 1
+  },
+  "death": {
+   "line": 2383,
+   "turn": 63,
+   "active": "B13",
+   "lastdmg": [
+    2380,
+    "Solemn Simulacrum",
+    "B13",
+    2
+   ],
+   "ctx": [
+    2380,
+    "Damage: Solemn Simulacrum (344) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    9,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Storm-Kiln Artist": 4,
+   "Veyran, Voice of Duality": 10,
+   "Thermo-Alchemist": 9,
+   "Electrostatic Field": 12
+  }
+ },
+ {
+  "log": "g062.log",
+  "winner": "A12",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Veyran, Voice of Duality": 4,
+   "Murmuring Mystic": 1,
+   "Electrostatic Field": 1,
+   "Fellwar Stone": 1,
+   "Negate": 1,
+   "Sublime Epiphany": 1,
+   "Pongify": 1,
+   "Sol Ring": 1,
+   "Fiery Cannonade": 1,
+   "Worn Powerstone": 1,
+   "Consider": 1,
+   "Commander's Sphere": 1,
+   "Archmage Emeritus": 1,
+   "Talisman of Creativity": 1,
+   "Essence Scatter": 1
+  },
+  "death": {
+   "line": 1757,
+   "turn": 53,
+   "active": "A12",
+   "lastdmg": [
+    1755,
+    "Servo Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1755,
+    "Damage: Servo Token (602) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    1,
+    -30
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 50
+  }
+ },
+ {
+  "log": "g063.log",
+  "winner": "D13",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Abrade": 1,
+   "Arcane Denial": 1,
+   "Frantic Search": 1,
+   "Haughty Djinn": 1,
+   "Veyran, Voice of Duality": 2,
+   "Expressive Iteration": 1,
+   "Fact or Fiction": 1,
+   "Pieces of the Puzzle": 1,
+   "Crackling Drake": 1,
+   "Thermo-Alchemist": 1,
+   "Pongify": 1,
+   "Thrill of Possibility": 1,
+   "Anger of the Gods": 1,
+   "Negate": 1,
+   "Brainstorm": 1,
+   "Unexpected Windfall": 1,
+   "Murmuring Mystic": 1,
+   "Opt": 1,
+   "Docent of Perfection": 1,
+   "Talrand, Sky Summoner": 1,
+   "Young Pyromancer": 1,
+   "Counterspell": 1,
+   "Archmage Emeritus": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Ral, Storm Conduit": 1,
+   "Reality Shift": 3,
+   "Increasing Vengeance": 1,
+   "Lightning Bolt": 1,
+   "Storm of Saruman": 1,
+   "Stormcatch Mentor": 2,
+   "Mind Stone": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 18,
+   "Docent of Perfection": 5,
+   "Murmuring Mystic": 9,
+   "Kessig Flamebreather": 24,
+   "Talrand, Sky Summoner": 8,
+   "Archmage Emeritus": 8,
+   "Stormcatch Mentor": 8
+  }
+ },
+ {
+  "log": "g064.log",
+  "winner": "C13",
+  "cast": {
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 1,
+   "Pongify": 1,
+   "Lightning Bolt": 1,
+   "Mind Stone": 1,
+   "Docent of Perfection": 1,
+   "Murmuring Mystic": 1,
+   "Firebrand Archer": 1,
+   "Brainstorm": 1,
+   "Preordain": 1,
+   "Sublime Epiphany": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Sol Ring": 1
+  },
+  "death": {
+   "line": 1390,
+   "turn": 39,
+   "active": "C13",
+   "lastdmg": [
+    1389,
+    "Teysa Karlov",
+    "C13",
+    2
+   ],
+   "ctx": [
+    1389,
+    "Damage: Teysa Karlov (302) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Firebrand Archer": 18
+  }
+ },
+ {
+  "log": "g065.log",
+  "winner": "A12",
+  "cast": {
+   "Third Path Iconoclast": 1,
+   "Veyran, Voice of Duality": 1,
+   "Frantic Search": 1,
+   "Pieces of the Puzzle": 1,
+   "Lightning Bolt": 1,
+   "Fact or Fiction": 1,
+   "Reality Shift": 1,
+   "Brainstorm": 1,
+   "Aetherize": 1,
+   "Anger of the Gods": 1,
+   "Essence Scatter": 1,
+   "Storm of Saruman": 1,
+   "Ral, Storm Conduit": 1,
+   "Rapid Hybridization": 1,
+   "Commander's Sphere": 1,
+   "Pongify": 1
+  },
+  "death": {
+   "line": 1519,
+   "turn": 50,
+   "active": "A12",
+   "lastdmg": [
+    1517,
+    "Soldier Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": [
+    1517,
+    "Damage: Soldier Token (1189) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    16,
+    -20
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g066.log",
+  "winner": "A12",
+  "cast": {
+   "Opt": 1,
+   "Fire": 1,
+   "Veyran, Voice of Duality": 1,
+   "Fact or Fiction": 1,
+   "Fiery Cannonade": 1,
+   "Mind Stone": 1,
+   "Galvanic Iteration": 2,
+   "Pieces of the Puzzle": 2,
+   "Lightning Bolt": 1,
+   "Vandalblast": 2,
+   "Brainstorm": 1
+  },
+  "death": {
+   "line": 903,
+   "turn": 29,
+   "active": "A12",
+   "lastdmg": [
+    898,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    898,
+    "Damage: Human Token (633) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    4,
+    -15
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 14
+  }
+ },
+ {
+  "log": "g067.log",
+  "winner": "B13",
+  "cast": {
+   "Veyran, Voice of Duality": 1,
+   "Reality Shift": 1,
+   "Arcane Signet": 1,
+   "Mind Stone": 1,
+   "Pieces of the Puzzle": 1,
+   "Anger of the Gods": 1,
+   "Pongify": 1,
+   "Stormcatch Mentor": 1,
+   "Preordain": 1,
+   "Fellwar Stone": 1,
+   "Murmuring Mystic": 1,
+   "Essence Scatter": 1,
+   "Fact or Fiction": 1
+  },
+  "death": {
+   "line": 1301,
+   "turn": 41,
+   "active": "D13",
+   "lastdmg": [
+    1299,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1299,
+    "Damage: Syr Konrad, the Grim (185) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 18,
+   "Stormcatch Mentor": 3
+  }
+ },
+ {
+  "log": "g068.log",
+  "winner": "C13",
+  "cast": {
+   "Opt": 1,
+   "Stormcatch Mentor": 1,
+   "Fact or Fiction": 1,
+   "Storm-Kiln Artist": 1,
+   "Lightning Bolt": 1,
+   "Commander's Sphere": 1,
+   "Veyran, Voice of Duality": 4,
+   "Pongify": 2,
+   "Reverberate": 1,
+   "Ral, Storm Conduit": 1,
+   "Fellwar Stone": 1,
+   "Rapid Hybridization": 1,
+   "Expressive Iteration": 1,
+   "Frantic Search": 1,
+   "Fire": 1,
+   "Abrade": 1,
+   "Preordain": 1,
+   "Worn Powerstone": 1,
+   "Negate": 3,
+   "Increasing Vengeance": 1,
+   "Crackling Drake": 1,
+   "Anger of the Gods": 1,
+   "Ponder": 1,
+   "Vandalblast": 1,
+   "Fiery Cannonade": 1,
+   "Electrostatic Field": 1,
+   "Murmuring Mystic": 1,
+   "Reality Shift": 1,
+   "Haughty Djinn": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 2700,
+   "turn": 81,
+   "active": "C13",
+   "lastdmg": [
+    1849,
+    "Vindictive Vampire",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2695,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(3)-D13]]) [Zone Changer: Bird Illusion Token (1527)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 2,
+   "Storm-Kiln Artist": 5,
+   "Veyran, Voice of Duality": 36,
+   "Crackling Drake": 15,
+   "Electrostatic Field": 4,
+   "Haughty Djinn": 17
+  }
+ },
+ {
+  "log": "g069.log",
+  "winner": "A12",
+  "cast": {
+   "Preordain": 1,
+   "Vandalblast": 1,
+   "Baral, Chief of Compliance": 1,
+   "Arcane Signet": 1,
+   "Fact or Fiction": 1,
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 2,
+   "Chaos Warp": 1,
+   "Ral, Storm Conduit": 1,
+   "Abrade": 1,
+   "Anger of the Gods": 4,
+   "Increasing Vengeance": 2,
+   "Worn Powerstone": 1,
+   "Opt": 1,
+   "Frantic Search": 1,
+   "Galvanic Iteration": 3,
+   "Brainstorm": 3,
+   "Sol Ring": 1,
+   "Consider": 1,
+   "Mulldrifter": 1,
+   "Commander's Sphere": 1,
+   "Firebrand Archer": 1,
+   "Young Pyromancer": 1
+  },
+  "death": {
+   "line": 1725,
+   "turn": 59,
+   "active": "A12",
+   "lastdmg": [
+    1718,
+    "Human Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": [
+    1718,
+    "Damage: Human Token (2564) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    11,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 32
+  }
+ },
+ {
+  "log": "g070.log",
+  "winner": "C13",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Commander's Sphere": 1,
+   "Veyran, Voice of Duality": 3,
+   "Murmuring Mystic": 1,
+   "Anger of the Gods": 1,
+   "Fellwar Stone": 1,
+   "Storm of Saruman": 1,
+   "Third Path Iconoclast": 2,
+   "Chart a Course": 1,
+   "Vandalblast": 3,
+   "Niv-Mizzet, Parun": 1,
+   "Negate": 1,
+   "Stormcatch Mentor": 1,
+   "Ponder": 2,
+   "Lightning Bolt": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": {
+   "line": 1442,
+   "turn": 46,
+   "active": "A12",
+   "lastdmg": [
+    1433,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1433,
+    "Damage: Human Token (500) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    4,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 4,
+   "Veyran, Voice of Duality": 10,
+   "Niv-Mizzet, Parun": 2
+  }
+ },
+ {
+  "log": "g071.log",
+  "winner": "B13",
+  "cast": {
+   "Mulldrifter": 1,
+   "Murmuring Mystic": 1,
+   "Chaos Warp": 1,
+   "Opt": 1,
+   "Fact or Fiction": 1,
+   "Coruscation Mage": 1,
+   "Haughty Djinn": 2,
+   "Talrand, Sky Summoner": 1,
+   "Anger of the Gods": 1,
+   "Arcane Denial": 1,
+   "Veyran, Voice of Duality": 5,
+   "Docent of Perfection": 1,
+   "Mind Stone": 1,
+   "Brainstorm": 1,
+   "Big Score": 1,
+   "Commander's Sphere": 1,
+   "Thermo-Alchemist": 2,
+   "Counterspell": 1,
+   "Firebrand Archer": 1,
+   "Electrostatic Field": 1,
+   "Fellwar Stone": 1
+  },
+  "death": {
+   "line": 1870,
+   "turn": 51,
+   "active": "B13",
+   "lastdmg": [
+    1868,
+    "Soldier Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    1868,
+    "Damage: Soldier Token (757) deals 1 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    6,
+    -40
+   ]
+  },
+  "dmg_out": {
+   "Murmuring Mystic": 2,
+   "Coruscation Mage": 6,
+   "Haughty Djinn": 12,
+   "Docent of Perfection": 5
+  }
+ },
+ {
+  "log": "g072.log",
+  "winner": "C13",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Fellwar Stone": 1,
+   "Storm-Kiln Artist": 1,
+   "Lightning Bolt": 1,
+   "Worn Powerstone": 1,
+   "Chart a Course": 1,
+   "Abrade": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 1,
+   "Counterspell": 1,
+   "Unexpected Windfall": 1
+  },
+  "death": {
+   "line": 1191,
+   "turn": 40,
+   "active": "A12",
+   "lastdmg": [
+    1184,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1184,
+    "Damage: Human Token (507) deals 3 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    9,
+    -9
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 24,
+   "Veyran, Voice of Duality": 2
+  }
+ },
+ {
+  "log": "g073.log",
+  "winner": "A12",
+  "cast": {
+   "Reverberate": 1,
+   "Path to Exile": 1,
+   "Veyran, Voice of Duality": 3,
+   "Vandalblast": 1,
+   "Talrand, Sky Summoner": 1,
+   "Chart a Course": 1,
+   "Fire": 1,
+   "Frantic Search": 1,
+   "Ral, Storm Conduit": 1,
+   "Essence Scatter": 1,
+   "Thermo-Alchemist": 1,
+   "Anger of the Gods": 1,
+   "Pongify": 1
+  },
+  "death": {
+   "line": 1592,
+   "turn": 51,
+   "active": "C13",
+   "lastdmg": [
+    1588,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1588,
+    "Damage: Pestilence (266) deals 1 non-combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Talrand, Sky Summoner": 2
+  }
+ },
+ {
+  "log": "g074.log",
+  "winner": "A12",
+  "cast": {
+   "Lightning Bolt": 1,
+   "Ponder": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 1,
+   "Preordain": 2,
+   "Storm-Kiln Artist": 1,
+   "Pieces of the Puzzle": 1,
+   "Vandalblast": 1
+  },
+  "death": {
+   "line": 1037,
+   "turn": 33,
+   "active": "A12",
+   "lastdmg": [
+    1035,
+    "Angel Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1035,
+    "Damage: Angel Token (501) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    23,
+    -151
+   ]
+  },
+  "dmg_out": {}
+ },
+ {
+  "log": "g075.log",
+  "winner": "B13",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Fire": 1,
+   "Guttersnipe": 1,
+   "Archmage Emeritus": 1,
+   "Mulldrifter": 1,
+   "Lightning Bolt": 1,
+   "Anger of the Gods": 1,
+   "Coruscation Mage": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Veyran, Voice of Duality": 2,
+   "Pieces of the Puzzle": 1,
+   "Galvanic Iteration": 2,
+   "Fact or Fiction": 2,
+   "Thermo-Alchemist": 2,
+   "Ral's Outburst": 2,
+   "Sol Ring": 1,
+   "Abrade": 1,
+   "Big Score": 1,
+   "Unexpected Windfall": 2,
+   "Increasing Vengeance": 1,
+   "Baral, Chief of Compliance": 1
+  },
+  "death": {
+   "line": 1553,
+   "turn": 43,
+   "active": "B13",
+   "lastdmg": [
+    1552,
+    "Soldier Token",
+    "token/active=B13",
+    3
+   ],
+   "ctx": [
+    1552,
+    "Damage: Soldier Token (494) deals 3 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    19,
+    -24
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 18,
+   "Guttersnipe": 10,
+   "Niv-Mizzet, Parun": 2,
+   "Coruscation Mage": 10,
+   "Ral's Outburst": 6,
+   "Thermo-Alchemist": 1
+  }
+ },
+ {
+  "log": "g076.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Firebrand Archer": 1,
+   "Chaos Warp": 1,
+   "Worn Powerstone": 1,
+   "Mulldrifter": 2,
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 3,
+   "Abrade": 1,
+   "Kessig Flamebreather": 1,
+   "Arcane Denial": 2,
+   "Increasing Vengeance": 2,
+   "Galvanic Iteration": 5,
+   "Lightning Bolt": 1
+  },
+  "death": {
+   "line": 1549,
+   "turn": 47,
+   "active": "C13",
+   "lastdmg": [
+    1545,
+    "Spirit Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    1545,
+    "Damage: Spirit Token (795) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    3,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 6,
+   "Thermo-Alchemist": 17,
+   "Veyran, Voice of Duality": 4,
+   "Kessig Flamebreather": 35
+  }
+ },
+ {
+  "log": "g077.log",
+  "winner": "A12",
+  "cast": {
+   "Fire": 1,
+   "Coruscation Mage": 1,
+   "Veyran, Voice of Duality": 2,
+   "Thermo-Alchemist": 1,
+   "Electrostatic Field": 1,
+   "Pongify": 1,
+   "Fact or Fiction": 1,
+   "Fellwar Stone": 1,
+   "Preordain": 1,
+   "Storm of Saruman": 1
+  },
+  "death": {
+   "line": 1118,
+   "turn": 38,
+   "active": "A12",
+   "lastdmg": [
+    1117,
+    "Loran of the Third Path",
+    "A12",
+    4
+   ],
+   "ctx": [
+    1117,
+    "Damage: Loran of the Third Path (144) deals 4 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    35,
+    -35
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 3
+  }
+ },
+ {
+  "log": "g078.log",
+  "winner": "D13",
+  "cast": {
+   "Brainstorm": 1,
+   "Arcane Signet": 1,
+   "Anger of the Gods": 1,
+   "Mulldrifter": 1,
+   "Docent of Perfection": 1,
+   "Storm-Kiln Artist": 1,
+   "Fire": 1,
+   "Commander's Sphere": 1,
+   "Chart a Course": 1,
+   "Sublime Epiphany": 1,
+   "Guttersnipe": 3,
+   "Storm of Saruman": 1,
+   "Crackling Drake": 1,
+   "Veyran, Voice of Duality": 2,
+   "Expressive Iteration": 1,
+   "Thrill of Possibility": 1,
+   "Talisman of Creativity": 1,
+   "Coruscation Mage": 1,
+   "Negate": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Guttersnipe": 30,
+   "Coruscation Mage": 12
+  }
+ },
+ {
+  "log": "g079.log",
+  "winner": "C13",
+  "cast": {
+   "Preordain": 1,
+   "Veyran, Voice of Duality": 2,
+   "Pieces of the Puzzle": 1,
+   "Reality Shift": 1,
+   "Coruscation Mage": 1,
+   "Unexpected Windfall": 1,
+   "Ral's Outburst": 1,
+   "Worn Powerstone": 1,
+   "Murmuring Mystic": 1,
+   "Essence Scatter": 1
+  },
+  "death": {
+   "line": 1242,
+   "turn": 41,
+   "active": "C13",
+   "lastdmg": [
+    1239,
+    "Human Soldier Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    1239,
+    "Damage: Human Soldier Token (722) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    3,
+    -7
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 10,
+   "Coruscation Mage": 21
+  }
+ },
+ {
+  "log": "g080.log",
+  "winner": "C13",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Worn Powerstone": 1,
+   "Unexpected Windfall": 1,
+   "Pieces of the Puzzle": 1,
+   "Pongify": 1,
+   "Anger of the Gods": 1,
+   "Sol Ring": 1,
+   "Talisman of Creativity": 1,
+   "Brainstorm": 1,
+   "Veyran, Voice of Duality": 3,
+   "Third Path Iconoclast": 1,
+   "Arcane Denial": 1,
+   "Reality Shift": 1,
+   "Coruscation Mage": 1,
+   "Counterspell": 1,
+   "Reverberate": 1,
+   "Cloudshift": 1
+  },
+  "death": {
+   "line": 1198,
+   "turn": 39,
+   "active": "C13",
+   "lastdmg": [
+    1042,
+    "Talisman of Creativity",
+    "D13",
+    1
+   ],
+   "ctx": null,
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 15,
+   "Coruscation Mage": 24
+  }
+ },
+ {
+  "log": "g081.log",
+  "winner": "D13",
+  "cast": {
+   "Mulldrifter": 2,
+   "Storm-Kiln Artist": 1,
+   "Reality Shift": 1,
+   "Haughty Djinn": 2,
+   "Sublime Epiphany": 1,
+   "Big Score": 1,
+   "Guttersnipe": 1,
+   "Docent of Perfection": 1,
+   "Veyran, Voice of Duality": 2,
+   "Lightning Bolt": 1,
+   "Ral's Outburst": 1,
+   "Ponder": 1,
+   "Pieces of the Puzzle": 1,
+   "Chart a Course": 1,
+   "Archmage Emeritus": 1,
+   "Baral, Chief of Compliance": 1,
+   "Kessig Flamebreather": 1,
+   "Crackling Drake": 1,
+   "Electrostatic Field": 1,
+   "Fellwar Stone": 1,
+   "Arcane Denial": 1,
+   "Fiery Cannonade": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Haughty Djinn": 3,
+   "Guttersnipe": 62,
+   "Veyran, Voice of Duality": 6,
+   "Kessig Flamebreather": 6,
+   "Electrostatic Field": 4
+  }
+ },
+ {
+  "log": "g082.log",
+  "winner": "C13",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Arcane Denial": 1,
+   "Talrand, Sky Summoner": 1,
+   "Sublime Epiphany": 1,
+   "Vandalblast": 1,
+   "Guttersnipe": 1,
+   "Commander's Sphere": 1,
+   "Galvanic Iteration": 1,
+   "Big Score": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Mulldrifter": 1,
+   "Veyran, Voice of Duality": 2,
+   "Pieces of the Puzzle": 1,
+   "Fellwar Stone": 1,
+   "Sol Ring": 1,
+   "Counterspell": 1,
+   "Essence Scatter": 1,
+   "Negate": 1,
+   "Lightning Bolt": 1
+  },
+  "death": {
+   "line": 1690,
+   "turn": 44,
+   "active": "C13",
+   "lastdmg": [
+    1682,
+    "Nadier's Nightblade",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1682,
+    "Damage: Nadier's Nightblade (210) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Baral, Chief of Compliance": 3,
+   "Guttersnipe": 14,
+   "Lightning Bolt": 3
+  }
+ },
+ {
+  "log": "g083.log",
+  "winner": "A12",
+  "cast": {
+   "Veyran, Voice of Duality": 6,
+   "Reality Shift": 1,
+   "Pongify": 1,
+   "Firebrand Archer": 1,
+   "Third Path Iconoclast": 1,
+   "Negate": 1,
+   "Sol Ring": 1,
+   "Baral, Chief of Compliance": 1,
+   "Chaos Warp": 1,
+   "Mind Stone": 1,
+   "Unexpected Windfall": 1,
+   "Thrill of Possibility": 1,
+   "Lightning Bolt": 1,
+   "Electrostatic Field": 1,
+   "Arcane Signet": 1,
+   "Counterspell": 1,
+   "Frantic Search": 1
+  },
+  "death": {
+   "line": 2162,
+   "turn": 72,
+   "active": "A12",
+   "lastdmg": [
+    2161,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    2161,
+    "Damage: Human Token (1114) deals 3 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    26,
+    -82
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 6,
+   "Veyran, Voice of Duality": 4
+  }
+ },
+ {
+  "log": "g084.log",
+  "winner": "B13",
+  "cast": {
+   "Talisman of Creativity": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 1,
+   "Thrill of Possibility": 1,
+   "Essence Scatter": 1,
+   "Fact or Fiction": 1,
+   "Chaos Warp": 1,
+   "Reality Shift": 1,
+   "Mulldrifter": 1,
+   "Guttersnipe": 1,
+   "Baral, Chief of Compliance": 1,
+   "Arcane Denial": 1,
+   "Expressive Iteration": 1,
+   "Unexpected Windfall": 1,
+   "Preordain": 1,
+   "Negate": 1,
+   "Third Path Iconoclast": 1,
+   "Counterspell": 1,
+   "Big Score": 1,
+   "Frantic Search": 1,
+   "Lightning Bolt": 1
+  },
+  "death": {
+   "line": 1511,
+   "turn": 49,
+   "active": "B13",
+   "lastdmg": [
+    1510,
+    "Soldier Token",
+    "token/active=B13",
+    3
+   ],
+   "ctx": [
+    1510,
+    "Damage: Soldier Token (1489) deals 3 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    21,
+    -22
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 20,
+   "Guttersnipe": 94
+  }
+ },
+ {
+  "log": "g085.log",
+  "winner": "C13",
+  "cast": {
+   "Veyran, Voice of Duality": 2,
+   "Chaos Warp": 1,
+   "Galvanic Iteration": 2,
+   "Lightning Bolt": 2,
+   "Kessig Flamebreather": 1,
+   "Pieces of the Puzzle": 2,
+   "Fire": 1,
+   "Crackling Drake": 1,
+   "Preordain": 1,
+   "Ponder": 1,
+   "Abrade": 1,
+   "Big Score": 1,
+   "Murmuring Mystic": 1,
+   "Unexpected Windfall": 1,
+   "Mulldrifter": 1
+  },
+  "death": {
+   "line": 1652,
+   "turn": 41,
+   "active": "C13",
+   "lastdmg": [
+    1649,
+    "Vampire Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    1649,
+    "Damage: Vampire Token (633) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    2,
+    -39
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4
+  }
+ },
+ {
+  "log": "g086.log",
+  "winner": "B13",
+  "cast": {
+   "Veyran, Voice of Duality": 3,
+   "Fact or Fiction": 1,
+   "Murmuring Mystic": 1,
+   "Fiery Cannonade": 1,
+   "Baral, Chief of Compliance": 1,
+   "Archmage Emeritus": 1,
+   "Talisman of Creativity": 1,
+   "Commander's Sphere": 1,
+   "Essence Scatter": 1,
+   "Galvanic Iteration": 1,
+   "Ponder": 1,
+   "Ral, Storm Conduit": 1,
+   "Young Pyromancer": 1,
+   "Thermo-Alchemist": 1,
+   "Rapid Hybridization": 1
+  },
+  "death": {
+   "line": 1599,
+   "turn": 43,
+   "active": "B13",
+   "lastdmg": [
+    1597,
+    "Bird Illusion Token",
+    "token/active=B13",
+    3
+   ],
+   "ctx": [
+    1597,
+    "Damage: Bird Illusion Token (1706) deals 3 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    30,
+    -96
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Murmuring Mystic": 1
+  }
+ },
+ {
+  "log": "g087.log",
+  "winner": "B13",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Veyran, Voice of Duality": 2,
+   "Murmuring Mystic": 1,
+   "Ral's Outburst": 2,
+   "Preordain": 1,
+   "Frantic Search": 1,
+   "Galvanic Iteration": 1,
+   "Fire": 1,
+   "Expressive Iteration": 1,
+   "Stormcatch Mentor": 1,
+   "Haughty Djinn": 2,
+   "Storm-Kiln Artist": 1,
+   "Fiery Cannonade": 1,
+   "Abrade": 1,
+   "Brainstorm": 1,
+   "Coruscation Mage": 1,
+   "Mulldrifter": 1,
+   "Thermo-Alchemist": 1,
+   "Docent of Perfection": 1
+  },
+  "death": {
+   "line": 1848,
+   "turn": 56,
+   "active": "B13",
+   "lastdmg": [
+    1846,
+    "Spell Queller",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1846,
+    "Damage: Spell Queller (163) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 46,
+   "Veyran, Voice of Duality": 14,
+   "Murmuring Mystic": 1,
+   "Stormcatch Mentor": 1,
+   "Thermo-Alchemist": 4
+  }
+ },
+ {
+  "log": "g088.log",
+  "winner": "C13",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Mulldrifter": 1,
+   "Arcane Denial": 1,
+   "Haughty Djinn": 2,
+   "Talrand, Sky Summoner": 1,
+   "Electrostatic Field": 1,
+   "Pongify": 1,
+   "Veyran, Voice of Duality": 2,
+   "Reverberate": 1,
+   "Spectral Procession": 1,
+   "Fact or Fiction": 1,
+   "Unexpected Windfall": 1,
+   "Sublime Epiphany": 1,
+   "Counterspell": 1,
+   "Archmage Emeritus": 1,
+   "Ral, Storm Conduit": 1,
+   "Ponder": 2,
+   "Fire": 1,
+   "Abrade": 1,
+   "Worn Powerstone": 1,
+   "Rapid Hybridization": 1,
+   "Murmuring Mystic": 1,
+   "Firebrand Archer": 1,
+   "Galvanic Iteration": 3,
+   "Fellwar Stone": 1
+  },
+  "death": {
+   "line": 2059,
+   "turn": 63,
+   "active": "C13",
+   "lastdmg": [
+    2057,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2057,
+    "Damage: Pestilence (266) deals 1 non-combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 3,
+   "Haughty Djinn": 10,
+   "Electrostatic Field": 18
+  }
+ },
+ {
+  "log": "g089.log",
+  "winner": "B13",
+  "cast": {
+   "Ponder": 1,
+   "Veyran, Voice of Duality": 2,
+   "Archmage Emeritus": 1,
+   "Young Pyromancer": 1,
+   "Galvanic Iteration": 2,
+   "Opt": 2,
+   "Reverberate": 1,
+   "Utter End": 1,
+   "Fact or Fiction": 2,
+   "Chaos Warp": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Ral's Outburst": 1,
+   "Sublime Epiphany": 1,
+   "Haughty Djinn": 1,
+   "Ral, Storm Conduit": 1,
+   "Frantic Search": 2,
+   "Docent of Perfection": 1,
+   "Baral, Chief of Compliance": 1,
+   "Reality Shift": 1,
+   "Pieces of the Puzzle": 1,
+   "Abrade": 1,
+   "Fire": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 20,
+   "Archmage Emeritus": 6,
+   "Niv-Mizzet, Parun": 54
+  }
+ },
+ {
+  "log": "g090.log",
+  "winner": "A12",
+  "cast": {
+   "Sol Ring": 1,
+   "Veyran, Voice of Duality": 5,
+   "Thermo-Alchemist": 1,
+   "Opt": 1,
+   "Big Score": 1,
+   "Essence Scatter": 1,
+   "Brainstorm": 1,
+   "Abrade": 1,
+   "Unexpected Windfall": 1,
+   "Thrill of Possibility": 1,
+   "Mulldrifter": 1,
+   "Reality Shift": 1,
+   "Lightning Bolt": 1,
+   "Negate": 1,
+   "Chart a Course": 1,
+   "Baral, Chief of Compliance": 1,
+   "Electrostatic Field": 1,
+   "Arcane Signet": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 2002,
+   "turn": 62,
+   "active": "A12",
+   "lastdmg": [
+    1999,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1999,
+    "Damage: Human Token (594) deals 4 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    14,
+    -67
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Thermo-Alchemist": 3,
+   "Electrostatic Field": 2
+  }
+ },
+ {
+  "log": "g091.log",
+  "winner": "D13",
+  "cast": {
+   "Preordain": 1,
+   "Arcane Denial": 1,
+   "Veyran, Voice of Duality": 2,
+   "Reality Shift": 1,
+   "Pieces of the Puzzle": 1,
+   "Brainstorm": 1,
+   "Thrill of Possibility": 1,
+   "Archmage Emeritus": 1,
+   "Aetherize": 1,
+   "Pongify": 1,
+   "Lightning Bolt": 1,
+   "Expressive Iteration": 1,
+   "Chaos Warp": 1,
+   "Stormcatch Mentor": 1,
+   "Talrand, Sky Summoner": 1,
+   "Unexpected Windfall": 2,
+   "Chart a Course": 1,
+   "Haughty Djinn": 1,
+   "Young Pyromancer": 1,
+   "Baral, Chief of Compliance": 1,
+   "Talisman of Creativity": 1,
+   "Counterspell": 1,
+   "Fact or Fiction": 1,
+   "Ral, Storm Conduit": 1,
+   "Negate": 1,
+   "Arcane Signet": 1,
+   "Essence Scatter": 1,
+   "Mulldrifter": 1,
+   "Electrostatic Field": 1,
+   "Sol Ring": 1,
+   "Kessig Flamebreather": 1,
+   "Ponder": 1,
+   "Sublime Epiphany": 1,
+   "Commander's Sphere": 1,
+   "Murmuring Mystic": 1,
+   "Thermo-Alchemist": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Galvanic Iteration": 1,
+   "Ral's Outburst": 2,
+   "Frantic Search": 1,
+   "Big Score": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 18,
+   "Archmage Emeritus": 2,
+   "Haughty Djinn": 28,
+   "Baral, Chief of Compliance": 3,
+   "Kessig Flamebreather": 14,
+   "Electrostatic Field": 4,
+   "Niv-Mizzet, Parun": 10,
+   "Ral's Outburst": 3,
+   "Thermo-Alchemist": 1
+  }
+ },
+ {
+  "log": "g092.log",
+  "winner": "A12",
+  "cast": {
+   "Expressive Iteration": 1,
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 5,
+   "Chaos Warp": 1,
+   "Lightning Bolt": 1,
+   "Counterspell": 1,
+   "Essence Scatter": 1,
+   "Archmage Emeritus": 1,
+   "Unexpected Windfall": 1,
+   "Brainstorm": 1,
+   "Haughty Djinn": 1,
+   "Opt": 1,
+   "Rapid Hybridization": 1,
+   "Baral, Chief of Compliance": 1,
+   "Anger of the Gods": 1,
+   "Preordain": 1,
+   "Murmuring Mystic": 1,
+   "Firebrand Archer": 1,
+   "Worn Powerstone": 1,
+   "Fellwar Stone": 1,
+   "Arcane Denial": 1,
+   "Ral, Storm Conduit": 1,
+   "Electrostatic Field": 1,
+   "Chart a Course": 1,
+   "Coruscation Mage": 1,
+   "Sublime Epiphany": 1
+  },
+  "death": {
+   "line": 2379,
+   "turn": 68,
+   "active": "A12",
+   "lastdmg": [
+    2375,
+    "Human Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": [
+    2375,
+    "Damage: Human Token (806) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    25,
+    -22
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Archmage Emeritus": 2,
+   "Haughty Djinn": 22,
+   "Electrostatic Field": 10,
+   "Coruscation Mage": 4
+  }
+ },
+ {
+  "log": "g093.log",
+  "winner": "C13",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Veyran, Voice of Duality": 3,
+   "Firebrand Archer": 1,
+   "Mind Stone": 1,
+   "Reality Shift": 1,
+   "Archmage Emeritus": 1,
+   "Galvanic Iteration": 3,
+   "Sublime Epiphany": 1,
+   "Pongify": 3,
+   "Increasing Vengeance": 1,
+   "Stormcatch Mentor": 1,
+   "Ponder": 2,
+   "Frantic Search": 1,
+   "Ral's Outburst": 1,
+   "Pieces of the Puzzle": 1,
+   "Expressive Iteration": 1,
+   "Rapid Hybridization": 1,
+   "Storm-Kiln Artist": 1,
+   "Thrill of Possibility": 1,
+   "Arcane Denial": 1,
+   "Worn Powerstone": 1,
+   "Negate": 1,
+   "Big Score": 1
+  },
+  "death": {
+   "line": 2034,
+   "turn": 55,
+   "active": "C13",
+   "lastdmg": [
+    2032,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2032,
+    "Damage: Pestilence (165) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 27,
+   "Veyran, Voice of Duality": 18,
+   "Ral's Outburst": 3
+  }
+ },
+ {
+  "log": "g094.log",
+  "winner": "C13",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 1,
+   "Reality Shift": 1,
+   "Fact or Fiction": 1,
+   "Docent of Perfection": 1,
+   "Mulldrifter": 1,
+   "Pieces of the Puzzle": 1,
+   "Coruscation Mage": 1,
+   "Fiery Cannonade": 1,
+   "Kessig Flamebreather": 1
+  },
+  "death": {
+   "line": 1080,
+   "turn": 35,
+   "active": "C13",
+   "lastdmg": [
+    1075,
+    "Liesa, Shroud of Dusk",
+    "C13",
+    5
+   ],
+   "ctx": [
+    1075,
+    "Damage: Liesa, Shroud of Dusk (76) deals 5 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -3
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 21,
+   "Veyran, Voice of Duality": 8,
+   "Docent of Perfection": 10
+  }
+ },
+ {
+  "log": "g095.log",
+  "winner": "B13",
+  "cast": {
+   "Fire": 1,
+   "Guttersnipe": 1,
+   "Preordain": 1,
+   "Electrostatic Field": 3,
+   "Fact or Fiction": 1,
+   "Reality Shift": 1,
+   "Veyran, Voice of Duality": 1,
+   "Sol Ring": 2,
+   "Archmage Emeritus": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Fiery Cannonade": 1,
+   "Expressive Iteration": 1
+  },
+  "death": {
+   "line": 1445,
+   "turn": 43,
+   "active": "B13",
+   "lastdmg": [
+    1444,
+    "Sea Gate Oracle",
+    "B13",
+    1
+   ],
+   "ctx": [
+    1444,
+    "Damage: Sea Gate Oracle (362) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    4,
+    -19
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 12,
+   "Electrostatic Field": 6
+  }
+ },
+ {
+  "log": "g096.log",
+  "winner": "C13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Worn Powerstone": 1,
+   "Storm-Kiln Artist": 1,
+   "Pieces of the Puzzle": 1,
+   "Galvanic Iteration": 2,
+   "Sublime Epiphany": 2,
+   "Preordain": 1,
+   "Veyran, Voice of Duality": 3,
+   "Rapid Hybridization": 1,
+   "Unexpected Windfall": 2,
+   "Fire": 1,
+   "Docent of Perfection": 1,
+   "Thermo-Alchemist": 1,
+   "Fiery Cannonade": 1
+  },
+  "death": {
+   "line": 1417,
+   "turn": 40,
+   "active": "A12",
+   "lastdmg": [
+    1410,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1410,
+    "Damage: Human Token (691) deals 3 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    5,
+    -7
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 14,
+   "Storm-Kiln Artist": 6,
+   "Veyran, Voice of Duality": 10
+  }
+ },
+ {
+  "log": "g097.log",
+  "winner": "B13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 2,
+   "Pieces of the Puzzle": 1,
+   "Essence Scatter": 1,
+   "Young Pyromancer": 1,
+   "Guttersnipe": 1,
+   "Thermo-Alchemist": 1,
+   "Vandalblast": 1,
+   "Expressive Iteration": 1,
+   "Brainstorm": 1,
+   "Fiery Cannonade": 1,
+   "Arcane Denial": 1,
+   "Fact or Fiction": 1,
+   "Crackling Drake": 1,
+   "Murmuring Mystic": 1,
+   "Galvanic Iteration": 1,
+   "Ral's Outburst": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Talrand, Sky Summoner": 1,
+   "Counterspell": 1,
+   "Ral, Storm Conduit": 1,
+   "Commander's Sphere": 1,
+   "Mulldrifter": 1,
+   "Worn Powerstone": 1
+  },
+  "death": {
+   "line": 1965,
+   "turn": 61,
+   "active": "B13",
+   "lastdmg": [
+    1964,
+    "Kor Skyfisher",
+    "B13",
+    4
+   ],
+   "ctx": [
+    1964,
+    "Damage: Kor Skyfisher (154) deals 4 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    8,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 6,
+   "Guttersnipe": 6,
+   "Ral's Outburst": 3,
+   "Niv-Mizzet, Parun": 14,
+   "Talrand, Sky Summoner": 2,
+   "Murmuring Mystic": 1
+  }
+ },
+ {
+  "log": "g098.log",
+  "winner": "A12",
+  "cast": {
+   "Opt": 1,
+   "Expressive Iteration": 1,
+   "Veyran, Voice of Duality": 3,
+   "Storm-Kiln Artist": 1,
+   "Chaos Warp": 1,
+   "Worn Powerstone": 1,
+   "Sublime Epiphany": 2,
+   "Increasing Vengeance": 1,
+   "Commander's Sphere": 1,
+   "Sol Ring": 1,
+   "Lightning Bolt": 1,
+   "Guttersnipe": 1,
+   "Consider": 1,
+   "Unexpected Windfall": 1,
+   "Preordain": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Kessig Flamebreather": 1,
+   "Mulldrifter": 1,
+   "Fire": 1
+  },
+  "death": {
+   "line": 1262,
+   "turn": 43,
+   "active": "A12",
+   "lastdmg": [
+    1257,
+    "Human Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": [
+    1257,
+    "Damage: Human Token (471) deals 5 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -37
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 36,
+   "Veyran, Voice of Duality": 8,
+   "Niv-Mizzet, Parun": 1
+  }
+ },
+ {
+  "log": "g099.log",
+  "winner": "A12",
+  "cast": {
+   "Mulldrifter": 1,
+   "Crackling Drake": 1,
+   "Baral, Chief of Compliance": 1,
+   "Big Score": 1,
+   "Fire": 1,
+   "Consider": 1,
+   "Veyran, Voice of Duality": 3,
+   "Commander's Sphere": 1,
+   "Galvanic Iteration": 1,
+   "Unexpected Windfall": 2,
+   "Chaos Warp": 1,
+   "Ral, Storm Conduit": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Young Pyromancer": 1,
+   "Counterspell": 1,
+   "Talisman of Creativity": 1,
+   "Vandalblast": 1,
+   "Rapid Hybridization": 1,
+   "Fiery Cannonade": 1,
+   "Anger of the Gods": 1,
+   "Frantic Search": 1,
+   "Mind Stone": 1
+  },
+  "death": {
+   "line": 1603,
+   "turn": 47,
+   "active": "A12",
+   "lastdmg": [
+    1601,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1601,
+    "Damage: Human Token (872) deals 3 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    25,
+    -31
+   ]
+  },
+  "dmg_out": {
+   "Crackling Drake": 5,
+   "Veyran, Voice of Duality": 10,
+   "Baral, Chief of Compliance": 1,
+   "Niv-Mizzet, Parun": 8
+  }
+ },
+ {
+  "log": "g100.log",
+  "winner": "A12",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Electrostatic Field": 1,
+   "Mind Stone": 1,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 3,
+   "Unexpected Windfall": 1,
+   "Rapid Hybridization": 1,
+   "Counterspell": 1,
+   "Docent of Perfection": 1,
+   "Negate": 1,
+   "Fire": 1,
+   "Aetherize": 1,
+   "Thermo-Alchemist": 1,
+   "Firebrand Archer": 1,
+   "Galvanic Iteration": 3,
+   "Reality Shift": 3,
+   "Frantic Search": 1,
+   "Talisman of Creativity": 1,
+   "Chaos Warp": 3,
+   "Increasing Vengeance": 1
+  },
+  "death": {
+   "line": 2212,
+   "turn": 65,
+   "active": "A12",
+   "lastdmg": [
+    2211,
+    "Angel Token",
+    "token/active=A12",
+    6
+   ],
+   "ctx": [
+    2211,
+    "Damage: Angel Token (1077) deals 6 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    13,
+    -41
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 18,
+   "Veyran, Voice of Duality": 8,
+   "Thermo-Alchemist": 9,
+   "Firebrand Archer": 18
+  }
+ },
+ {
+  "log": "g101.log",
+  "winner": "A12",
+  "cast": {
+   "Negate": 1,
+   "Lightning Bolt": 1,
+   "Galvanic Iteration": 2,
+   "Veyran, Voice of Duality": 4,
+   "Chaos Warp": 1,
+   "Fellwar Stone": 1,
+   "Pongify": 1,
+   "Worn Powerstone": 1,
+   "Ponder": 2,
+   "Chart a Course": 1,
+   "Guttersnipe": 1,
+   "Ral, Storm Conduit": 1,
+   "Sol Ring": 1,
+   "Ral's Outburst": 1,
+   "Talisman of Creativity": 1
+  },
+  "death": {
+   "line": 1717,
+   "turn": 55,
+   "active": "A12",
+   "lastdmg": [
+    1713,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1713,
+    "Damage: Human Token (1893) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    32,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4
+  }
+ },
+ {
+  "log": "g102.log",
+  "winner": "C13",
+  "cast": {
+   "Rapid Hybridization": 1,
+   "Haughty Djinn": 1,
+   "Expressive Iteration": 1,
+   "Preordain": 1,
+   "Firebrand Archer": 1,
+   "Storm-Kiln Artist": 1,
+   "Electrostatic Field": 1,
+   "Pongify": 1,
+   "Veyran, Voice of Duality": 1,
+   "Frantic Search": 1,
+   "Sol Ring": 1,
+   "Reverberate": 1,
+   "Kaya's Guile": 1,
+   "Chart a Course": 1,
+   "Ponder": 1,
+   "Vandalblast": 1
+  },
+  "death": {
+   "line": 1613,
+   "turn": 45,
+   "active": "C13",
+   "lastdmg": [
+    1610,
+    "Nadier's Nightblade",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1610,
+    "Damage: Nadier's Nightblade (8) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    18,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 15,
+   "Firebrand Archer": 2,
+   "Electrostatic Field": 11,
+   "Veyran, Voice of Duality": 4
+  }
+ },
+ {
+  "log": "g103.log",
+  "winner": "A12",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 2,
+   "Archmage Emeritus": 1,
+   "Coruscation Mage": 1,
+   "Firebrand Archer": 1,
+   "Commander's Sphere": 1,
+   "Sublime Epiphany": 1,
+   "Galvanic Iteration": 3,
+   "Fire": 3,
+   "Pongify": 1,
+   "Abrade": 1,
+   "Storm-Kiln Artist": 2,
+   "Essence Scatter": 1,
+   "Negate": 1,
+   "Ral, Storm Conduit": 1,
+   "Third Path Iconoclast": 1
+  },
+  "death": {
+   "line": 1611,
+   "turn": 43,
+   "active": "B13",
+   "lastdmg": [
+    1610,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1610,
+    "Damage: Brago, King Eternal (100) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 27,
+   "Coruscation Mage": 39,
+   "Archmage Emeritus": 2
+  }
+ },
+ {
+  "log": "g104.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Mind Stone": 1,
+   "Mulldrifter": 1,
+   "Ral, Storm Conduit": 1,
+   "Veyran, Voice of Duality": 2,
+   "Young Pyromancer": 1,
+   "Thrill of Possibility": 1,
+   "Ral's Outburst": 1,
+   "Negate": 1,
+   "Big Score": 1,
+   "Unexpected Windfall": 1,
+   "Crackling Drake": 1
+  },
+  "death": {
+   "line": 936,
+   "turn": 35,
+   "active": "C13",
+   "lastdmg": [
+    934,
+    "Carrion Feeder",
+    "C13",
+    3
+   ],
+   "ctx": [
+    934,
+    "Damage: Carrion Feeder (236) deals 3 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    3,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Young Pyromancer": 2
+  }
+ },
+ {
+  "log": "g105.log",
+  "winner": "B13",
+  "cast": {
+   "Opt": 1,
+   "Coruscation Mage": 1,
+   "Veyran, Voice of Duality": 1,
+   "Arcane Signet": 1,
+   "Fellwar Stone": 1,
+   "Counterspell": 1,
+   "Docent of Perfection": 2,
+   "Sol Ring": 1,
+   "Aetherize": 1,
+   "Lightning Bolt": 1,
+   "Kessig Flamebreather": 1,
+   "Ral's Outburst": 1
+  },
+  "death": {
+   "line": 1202,
+   "turn": 39,
+   "active": "A12",
+   "lastdmg": [
+    1187,
+    "Welcoming Vampire",
+    "A12",
+    2
+   ],
+   "ctx": [
+    1201,
+    "Add To Stack: Ai(1)-C13 triggered Blood Artist targeting [Ai(2)-D13]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 39,
+   "Veyran, Voice of Duality": 6,
+   "Kessig Flamebreather": 6
+  }
+ },
+ {
+  "log": "g106.log",
+  "winner": "B13",
+  "cast": {
+   "Counterspell": 1,
+   "Abrade": 1,
+   "Haughty Djinn": 1,
+   "Opt": 1,
+   "Sublime Epiphany": 1,
+   "Veyran, Voice of Duality": 3,
+   "Brainstorm": 1,
+   "Chaos Warp": 1,
+   "Pieces of the Puzzle": 1,
+   "Pongify": 1,
+   "Fact or Fiction": 2,
+   "Reverberate": 1,
+   "Thrill of Possibility": 1,
+   "Unexpected Windfall": 1,
+   "Ponder": 1,
+   "Third Path Iconoclast": 1,
+   "Mind Stone": 1,
+   "Lightning Bolt": 1,
+   "Negate": 1,
+   "Talrand, Sky Summoner": 1,
+   "Aetherize": 1,
+   "Fire": 1
+  },
+  "death": {
+   "line": 1452,
+   "turn": 46,
+   "active": "B13",
+   "lastdmg": [
+    1441,
+    "Flickerwisp",
+    "B13",
+    3
+   ],
+   "ctx": [
+    1441,
+    "Damage: Flickerwisp (311) deals 3 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 4,
+   "Veyran, Voice of Duality": 16
+  }
+ },
+ {
+  "log": "g107.log",
+  "winner": "A12",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Archmage Emeritus": 1,
+   "Abrade": 1,
+   "Frantic Search": 1,
+   "Guttersnipe": 1,
+   "Crackling Drake": 1,
+   "Mind Stone": 1,
+   "Fiery Cannonade": 1,
+   "Veyran, Voice of Duality": 1,
+   "Coruscation Mage": 1
+  },
+  "death": {
+   "line": 935,
+   "turn": 33,
+   "active": "A12",
+   "lastdmg": [
+    931,
+    "Servo Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    931,
+    "Damage: Servo Token (603) deals 4 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    24,
+    -12
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 4
+  }
+ },
+ {
+  "log": "g108.log",
+  "winner": "C13",
+  "cast": {
+   "Consider": 1,
+   "Young Pyromancer": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fact or Fiction": 1,
+   "Talrand, Sky Summoner": 1,
+   "Chart a Course": 1,
+   "Baral, Chief of Compliance": 1,
+   "Brainstorm": 1,
+   "Essence Scatter": 1,
+   "Thrill of Possibility": 1,
+   "Stormcatch Mentor": 1,
+   "Third Path Iconoclast": 1,
+   "Storm-Kiln Artist": 1,
+   "Aetherize": 1,
+   "Murmuring Mystic": 1,
+   "Coruscation Mage": 1,
+   "Talisman of Creativity": 1
+  },
+  "death": {
+   "line": 1947,
+   "turn": 49,
+   "active": "A12",
+   "lastdmg": [
+    1935,
+    "Human Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": null,
+   "life": [
+    6,
+    -40
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Talrand, Sky Summoner": 2,
+   "Coruscation Mage": 6
+  }
+ },
+ {
+  "log": "g109.log",
+  "winner": "B13",
+  "cast": {
+   "Ponder": 1,
+   "Abrade": 1,
+   "Baral, Chief of Compliance": 2,
+   "Lightning Bolt": 1,
+   "Veyran, Voice of Duality": 1,
+   "Talisman of Creativity": 1,
+   "Thrill of Possibility": 1,
+   "Docent of Perfection": 1,
+   "Ral's Outburst": 1,
+   "Chaos Warp": 1,
+   "Haughty Djinn": 1,
+   "Commander's Sphere": 1,
+   "Sol Ring": 1,
+   "Mind Stone": 1,
+   "Ral, Storm Conduit": 1,
+   "Third Path Iconoclast": 1
+  },
+  "death": {
+   "line": 2045,
+   "turn": 47,
+   "active": "B13",
+   "lastdmg": [
+    2041,
+    "Priest of Forgotten Gods",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2041,
+    "Damage: Priest of Forgotten Gods (132) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    11,
+    -15
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Haughty Djinn": 5
+  }
+ },
+ {
+  "log": "g110.log",
+  "winner": "C13",
+  "cast": {
+   "Preordain": 1,
+   "Kessig Flamebreather": 1,
+   "Opt": 1,
+   "Lightning Bolt": 1,
+   "Fellwar Stone": 1,
+   "Docent of Perfection": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 1,
+   "Mind Stone": 1,
+   "Frantic Search": 1,
+   "Fiery Cannonade": 1,
+   "Ral, Storm Conduit": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Baral, Chief of Compliance": 1,
+   "Galvanic Iteration": 2,
+   "Big Score": 2,
+   "Chaos Warp": 1,
+   "Chart a Course": 1
+  },
+  "death": {
+   "line": 1879,
+   "turn": 58,
+   "active": "C13",
+   "lastdmg": [
+    1876,
+    "Ministrant of Obligation",
+    "C13",
+    2
+   ],
+   "ctx": [
+    1876,
+    "Damage: Ministrant of Obligation (327) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    2,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 48,
+   "Veyran, Voice of Duality": 10,
+   "Niv-Mizzet, Parun": 8,
+   "Baral, Chief of Compliance": 1
+  }
+ },
+ {
+  "log": "g111.log",
+  "winner": "D13",
+  "cast": {
+   "Third Path Iconoclast": 1,
+   "Electrostatic Field": 1,
+   "Expressive Iteration": 1,
+   "Lightning Bolt": 1,
+   "Arcane Denial": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 3,
+   "Storm of Saruman": 1,
+   "Unexpected Windfall": 1,
+   "Thrill of Possibility": 1,
+   "Pieces of the Puzzle": 3,
+   "Abrade": 1,
+   "Pongify": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 4,
+   "Reality Shift": 4,
+   "Anger of the Gods": 2,
+   "Haughty Djinn": 1,
+   "Kessig Flamebreather": 1,
+   "Arcane Signet": 1,
+   "Big Score": 1,
+   "Mulldrifter": 1,
+   "Murmuring Mystic": 1,
+   "Counterspell": 1,
+   "Aetherize": 1,
+   "Brainstorm": 1,
+   "Sublime Epiphany": 1,
+   "Commander's Sphere": 1,
+   "Sol Ring": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Electrostatic Field": 13,
+   "Veyran, Voice of Duality": 40,
+   "Haughty Djinn": 11,
+   "Kessig Flamebreather": 14,
+   "Coruscation Mage": 9,
+   "Firebrand Archer": 9,
+   "Guttersnipe": 10,
+   "Third Path Iconoclast": 2,
+   "Young Pyromancer": 2,
+   "Archmage Emeritus": 2,
+   "Baral, Chief of Compliance": 1
+  }
+ },
+ {
+  "log": "g112.log",
+  "winner": "B13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Preordain": 1,
+   "Galvanic Iteration": 1,
+   "Coruscation Mage": 1,
+   "Archmage Emeritus": 1,
+   "Chart a Course": 1,
+   "Abrade": 1,
+   "Crackling Drake": 1,
+   "Guttersnipe": 1,
+   "Fact or Fiction": 2,
+   "Reverberate": 1,
+   "Kessig Flamebreather": 1,
+   "Storm of Saruman": 3,
+   "Counterspell": 1,
+   "Ponder": 1,
+   "Storm-Kiln Artist": 1,
+   "Ral's Outburst": 2,
+   "Baral, Chief of Compliance": 1,
+   "Frantic Search": 1,
+   "Essence Scatter": 2,
+   "Thrill of Possibility": 1,
+   "Big Score": 1,
+   "Fire": 1,
+   "Veyran, Voice of Duality": 5,
+   "Opt": 1,
+   "Fiery Cannonade": 1,
+   "Talrand, Sky Summoner": 2,
+   "Expressive Iteration": 1,
+   "Negate": 1,
+   "Mind Stone": 2,
+   "Thermo-Alchemist": 1,
+   "Vandalblast": 1,
+   "Lightning Bolt": 1,
+   "Fellwar Stone": 1,
+   "Anger of the Gods": 1,
+   "Talisman of Creativity": 2,
+   "Ral, Storm Conduit": 1,
+   "Electrostatic Field": 1,
+   "Young Pyromancer": 1
+  },
+  "death": {
+   "line": 2611,
+   "turn": 80,
+   "active": "B13",
+   "lastdmg": [
+    2610,
+    "Human Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    2610,
+    "Damage: Human Token (1291) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    9,
+    -5
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 8,
+   "Archmage Emeritus": 4,
+   "Crackling Drake": 7,
+   "Kessig Flamebreather": 6,
+   "Ral's Outburst": 3,
+   "Storm-Kiln Artist": 11,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 16,
+   "Thermo-Alchemist": 3
+  }
+ },
+ {
+  "log": "g113.log",
+  "winner": "C13",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Storm-Kiln Artist": 1,
+   "Unexpected Windfall": 1,
+   "Fact or Fiction": 1,
+   "Vandalblast": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Stormcatch Mentor": 1,
+   "Ral, Storm Conduit": 1,
+   "Young Pyromancer": 1,
+   "Veyran, Voice of Duality": 2,
+   "Thermo-Alchemist": 1,
+   "Chart a Course": 1,
+   "Opt": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 1597,
+   "turn": 46,
+   "active": "C13",
+   "lastdmg": [
+    1593,
+    "Butcher of Malakir",
+    "C13",
+    6
+   ],
+   "ctx": [
+    1593,
+    "Damage: Butcher of Malakir (149) deals 6 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    4,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 9,
+   "Docent of Perfection": 5,
+   "Thermo-Alchemist": 8
+  }
+ },
+ {
+  "log": "g114.log",
+  "winner": "B13",
+  "cast": {
+   "Abrade": 1,
+   "Lightning Bolt": 1,
+   "Chart a Course": 1,
+   "Veyran, Voice of Duality": 2,
+   "Expressive Iteration": 2,
+   "Increasing Vengeance": 1,
+   "Mulldrifter": 2,
+   "Fact or Fiction": 1,
+   "Rapid Hybridization": 1,
+   "Archmage Emeritus": 1,
+   "Firebrand Archer": 1,
+   "Frantic Search": 1,
+   "Arcane Signet": 1,
+   "Haughty Djinn": 2,
+   "Young Pyromancer": 1,
+   "Galvanic Iteration": 1,
+   "Pongify": 1,
+   "Reality Shift": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Murmuring Mystic": 1,
+   "Ponder": 1,
+   "Preordain": 1,
+   "Thrill of Possibility": 1,
+   "Negate": 1,
+   "Ral, Storm Conduit": 1,
+   "Sol Ring": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 1766,
+   "turn": 56,
+   "active": "C13",
+   "lastdmg": [
+    1765,
+    "Spirit Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    1765,
+    "Damage: Spirit Token (507) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    3,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 8,
+   "Archmage Emeritus": 2,
+   "Haughty Djinn": 13,
+   "Niv-Mizzet, Parun": 1
+  }
+ },
+ {
+  "log": "g115.log",
+  "winner": "B13",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Talisman of Creativity": 1,
+   "Veyran, Voice of Duality": 3,
+   "Firebrand Archer": 1,
+   "Rapid Hybridization": 1,
+   "Sol Ring": 1,
+   "Storm-Kiln Artist": 1,
+   "Ral's Outburst": 1,
+   "Sublime Epiphany": 1,
+   "Storm of Saruman": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Guttersnipe": 1,
+   "Arcane Denial": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 1746,
+   "turn": 54,
+   "active": "B13",
+   "lastdmg": [
+    1745,
+    "Niv-Mizzet, Parun",
+    "D13",
+    1
+   ],
+   "ctx": [
+    1745,
+    "Damage: Niv-Mizzet, Parun (10) deals 1 non-combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Young Pyromancer": 6,
+   "Firebrand Archer": 20,
+   "Niv-Mizzet, Parun": 18,
+   "Guttersnipe": 24
+  }
+ },
+ {
+  "log": "g116.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Firebrand Archer": 2,
+   "Worn Powerstone": 1,
+   "Crackling Drake": 2,
+   "Mind Stone": 1,
+   "Young Pyromancer": 1,
+   "Archmage Emeritus": 1,
+   "Big Score": 1,
+   "Veyran, Voice of Duality": 2,
+   "Ponder": 1,
+   "Expressive Iteration": 1,
+   "Sol Ring": 1,
+   "Haughty Djinn": 1,
+   "Storm-Kiln Artist": 1,
+   "Coruscation Mage": 1
+  },
+  "death": {
+   "line": 1174,
+   "turn": 36,
+   "active": "A12",
+   "lastdmg": [
+    1160,
+    "Spirit Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": null,
+   "life": [
+    3,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 12
+  }
+ },
+ {
+  "log": "g117.log",
+  "winner": "D13",
+  "cast": {
+   "Mind Stone": 1,
+   "Fellwar Stone": 1,
+   "Talrand, Sky Summoner": 1,
+   "Guttersnipe": 1,
+   "Arcane Denial": 1,
+   "Chaos Warp": 1,
+   "Fact or Fiction": 1,
+   "Veyran, Voice of Duality": 2,
+   "Firebrand Archer": 1,
+   "Chart a Course": 1,
+   "Frantic Search": 1,
+   "Storm of Saruman": 1,
+   "Ral, Storm Conduit": 1,
+   "Pieces of the Puzzle": 1,
+   "Expressive Iteration": 1,
+   "Abrade": 1,
+   "Commander's Sphere": 1,
+   "Talisman of Creativity": 1,
+   "Ponder": 1,
+   "Ral's Outburst": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Guttersnipe": 78,
+   "Firebrand Archer": 20,
+   "Coruscation Mage": 9,
+   "Thermo-Alchemist": 4,
+   "Talrand, Sky Summoner": 4,
+   "Archmage Emeritus": 2
+  }
+ },
+ {
+  "log": "g118.log",
+  "winner": "D13",
+  "cast": {
+   "Sol Ring": 1,
+   "Veyran, Voice of Duality": 4,
+   "Vandalblast": 1,
+   "Talrand, Sky Summoner": 1,
+   "Electrostatic Field": 1,
+   "Storm-Kiln Artist": 1,
+   "Third Path Iconoclast": 1,
+   "Commander's Sphere": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Abrade": 1,
+   "Fact or Fiction": 1,
+   "Baral, Chief of Compliance": 1,
+   "Pongify": 1,
+   "Ponder": 1,
+   "Frantic Search": 1,
+   "Storm of Saruman": 1,
+   "Counterspell": 1,
+   "Crackling Drake": 1,
+   "Unexpected Windfall": 3,
+   "Stormcatch Mentor": 1,
+   "Big Score": 1,
+   "Worn Powerstone": 1,
+   "Fellwar Stone": 1,
+   "Arcane Signet": 1,
+   "Opt": 1,
+   "Haughty Djinn": 1,
+   "Consider": 1,
+   "Chaos Warp": 4,
+   "Ral's Outburst": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 24,
+   "Niv-Mizzet, Parun": 21,
+   "Kessig Flamebreather": 19,
+   "Electrostatic Field": 17,
+   "Haughty Djinn": 13,
+   "Talrand, Sky Summoner": 2,
+   "Third Path Iconoclast": 2,
+   "Baral, Chief of Compliance": 1
+  }
+ },
+ {
+  "log": "g119.log",
+  "winner": "A12",
+  "cast": {
+   "Third Path Iconoclast": 2,
+   "Veyran, Voice of Duality": 1,
+   "Pieces of the Puzzle": 1,
+   "Rapid Hybridization": 1,
+   "Guttersnipe": 1,
+   "Chart a Course": 1,
+   "Fact or Fiction": 1,
+   "Murmuring Mystic": 1,
+   "Fire": 1,
+   "Commander's Sphere": 1,
+   "Ral, Storm Conduit": 1,
+   "Thrill of Possibility": 2
+  },
+  "death": {
+   "line": 1317,
+   "turn": 43,
+   "active": "A12",
+   "lastdmg": [
+    1314,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1314,
+    "Damage: Human Token (955) deals 4 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    10,
+    -46
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 16,
+   "Third Path Iconoclast": 2,
+   "Guttersnipe": 42
+  }
+ },
+ {
+  "log": "g120.log",
+  "winner": "C13",
+  "cast": {
+   "Sol Ring": 1,
+   "Kessig Flamebreather": 1,
+   "Stormcatch Mentor": 1,
+   "Aetherize": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 2,
+   "Lightning Bolt": 1,
+   "Rapid Hybridization": 1,
+   "Counterspell": 1,
+   "Baral, Chief of Compliance": 1,
+   "Chart a Course": 2,
+   "Increasing Vengeance": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 1702,
+   "turn": 53,
+   "active": "C13",
+   "lastdmg": [
+    1697,
+    "Cruel Celebrant",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1697,
+    "Damage: Cruel Celebrant (81) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 4
+  }
+ },
+ {
+  "log": "g121.log",
+  "winner": "A12",
+  "cast": {
+   "Vandalblast": 1,
+   "Veyran, Voice of Duality": 1,
+   "Pongify": 1,
+   "Thrill of Possibility": 1,
+   "Frantic Search": 1,
+   "Haughty Djinn": 1,
+   "Kessig Flamebreather": 1,
+   "Galvanic Iteration": 2,
+   "Pieces of the Puzzle": 2,
+   "Reality Shift": 2,
+   "Commander's Sphere": 1,
+   "Chart a Course": 1
+  },
+  "death": {
+   "line": 824,
+   "turn": 29,
+   "active": "A12",
+   "lastdmg": [
+    819,
+    "Benalish Marshal",
+    "A12",
+    3
+   ],
+   "ctx": [
+    821,
+    "Damage: Face-down card (H2) deals 3 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    10,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Kessig Flamebreather": 18
+  }
+ },
+ {
+  "log": "g122.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Ponder": 1,
+   "Lightning Bolt": 1,
+   "Veyran, Voice of Duality": 4,
+   "Chaos Warp": 1,
+   "Expressive Iteration": 1,
+   "Vandalblast": 1,
+   "Arcane Denial": 1,
+   "Big Score": 1,
+   "Thrill of Possibility": 1,
+   "Frantic Search": 1,
+   "Storm of Saruman": 1,
+   "Opt": 1,
+   "Consider": 1,
+   "Anger of the Gods": 1,
+   "Counterspell": 1,
+   "Essence Scatter": 4,
+   "Stormcatch Mentor": 1,
+   "Ral, Storm Conduit": 2
+  },
+  "death": {
+   "line": 1608,
+   "turn": 46,
+   "active": "B13",
+   "lastdmg": [
+    1607,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1607,
+    "Damage: Brago, King Eternal (302) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    -6
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 30,
+   "Stormcatch Mentor": 1
+  }
+ },
+ {
+  "log": "g123.log",
+  "winner": "A12",
+  "cast": {
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fact or Fiction": 1,
+   "Pieces of the Puzzle": 1,
+   "Thermo-Alchemist": 1,
+   "Ral's Outburst": 1,
+   "Chaos Warp": 1,
+   "Haughty Djinn": 1,
+   "Aetherize": 1,
+   "Fiery Cannonade": 1,
+   "Storm-Kiln Artist": 1,
+   "Coruscation Mage": 1,
+   "Unexpected Windfall": 1,
+   "Big Score": 1,
+   "Thrill of Possibility": 1,
+   "Consider": 1,
+   "Preordain": 1,
+   "Archmage Emeritus": 1,
+   "Ral, Storm Conduit": 1,
+   "Talrand, Sky Summoner": 1,
+   "Worn Powerstone": 1,
+   "Young Pyromancer": 1
+  },
+  "death": {
+   "line": 1740,
+   "turn": 54,
+   "active": "B13",
+   "lastdmg": [
+    1737,
+    "Kor Skyfisher",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1737,
+    "Damage: Kor Skyfisher (53) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    -3
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Thermo-Alchemist": 6,
+   "Haughty Djinn": 8
+  }
+ },
+ {
+  "log": "g124.log",
+  "winner": "B13",
+  "cast": {
+   "Veyran, Voice of Duality": 4,
+   "Firebrand Archer": 1,
+   "Kessig Flamebreather": 1,
+   "Brainstorm": 1,
+   "Pongify": 1,
+   "Unexpected Windfall": 1,
+   "Reality Shift": 1,
+   "Vandalblast": 1,
+   "Counterspell": 1,
+   "Sol Ring": 1,
+   "Anger of the Gods": 1,
+   "Electrostatic Field": 1
+  },
+  "death": {
+   "line": 1470,
+   "turn": 44,
+   "active": "B13",
+   "lastdmg": [
+    1468,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1468,
+    "Damage: Brago, King Eternal (403) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -13
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 39,
+   "Veyran, Voice of Duality": 10
+  }
+ },
+ {
+  "log": "g125.log",
+  "winner": "C13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Veyran, Voice of Duality": 1,
+   "Kessig Flamebreather": 1,
+   "Essence Scatter": 1,
+   "Galvanic Iteration": 2,
+   "Docent of Perfection": 1,
+   "Haughty Djinn": 1,
+   "Thermo-Alchemist": 1,
+   "Chart a Course": 2,
+   "Chaos Warp": 1,
+   "Anger of the Gods": 1,
+   "Third Path Iconoclast": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 1855,
+   "turn": 49,
+   "active": "C13",
+   "lastdmg": [
+    499,
+    "Adeline, Resplendent Cathar",
+    "A12",
+    7
+   ],
+   "ctx": [
+    1854,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(3)-D13]]) [Zone Changer: Angel Token (665)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 1,
+   "Kessig Flamebreather": 40,
+   "Docent of Perfection": 10,
+   "Thermo-Alchemist": 9
+  }
+ },
+ {
+  "log": "g126.log",
+  "winner": "A12",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 2,
+   "Mulldrifter": 1,
+   "Murmuring Mystic": 1,
+   "Ral's Outburst": 1,
+   "Unexpected Windfall": 1,
+   "Rapid Hybridization": 1,
+   "Chart a Course": 1,
+   "Young Pyromancer": 1,
+   "Ral, Storm Conduit": 1,
+   "Worn Powerstone": 1
+  },
+  "death": {
+   "line": 1082,
+   "turn": 37,
+   "active": "A12",
+   "lastdmg": [
+    1073,
+    "Angel Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1073,
+    "Damage: Angel Token (1025) deals 4 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    12,
+    -16
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 6,
+   "Murmuring Mystic": 1
+  }
+ },
+ {
+  "log": "g127.log",
+  "winner": "C13",
+  "cast": {
+   "Firebrand Archer": 1,
+   "Unexpected Windfall": 1,
+   "Electrostatic Field": 1,
+   "Docent of Perfection": 1,
+   "Sublime Epiphany": 1,
+   "Veyran, Voice of Duality": 7,
+   "Fellwar Stone": 1,
+   "Rapid Hybridization": 3,
+   "Increasing Vengeance": 1,
+   "Negate": 1,
+   "Essence Scatter": 1,
+   "Fire": 1,
+   "Murmuring Mystic": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 3,
+   "Kessig Flamebreather": 1,
+   "Reality Shift": 3,
+   "Stormcatch Mentor": 1,
+   "Brainstorm": 1,
+   "Baral, Chief of Compliance": 1,
+   "Consider": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": {
+   "line": 2740,
+   "turn": 80,
+   "active": "C13",
+   "lastdmg": [
+    2736,
+    "Cruel Celebrant",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2736,
+    "Damage: Cruel Celebrant (182) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    8,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 5
+  }
+ },
+ {
+  "log": "g128.log",
+  "winner": "A12",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Chaos Warp": 1,
+   "Galvanic Iteration": 2,
+   "Chart a Course": 2,
+   "Pongify": 2,
+   "Ponder": 1,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 1,
+   "Brainstorm": 1,
+   "Pieces of the Puzzle": 1,
+   "Opt": 1,
+   "Arcane Denial": 1,
+   "Fire": 1,
+   "Vandalblast": 1,
+   "Counterspell": 1
+  },
+  "death": {
+   "line": 1039,
+   "turn": 30,
+   "active": "A12",
+   "lastdmg": [
+    1037,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1037,
+    "Damage: Human Token (473) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    40,
+    -5
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 48
+  }
+ },
+ {
+  "log": "g129.log",
+  "winner": "B13",
+  "cast": {
+   "Negate": 1,
+   "Veyran, Voice of Duality": 5,
+   "Chart a Course": 1,
+   "Brainstorm": 1,
+   "Frantic Search": 1,
+   "Ral, Storm Conduit": 1,
+   "Commander's Sphere": 1,
+   "Counterspell": 1,
+   "Thrill of Possibility": 1,
+   "Galvanic Iteration": 2,
+   "Aetherize": 2,
+   "Fiery Cannonade": 2,
+   "Kessig Flamebreather": 1,
+   "Sol Ring": 1,
+   "Consider": 1,
+   "Storm of Saruman": 2,
+   "Chaos Warp": 1
+  },
+  "death": {
+   "line": 2658,
+   "turn": 69,
+   "active": "B13",
+   "lastdmg": [
+    2657,
+    "Soldier Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    2657,
+    "Damage: Soldier Token (613) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    6,
+    -34
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Ral, Storm Conduit": 2,
+   "Kessig Flamebreather": 3
+  }
+ },
+ {
+  "log": "g130.log",
+  "winner": "A12",
+  "cast": {
+   "Thrill of Possibility": 1,
+   "Veyran, Voice of Duality": 1,
+   "Abrade": 1,
+   "Coruscation Mage": 1,
+   "Chaos Warp": 1,
+   "Worn Powerstone": 1,
+   "Ral, Storm Conduit": 1,
+   "Fellwar Stone": 1,
+   "Fire": 1,
+   "Talisman of Creativity": 1,
+   "Essence Scatter": 1,
+   "Talrand, Sky Summoner": 1,
+   "Murmuring Mystic": 1,
+   "Arcane Denial": 1,
+   "Commander's Sphere": 1
+  },
+  "death": {
+   "line": 1212,
+   "turn": 42,
+   "active": "A12",
+   "lastdmg": [
+    1206,
+    "Human Token",
+    "token/active=A12",
+    21
+   ],
+   "ctx": [
+    1206,
+    "Damage: Human Token (532) deals 21 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    14,
+    -238
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g131.log",
+  "winner": "C13",
+  "cast": {
+   "Mind Stone": 1,
+   "Fact or Fiction": 1,
+   "Mulldrifter": 1,
+   "Talrand, Sky Summoner": 1,
+   "Vandalblast": 1,
+   "Lightning Bolt": 1,
+   "Galvanic Iteration": 2,
+   "Veyran, Voice of Duality": 4,
+   "Storm-Kiln Artist": 1,
+   "Worn Powerstone": 1,
+   "Sublime Epiphany": 2,
+   "Thrill of Possibility": 1,
+   "Ral, Storm Conduit": 1,
+   "Thermo-Alchemist": 1,
+   "Essence Scatter": 1,
+   "Fire": 1,
+   "Baral, Chief of Compliance": 1,
+   "Negate": 1,
+   "Unexpected Windfall": 1,
+   "Young Pyromancer": 1,
+   "Preordain": 1,
+   "Firebrand Archer": 1,
+   "Storm of Saruman": 1
+  },
+  "death": {
+   "line": 2213,
+   "turn": 68,
+   "active": "C13",
+   "lastdmg": [
+    2212,
+    "Human Soldier Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    2212,
+    "Damage: Human Soldier Token (1427) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    9,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Talrand, Sky Summoner": 2,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g132.log",
+  "winner": "B13",
+  "cast": {
+   "Reverberate": 1,
+   "Path to Exile": 1,
+   "Mulldrifter": 1,
+   "Crackling Drake": 1,
+   "Docent of Perfection": 2,
+   "Haughty Djinn": 1,
+   "Pieces of the Puzzle": 1,
+   "Commander's Sphere": 1,
+   "Veyran, Voice of Duality": 1,
+   "Vandalblast": 1,
+   "Preordain": 1,
+   "Thrill of Possibility": 1,
+   "Worn Powerstone": 1,
+   "Arcane Denial": 1,
+   "Arcane Signet": 1,
+   "Fellwar Stone": 1
+  },
+  "death": {
+   "line": 1142,
+   "turn": 40,
+   "active": "A12",
+   "lastdmg": [
+    1140,
+    "Servo Token",
+    "token/active=A12",
+    7
+   ],
+   "ctx": [
+    1140,
+    "Damage: Servo Token (845) deals 7 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    14,
+    -9
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 8,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g133.log",
+  "winner": "B13",
+  "cast": {
+   "Abrade": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fire": 1,
+   "Firebrand Archer": 2,
+   "Fellwar Stone": 1,
+   "Essence Scatter": 1,
+   "Arcane Signet": 1,
+   "Mulldrifter": 1,
+   "Ral, Storm Conduit": 1,
+   "Expressive Iteration": 2,
+   "Docent of Perfection": 1,
+   "Sublime Epiphany": 1,
+   "Lightning Bolt": 1,
+   "Chaos Warp": 1,
+   "Haughty Djinn": 5,
+   "Sol Ring": 1,
+   "Arcane Denial": 1,
+   "Rapid Hybridization": 1,
+   "Ral's Outburst": 1,
+   "Anger of the Gods": 1,
+   "Negate": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Big Score": 1,
+   "Opt": 1,
+   "Guttersnipe": 1,
+   "Commander's Sphere": 1
+  },
+  "death": {
+   "line": 2197,
+   "turn": 62,
+   "active": "B13",
+   "lastdmg": [
+    2194,
+    "Sea Gate Oracle",
+    "B13",
+    1
+   ],
+   "ctx": [
+    2194,
+    "Damage: Sea Gate Oracle (160) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    6,
+    -9
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Firebrand Archer": 20,
+   "Docent of Perfection": 5,
+   "Haughty Djinn": 7,
+   "Ral's Outburst": 3
+  }
+ },
+ {
+  "log": "g134.log",
+  "winner": "A12",
+  "cast": {
+   "Veyran, Voice of Duality": 2,
+   "Reality Shift": 1,
+   "Worn Powerstone": 1,
+   "Kessig Flamebreather": 1,
+   "Thermo-Alchemist": 1,
+   "Galvanic Iteration": 2,
+   "Pongify": 1,
+   "Crackling Drake": 1,
+   "Preordain": 2,
+   "Sublime Epiphany": 1
+  },
+  "death": {
+   "line": 1570,
+   "turn": 42,
+   "active": "A12",
+   "lastdmg": [
+    1565,
+    "Angel of Invention",
+    "A12",
+    2
+   ],
+   "ctx": [
+    1565,
+    "Damage: Angel of Invention (238) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    1,
+    -28
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Kessig Flamebreather": 13,
+   "Thermo-Alchemist": 15,
+   "Crackling Drake": 3
+  }
+ },
+ {
+  "log": "g135.log",
+  "winner": "B13",
+  "cast": {
+   "Sol Ring": 1,
+   "Fact or Fiction": 1,
+   "Vandalblast": 1,
+   "Murmuring Mystic": 1,
+   "Anger of the Gods": 1,
+   "Commander's Sphere": 1,
+   "Preordain": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 6,
+   "Third Path Iconoclast": 1,
+   "Mind Stone": 1,
+   "Arcane Denial": 1,
+   "Rapid Hybridization": 1,
+   "Thrill of Possibility": 1,
+   "Unexpected Windfall": 1,
+   "Docent of Perfection": 1,
+   "Arcane Signet": 1
+  },
+  "death": {
+   "line": 1719,
+   "turn": 51,
+   "active": "B13",
+   "lastdmg": [
+    1702,
+    "Human Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": null,
+   "life": [
+    2,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 26,
+   "Veyran, Voice of Duality": 2,
+   "Docent of Perfection": 5
+  }
+ },
+ {
+  "log": "g136.log",
+  "winner": "B13",
+  "cast": {
+   "Abrade": 1,
+   "Fact or Fiction": 1,
+   "Ponder": 1,
+   "Murmuring Mystic": 1,
+   "Frantic Search": 1,
+   "Lightning Bolt": 1,
+   "Expressive Iteration": 1,
+   "Guttersnipe": 1,
+   "Storm-Kiln Artist": 1,
+   "Electrostatic Field": 1,
+   "Talrand, Sky Summoner": 1,
+   "Veyran, Voice of Duality": 1,
+   "Unexpected Windfall": 1,
+   "Crackling Drake": 1
+  },
+  "death": {
+   "line": 1355,
+   "turn": 42,
+   "active": "B13",
+   "lastdmg": [
+    1353,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1353,
+    "Damage: Syr Konrad, the Grim (185) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Murmuring Mystic": 1,
+   "Guttersnipe": 12,
+   "Electrostatic Field": 6
+  }
+ },
+ {
+  "log": "g137.log",
+  "winner": "D13",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Mind Stone": 1,
+   "Fact or Fiction": 1,
+   "Ral, Storm Conduit": 1,
+   "Ponder": 1,
+   "Lightning Bolt": 1,
+   "Arcane Denial": 1,
+   "Abrade": 1,
+   "Mulldrifter": 1,
+   "Sublime Epiphany": 1,
+   "Docent of Perfection": 1,
+   "Guttersnipe": 1,
+   "Brainstorm": 1,
+   "Big Score": 1,
+   "Veyran, Voice of Duality": 2,
+   "Talisman of Creativity": 1,
+   "Fellwar Stone": 1,
+   "Opt": 1,
+   "Rapid Hybridization": 1,
+   "Archmage Emeritus": 1,
+   "Baral, Chief of Compliance": 1,
+   "Preordain": 1,
+   "Worn Powerstone": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Thermo-Alchemist": 21,
+   "Guttersnipe": 32,
+   "Docent of Perfection": 5,
+   "Veyran, Voice of Duality": 8,
+   "Baral, Chief of Compliance": 2
+  }
+ },
+ {
+  "log": "g138.log",
+  "winner": "A12",
+  "cast": {
+   "Opt": 1,
+   "Consider": 1,
+   "Negate": 1,
+   "Veyran, Voice of Duality": 1,
+   "Kessig Flamebreather": 1,
+   "Pongify": 1,
+   "Commander's Sphere": 1,
+   "Fact or Fiction": 1,
+   "Expressive Iteration": 1,
+   "Fellwar Stone": 1,
+   "Sublime Epiphany": 1,
+   "Chart a Course": 1,
+   "Storm of Saruman": 1,
+   "Arcane Signet": 1,
+   "Mind Stone": 2,
+   "Docent of Perfection": 1,
+   "Electrostatic Field": 1
+  },
+  "death": {
+   "line": 1255,
+   "turn": 40,
+   "active": "A12",
+   "lastdmg": [
+    1251,
+    "Angel Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": [
+    1251,
+    "Damage: Angel Token (1005) deals 5 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    29,
+    -41
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 31
+  }
+ },
+ {
+  "log": "g139.log",
+  "winner": "A12",
+  "cast": {
+   "Sol Ring": 1,
+   "Talrand, Sky Summoner": 1,
+   "Haughty Djinn": 1,
+   "Storm-Kiln Artist": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 2,
+   "Electrostatic Field": 1,
+   "Aetherize": 1,
+   "Reality Shift": 1,
+   "Counterspell": 1,
+   "Pongify": 1,
+   "Chart a Course": 1,
+   "Abrade": 1,
+   "Sublime Epiphany": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": {
+   "line": 1422,
+   "turn": 49,
+   "active": "A12",
+   "lastdmg": [
+    1419,
+    "Servo Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": [
+    1419,
+    "Damage: Servo Token (1337) deals 5 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    17,
+    -67
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 6
+  }
+ },
+ {
+  "log": "g140.log",
+  "winner": "D13",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Ral's Outburst": 1,
+   "Crackling Drake": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 1,
+   "Young Pyromancer": 1,
+   "Electrostatic Field": 1,
+   "Counterspell": 1,
+   "Galvanic Iteration": 2,
+   "Big Score": 2,
+   "Fact or Fiction": 1,
+   "Lightning Bolt": 1,
+   "Worn Powerstone": 1,
+   "Thrill of Possibility": 2,
+   "Abrade": 1,
+   "Unexpected Windfall": 1,
+   "Storm of Saruman": 1,
+   "Preordain": 1,
+   "Reality Shift": 1,
+   "Fellwar Stone": 2,
+   "Ponder": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Kessig Flamebreather": 41,
+   "Guttersnipe": 38,
+   "Veyran, Voice of Duality": 2,
+   "Crackling Drake": 2,
+   "Electrostatic Field": 26,
+   "Young Pyromancer": 2,
+   "Lightning Bolt": 3
+  }
+ },
+ {
+  "log": "g141.log",
+  "winner": "C13",
+  "cast": {
+   "Third Path Iconoclast": 1,
+   "Preordain": 1,
+   "Kessig Flamebreather": 1,
+   "Mind Stone": 1,
+   "Mulldrifter": 1,
+   "Fact or Fiction": 1,
+   "Young Pyromancer": 1,
+   "Storm of Saruman": 1,
+   "Crackling Drake": 4,
+   "Firebrand Archer": 2,
+   "Pieces of the Puzzle": 1,
+   "Murmuring Mystic": 2,
+   "Commander's Sphere": 1,
+   "Veyran, Voice of Duality": 1,
+   "Frantic Search": 1,
+   "Reality Shift": 3,
+   "Essence Scatter": 1,
+   "Consider": 1,
+   "Abrade": 1,
+   "Niv-Mizzet, Parun": 2
+  },
+  "death": {
+   "line": 1874,
+   "turn": 51,
+   "active": "C13",
+   "lastdmg": [
+    1852,
+    "Vindictive Vampire",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1869,
+    "Add To Stack: Ai(4)-C13 triggered Falkenrath Noble targeting [Ai(1)-D13]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 3,
+   "Firebrand Archer": 36,
+   "Veyran, Voice of Duality": 10,
+   "Crackling Drake": 8,
+   "Niv-Mizzet, Parun": 1
+  }
+ },
+ {
+  "log": "g142.log",
+  "winner": "C13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Arcane Signet": 3,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 7,
+   "Galvanic Iteration": 1,
+   "Pongify": 2,
+   "Arcane Denial": 1,
+   "Ponder": 1,
+   "Murmuring Mystic": 2,
+   "Sublime Epiphany": 1,
+   "Unexpected Windfall": 1,
+   "Pieces of the Puzzle": 1,
+   "Baral, Chief of Compliance": 1,
+   "Mind Stone": 1,
+   "Haughty Djinn": 1,
+   "Coruscation Mage": 1,
+   "Essence Scatter": 1,
+   "Young Pyromancer": 1,
+   "Anger of the Gods": 2,
+   "Increasing Vengeance": 2,
+   "Big Score": 1,
+   "Archmage Emeritus": 1,
+   "Fiery Cannonade": 3,
+   "Preordain": 1,
+   "Thrill of Possibility": 1,
+   "Third Path Iconoclast": 1,
+   "Worn Powerstone": 1,
+   "Vandalblast": 1,
+   "Thermo-Alchemist": 1
+  },
+  "death": {
+   "line": 3030,
+   "turn": 80,
+   "active": "C13",
+   "lastdmg": [
+    3027,
+    "Carrion Feeder",
+    "C13",
+    1
+   ],
+   "ctx": [
+    3027,
+    "Damage: Carrion Feeder (34) deals 1 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -3
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 3,
+   "Veyran, Voice of Duality": 34,
+   "Murmuring Mystic": 1,
+   "Coruscation Mage": 3,
+   "Thermo-Alchemist": 1
+  }
+ },
+ {
+  "log": "g143.log",
+  "winner": "A12",
+  "cast": {
+   "Sol Ring": 1,
+   "Chart a Course": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 1,
+   "Veyran, Voice of Duality": 3,
+   "Reality Shift": 1,
+   "Expressive Iteration": 1,
+   "Baral, Chief of Compliance": 1,
+   "Firebrand Archer": 1,
+   "Third Path Iconoclast": 1,
+   "Young Pyromancer": 1,
+   "Thermo-Alchemist": 1,
+   "Unexpected Windfall": 1,
+   "Thrill of Possibility": 1,
+   "Kessig Flamebreather": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 1402,
+   "turn": 40,
+   "active": "A12",
+   "lastdmg": [
+    1399,
+    "Phyrexian Mite Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    1399,
+    "Damage: Phyrexian Mite Token (833) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    6,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Firebrand Archer": 12,
+   "Thermo-Alchemist": 3,
+   "Kessig Flamebreather": 6
+  }
+ },
+ {
+  "log": "g144.log",
+  "winner": "B13",
+  "cast": {
+   "Fire": 1,
+   "Veyran, Voice of Duality": 2,
+   "Ral's Outburst": 1,
+   "Crackling Drake": 4,
+   "Murmuring Mystic": 1,
+   "Electrostatic Field": 1,
+   "Storm-Kiln Artist": 1,
+   "Fellwar Stone": 1,
+   "Counterspell": 1,
+   "Third Path Iconoclast": 1,
+   "Consider": 1,
+   "Baral, Chief of Compliance": 1,
+   "Aetherize": 1,
+   "Sublime Epiphany": 1,
+   "Thrill of Possibility": 1,
+   "Mulldrifter": 2,
+   "Archmage Emeritus": 1,
+   "Firebrand Archer": 1,
+   "Galvanic Iteration": 3
+  },
+  "death": {
+   "line": 1768,
+   "turn": 53,
+   "active": "C13",
+   "lastdmg": [
+    1765,
+    "Massacre Girl",
+    "C13",
+    4
+   ],
+   "ctx": [
+    1765,
+    "Damage: Massacre Girl (67) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    2,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Storm-Kiln Artist": 8,
+   "Electrostatic Field": 6
+  }
+ },
+ {
+  "log": "g145.log",
+  "winner": "C13",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Preordain": 1,
+   "Coruscation Mage": 1,
+   "Reality Shift": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 3,
+   "Fellwar Stone": 1,
+   "Storm of Saruman": 1,
+   "Mind Stone": 1,
+   "Consider": 1,
+   "Stormcatch Mentor": 1,
+   "Galvanic Iteration": 1,
+   "Ral's Outburst": 2,
+   "Thermo-Alchemist": 1
+  },
+  "death": {
+   "line": 1633,
+   "turn": 46,
+   "active": "C13",
+   "lastdmg": [
+    1015,
+    "Human Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 3,
+   "Stormcatch Mentor": 5
+  }
+ },
+ {
+  "log": "g146.log",
+  "winner": "A12",
+  "cast": {
+   "Arcane Signet": 1,
+   "Crackling Drake": 1,
+   "Veyran, Voice of Duality": 3,
+   "Talisman of Creativity": 1,
+   "Lightning Bolt": 1,
+   "Fiery Cannonade": 1,
+   "Unexpected Windfall": 1,
+   "Third Path Iconoclast": 1,
+   "Abrade": 1,
+   "Storm-Kiln Artist": 1,
+   "Negate": 1,
+   "Thermo-Alchemist": 1,
+   "Mulldrifter": 1,
+   "Electrostatic Field": 1,
+   "Brainstorm": 1,
+   "Frantic Search": 1
+  },
+  "death": {
+   "line": 1369,
+   "turn": 38,
+   "active": "A12",
+   "lastdmg": [
+    1224,
+    "Shivan Reef",
+    "D13",
+    1
+   ],
+   "ctx": [
+    1368,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(4)-D13]]) [Zone Changer: Human Token (628)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 12
+  }
+ },
+ {
+  "log": "g147.log",
+  "winner": "C13",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Fact or Fiction": 1,
+   "Veyran, Voice of Duality": 1,
+   "Mind Stone": 1,
+   "Unexpected Windfall": 1,
+   "Anger of the Gods": 1,
+   "Talisman of Creativity": 1,
+   "Counterspell": 1
+  },
+  "death": {
+   "line": 897,
+   "turn": 28,
+   "active": "B13",
+   "lastdmg": [
+    656,
+    "Falkenrath Noble",
+    "C13",
+    2
+   ],
+   "ctx": [
+    896,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(1)-D13]]) [Zone Changer: Spirit Token (429)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g148.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Thermo-Alchemist": 1,
+   "Stormcatch Mentor": 1,
+   "Fact or Fiction": 3,
+   "Lightning Bolt": 1,
+   "Vandalblast": 1,
+   "Talisman of Creativity": 1,
+   "Murmuring Mystic": 1,
+   "Pieces of the Puzzle": 1,
+   "Increasing Vengeance": 1,
+   "Expressive Iteration": 1,
+   "Veyran, Voice of Duality": 1,
+   "Negate": 1,
+   "Galvanic Iteration": 1,
+   "Ponder": 2,
+   "Storm-Kiln Artist": 1
+  },
+  "death": {
+   "line": 1384,
+   "turn": 38,
+   "active": "C13",
+   "lastdmg": [
+    899,
+    "Mentor of the Meek",
+    "A12",
+    3
+   ],
+   "ctx": [
+    1383,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(4)-D13]]) [Zone Changer: Human Soldier Token (637)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 20,
+   "Stormcatch Mentor": 4,
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g149.log",
+  "winner": "C13",
+  "cast": {
+   "Opt": 1,
+   "Haughty Djinn": 2,
+   "Pieces of the Puzzle": 1,
+   "Chaos Warp": 1,
+   "Rapid Hybridization": 1,
+   "Commander's Sphere": 1,
+   "Coruscation Mage": 1,
+   "Kessig Flamebreather": 1,
+   "Sublime Epiphany": 1,
+   "Fiery Cannonade": 1,
+   "Talisman of Creativity": 1,
+   "Expressive Iteration": 1,
+   "Crackling Drake": 1,
+   "Mulldrifter": 1,
+   "Big Score": 1,
+   "Veyran, Voice of Duality": 3,
+   "Firebrand Archer": 1,
+   "Electrostatic Field": 1,
+   "Mind Stone": 1,
+   "Negate": 1,
+   "Vandalblast": 1,
+   "Preordain": 1,
+   "Murmuring Mystic": 2,
+   "Sol Ring": 1,
+   "Pongify": 1,
+   "Chart a Course": 1,
+   "Reality Shift": 1
+  },
+  "death": {
+   "line": 2172,
+   "turn": 59,
+   "active": "C13",
+   "lastdmg": [
+    2169,
+    "Spirit Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": [
+    2169,
+    "Damage: Spirit Token (1335) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    2,
+    -12
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 7,
+   "Kessig Flamebreather": 12,
+   "Coruscation Mage": 6,
+   "Electrostatic Field": 12,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g150.log",
+  "winner": "C13",
+  "cast": {
+   "Sol Ring": 1,
+   "Arcane Signet": 1,
+   "Lightning Bolt": 1,
+   "Ral, Storm Conduit": 1,
+   "Veyran, Voice of Duality": 6,
+   "Fellwar Stone": 1,
+   "Arcane Denial": 1,
+   "Thrill of Possibility": 1,
+   "Counterspell": 1,
+   "Baral, Chief of Compliance": 1,
+   "Commander's Sphere": 1,
+   "Coruscation Mage": 1,
+   "Rapid Hybridization": 1,
+   "Negate": 1,
+   "Mulldrifter": 1,
+   "Vandalblast": 1,
+   "Talisman of Creativity": 1,
+   "Kessig Flamebreather": 1,
+   "Haughty Djinn": 1,
+   "Fact or Fiction": 1,
+   "Abrade": 1,
+   "Preordain": 1,
+   "Murmuring Mystic": 1,
+   "Thermo-Alchemist": 1,
+   "Third Path Iconoclast": 1
+  },
+  "death": {
+   "line": 2145,
+   "turn": 66,
+   "active": "C13",
+   "lastdmg": [
+    2143,
+    "Pitiless Plunderer",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2143,
+    "Damage: Pitiless Plunderer (301) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    2,
+    -3
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 24,
+   "Veyran, Voice of Duality": 10,
+   "Thermo-Alchemist": 3,
+   "Murmuring Mystic": 1
+  }
+ },
+ {
+  "log": "g151.log",
+  "winner": "B13",
+  "cast": {
+   "Abrade": 1,
+   "Mind Stone": 1,
+   "Crackling Drake": 1,
+   "Talrand, Sky Summoner": 2,
+   "Talisman of Creativity": 1,
+   "Veyran, Voice of Duality": 2,
+   "Chaos Warp": 1,
+   "Third Path Iconoclast": 1,
+   "Negate": 1,
+   "Brainstorm": 1,
+   "Pongify": 1,
+   "Thrill of Possibility": 1,
+   "Counterspell": 1,
+   "Fact or Fiction": 1,
+   "Frantic Search": 1,
+   "Kessig Flamebreather": 1,
+   "Niv-Mizzet, Parun": 2,
+   "Electrostatic Field": 1,
+   "Anger of the Gods": 1,
+   "Murmuring Mystic": 1
+  },
+  "death": {
+   "line": 1794,
+   "turn": 48,
+   "active": "B13",
+   "lastdmg": [
+    1791,
+    "Sea Gate Oracle",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1791,
+    "Damage: Sea Gate Oracle (261) deals 2 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    -10
+   ]
+  },
+  "dmg_out": {
+   "Talrand, Sky Summoner": 2,
+   "Veyran, Voice of Duality": 8,
+   "Electrostatic Field": 1
+  }
+ },
+ {
+  "log": "g152.log",
+  "winner": "B13",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Murmuring Mystic": 1,
+   "Archmage Emeritus": 1,
+   "Lightning Bolt": 1,
+   "Veyran, Voice of Duality": 2,
+   "Brainstorm": 1,
+   "Negate": 1,
+   "Expressive Iteration": 1,
+   "Thermo-Alchemist": 1,
+   "Mind Stone": 1,
+   "Chaos Warp": 1,
+   "Aetherize": 1,
+   "Arcane Denial": 1,
+   "Commander's Sphere": 1,
+   "Arcane Signet": 1,
+   "Pongify": 3,
+   "Increasing Vengeance": 1,
+   "Talrand, Sky Summoner": 1,
+   "Electrostatic Field": 1
+  },
+  "death": {
+   "line": 2042,
+   "turn": 59,
+   "active": "C13",
+   "lastdmg": [
+    2040,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2040,
+    "Damage: Syr Konrad, the Grim (185) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Baral, Chief of Compliance": 2,
+   "Thermo-Alchemist": 9,
+   "Veyran, Voice of Duality": 2
+  }
+ },
+ {
+  "log": "g153.log",
+  "winner": "B13",
+  "cast": {
+   "Abrade": 1,
+   "Ponder": 1,
+   "Mind Stone": 1,
+   "Mulldrifter": 1,
+   "Veyran, Voice of Duality": 4,
+   "Crackling Drake": 1,
+   "Brainstorm": 1,
+   "Galvanic Iteration": 1,
+   "Anger of the Gods": 2,
+   "Essence Scatter": 1,
+   "Archmage Emeritus": 1,
+   "Storm-Kiln Artist": 1,
+   "Kessig Flamebreather": 1,
+   "Arcane Signet": 1,
+   "Sol Ring": 1
+  },
+  "death": {
+   "line": 1678,
+   "turn": 59,
+   "active": "B13",
+   "lastdmg": [
+    1675,
+    "Human Token",
+    "token/active=B13",
+    2
+   ],
+   "ctx": [
+    1675,
+    "Damage: Human Token (983) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    5,
+    -13
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Kessig Flamebreather": 6
+  }
+ },
+ {
+  "log": "g154.log",
+  "winner": "C13",
+  "cast": {
+   "Firebrand Archer": 1,
+   "Commander's Sphere": 1,
+   "Sol Ring": 1,
+   "Chart a Course": 1,
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 1,
+   "Counterspell": 1,
+   "Fiery Cannonade": 1,
+   "Talisman of Creativity": 1,
+   "Worn Powerstone": 1,
+   "Unexpected Windfall": 1
+  },
+  "death": {
+   "line": 1185,
+   "turn": 32,
+   "active": "C13",
+   "lastdmg": [
+    1182,
+    "Elenda, the Dusk Rose",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1182,
+    "Damage: Elenda, the Dusk Rose (307) deals 1 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    6,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Firebrand Archer": 23,
+   "Electrostatic Field": 12,
+   "Veyran, Voice of Duality": 4
+  }
+ },
+ {
+  "log": "g155.log",
+  "winner": "A12",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Abrade": 1,
+   "Chaos Warp": 1,
+   "Anger of the Gods": 1,
+   "Guttersnipe": 1,
+   "Veyran, Voice of Duality": 5,
+   "Big Score": 1,
+   "Fire": 1,
+   "Aetherize": 1,
+   "Essence Scatter": 1,
+   "Preordain": 1,
+   "Counterspell": 1
+  },
+  "death": {
+   "line": 1800,
+   "turn": 61,
+   "active": "A12",
+   "lastdmg": [
+    1798,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1798,
+    "Damage: Human Token (949) deals 3 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    31,
+    -5
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 2,
+   "Guttersnipe": 26
+  }
+ },
+ {
+  "log": "g156.log",
+  "winner": "C13",
+  "cast": {
+   "Sol Ring": 1,
+   "Storm-Kiln Artist": 1,
+   "Big Score": 1,
+   "Reality Shift": 1,
+   "Abrade": 1,
+   "Haughty Djinn": 1,
+   "Young Pyromancer": 1,
+   "Ral, Storm Conduit": 1,
+   "Veyran, Voice of Duality": 3,
+   "Sublime Epiphany": 1,
+   "Frantic Search": 1,
+   "Arcane Denial": 1,
+   "Counterspell": 1,
+   "Preordain": 1
+  },
+  "death": {
+   "line": 1229,
+   "turn": 40,
+   "active": "B13",
+   "lastdmg": [
+    1228,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1228,
+    "Damage: Brago, King Eternal (201) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Young Pyromancer": 2
+  }
+ },
+ {
+  "log": "g157.log",
+  "winner": "B13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Firebrand Archer": 1,
+   "Expressive Iteration": 1,
+   "Essence Scatter": 1,
+   "Ral's Outburst": 1,
+   "Reality Shift": 1,
+   "Fire": 1,
+   "Archmage Emeritus": 2,
+   "Fact or Fiction": 1,
+   "Guttersnipe": 1,
+   "Vandalblast": 1,
+   "Pieces of the Puzzle": 1,
+   "Ral, Storm Conduit": 1,
+   "Negate": 1,
+   "Thrill of Possibility": 1,
+   "Galvanic Iteration": 1,
+   "Commander's Sphere": 1,
+   "Lightning Bolt": 2,
+   "Arcane Denial": 1,
+   "Chaos Warp": 1,
+   "Mind Stone": 1,
+   "Docent of Perfection": 1,
+   "Unexpected Windfall": 1,
+   "Veyran, Voice of Duality": 1,
+   "Consider": 1,
+   "Storm of Saruman": 1,
+   "Kessig Flamebreather": 2,
+   "Young Pyromancer": 1,
+   "Fellwar Stone": 1,
+   "Fiery Cannonade": 1
+  },
+  "death": {
+   "line": 1927,
+   "turn": 55,
+   "active": "B13",
+   "lastdmg": [
+    1924,
+    "Glen Elendra Archmage",
+    "B13",
+    1
+   ],
+   "ctx": [
+    1924,
+    "Damage: Glen Elendra Archmage (275) deals 1 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    5,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 12,
+   "Firebrand Archer": 12,
+   "Guttersnipe": 44,
+   "Archmage Emeritus": 2,
+   "Docent of Perfection": 5,
+   "Kessig Flamebreather": 18
+  }
+ },
+ {
+  "log": "g158.log",
+  "winner": "C13",
+  "cast": {
+   "Preordain": 1,
+   "Ponder": 1,
+   "Fire": 1,
+   "Mulldrifter": 1,
+   "Docent of Perfection": 1,
+   "Veyran, Voice of Duality": 4,
+   "Young Pyromancer": 1,
+   "Electrostatic Field": 1,
+   "Negate": 1,
+   "Essence Scatter": 1,
+   "Ral's Outburst": 1,
+   "Unexpected Windfall": 1,
+   "Abrade": 1,
+   "Commander's Sphere": 1,
+   "Talisman of Creativity": 1,
+   "Aetherize": 1,
+   "Expressive Iteration": 1,
+   "Thrill of Possibility": 1,
+   "Fiery Cannonade": 1,
+   "Haughty Djinn": 2,
+   "Chaos Warp": 1,
+   "Consider": 1,
+   "Vandalblast": 1,
+   "Murmuring Mystic": 1,
+   "Mind Stone": 1,
+   "Ral, Storm Conduit": 1,
+   "Sublime Epiphany": 1,
+   "Big Score": 1,
+   "Crackling Drake": 1,
+   "Fellwar Stone": 1
+  },
+  "death": {
+   "line": 2580,
+   "turn": 69,
+   "active": "D13",
+   "lastdmg": [
+    2578,
+    "Vindictive Vampire",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2578,
+    "Damage: Vindictive Vampire (124) deals 1 non-combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 18,
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g159.log",
+  "winner": "B13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Fire": 1,
+   "Veyran, Voice of Duality": 6,
+   "Ral's Outburst": 1,
+   "Electrostatic Field": 2,
+   "Archmage Emeritus": 1,
+   "Firebrand Archer": 1,
+   "Galvanic Iteration": 2,
+   "Big Score": 2,
+   "Abrade": 2,
+   "Chaos Warp": 1,
+   "Fiery Cannonade": 1,
+   "Reality Shift": 1,
+   "Negate": 1,
+   "Expressive Iteration": 1,
+   "Mulldrifter": 1,
+   "Ral, Storm Conduit": 1,
+   "Unexpected Windfall": 3,
+   "Aetherize": 1,
+   "Ponder": 1,
+   "Haughty Djinn": 1,
+   "Murmuring Mystic": 1,
+   "Reverberate": 1,
+   "Path to Exile": 1
+  },
+  "death": {
+   "line": 2034,
+   "turn": 44,
+   "active": "B13",
+   "lastdmg": [
+    2032,
+    "Kor Skyfisher",
+    "B13",
+    2
+   ],
+   "ctx": [
+    2032,
+    "Damage: Kor Skyfisher (53) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    4,
+    -10
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 12,
+   "Firebrand Archer": 30,
+   "Electrostatic Field": 54,
+   "Veyran, Voice of Duality": 10
+  }
+ },
+ {
+  "log": "g160.log",
+  "winner": "B13",
+  "cast": {
+   "Ponder": 1,
+   "Baral, Chief of Compliance": 1,
+   "Veyran, Voice of Duality": 1,
+   "Haughty Djinn": 1,
+   "Fiery Cannonade": 1,
+   "Third Path Iconoclast": 1,
+   "Talisman of Creativity": 1,
+   "Guttersnipe": 1,
+   "Mind Stone": 1,
+   "Opt": 2,
+   "Reverberate": 1,
+   "Pieces of the Puzzle": 1,
+   "Abrade": 1,
+   "Mulldrifter": 1
+  },
+  "death": {
+   "line": 938,
+   "turn": 30,
+   "active": "B13",
+   "lastdmg": [
+    935,
+    "Flickerwisp",
+    "B13",
+    3
+   ],
+   "ctx": [
+    935,
+    "Damage: Flickerwisp (210) deals 3 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    2,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Haughty Djinn": 10,
+   "Veyran, Voice of Duality": 2,
+   "Third Path Iconoclast": 2,
+   "Baral, Chief of Compliance": 2,
+   "Guttersnipe": 50
+  }
+ },
+ {
+  "log": "g161.log",
+  "winner": "D13",
+  "cast": {
+   "Arcane Denial": 1,
+   "Galvanic Iteration": 2,
+   "Preordain": 2,
+   "Crackling Drake": 2,
+   "Fact or Fiction": 1,
+   "Rapid Hybridization": 2,
+   "Archmage Emeritus": 1,
+   "Kessig Flamebreather": 1,
+   "Ral's Outburst": 2,
+   "Reverberate": 1,
+   "Consider": 1,
+   "Chaos Warp": 1,
+   "Third Path Iconoclast": 1,
+   "Storm of Saruman": 1,
+   "Electrostatic Field": 2,
+   "Lightning Bolt": 1,
+   "Anger of the Gods": 2,
+   "Frantic Search": 1,
+   "Chart a Course": 1,
+   "Haughty Djinn": 1,
+   "Storm-Kiln Artist": 2,
+   "Baral, Chief of Compliance": 1,
+   "Expressive Iteration": 1,
+   "Vandalblast": 1,
+   "Veyran, Voice of Duality": 2,
+   "Young Pyromancer": 1,
+   "Unexpected Windfall": 1,
+   "Abrade": 4,
+   "Mind Stone": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Kessig Flamebreather": 24,
+   "Electrostatic Field": 18,
+   "Haughty Djinn": 13,
+   "Baral, Chief of Compliance": 5,
+   "Crackling Drake": 49,
+   "Veyran, Voice of Duality": 23,
+   "Young Pyromancer": 4
+  }
+ },
+ {
+  "log": "g162.log",
+  "winner": "D13",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Thermo-Alchemist": 1,
+   "Fact or Fiction": 1,
+   "Fire": 1,
+   "Haughty Djinn": 1,
+   "Chart a Course": 1,
+   "Preordain": 1,
+   "Ponder": 1,
+   "Chaos Warp": 1,
+   "Baral, Chief of Compliance": 1,
+   "Murmuring Mystic": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 2,
+   "Essence Scatter": 1,
+   "Abrade": 1,
+   "Ral, Storm Conduit": 1,
+   "Fiery Cannonade": 1,
+   "Galvanic Iteration": 5,
+   "Vandalblast": 4,
+   "Mulldrifter": 1,
+   "Kessig Flamebreather": 1,
+   "Firebrand Archer": 1,
+   "Fellwar Stone": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Thermo-Alchemist": 25,
+   "Electrostatic Field": 46,
+   "Haughty Djinn": 18,
+   "Murmuring Mystic": 1,
+   "Firebrand Archer": 1,
+   "Kessig Flamebreather": 1
+  }
+ },
+ {
+  "log": "g163.log",
+  "winner": "D13",
+  "cast": {
+   "Arcane Denial": 1,
+   "Abrade": 1,
+   "Thrill of Possibility": 1,
+   "Guttersnipe": 1,
+   "Firebrand Archer": 1,
+   "Frantic Search": 1,
+   "Storm-Kiln Artist": 1,
+   "Third Path Iconoclast": 1,
+   "Haughty Djinn": 1,
+   "Negate": 1,
+   "Pongify": 1,
+   "Veyran, Voice of Duality": 2,
+   "Fact or Fiction": 1,
+   "Unexpected Windfall": 1,
+   "Crackling Drake": 1,
+   "Worn Powerstone": 1,
+   "Galvanic Iteration": 1,
+   "Chaos Warp": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Opt": 1,
+   "Reality Shift": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Guttersnipe": 44,
+   "Storm-Kiln Artist": 2,
+   "Third Path Iconoclast": 2,
+   "Veyran, Voice of Duality": 10,
+   "Haughty Djinn": 9,
+   "Niv-Mizzet, Parun": 18
+  }
+ },
+ {
+  "log": "g164.log",
+  "winner": "B13",
+  "cast": {
+   "Ponder": 1,
+   "Stormcatch Mentor": 1,
+   "Preordain": 1,
+   "Chaos Warp": 1,
+   "Young Pyromancer": 1,
+   "Veyran, Voice of Duality": 1,
+   "Docent of Perfection": 1,
+   "Rapid Hybridization": 1,
+   "Aetherize": 1,
+   "Big Score": 1,
+   "Sublime Epiphany": 1,
+   "Ral, Storm Conduit": 1,
+   "Mulldrifter": 1,
+   "Worn Powerstone": 1,
+   "Negate": 1
+  },
+  "death": {
+   "line": 1185,
+   "turn": 39,
+   "active": "B13",
+   "lastdmg": [
+    1181,
+    "Brago, King Eternal",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1181,
+    "Damage: Brago, King Eternal (100) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    6,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 12,
+   "Young Pyromancer": 2,
+   "Veyran, Voice of Duality": 8
+  }
+ },
+ {
+  "log": "g165.log",
+  "winner": "A12",
+  "cast": {
+   "Negate": 1,
+   "Guttersnipe": 1,
+   "Lightning Bolt": 1,
+   "Veyran, Voice of Duality": 4,
+   "Vandalblast": 1,
+   "Essence Scatter": 1,
+   "Chart a Course": 2,
+   "Anger of the Gods": 1,
+   "Electrostatic Field": 1,
+   "Thermo-Alchemist": 1,
+   "Kessig Flamebreather": 1,
+   "Mind Stone": 1,
+   "Baral, Chief of Compliance": 1,
+   "Commander's Sphere": 1,
+   "Counterspell": 1,
+   "Storm of Saruman": 1,
+   "Fellwar Stone": 1,
+   "Murmuring Mystic": 1,
+   "Fiery Cannonade": 1,
+   "Opt": 1
+  },
+  "death": {
+   "line": 1949,
+   "turn": 59,
+   "active": "A12",
+   "lastdmg": [
+    1945,
+    "Human Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": [
+    1945,
+    "Damage: Human Token (1129) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    2,
+    -2
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 6,
+   "Kessig Flamebreather": 16,
+   "Thermo-Alchemist": 12,
+   "Veyran, Voice of Duality": 2
+  }
+ },
+ {
+  "log": "g166.log",
+  "winner": "A12",
+  "cast": {
+   "Mind Stone": 1,
+   "Fact or Fiction": 1,
+   "Galvanic Iteration": 2,
+   "Reality Shift": 2,
+   "Lightning Bolt": 2,
+   "Rapid Hybridization": 1,
+   "Anger of the Gods": 1,
+   "Veyran, Voice of Duality": 1,
+   "Coruscation Mage": 1,
+   "Ral's Outburst": 1,
+   "Ral, Storm Conduit": 1
+  },
+  "death": {
+   "line": 812,
+   "turn": 31,
+   "active": "A12",
+   "lastdmg": [
+    810,
+    "Militia Bugler",
+    "A12",
+    4
+   ],
+   "ctx": [
+    810,
+    "Damage: Militia Bugler (254) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    5,
+    -21
+   ]
+  },
+  "dmg_out": {}
+ },
+ {
+  "log": "g167.log",
+  "winner": "C13",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 4,
+   "Brainstorm": 1,
+   "Reverberate": 1,
+   "Big Score": 1,
+   "Vandalblast": 1,
+   "Crackling Drake": 1,
+   "Talrand, Sky Summoner": 1,
+   "Unexpected Windfall": 1,
+   "Thrill of Possibility": 1,
+   "Negate": 1,
+   "Baral, Chief of Compliance": 1,
+   "Sublime Epiphany": 1,
+   "Docent of Perfection": 2,
+   "Storm of Saruman": 1,
+   "Arcane Signet": 1
+  },
+  "death": {
+   "line": 1681,
+   "turn": 52,
+   "active": "B13",
+   "lastdmg": [
+    1643,
+    "Brago, King Eternal",
+    "B13",
+    3
+   ],
+   "ctx": [
+    1680,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(3)-D13]]) [Zone Changer: Drake Token (460)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 24,
+   "Veyran, Voice of Duality": 8,
+   "Crackling Drake": 4
+  }
+ },
+ {
+  "log": "g168.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Veyran, Voice of Duality": 3,
+   "Frantic Search": 1,
+   "Unexpected Windfall": 1,
+   "Pieces of the Puzzle": 1,
+   "Mind Stone": 1,
+   "Counterspell": 1,
+   "Storm of Saruman": 1,
+   "Commander's Sphere": 1,
+   "Arcane Denial": 1,
+   "Lightning Bolt": 1,
+   "Reality Shift": 1,
+   "Opt": 1,
+   "Coruscation Mage": 1,
+   "Negate": 1,
+   "Stormcatch Mentor": 1
+  },
+  "death": {
+   "line": 1736,
+   "turn": 53,
+   "active": "C13",
+   "lastdmg": [
+    724,
+    "Vindictive Vampire",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1735,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(4)-D13]]) [Zone Changer: Blood Artist (242)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 6,
+   "Coruscation Mage": 12
+  }
+ },
+ {
+  "log": "g169.log",
+  "winner": "B13",
+  "cast": {
+   "Firebrand Archer": 1,
+   "Fire": 1,
+   "Consider": 1,
+   "Veyran, Voice of Duality": 1,
+   "Commander's Sphere": 1,
+   "Third Path Iconoclast": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Ponder": 1,
+   "Archmage Emeritus": 1,
+   "Lightning Bolt": 1,
+   "Counterspell": 1,
+   "Negate": 1,
+   "Aetherize": 1,
+   "Opt": 1,
+   "Vandalblast": 1
+  },
+  "death": {
+   "line": 1354,
+   "turn": 37,
+   "active": "B13",
+   "lastdmg": [
+    842,
+    "Flickerwisp",
+    "B13",
+    3
+   ],
+   "ctx": [
+    1353,
+    "Resolve Stack: Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(3)-D13]]) [Zone Changer: Archmage Emeritus (269)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Niv-Mizzet, Parun": 1,
+   "Veyran, Voice of Duality": 6
+  }
+ },
+ {
+  "log": "g170.log",
+  "winner": "C13",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Reality Shift": 1,
+   "Commander's Sphere": 1,
+   "Pieces of the Puzzle": 1,
+   "Veyran, Voice of Duality": 1,
+   "Sublime Epiphany": 1,
+   "Chart a Course": 1,
+   "Frantic Search": 1,
+   "Haughty Djinn": 2,
+   "Worn Powerstone": 1,
+   "Big Score": 1,
+   "Docent of Perfection": 1,
+   "Thermo-Alchemist": 1,
+   "Pongify": 3,
+   "Increasing Vengeance": 1,
+   "Essence Scatter": 1,
+   "Sol Ring": 1,
+   "Murmuring Mystic": 1,
+   "Stormcatch Mentor": 1,
+   "Counterspell": 1,
+   "Baral, Chief of Compliance": 1,
+   "Thrill of Possibility": 1,
+   "Arcane Signet": 1,
+   "Rapid Hybridization": 1,
+   "Talisman of Creativity": 1,
+   "Chaos Warp": 1
+  },
+  "death": {
+   "line": 2540,
+   "turn": 76,
+   "active": "A12",
+   "lastdmg": [
+    2537,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2537,
+    "Damage: Pestilence (64) deals 1 non-combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 11,
+   "Veyran, Voice of Duality": 12,
+   "Thermo-Alchemist": 22
+  }
+ },
+ {
+  "log": "g171.log",
+  "winner": "B13",
+  "cast": {
+   "Guttersnipe": 1,
+   "Big Score": 1,
+   "Stormcatch Mentor": 1,
+   "Haughty Djinn": 2,
+   "Rapid Hybridization": 1,
+   "Opt": 2,
+   "Increasing Vengeance": 2,
+   "Veyran, Voice of Duality": 1,
+   "Galvanic Iteration": 2,
+   "Ral's Outburst": 2,
+   "Worn Powerstone": 1,
+   "Unexpected Windfall": 4,
+   "Lightning Bolt": 1,
+   "Coruscation Mage": 1,
+   "Firebrand Archer": 1,
+   "Third Path Iconoclast": 1,
+   "Thrill of Possibility": 1,
+   "Expressive Iteration": 1,
+   "Preordain": 1,
+   "Arcane Denial": 1,
+   "Reverberate": 1,
+   "Raise the Alarm": 1,
+   "Fact or Fiction": 1,
+   "Fire": 1,
+   "Niv-Mizzet, Parun": 1
+  },
+  "death": {
+   "line": 1672,
+   "turn": 48,
+   "active": "C13",
+   "lastdmg": [
+    1398,
+    "Spirit Token",
+    "token/active=C13",
+    1
+   ],
+   "ctx": null,
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 22,
+   "Haughty Djinn": 24
+  }
+ },
+ {
+  "log": "g172.log",
+  "winner": "A12",
+  "cast": {
+   "Brainstorm": 1,
+   "Kessig Flamebreather": 1,
+   "Veyran, Voice of Duality": 1,
+   "Ponder": 1,
+   "Mulldrifter": 1,
+   "Archmage Emeritus": 1,
+   "Unexpected Windfall": 1,
+   "Big Score": 1,
+   "Third Path Iconoclast": 1,
+   "Storm of Saruman": 1,
+   "Chaos Warp": 1,
+   "Electrostatic Field": 2,
+   "Crackling Drake": 1,
+   "Thrill of Possibility": 2,
+   "Vandalblast": 1,
+   "Firebrand Archer": 2,
+   "Niv-Mizzet, Parun": 1,
+   "Guttersnipe": 1,
+   "Commander's Sphere": 2,
+   "Chart a Course": 2,
+   "Stormcatch Mentor": 1,
+   "Reality Shift": 1,
+   "Anger of the Gods": 2,
+   "Talrand, Sky Summoner": 1,
+   "Docent of Perfection": 1,
+   "Fellwar Stone": 1
+  },
+  "death": {
+   "line": 1690,
+   "turn": 54,
+   "active": "A12",
+   "lastdmg": [
+    1686,
+    "Angel Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1686,
+    "Damage: Angel Token (520) deals 4 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    1,
+    -7
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 6,
+   "Niv-Mizzet, Parun": 14,
+   "Guttersnipe": 12
+  }
+ },
+ {
+  "log": "g173.log",
+  "winner": "B13",
+  "cast": {
+   "Firebrand Archer": 2,
+   "Veyran, Voice of Duality": 3,
+   "Fact or Fiction": 1,
+   "Young Pyromancer": 2,
+   "Electrostatic Field": 1,
+   "Talisman of Creativity": 1,
+   "Essence Scatter": 1,
+   "Ral's Outburst": 1,
+   "Docent of Perfection": 2
+  },
+  "death": {
+   "line": 1142,
+   "turn": 42,
+   "active": "B13",
+   "lastdmg": [
+    1138,
+    "Human Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    1138,
+    "Damage: Human Token (576) deals 1 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 6
+  }
+ },
+ {
+  "log": "g174.log",
+  "winner": "C13",
+  "cast": {
+   "Sol Ring": 1,
+   "Talisman of Creativity": 1,
+   "Consider": 1,
+   "Veyran, Voice of Duality": 4,
+   "Mind Stone": 1,
+   "Arcane Signet": 1,
+   "Brainstorm": 1,
+   "Archmage Emeritus": 2,
+   "Lightning Bolt": 1,
+   "Unexpected Windfall": 1,
+   "Abrade": 1,
+   "Kessig Flamebreather": 2,
+   "Fiery Cannonade": 1,
+   "Essence Scatter": 1,
+   "Pongify": 1,
+   "Ponder": 1,
+   "Guttersnipe": 1,
+   "Electrostatic Field": 1,
+   "Murmuring Mystic": 1,
+   "Preordain": 1,
+   "Big Score": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 1717,
+   "turn": 50,
+   "active": "C13",
+   "lastdmg": [
+    1329,
+    "Mirkwood Bats",
+    "C13",
+    2
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 8,
+   "Kessig Flamebreather": 27,
+   "Electrostatic Field": 18,
+   "Guttersnipe": 24
+  }
+ },
+ {
+  "log": "g175.log",
+  "winner": "A12",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Ral, Storm Conduit": 1,
+   "Veyran, Voice of Duality": 1,
+   "Arcane Signet": 1,
+   "Fire": 1,
+   "Unexpected Windfall": 1,
+   "Chart a Course": 1,
+   "Expressive Iteration": 1,
+   "Anger of the Gods": 1,
+   "Docent of Perfection": 1,
+   "Preordain": 1,
+   "Talisman of Creativity": 1,
+   "Essence Scatter": 1,
+   "Ral's Outburst": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": {
+   "line": 1188,
+   "turn": 43,
+   "active": "A12",
+   "lastdmg": [
+    1184,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    1184,
+    "Damage: Human Token (472) deals 4 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    4,
+    -14
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 28
+  }
+ },
+ {
+  "log": "g176.log",
+  "winner": "D13",
+  "cast": {
+   "Ponder": 1,
+   "Fire": 1,
+   "Veyran, Voice of Duality": 2,
+   "Kessig Flamebreather": 1,
+   "Commander's Sphere": 1,
+   "Guttersnipe": 1,
+   "Pongify": 1,
+   "Baral, Chief of Compliance": 1,
+   "Storm of Saruman": 1,
+   "Mulldrifter": 1,
+   "Big Score": 3,
+   "Fact or Fiction": 1,
+   "Expressive Iteration": 1,
+   "Arcane Denial": 1,
+   "Reality Shift": 1,
+   "Docent of Perfection": 2,
+   "Pieces of the Puzzle": 1,
+   "Chart a Course": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Kessig Flamebreather": 9,
+   "Guttersnipe": 56,
+   "Baral, Chief of Compliance": 5
+  }
+ },
+ {
+  "log": "g177.log",
+  "winner": "A12",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Fellwar Stone": 1,
+   "Reality Shift": 1,
+   "Veyran, Voice of Duality": 4,
+   "Talisman of Creativity": 1,
+   "Arcane Denial": 1,
+   "Murmuring Mystic": 1,
+   "Chaos Warp": 2,
+   "Firebrand Archer": 1
+  },
+  "death": {
+   "line": 1552,
+   "turn": 47,
+   "active": "A12",
+   "lastdmg": [
+    1551,
+    "Jazal Goldmane",
+    "A12",
+    60
+   ],
+   "ctx": [
+    1551,
+    "Damage: Jazal Goldmane (58) deals 60 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    7,
+    -53
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 19,
+   "Murmuring Mystic": 1,
+   "Firebrand Archer": 2
+  }
+ },
+ {
+  "log": "g178.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Mind Stone": 1,
+   "Ral's Outburst": 1,
+   "Veyran, Voice of Duality": 2,
+   "Thrill of Possibility": 1,
+   "Coruscation Mage": 1,
+   "Arcane Signet": 1,
+   "Rapid Hybridization": 1,
+   "Ral, Storm Conduit": 1,
+   "Murmuring Mystic": 1,
+   "Firebrand Archer": 1,
+   "Frantic Search": 1,
+   "Pieces of the Puzzle": 1,
+   "Big Score": 1,
+   "Worn Powerstone": 1,
+   "Negate": 1,
+   "Third Path Iconoclast": 1
+  },
+  "death": {
+   "line": 1625,
+   "turn": 44,
+   "active": "A12",
+   "lastdmg": [
+    1623,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1623,
+    "Damage: Syr Konrad, the Grim (84) deals 1 non-combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 47,
+   "Firebrand Archer": 21
+  }
+ },
+ {
+  "log": "g179.log",
+  "winner": "A12",
+  "cast": {
+   "Sol Ring": 1,
+   "Pieces of the Puzzle": 1,
+   "Veyran, Voice of Duality": 5,
+   "Electrostatic Field": 1,
+   "Frantic Search": 1,
+   "Reality Shift": 1,
+   "Chart a Course": 1,
+   "Brainstorm": 1,
+   "Fiery Cannonade": 1,
+   "Negate": 1,
+   "Guttersnipe": 1,
+   "Worn Powerstone": 1,
+   "Pongify": 1,
+   "Essence Scatter": 1,
+   "Expressive Iteration": 1,
+   "Storm of Saruman": 1,
+   "Talrand, Sky Summoner": 1,
+   "Ponder": 1,
+   "Mulldrifter": 1,
+   "Kessig Flamebreather": 1,
+   "Aetherize": 1,
+   "Opt": 1,
+   "Reverberate": 1,
+   "Swords to Plowshares": 1,
+   "Counterspell": 1
+  },
+  "death": {
+   "line": 2094,
+   "turn": 60,
+   "active": "A12",
+   "lastdmg": [
+    2092,
+    "Angel Token",
+    "token/active=A12",
+    5
+   ],
+   "ctx": [
+    2092,
+    "Damage: Angel Token (1256) deals 5 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    39,
+    -282
+   ]
+  },
+  "dmg_out": {
+   "Electrostatic Field": 42,
+   "Veyran, Voice of Duality": 18,
+   "Guttersnipe": 24,
+   "Kessig Flamebreather": 12
+  }
+ },
+ {
+  "log": "g180.log",
+  "winner": "A12",
+  "cast": {
+   "Electrostatic Field": 1,
+   "Veyran, Voice of Duality": 2,
+   "Essence Scatter": 1,
+   "Consider": 1,
+   "Brainstorm": 1,
+   "Anger of the Gods": 1,
+   "Baral, Chief of Compliance": 1,
+   "Lightning Bolt": 1,
+   "Crackling Drake": 2,
+   "Coruscation Mage": 1,
+   "Chaos Warp": 1,
+   "Frantic Search": 1,
+   "Ral's Outburst": 1,
+   "Kessig Flamebreather": 1,
+   "Big Score": 1,
+   "Chart a Course": 1,
+   "Reality Shift": 1
+  },
+  "death": {
+   "line": 1386,
+   "turn": 44,
+   "active": "A12",
+   "lastdmg": [
+    1379,
+    "Adeline, Resplendent Cathar",
+    "A12",
+    16
+   ],
+   "ctx": [
+    1379,
+    "Damage: Adeline, Resplendent Cathar (302) deals 16 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    6,
+    -10
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Coruscation Mage": 3,
+   "Crackling Drake": 6,
+   "Kessig Flamebreather": 9
+  }
+ },
+ {
+  "log": "g181.log",
+  "winner": "A12",
+  "cast": {
+   "Ponder": 1,
+   "Vandalblast": 1,
+   "Veyran, Voice of Duality": 2,
+   "Ral, Storm Conduit": 1,
+   "Guttersnipe": 1,
+   "Essence Scatter": 1,
+   "Murmuring Mystic": 1,
+   "Coruscation Mage": 1,
+   "Third Path Iconoclast": 1,
+   "Firebrand Archer": 1
+  },
+  "death": {
+   "line": 1326,
+   "turn": 38,
+   "active": "D13",
+   "lastdmg": [
+    1323,
+    "Pestilence",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1323,
+    "Damage: Pestilence (367) deals 1 non-combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 8
+  }
+ },
+ {
+  "log": "g182.log",
+  "winner": "C13",
+  "cast": {
+   "Ponder": 1,
+   "Talisman of Creativity": 1,
+   "Mulldrifter": 1,
+   "Docent of Perfection": 1,
+   "Unexpected Windfall": 1,
+   "Negate": 1,
+   "Talrand, Sky Summoner": 1,
+   "Veyran, Voice of Duality": 5,
+   "Anger of the Gods": 1,
+   "Rapid Hybridization": 1,
+   "Ral, Storm Conduit": 1,
+   "Fact or Fiction": 2,
+   "Increasing Vengeance": 2,
+   "Galvanic Iteration": 3,
+   "Expressive Iteration": 3,
+   "Abrade": 1,
+   "Storm of Saruman": 1,
+   "Brainstorm": 3
+  },
+  "death": {
+   "line": 1903,
+   "turn": 58,
+   "active": "C13",
+   "lastdmg": [
+    1901,
+    "Cruel Celebrant",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1901,
+    "Damage: Cruel Celebrant (283) deals 1 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    -7
+   ]
+  },
+  "dmg_out": {
+   "Docent of Perfection": 5,
+   "Talrand, Sky Summoner": 4,
+   "Veyran, Voice of Duality": 26
+  }
+ },
+ {
+  "log": "g183.log",
+  "winner": "B13",
+  "cast": {
+   "Baral, Chief of Compliance": 2,
+   "Frantic Search": 1,
+   "Veyran, Voice of Duality": 10,
+   "Abrade": 1,
+   "Aetherize": 1,
+   "Storm-Kiln Artist": 3,
+   "Crackling Drake": 2,
+   "Counterspell": 1,
+   "Unexpected Windfall": 1,
+   "Storm of Saruman": 2,
+   "Ponder": 1,
+   "Anger of the Gods": 3,
+   "Talrand, Sky Summoner": 1,
+   "Sol Ring": 1,
+   "Docent of Perfection": 3,
+   "Reality Shift": 2,
+   "Reverberate": 1,
+   "Chaos Warp": 1,
+   "Kessig Flamebreather": 1,
+   "Chart a Course": 1,
+   "Ral, Storm Conduit": 1,
+   "Opt": 1,
+   "Stormcatch Mentor": 1,
+   "Murmuring Mystic": 1,
+   "Galvanic Iteration": 3,
+   "Thrill of Possibility": 3,
+   "Lightning Bolt": 1,
+   "Archmage Emeritus": 1,
+   "Big Score": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Third Path Iconoclast": 1,
+   "Essence Scatter": 1,
+   "Fact or Fiction": 1,
+   "Arcane Signet": 1,
+   "Negate": 1,
+   "Brainstorm": 1,
+   "Sublime Epiphany": 1,
+   "Consider": 1,
+   "Fire": 1,
+   "Thermo-Alchemist": 1,
+   "Expressive Iteration": 1,
+   "Haughty Djinn": 1,
+   "Firebrand Archer": 1,
+   "Pongify": 1,
+   "Arcane Denial": 1,
+   "Preordain": 1,
+   "Worn Powerstone": 1,
+   "Fiery Cannonade": 1,
+   "Guttersnipe": 1,
+   "Talisman of Creativity": 1,
+   "Ral's Outburst": 1
+  },
+  "death": {
+   "line": 3685,
+   "turn": 103,
+   "active": "B13",
+   "lastdmg": [
+    3682,
+    "Human Token",
+    "token/active=B13",
+    1
+   ],
+   "ctx": [
+    3682,
+    "Damage: Human Token (3260) deals 1 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    4,
+    -4
+   ]
+  },
+  "dmg_out": {
+   "Crackling Drake": 33,
+   "Veyran, Voice of Duality": 28,
+   "Talrand, Sky Summoner": 2,
+   "Docent of Perfection": 5,
+   "Murmuring Mystic": 2,
+   "Niv-Mizzet, Parun": 7,
+   "Kessig Flamebreather": 6,
+   "Firebrand Archer": 8,
+   "Thermo-Alchemist": 5,
+   "Guttersnipe": 4
+  }
+ },
+ {
+  "log": "g184.log",
+  "winner": "A12",
+  "cast": {
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 2,
+   "Guttersnipe": 1,
+   "Commander's Sphere": 1,
+   "Essence Scatter": 1,
+   "Fire": 1,
+   "Pongify": 1,
+   "Storm of Saruman": 1,
+   "Sublime Epiphany": 1,
+   "Anger of the Gods": 1,
+   "Mulldrifter": 1,
+   "Arcane Denial": 1,
+   "Chaos Warp": 1,
+   "Reverberate": 1,
+   "Valorous Stance": 1
+  },
+  "death": {
+   "line": 1645,
+   "turn": 50,
+   "active": "A12",
+   "lastdmg": [
+    1283,
+    "Human Token",
+    "token/active=A12",
+    1
+   ],
+   "ctx": [
+    1644,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(4)-D13]]) [Zone Changer: Glen Elendra Archmage (174)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Thermo-Alchemist": 6
+  }
+ },
+ {
+  "log": "g185.log",
+  "winner": "B13",
+  "cast": {
+   "Preordain": 1,
+   "Mind Stone": 1,
+   "Lightning Bolt": 1,
+   "Vandalblast": 1,
+   "Arcane Signet": 1,
+   "Veyran, Voice of Duality": 1,
+   "Thrill of Possibility": 1,
+   "Sublime Epiphany": 1,
+   "Ral's Outburst": 1,
+   "Ponder": 1,
+   "Storm of Saruman": 1,
+   "Storm-Kiln Artist": 1,
+   "Guttersnipe": 2,
+   "Unexpected Windfall": 1,
+   "Worn Powerstone": 2,
+   "Talrand, Sky Summoner": 1,
+   "Ral, Storm Conduit": 1
+  },
+  "death": {
+   "line": 1669,
+   "turn": 42,
+   "active": "B13",
+   "lastdmg": [
+    1665,
+    "Spell Queller",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1665,
+    "Damage: Spell Queller (163) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    6,
+    -8
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 4,
+   "Guttersnipe": 16
+  }
+ },
+ {
+  "log": "g186.log",
+  "winner": "A12",
+  "cast": {
+   "Veyran, Voice of Duality": 1,
+   "Galvanic Iteration": 1,
+   "Chart a Course": 2,
+   "Preordain": 1,
+   "Guttersnipe": 1,
+   "Sol Ring": 1,
+   "Storm of Saruman": 1,
+   "Kessig Flamebreather": 2,
+   "Coruscation Mage": 1
+  },
+  "death": {
+   "line": 940,
+   "turn": 28,
+   "active": "B13",
+   "lastdmg": [
+    616,
+    "Angel of Invention",
+    "A12",
+    2
+   ],
+   "ctx": [
+    939,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(1)-D13]]) [Zone Changer: Coruscation Mage (48)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12
+  }
+ },
+ {
+  "log": "g187.log",
+  "winner": "A12",
+  "cast": {
+   "Kessig Flamebreather": 2,
+   "Veyran, Voice of Duality": 3,
+   "Worn Powerstone": 1,
+   "Murmuring Mystic": 1,
+   "Sublime Epiphany": 1,
+   "Storm-Kiln Artist": 1,
+   "Third Path Iconoclast": 1,
+   "Galvanic Iteration": 2,
+   "Pongify": 2,
+   "Arcane Denial": 1,
+   "Arcane Signet": 1,
+   "Thrill of Possibility": 2,
+   "Docent of Perfection": 2,
+   "Thermo-Alchemist": 1,
+   "Opt": 1,
+   "Haughty Djinn": 1,
+   "Mulldrifter": 1,
+   "Stormcatch Mentor": 1,
+   "Ral's Outburst": 1,
+   "Essence Scatter": 1,
+   "Counterspell": 1
+  },
+  "death": {
+   "line": 1867,
+   "turn": 58,
+   "active": "C13",
+   "lastdmg": [
+    1864,
+    "Vindictive Vampire",
+    "C13",
+    2
+   ],
+   "ctx": [
+    1864,
+    "Damage: Vindictive Vampire (225) deals 2 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    1,
+    -1
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 2,
+   "Thermo-Alchemist": 9
+  }
+ },
+ {
+  "log": "g188.log",
+  "winner": "A12",
+  "cast": {
+   "Veyran, Voice of Duality": 5,
+   "Fact or Fiction": 1,
+   "Sol Ring": 1,
+   "Arcane Signet": 1,
+   "Brainstorm": 1,
+   "Storm of Saruman": 1,
+   "Galvanic Iteration": 2,
+   "Chart a Course": 4,
+   "Commander's Sphere": 1,
+   "Frantic Search": 1,
+   "Arcane Denial": 3,
+   "Haughty Djinn": 3,
+   "Electrostatic Field": 2,
+   "Unexpected Windfall": 1,
+   "Essence Scatter": 1,
+   "Sublime Epiphany": 2,
+   "Thermo-Alchemist": 1,
+   "Fiery Cannonade": 1,
+   "Opt": 1,
+   "Stormcatch Mentor": 1,
+   "Pieces of the Puzzle": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Docent of Perfection": 1,
+   "Fellwar Stone": 1,
+   "Talrand, Sky Summoner": 1,
+   "Counterspell": 1,
+   "Reverberate": 1,
+   "Moment of Heroism": 1,
+   "Vandalblast": 1
+  },
+  "death": {
+   "line": 1853,
+   "turn": 55,
+   "active": "A12",
+   "lastdmg": [
+    1852,
+    "Mother of Runes",
+    "A12",
+    4
+   ],
+   "ctx": [
+    1852,
+    "Damage: Mother of Runes (401) deals 4 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    15,
+    -24
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 12,
+   "Electrostatic Field": 15,
+   "Stormcatch Mentor": 2,
+   "Haughty Djinn": 12,
+   "Thermo-Alchemist": 8,
+   "Niv-Mizzet, Parun": 9,
+   "Docent of Perfection": 5
+  }
+ },
+ {
+  "log": "g189.log",
+  "winner": "A12",
+  "cast": {
+   "Arcane Denial": 1,
+   "Fiery Cannonade": 1,
+   "Ral, Storm Conduit": 1,
+   "Lightning Bolt": 1,
+   "Pieces of the Puzzle": 1,
+   "Veyran, Voice of Duality": 1,
+   "Preordain": 1,
+   "Worn Powerstone": 1,
+   "Docent of Perfection": 1,
+   "Young Pyromancer": 1,
+   "Anger of the Gods": 1,
+   "Unexpected Windfall": 1,
+   "Sublime Epiphany": 1,
+   "Opt": 1,
+   "Crackling Drake": 1,
+   "Kessig Flamebreather": 1,
+   "Thermo-Alchemist": 1
+  },
+  "death": {
+   "line": 1669,
+   "turn": 53,
+   "active": "A12",
+   "lastdmg": [
+    1666,
+    "Angel of Invention",
+    "A12",
+    3
+   ],
+   "ctx": [
+    1666,
+    "Damage: Angel of Invention (137) deals 3 combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    3,
+    -40
+   ]
+  },
+  "dmg_out": {
+   "Veyran, Voice of Duality": 10,
+   "Thermo-Alchemist": 4
+  }
+ },
+ {
+  "log": "g190.log",
+  "winner": "D13",
+  "cast": {
+   "Brainstorm": 1,
+   "Expressive Iteration": 1,
+   "Veyran, Voice of Duality": 2,
+   "Reality Shift": 1,
+   "Firebrand Archer": 1,
+   "Fact or Fiction": 1,
+   "Opt": 1,
+   "Sublime Epiphany": 4,
+   "Anger of the Gods": 1,
+   "Electrostatic Field": 1,
+   "Niv-Mizzet, Parun": 1,
+   "Arcane Signet": 1,
+   "Archmage Emeritus": 1,
+   "Fellwar Stone": 1,
+   "Reverberate": 1,
+   "Negate": 1,
+   "Storm of Saruman": 1,
+   "Kessig Flamebreather": 1,
+   "Galvanic Iteration": 2,
+   "Stormcatch Mentor": 2,
+   "Essence Scatter": 1,
+   "Pieces of the Puzzle": 1,
+   "Ral's Outburst": 1,
+   "Increasing Vengeance": 1
+  },
+  "death": null,
+  "dmg_out": {
+   "Veyran, Voice of Duality": 16,
+   "Firebrand Archer": 24,
+   "Niv-Mizzet, Parun": 27,
+   "Electrostatic Field": 12,
+   "Kessig Flamebreather": 18
+  }
+ },
+ {
+  "log": "g191.log",
+  "winner": "A12",
+  "cast": {
+   "Fellwar Stone": 1,
+   "Storm-Kiln Artist": 1,
+   "Reality Shift": 1,
+   "Talrand, Sky Summoner": 1,
+   "Veyran, Voice of Duality": 1,
+   "Third Path Iconoclast": 1,
+   "Counterspell": 1,
+   "Negate": 1,
+   "Frantic Search": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 835,
+   "turn": 31,
+   "active": "A12",
+   "lastdmg": [
+    834,
+    "Spirit Token",
+    "token/active=A12",
+    2
+   ],
+   "ctx": [
+    834,
+    "Damage: Spirit Token (435) deals 2 combat damage to Ai(2)-D13."
+   ],
+   "life": [
+    19,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Storm-Kiln Artist": 4
+  }
+ },
+ {
+  "log": "g192.log",
+  "winner": "A12",
+  "cast": {
+   "Kessig Flamebreather": 1,
+   "Chaos Warp": 1,
+   "Archmage Emeritus": 1,
+   "Veyran, Voice of Duality": 1,
+   "Pongify": 1,
+   "Talisman of Creativity": 1,
+   "Counterspell": 1,
+   "Sublime Epiphany": 1
+  },
+  "death": {
+   "line": 674,
+   "turn": 25,
+   "active": "A12",
+   "lastdmg": [
+    669,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    669,
+    "Damage: Human Token (439) deals 3 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    7,
+    -116
+   ]
+  },
+  "dmg_out": {
+   "Kessig Flamebreather": 4
+  }
+ },
+ {
+  "log": "g193.log",
+  "winner": "C13",
+  "cast": {
+   "Veyran, Voice of Duality": 6,
+   "Ponder": 1,
+   "Coruscation Mage": 1,
+   "Unexpected Windfall": 1,
+   "Chart a Course": 1,
+   "Fire": 1,
+   "Frantic Search": 1,
+   "Baral, Chief of Compliance": 1,
+   "Worn Powerstone": 1,
+   "Thermo-Alchemist": 1,
+   "Arcane Denial": 1,
+   "Rapid Hybridization": 1,
+   "Abrade": 1,
+   "Fellwar Stone": 1,
+   "Mind Stone": 1,
+   "Electrostatic Field": 1,
+   "Essence Scatter": 2,
+   "Counterspell": 1,
+   "Aetherize": 1
+  },
+  "death": {
+   "line": 2918,
+   "turn": 69,
+   "active": "C13",
+   "lastdmg": [
+    2916,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    2916,
+    "Damage: Syr Konrad, the Grim (387) deals 1 non-combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 12,
+   "Veyran, Voice of Duality": 10,
+   "Thermo-Alchemist": 15
+  }
+ },
+ {
+  "log": "g194.log",
+  "winner": "B13",
+  "cast": {
+   "Coruscation Mage": 1,
+   "Veyran, Voice of Duality": 1,
+   "Fact or Fiction": 2,
+   "Chaos Warp": 1,
+   "Electrostatic Field": 1,
+   "Storm of Saruman": 1,
+   "Ral, Storm Conduit": 1,
+   "Worn Powerstone": 1,
+   "Chart a Course": 1,
+   "Stormcatch Mentor": 1,
+   "Commander's Sphere": 1,
+   "Firebrand Archer": 1,
+   "Essence Scatter": 1,
+   "Archmage Emeritus": 1
+  },
+  "death": {
+   "line": 1516,
+   "turn": 41,
+   "active": "B13",
+   "lastdmg": [
+    1302,
+    "Cloudblazer",
+    "B13",
+    2
+   ],
+   "ctx": [
+    1515,
+    "Resolve Stack: Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life. (Targeting: [[Ai(3)-D13]]) [Zone Changer: Spirit Token (420)]"
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Coruscation Mage": 44,
+   "Veyran, Voice of Duality": 20,
+   "Electrostatic Field": 14,
+   "Firebrand Archer": 2,
+   "Stormcatch Mentor": 4
+  }
+ },
+ {
+  "log": "g195.log",
+  "winner": "B13",
+  "cast": {
+   "Baral, Chief of Compliance": 1,
+   "Mulldrifter": 1,
+   "Storm-Kiln Artist": 1,
+   "Docent of Perfection": 1,
+   "Crackling Drake": 1,
+   "Chart a Course": 1,
+   "Storm of Saruman": 1,
+   "Veyran, Voice of Duality": 1,
+   "Firebrand Archer": 2,
+   "Mind Stone": 1,
+   "Aetherize": 1,
+   "Pieces of the Puzzle": 1,
+   "Fact or Fiction": 3,
+   "Vandalblast": 1
+  },
+  "death": {
+   "line": 1310,
+   "turn": 40,
+   "active": "A12",
+   "lastdmg": [
+    1305,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": [
+    1305,
+    "Damage: Human Token (1109) deals 3 combat damage to Ai(4)-D13."
+   ],
+   "life": [
+    5,
+    -7
+   ]
+  },
+  "dmg_out": {
+   "Crackling Drake": 1,
+   "Firebrand Archer": 54
+  }
+ },
+ {
+  "log": "g196.log",
+  "winner": "A12",
+  "cast": {
+   "Preordain": 1,
+   "Stormcatch Mentor": 1,
+   "Opt": 1,
+   "Sol Ring": 1,
+   "Ral, Storm Conduit": 1,
+   "Fiery Cannonade": 1,
+   "Veyran, Voice of Duality": 2,
+   "Young Pyromancer": 1,
+   "Fact or Fiction": 1,
+   "Arcane Denial": 1
+  },
+  "death": {
+   "line": 745,
+   "turn": 27,
+   "active": "A12",
+   "lastdmg": [
+    740,
+    "Human Token",
+    "token/active=A12",
+    4
+   ],
+   "ctx": [
+    740,
+    "Damage: Human Token (627) deals 4 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    8,
+    -28
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 4
+  }
+ },
+ {
+  "log": "g197.log",
+  "winner": "C13",
+  "cast": {
+   "Young Pyromancer": 1,
+   "Abrade": 1,
+   "Mulldrifter": 1,
+   "Guttersnipe": 1,
+   "Thermo-Alchemist": 1,
+   "Veyran, Voice of Duality": 2,
+   "Commander's Sphere": 1,
+   "Big Score": 2,
+   "Reverberate": 1,
+   "Fact or Fiction": 1,
+   "Ral's Outburst": 1,
+   "Chart a Course": 1,
+   "Ral, Storm Conduit": 1
+  },
+  "death": {
+   "line": 1369,
+   "turn": 37,
+   "active": "B13",
+   "lastdmg": [
+    1366,
+    "Syr Konrad, the Grim",
+    "C13",
+    1
+   ],
+   "ctx": [
+    1366,
+    "Damage: Syr Konrad, the Grim (387) deals 1 non-combat damage to Ai(1)-D13."
+   ],
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Young Pyromancer": 2,
+   "Thermo-Alchemist": 6,
+   "Guttersnipe": 36,
+   "Veyran, Voice of Duality": 16
+  }
+ },
+ {
+  "log": "g198.log",
+  "winner": "B13",
+  "cast": {
+   "Stormcatch Mentor": 1,
+   "Fire": 1,
+   "Guttersnipe": 1,
+   "Murmuring Mystic": 2,
+   "Ral's Outburst": 1,
+   "Galvanic Iteration": 2,
+   "Chaos Warp": 2,
+   "Veyran, Voice of Duality": 4,
+   "Coruscation Mage": 1,
+   "Thrill of Possibility": 2,
+   "Lightning Bolt": 1,
+   "Fact or Fiction": 1,
+   "Unexpected Windfall": 1,
+   "Expressive Iteration": 1,
+   "Ral, Storm Conduit": 1,
+   "Kessig Flamebreather": 1,
+   "Mind Stone": 1,
+   "Aetherize": 1,
+   "Baral, Chief of Compliance": 1,
+   "Negate": 1,
+   "Essence Scatter": 1,
+   "Preordain": 1,
+   "Frantic Search": 1,
+   "Anger of the Gods": 1,
+   "Talisman of Creativity": 1
+  },
+  "death": {
+   "line": 2842,
+   "turn": 82,
+   "active": "B13",
+   "lastdmg": [
+    2841,
+    "Agent of Treachery",
+    "B13",
+    2
+   ],
+   "ctx": [
+    2841,
+    "Damage: Agent of Treachery (16) deals 2 combat damage to Ai(3)-D13."
+   ],
+   "life": [
+    18,
+    -6
+   ]
+  },
+  "dmg_out": {
+   "Stormcatch Mentor": 1,
+   "Guttersnipe": 18,
+   "Murmuring Mystic": 1,
+   "Veyran, Voice of Duality": 8,
+   "Kessig Flamebreather": 3
+  }
+ },
+ {
+  "log": "g199.log",
+  "winner": "B13",
+  "cast": {
+   "Mulldrifter": 1,
+   "Worn Powerstone": 1,
+   "Murmuring Mystic": 1,
+   "Storm-Kiln Artist": 1,
+   "Veyran, Voice of Duality": 1,
+   "Kessig Flamebreather": 1,
+   "Pongify": 1,
+   "Consider": 1,
+   "Talisman of Creativity": 1,
+   "Firebrand Archer": 1,
+   "Electrostatic Field": 1
+  },
+  "death": {
+   "line": 1157,
+   "turn": 40,
+   "active": "C13",
+   "lastdmg": [
+    1012,
+    "Adeline, Resplendent Cathar",
+    "A12",
+    13
+   ],
+   "ctx": null,
+   "life": [
+    2,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Murmuring Mystic": 1,
+   "Kessig Flamebreather": 15
+  }
+ },
+ {
+  "log": "g200.log",
+  "winner": "C13",
+  "cast": {
+   "Brainstorm": 1,
+   "Talisman of Creativity": 1,
+   "Storm-Kiln Artist": 1,
+   "Frantic Search": 1,
+   "Guttersnipe": 1,
+   "Reality Shift": 1,
+   "Crackling Drake": 1,
+   "Anger of the Gods": 1,
+   "Veyran, Voice of Duality": 6,
+   "Arcane Denial": 1,
+   "Lightning Bolt": 1,
+   "Negate": 1,
+   "Preordain": 1,
+   "Ponder": 1,
+   "Mulldrifter": 2,
+   "Coruscation Mage": 1,
+   "Consider": 1,
+   "Storm of Saruman": 1,
+   "Fire": 1,
+   "Archmage Emeritus": 2,
+   "Pongify": 1
+  },
+  "death": {
+   "line": 2352,
+   "turn": 69,
+   "active": "A12",
+   "lastdmg": [
+    2142,
+    "Human Token",
+    "token/active=A12",
+    3
+   ],
+   "ctx": null,
+   "life": [
+    1,
+    0
+   ]
+  },
+  "dmg_out": {
+   "Guttersnipe": 6,
+   "Coruscation Mage": 20
+  }
+ }
+]

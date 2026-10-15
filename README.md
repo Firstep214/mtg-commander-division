@@ -3,8 +3,9 @@
 Public, read-only evidence for Voltaire's MTG Commander Challenge #001, kept separate from the video studio (studio-office). Produced on Grok Bot's box under `/workspace/mtg/`, mirrored here so anyone (incl. ChatGPT) can read it.
 
 ## Status
-- **prompts APPLIED / verification pending**: 15 agents [MTG-00]..[MTG-14] have v2.2 shared policy (Bracket 2 LOCKED) + role block + v2.3 Continuous Deck Improvement Protocol. `prompts/READBACK.md` = live sha256 readback vs `prompts/v2.3_installed/`. Pre-install backups (id/name/description only): `prompts/backup_2026-10-14/`.
-- **decks BUILT / independent validation pending**: `decks/` A Adeline ($95.61), B Brago ($83.50), C Teysa ($85.97), D Veyran ($80.45). Each has `.md` (strategy, counts, curve, per-card prices), `.txt` (copy-paste list), `AUDIT_*.md` (script audit + Arbiter/Nemesis-role pass done by Grok Bot before the agents existed; the live agents have not re-audited yet).
+- **prompts APPLIED**: 15 agents [MTG-00]..[MTG-14] have v2.2 shared policy (Bracket 2 LOCKED) + role block + v2.3 Continuous Deck Improvement Protocol. `prompts/READBACK.md` = live sha256 readback vs `prompts/v2.3_installed/` (15/15 match). Pre-install backups (id/name/description only): `prompts/backup_2026-10-14/`.
+- **sources CACHED**: `sources/2026-10-14/` — Comprehensive Rules 20260925, live Commander B&R + brackets/GC pages (retrieved 2026-10-14), banlist.json (42 named), game_changers.json (53). See SOURCES.md.
+- **decks BUILT / independent audits DONE**: A Adeline ledger $95.61 (Nemesis REVISE: strict-retail $102.78 over cap), B Brago $83.50 PASS, C Teysa $85.97 PASS, D Veyran $80.45 PASS (disclose 3-card engine). Arbiter/Nemesis reports in `audits/`. Pre-agent script audits remain in `decks/AUDIT_*.md`.
 - **Forge SMOKE-TESTED / performance untested**: `forge/sim_test.log`, `forge/sim_v1_final.log` = two real Forge 2.0.15 headless 4-player Commander games (built-in AI). Engine verification only; no win-rate claims.
 
 ## Other files

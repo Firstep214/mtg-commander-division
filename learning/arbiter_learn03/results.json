@@ -1,0 +1,387 @@
+{
+ "B_control": {
+  "pre": [
+   84.06,
+   87.73
+  ],
+  "post": [
+   77.13,
+   80.8
+  ],
+  "swaps": [
+   {
+    "out": "Comeuppance",
+    "out_line": 45,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     5.0,
+     0.15
+    ],
+    "st": [
+     5.0,
+     0.15
+    ]
+   },
+   {
+    "out": "Supreme Verdict",
+    "out_line": 42,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     2.37,
+     0.29
+    ],
+    "st": [
+     2.37,
+     0.29
+    ]
+   }
+  ],
+  "checks": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Brago, King Eternal",
+     "type": "Legendary Creature \u2014 Spirit Noble",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "UW",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     []
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ },
+ "C_aristocrats": {
+  "pre": [
+   90.91,
+   98.15
+  ],
+  "post": [
+   86.56,
+   93.8
+  ],
+  "swaps": [
+   {
+    "out": "Toxic Deluge",
+    "out_line": 41,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     4.81,
+     0.46
+    ],
+    "st": [
+     4.81,
+     0.46
+    ]
+   }
+  ],
+  "checks": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Teysa Karlov",
+     "type": "Legendary Creature \u2014 Human Advisor",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "BW",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     [
+      [
+       [
+        1,
+        "1 Teysa Karlov"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Teysa Karlov + Ashnod's Altar"
+      ],
+      [
+       [
+        34,
+        "1 Pitiless Plunderer"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Pitiless Plunderer + Ashnod's Altar"
+      ],
+      [
+       [
+        20,
+        "1 Yahenni, Undying Partisan"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Yahenni, Undying Partisan + Ashnod's Altar"
+      ],
+      [
+       [
+        64,
+        "1 Sifter of Skulls"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Sifter of Skulls + Ashnod's Altar"
+      ],
+      [
+       [
+        39,
+        "1 Kaya's Ghostform"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Kaya's Ghostform + Ashnod's Altar"
+      ]
+     ]
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ },
+ "D_spellslinger": {
+  "pre": [
+   76.18,
+   79.11
+  ],
+  "post": [
+   80.92,
+   83.85
+  ],
+  "swaps": [
+   {
+    "out": "Coruscation Mage",
+    "out_line": 54,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     2.4,
+     0.46
+    ],
+    "st": [
+     2.4,
+     0.46
+    ]
+   },
+   {
+    "out": "Fiery Cannonade",
+    "out_line": 53,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     0.22,
+     1.93
+    ],
+    "st": [
+     0.22,
+     1.93
+    ]
+   },
+   {
+    "out": "Essence Scatter",
+    "out_line": 42,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     0.07,
+     5.07
+    ],
+    "st": [
+     0.07,
+     5.07
+    ]
+   },
+   {
+    "out": "Consider",
+    "out_line": 29,
+    "in_present": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     0.35,
+     0.32
+    ],
+    "st": [
+     0.35,
+     0.32
+    ]
+   }
+  ],
+  "checks": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Veyran, Voice of Duality",
+     "type": "Legendary Creature \u2014 Efreet Wizard",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "RU",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     [
+      [
+       [
+        16,
+        "1 Storm-Kiln Artist"
+       ],
+       [
+        59,
+        "1 Haughty Djinn"
+       ],
+       "Storm-Kiln Artist + Haughty Djinn"
+      ]
+     ]
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  }
+ }
+}

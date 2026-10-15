@@ -1,0 +1,247 @@
+{
+ "B_control": {
+  "sha": "3290d6fab3bfb0d7df579a5620a449a66ff3ed7bcf30ac01f0d008c341cbf86a",
+  "checks": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Brago, King Eternal",
+     "type": "Legendary Creature \u2014 Spirit Noble",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "UW",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     []
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  },
+  "ledger": 84.06,
+  "strict": 87.73
+ },
+ "C_aristocrats": {
+  "sha": "76f1c0b1c83abb28f178efb629dcbea4e70fee4626c80eed19d47a6c5a4cd6fb",
+  "checks": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Teysa Karlov",
+     "type": "Legendary Creature \u2014 Human Advisor",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "BW",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     [
+      [
+       [
+        1,
+        "1 Teysa Karlov"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Teysa Karlov + Ashnod's Altar"
+      ],
+      [
+       [
+        34,
+        "1 Pitiless Plunderer"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Pitiless Plunderer + Ashnod's Altar"
+      ],
+      [
+       [
+        20,
+        "1 Yahenni, Undying Partisan"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Yahenni, Undying Partisan + Ashnod's Altar"
+      ],
+      [
+       [
+        64,
+        "1 Sifter of Skulls"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Sifter of Skulls + Ashnod's Altar"
+      ],
+      [
+       [
+        39,
+        "1 Kaya's Ghostform"
+       ],
+       [
+        25,
+        "1 Ashnod's Altar"
+       ],
+       "Kaya's Ghostform + Ashnod's Altar"
+      ]
+     ]
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  },
+  "ledger": 90.91,
+  "strict": 98.15
+ },
+ "D_spellslinger": {
+  "sha": "fabd21d52042a5324b4712ef11ebd73662d3f359fe9acedbad1f96bacd0f0669",
+  "checks": {
+   "names": [
+    true,
+    []
+   ],
+   "count": [
+    true,
+    100
+   ],
+   "singleton": [
+    true,
+    []
+   ],
+   "commander": [
+    true,
+    {
+     "line": 1,
+     "text": "1 Veyran, Voice of Duality",
+     "type": "Legendary Creature \u2014 Efreet Wizard",
+     "partner": false,
+     "legality": "legal"
+    }
+   ],
+   "color_identity": [
+    true,
+    [
+     "RU",
+     []
+    ]
+   ],
+   "bans": [
+    true,
+    []
+   ],
+   "game_changers": [
+    true,
+    []
+   ],
+   "combos": [
+    true,
+    [
+     [],
+     [
+      [
+       [
+        16,
+        "1 Storm-Kiln Artist"
+       ],
+       [
+        59,
+        "1 Haughty Djinn"
+       ],
+       "Storm-Kiln Artist + Haughty Djinn"
+      ]
+     ]
+    ]
+   ],
+   "extra_turns": [
+    true,
+    []
+   ],
+   "mld": [
+    true,
+    []
+   ]
+  },
+  "ledger": 76.18,
+  "strict": 79.11
+ }
+}

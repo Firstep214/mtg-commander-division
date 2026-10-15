@@ -1,0 +1,384 @@
+{
+ "flags": [
+  [
+   3,
+   "Angrath's Marauders",
+   "a/angraths_marauders.txt",
+   "AI:RemoveDeck:Random"
+  ],
+  [
+   4,
+   "Arcane Signet",
+   "a/arcane_signet.txt",
+   "AI:RemoveDeck:NonCommander"
+  ],
+  [
+   5,
+   "Archon of Emeria",
+   "a/archon_of_emeria.txt",
+   "AI:RemoveDeck:Random"
+  ],
+  [
+   10,
+   "Bomat Courier",
+   "b/bomat_courier.txt",
+   "AI:RemoveDeck:Random"
+  ],
+  [
+   13,
+   "Boros Signet",
+   "b/boros_signet.txt",
+   "AI:RemoveDeck:All"
+  ],
+  [
+   20,
+   "Command Tower",
+   "c/command_tower.txt",
+   "AI:RemoveDeck:NonCommander"
+  ],
+  [
+   40,
+   "Loran of the Third Path",
+   "l/loran_of_the_third_path.txt",
+   "AI:RemoveDeck:Random"
+  ],
+  [
+   47,
+   "Odric, Master Tactician",
+   "o/odric_master_tactician.txt",
+   "AI:RemoveDeck:All"
+  ],
+  [
+   51,
+   "Path of Ancestry",
+   "p/path_of_ancestry.txt",
+   "AI:RemoveDeck:NonCommander"
+  ]
+ ],
+ "missing": [],
+ "unpriced": [],
+ "prices": {
+  "Winota, Joiner of Forces": [
+   1.86,
+   1.86
+  ],
+  "Adeline, Resplendent Cathar": [
+   2.54,
+   2.54
+  ],
+  "Angrath's Marauders": [
+   0.28,
+   0.28
+  ],
+  "Arcane Signet": [
+   0.39,
+   0.39
+  ],
+  "Archon of Emeria": [
+   1.06,
+   1.06
+  ],
+  "Aven Mindcensor": [
+   0.42,
+   0.62
+  ],
+  "Battlefield Forge": [
+   0.22,
+   0.22
+  ],
+  "Blade Historian": [
+   4.67,
+   4.67
+  ],
+  "Blasphemous Act": [
+   0.76,
+   0.76
+  ],
+  "Bomat Courier": [
+   0.29,
+   0.29
+  ],
+  "Boros Charm": [
+   4.37,
+   4.37
+  ],
+  "Boros Garrison": [
+   0.19,
+   0.19
+  ],
+  "Boros Signet": [
+   0.54,
+   0.54
+  ],
+  "Brutal Cathar // Moonrage Brute": [
+   0.27,
+   0.27
+  ],
+  "Captain of the Watch": [
+   0.36,
+   0.36
+  ],
+  "Cathar Commando": [
+   0.19,
+   0.19
+  ],
+  "Chandra, Acolyte of Flame": [
+   0.67,
+   0.67
+  ],
+  "Chaos Warp": [
+   0.32,
+   0.32
+  ],
+  "Clifftop Retreat": [
+   0.19,
+   0.19
+  ],
+  "Command Tower": [
+   0.18,
+   0.18
+  ],
+  "Evangel of Heliod": [
+   0.2,
+   0.2
+  ],
+  "Exotic Orchard": [
+   0.21,
+   0.21
+  ],
+  "Fellwar Stone": [
+   0.56,
+   0.56
+  ],
+  "Flawless Maneuver": [
+   8.67,
+   8.67
+  ],
+  "Furycalm Snarl": [
+   0.25,
+   0.25
+  ],
+  "Geist-Honored Monk": [
+   0.29,
+   0.29
+  ],
+  "Generous Gift": [
+   0.93,
+   0.93
+  ],
+  "Gingerbrute": [
+   0.26,
+   0.26
+  ],
+  "Goblin Rabblemaster": [
+   0.6,
+   0.6
+  ],
+  "Gold Myr": [
+   0.71,
+   0.71
+  ],
+  "Goldhound": [
+   0.17,
+   0.17
+  ],
+  "Haktos the Unscarred": [
+   0.29,
+   0.29
+  ],
+  "Hero of Bladehold": [
+   0.61,
+   0.61
+  ],
+  "Hope of Ghirapur": [
+   2.43,
+   2.43
+  ],
+  "Iron Myr": [
+   0.72,
+   0.72
+  ],
+  "Knight-Errant of Eos": [
+   0.32,
+   0.32
+  ],
+  "Krenko, Tin Street Kingpin": [
+   2.98,
+   2.98
+  ],
+  "Legion Warboss": [
+   0.42,
+   0.42
+  ],
+  "Lena, Selfless Champion": [
+   0.36,
+   0.36
+  ],
+  "Loran of the Third Path": [
+   4.99,
+   4.99
+  ],
+  "Loyal Apprentice": [
+   0.24,
+   0.24
+  ],
+  "Memnite": [
+   2.33,
+   2.33
+  ],
+  "Mentor of the Meek": [
+   0.18,
+   0.18
+  ],
+  "Mind Stone": [
+   0.2,
+   0.2
+  ],
+  "Mountain": [
+   0.08,
+   0.08
+  ],
+  "Myr Sire": [
+   0.16,
+   0.16
+  ],
+  "Odric, Master Tactician": [
+   0.36,
+   0.36
+  ],
+  "Ornithopter": [
+   0.26,
+   0.26
+  ],
+  "Ornithopter of Paradise": [
+   0.34,
+   0.34
+  ],
+  "Palace Jailer": [
+   0.19,
+   0.19
+  ],
+  "Path of Ancestry": [
+   0.18,
+   0.18
+  ],
+  "Path to Exile": [
+   0.84,
+   0.85
+  ],
+  "Phoenix Chick": [
+   0.35,
+   0.35
+  ],
+  "Phyrexian Walker": [
+   2.32,
+   2.32
+  ],
+  "Pia and Kiran Nalaar": [
+   0.18,
+   0.18
+  ],
+  "Plains": [
+   0.06,
+   0.06
+  ],
+  "Professional Face-Breaker": [
+   4.71,
+   4.71
+  ],
+  "Robber of the Rich": [
+   1.68,
+   1.68
+  ],
+  "Rograkh, Son of Rohgahh": [
+   2.2,
+   2.2
+  ],
+  "Rustvale Bridge": [
+   0.22,
+   0.22
+  ],
+  "Selfless Savior": [
+   0.34,
+   0.34
+  ],
+  "Signal Pest": [
+   0.36,
+   0.36
+  ],
+  "Silverwing Squadron": [
+   0.34,
+   0.34
+  ],
+  "Skrelv, Defector Mite": [
+   3.05,
+   3.05
+  ],
+  "Slayers' Stronghold": [
+   0.29,
+   0.29
+  ],
+  "Sol Ring": [
+   1.19,
+   1.19
+  ],
+  "Spectator Seating": [
+   5.3,
+   5.3
+  ],
+  "Sundown Pass": [
+   2.37,
+   2.37
+  ],
+  "Sunhome, Fortress of the Legion": [
+   0.34,
+   0.34
+  ],
+  "Swiftfoot Boots": [
+   1.71,
+   1.71
+  ],
+  "Swords to Plowshares": [
+   0.99,
+   0.99
+  ],
+  "Talisman of Conviction": [
+   0.34,
+   0.34
+  ],
+  "Temple of Triumph": [
+   0.18,
+   0.18
+  ],
+  "Thalia, Guardian of Thraben": [
+   0.43,
+   0.43
+  ],
+  "Tocasia's Welcome": [
+   1.42,
+   1.42
+  ],
+  "Vanquish the Horde": [
+   0.24,
+   0.24
+  ],
+  "Wear // Tear": [
+   1.09,
+   1.09
+  ],
+  "Welcoming Vampire": [
+   2.94,
+   3.22
+  ],
+  "Wind-Scarred Crag": [
+   0.08,
+   0.08
+  ],
+  "Zealous Conscripts": [
+   0.27,
+   0.27
+  ]
+ },
+ "ledger": 87.43,
+ "strict": 87.92
+}

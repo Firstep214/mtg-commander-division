@@ -1,0 +1,284 @@
+== playtest_batch1: games 24 A11 wins 10
+winner of games A lost: Counter({'B': 6, 'C': 4, 'D': 4})
+A11 elimination cause: Counter({'life total reached 0': 14})
+A11 eliminated while active player was: Counter({'B': 8, 'D': 3, 'A11': 2, 'C': 1})
+mulligan lines distinct: Counter({'kept a hand of 7 cards': 22, 'mulliganed down to 7 cards.': 3, 'mulliganed down to 6 cards.': 2, 'kept a hand of 6 cards': 2})
+games w/ A mulligan: 3 wins among them 0
+card: castW/10 castL/14
+  Adeline, Resplendent Cathar: 10 / 14
+  Divine Visitation: 4 / 5
+  Collective Effort: 6 / 3
+  Raise the Alarm: 4 / 4
+  Glorious Anthem: 2 / 5
+  Intangible Virtue: 4 / 3
+  Benevolent Bodyguard: 3 / 4
+  Hero of Bladehold: 6 / 1
+  Inspired Charge: 2 / 5
+  Jazal Goldmane: 3 / 4
+  Felidar Retreat: 2 / 4
+  Valorous Stance: 4 / 2
+  Emeria Angel: 1 / 5
+  Hallowed Spiritkeeper: 4 / 2
+  Loran of the Third Path: 3 / 3
+  Inspiring Overseer: 2 / 4
+  Flawless Maneuver: 3 / 3
+  Arcane Signet: 1 / 5
+  Sol Ring: 3 / 3
+  Angel of Invention: 4 / 2
+  Wayfarer's Bauble: 0 / 6
+  Benalish Marshal: 4 / 1
+  Mother of Runes: 1 / 4
+  Captain of the Watch: 4 / 1
+  Knight of the White Orchid: 2 / 3
+  Dawn of Hope: 2 / 3
+  Secure the Wastes: 2 / 3
+  Mind Stone: 3 / 2
+  Commander's Sphere: 2 / 3
+  Resolute Reinforcements: 4 / 1
+  Welcoming Vampire: 3 / 2
+  Moment of Heroism: 1 / 4
+  Staff of the Storyteller: 1 / 4
+  Generous Gift: 3 / 2
+  Bennie Bracks, Zoologist: 2 / 3
+  Tocasia's Welcome: 1 / 3
+  Thought Vessel: 2 / 2
+  Militia Bugler: 3 / 1
+  Dictate of Heliod: 3 / 1
+  Skullclamp: 2 / 2
+  Rally the Ranks: 2 / 2
+  Return to Dust: 0 / 4
+  Cathars' Crusade: 3 / 1
+  Archivist of Oghma: 2 / 2
+  Sigil of the Empty Throne: 0 / 4
+  Increasing Devotion: 3 / 1
+  Elspeth, Sun's Champion: 0 / 3
+  Selfless Spirit: 0 / 3
+  Fateful Absence: 1 / 2
+  Path to Exile: 1 / 2
+  Cathar Commando: 2 / 1
+  Swords to Plowshares: 1 / 2
+  Gift of Estates: 2 / 1
+  Rabble Rousing: 1 / 2
+  Austere Command: 2 / 1
+  Weathered Wayfarer: 3 / 0
+  Mentor of the Meek: 1 / 2
+  Spectral Procession: 1 / 2
+  Sram's Expertise: 1 / 1
+  Elspeth Resplendent: 1 / 1
+  Castle Ardenvale: 0 / 0
+  White Sun's Twilight: 0 / 0
+  Unbreakable Formation: 0 / 0
+  Secluded Steppe: 0 / 0
+  Sunfall: 0 / 0
+  Mirror Entity: 0 / 0
+  Emeria, the Sky Ruin: 0 / 0
+Adeline cast in 24 games; wins 10 ; own-turn# when cast: [3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7, 8, 10, 16]
+no-Adeline games 0 wins 0 []
+damage to A11 by source top15: [('Brago, King Eternal', 72), ('Spirit Token', 54), ('Veyran, Voice of Duality', 48), ('Soldier Token', 39), ('Haughty Djinn', 37), ('Teysa Karlov', 22), ('Angel of Serenity', 20), ('Docent of Perfection', 20), ('Drake Token', 20), ('Human Wizard Token', 18), ('Restoration Angel', 15), ('Frost Titan', 12), ('Mirkwood Bats', 12), ('Sun Titan', 12), ('Niv-Mizzet, Parun', 10)]
+damage to A11 during turn of: Counter({'B': 219, 'D': 208, 'C': 135})
+== playtest_batch2: games 50 A11 wins 20
+winner of games A lost: Counter({'C': 12, 'B': 9, 'D': 9})
+A11 elimination cause: Counter({'life total reached 0': 30})
+A11 eliminated while active player was: Counter({'B': 14, 'C': 7, 'D': 6, 'A11': 3})
+mulligan lines distinct: Counter({'kept a hand of 7 cards': 48, 'mulliganed down to 7 cards.': 13, 'mulliganed down to 6 cards.': 2, 'kept a hand of 6 cards': 2})
+games w/ A mulligan: 13 wins among them 4
+card: castW/20 castL/30
+  Adeline, Resplendent Cathar: 20 / 30
+  Mother of Runes: 9 / 10
+  Resolute Reinforcements: 6 / 12
+  Skullclamp: 5 / 12
+  Mentor of the Meek: 7 / 10
+  Captain of the Watch: 9 / 7
+  Divine Visitation: 8 / 8
+  Militia Bugler: 6 / 10
+  Welcoming Vampire: 9 / 7
+  Jazal Goldmane: 10 / 6
+  Spectral Procession: 7 / 9
+  Knight of the White Orchid: 8 / 7
+  Path to Exile: 10 / 5
+  Inspiring Overseer: 9 / 6
+  Wayfarer's Bauble: 5 / 10
+  Thought Vessel: 8 / 6
+  Return to Dust: 5 / 9
+  Cathars' Crusade: 9 / 5
+  Rabble Rousing: 5 / 9
+  Weathered Wayfarer: 7 / 7
+  Glorious Anthem: 6 / 7
+  Generous Gift: 8 / 5
+  Increasing Devotion: 9 / 4
+  Bennie Bracks, Zoologist: 9 / 4
+  Valorous Stance: 5 / 7
+  Dawn of Hope: 5 / 7
+  Swords to Plowshares: 5 / 7
+  Emeria Angel: 6 / 6
+  Loran of the Third Path: 8 / 4
+  Archivist of Oghma: 5 / 7
+  Intangible Virtue: 6 / 5
+  Flawless Maneuver: 7 / 4
+  Sigil of the Empty Throne: 3 / 8
+  Raise the Alarm: 7 / 4
+  Benalish Marshal: 6 / 4
+  Staff of the Storyteller: 6 / 4
+  Elspeth, Sun's Champion: 5 / 4
+  Fateful Absence: 6 / 3
+  Secure the Wastes: 5 / 4
+  Tocasia's Welcome: 3 / 6
+  Collective Effort: 7 / 2
+  Gift of Estates: 2 / 7
+  Benevolent Bodyguard: 3 / 6
+  Hero of Bladehold: 5 / 4
+  Dictate of Heliod: 6 / 3
+  Commander's Sphere: 4 / 5
+  Sram's Expertise: 4 / 5
+  Sol Ring: 5 / 4
+  Cathar Commando: 3 / 5
+  Hallowed Spiritkeeper: 5 / 3
+  Inspired Charge: 4 / 4
+  Elspeth Resplendent: 5 / 3
+  Angel of Invention: 4 / 4
+  Selfless Spirit: 4 / 3
+  Felidar Retreat: 4 / 3
+  Mind Stone: 2 / 5
+  Rally the Ranks: 2 / 5
+  Moment of Heroism: 5 / 2
+  White Sun's Twilight: 3 / 2
+  Arcane Signet: 2 / 3
+  Austere Command: 3 / 1
+  Castle Ardenvale: 0 / 0
+  Unbreakable Formation: 0 / 0
+  Secluded Steppe: 0 / 0
+  Sunfall: 0 / 0
+  Mirror Entity: 0 / 0
+  Emeria, the Sky Ruin: 0 / 0
+Adeline cast in 50 games; wins 20 ; own-turn# when cast: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 9, 9, 9, 11, 12, 12]
+no-Adeline games 0 wins 0 []
+damage to A11 by source top15: [('Veyran, Voice of Duality', 212), ('Brago, King Eternal', 167), ('Haughty Djinn', 93), ('Yahenni, Undying Partisan', 58), ('Soldier Token', 51), ('Restoration Angel', 42), ('Dream Trawler', 38), ('Angel of Serenity', 35), ('Teysa Karlov', 34), ('Glen Elendra Archmage', 28), ('Frost Titan', 26), ('Carrion Feeder', 26), ('Vampire Token', 25), ('Human Wizard Token', 25), ('Elephant Token', 22)]
+damage to A11 during turn of: Counter({'B': 566, 'D': 435, 'C': 285})
+== ALL: games 74 A11 wins 30
+winner of games A lost: Counter({'C': 16, 'B': 15, 'D': 13})
+A11 elimination cause: Counter({'life total reached 0': 44})
+A11 eliminated while active player was: Counter({'B': 22, 'D': 9, 'C': 8, 'A11': 5})
+mulligan lines distinct: Counter({'kept a hand of 7 cards': 70, 'mulliganed down to 7 cards.': 16, 'mulliganed down to 6 cards.': 4, 'kept a hand of 6 cards': 4})
+games w/ A mulligan: 16 wins among them 4
+card: castW/30 castL/44
+  Adeline, Resplendent Cathar: 30 / 44
+  Divine Visitation: 12 / 13
+  Mother of Runes: 10 / 14
+  Resolute Reinforcements: 10 / 13
+  Jazal Goldmane: 13 / 10
+  Captain of the Watch: 13 / 8
+  Inspiring Overseer: 11 / 10
+  Skullclamp: 7 / 14
+  Welcoming Vampire: 12 / 9
+  Wayfarer's Bauble: 5 / 16
+  Knight of the White Orchid: 10 / 10
+  Glorious Anthem: 8 / 12
+  Militia Bugler: 9 / 11
+  Mentor of the Meek: 8 / 12
+  Raise the Alarm: 11 / 8
+  Spectral Procession: 8 / 11
+  Valorous Stance: 9 / 9
+  Path to Exile: 11 / 7
+  Intangible Virtue: 10 / 8
+  Collective Effort: 13 / 5
+  Thought Vessel: 10 / 8
+  Emeria Angel: 7 / 11
+  Loran of the Third Path: 11 / 7
+  Return to Dust: 5 / 13
+  Cathars' Crusade: 12 / 6
+  Generous Gift: 11 / 7
+  Bennie Bracks, Zoologist: 11 / 7
+  Dawn of Hope: 7 / 10
+  Flawless Maneuver: 10 / 7
+  Rabble Rousing: 6 / 11
+  Weathered Wayfarer: 10 / 7
+  Increasing Devotion: 12 / 5
+  Benevolent Bodyguard: 6 / 10
+  Hero of Bladehold: 11 / 5
+  Archivist of Oghma: 7 / 9
+  Benalish Marshal: 10 / 5
+  Swords to Plowshares: 6 / 9
+  Staff of the Storyteller: 7 / 8
+  Sigil of the Empty Throne: 3 / 12
+  Inspired Charge: 6 / 9
+  Sol Ring: 8 / 7
+  Secure the Wastes: 7 / 7
+  Hallowed Spiritkeeper: 9 / 5
+  Commander's Sphere: 6 / 8
+  Angel of Invention: 8 / 6
+  Felidar Retreat: 6 / 7
+  Tocasia's Welcome: 4 / 9
+  Dictate of Heliod: 9 / 4
+  Elspeth, Sun's Champion: 5 / 7
+  Fateful Absence: 7 / 5
+  Mind Stone: 5 / 7
+  Gift of Estates: 4 / 8
+  Moment of Heroism: 6 / 6
+  Cathar Commando: 5 / 6
+  Rally the Ranks: 4 / 7
+  Sram's Expertise: 5 / 6
+  Arcane Signet: 3 / 8
+  Selfless Spirit: 4 / 6
+  Elspeth Resplendent: 6 / 4
+  Austere Command: 5 / 2
+  White Sun's Twilight: 3 / 2
+  Castle Ardenvale: 0 / 0
+  Unbreakable Formation: 0 / 0
+  Secluded Steppe: 0 / 0
+  Sunfall: 0 / 0
+  Mirror Entity: 0 / 0
+  Emeria, the Sky Ruin: 0 / 0
+Adeline cast in 74 games; wins 30 ; own-turn# when cast: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 9, 9, 9, 10, 11, 12, 12, 16]
+no-Adeline games 0 wins 0 []
+damage to A11 by source top15: [('Veyran, Voice of Duality', 260), ('Brago, King Eternal', 239), ('Haughty Djinn', 130), ('Soldier Token', 90), ('Spirit Token', 71), ('Yahenni, Undying Partisan', 58), ('Restoration Angel', 57), ('Teysa Karlov', 56), ('Angel of Serenity', 55), ('Dream Trawler', 48), ('Human Wizard Token', 43), ('Docent of Perfection', 40), ('Frost Titan', 38), ('Carrion Feeder', 33), ('Vampire Token', 29)]
+damage to A11 during turn of: Counter({'B': 785, 'D': 643, 'C': 420})
+playtest_batch2/g01.log A11 first B outturn 26 lastturn 51 Alost None None None Adeline (46, 12) mull ['kept a hand of 7 cards']
+playtest_batch2/g02.log B first B outturn 30 lastturn 60 Alost life total reached 0 60 B Adeline (36, 9) mull ['kept a hand of 7 cards']
+playtest_batch2/g03.log B first C outturn 32 lastturn 64 Alost life total reached 0 64 B Adeline (11, 3) mull ['mulliganed down to 7 cards.', 'mulliganed down to 6 cards.', 'kept a hand of 6 cards']
+playtest_batch2/g04.log A11 first D outturn 24 lastturn 47 Alost None None None Adeline (34, 9) mull ['kept a hand of 7 cards']
+playtest_batch2/g05.log A11 first A11 outturn 28 lastturn 56 Alost None None None Adeline (9, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g06.log A11 first C outturn 28 lastturn 56 Alost None None None Adeline (11, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g07.log B first B outturn 27 lastturn 54 Alost life total reached 0 54 B Adeline (16, 4) mull ['kept a hand of 7 cards']
+playtest_batch2/g08.log A11 first C outturn 26 lastturn 52 Alost None None None Adeline (15, 4) mull ['kept a hand of 7 cards']
+playtest_batch2/g09.log C first D outturn 37 lastturn 74 Alost life total reached 0 74 B Adeline (10, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g10.log D first D outturn 40 lastturn 80 Alost life total reached 0 80 B Adeline (10, 3) mull ['mulliganed down to 7 cards.', 'mulliganed down to 6 cards.', 'kept a hand of 6 cards']
+playtest_batch2/g11.log A11 first D outturn 19 lastturn 38 Alost None None None Adeline (14, 4) mull ['kept a hand of 7 cards']
+playtest_batch2/g12.log A11 first B outturn 27 lastturn 53 Alost None None None Adeline (32, 8) mull ['kept a hand of 7 cards']
+playtest_batch2/g13.log B first D outturn 36 lastturn 72 Alost life total reached 0 72 B Adeline (10, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g14.log C first D outturn 26 lastturn 51 Alost life total reached 0 51 C Adeline (18, 5) mull ['kept a hand of 7 cards']
+playtest_batch2/g15.log D first C outturn 28 lastturn 55 Alost life total reached 0 55 D Adeline (31, 8) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g16.log C first D outturn 47 lastturn 94 Alost life total reached 0 94 C Adeline (18, 5) mull ['kept a hand of 7 cards']
+playtest_batch2/g17.log D first B outturn 21 lastturn 42 Alost life total reached 0 42 D Adeline (16, 4) mull ['kept a hand of 7 cards']
+playtest_batch2/g18.log A11 first A11 outturn 31 lastturn 62 Alost None None None Adeline (9, 3) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g19.log D first D outturn 22 lastturn 43 Alost life total reached 0 43 D Adeline (22, 6) mull ['kept a hand of 7 cards']
+playtest_batch2/g20.log C first C outturn 40 lastturn 80 Alost life total reached 0 80 A11 Adeline (27, 7) mull ['kept a hand of 7 cards']
+playtest_batch2/g21.log A11 first A11 outturn 26 lastturn 51 Alost None None None Adeline (13, 4) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g22.log C first C outturn 21 lastturn 41 Alost life total reached 0 41 B Adeline (27, 7) mull ['kept a hand of 7 cards']
+playtest_batch2/g23.log C first C outturn 31 lastturn 62 Alost life total reached 0 62 C Adeline (15, 4) mull ['kept a hand of 7 cards']
+playtest_batch2/g24.log A11 first A11 outturn 30 lastturn 60 Alost None None None Adeline (45, 12) mull ['kept a hand of 7 cards']
+playtest_batch2/g25.log B first B outturn 29 lastturn 57 Alost life total reached 0 57 B Adeline (16, 4) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g26.log C first C outturn 32 lastturn 63 Alost life total reached 0 63 C Adeline (23, 6) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g27.log C first C outturn 22 lastturn 44 Alost life total reached 0 44 A11 Adeline (11, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g28.log A11 first A11 outturn 40 lastturn 80 Alost None None None Adeline (9, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g29.log D first C outturn 21 lastturn 41 Alost life total reached 0 41 D Adeline (15, 4) mull ['kept a hand of 7 cards']
+playtest_batch2/g30.log A11 first D outturn 34 lastturn 68 Alost None None None Adeline (10, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g31.log C first A11 outturn 24 lastturn 47 Alost life total reached 0 47 C Adeline (17, 5) mull ['kept a hand of 7 cards']
+playtest_batch2/g32.log A11 first C outturn 28 lastturn 56 Alost None None None Adeline (11, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g33.log B first A11 outturn 34 lastturn 67 Alost life total reached 0 67 B Adeline (41, 11) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g34.log A11 first D outturn 29 lastturn 58 Alost None None None Adeline (26, 7) mull ['kept a hand of 7 cards']
+playtest_batch2/g35.log C first D outturn 23 lastturn 45 Alost life total reached 0 45 B Adeline (14, 4) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g36.log D first D outturn 27 lastturn 54 Alost life total reached 0 54 D Adeline (10, 3) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g37.log C first B outturn 31 lastturn 61 Alost life total reached 0 61 C Adeline (20, 5) mull ['kept a hand of 7 cards']
+playtest_batch2/g38.log A11 first A11 outturn 32 lastturn 64 Alost None None None Adeline (13, 4) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g39.log D first A11 outturn 21 lastturn 41 Alost life total reached 0 41 D Adeline (9, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g40.log A11 first C outturn 17 lastturn 34 Alost None None None Adeline (11, 3) mull ['kept a hand of 7 cards']
+playtest_batch2/g41.log B first D outturn 33 lastturn 65 Alost life total reached 0 65 B Adeline (22, 6) mull ['kept a hand of 7 cards']
+playtest_batch2/g42.log B first C outturn 24 lastturn 48 Alost life total reached 0 48 B Adeline (31, 8) mull ['kept a hand of 7 cards']
+playtest_batch2/g43.log C first C outturn 24 lastturn 48 Alost life total reached 0 48 C Adeline (27, 7) mull ['kept a hand of 7 cards']
+playtest_batch2/g44.log D first A11 outturn 23 lastturn 45 Alost life total reached 0 45 A11 Adeline (21, 6) mull ['kept a hand of 7 cards']
+playtest_batch2/g45.log D first D outturn 34 lastturn 67 Alost life total reached 0 67 B Adeline (18, 5) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g46.log A11 first C outturn 33 lastturn 65 Alost None None None Adeline (31, 8) mull ['mulliganed down to 7 cards.', 'kept a hand of 7 cards']
+playtest_batch2/g47.log B first B outturn 24 lastturn 47 Alost life total reached 0 47 B Adeline (20, 5) mull ['kept a hand of 7 cards']
+playtest_batch2/g48.log A11 first B outturn 23 lastturn 45 Alost None None None Adeline (36, 9) mull ['kept a hand of 7 cards']
+playtest_batch2/g49.log A11 first A11 outturn 21 lastturn 41 Alost None None None Adeline (29, 8) mull ['kept a hand of 7 cards']
+playtest_batch2/g50.log A11 first A11 outturn 26 lastturn 52 Alost None None None Adeline (13, 4) mull ['kept a hand of 7 cards']

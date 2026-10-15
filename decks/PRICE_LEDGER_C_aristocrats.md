@@ -92,3 +92,9 @@ Legality / Game Changer check (banlist.json, game_changers.json, Scryfall legali
 | 1 | Brightclimb Pathway | 4.60 | PLST #ZNR-259 | 4.60 |
 | 12 | Swamp | 0.10 | DOM #259 | 1.20 |
 | 11 | Plains | 0.06 | C15 #326 | 0.66 |
+
+## Budget rule (effective 2026-10-15 04:44 PHT, from Voltaire via OSL Manager)
+- Target: $100 per deck, kept as close as possible.
+- Hard cap: $120 at strict retail (cheapest non-foil Scryfall USD for a regular printing).
+- Any deck over $100 must have a ledger line in decks/PRICE_LEDGER_<deck>.md with the amount and a reason.
+- This supersedes the earlier $100 cap and the one-off Deck A approval up to $106.87.

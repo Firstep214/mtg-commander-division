@@ -1,0 +1,3683 @@
+{
+ "rows": [
+  {
+   "g": "g01",
+   "first": "B",
+   "winner": "A11",
+   "turns": 26,
+   "mull": "7",
+   "Bdead": 49,
+   "deathactive": "A11",
+   "lastsrc": [
+    "A11",
+    "Angel of Invention"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 13,
+   "brago": 2,
+   "order": [
+    "D",
+    "B",
+    "C"
+   ],
+   "ncast": 19,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Thought Vessel",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Cloudshift",
+     1
+    ],
+    [
+     "Cloudblazer",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g02",
+   "first": "B",
+   "winner": "B",
+   "turns": 30,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 3,
+   "Bturns": 17,
+   "brago": 1,
+   "order": [
+    "A11",
+    "D",
+    "C"
+   ],
+   "ncast": 29,
+   "top": [
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Talisman of Progress",
+     1
+    ],
+    [
+     "Path to Exile",
+     1
+    ],
+    [
+     "Negate",
+     1
+    ],
+    [
+     "Burnished Hart",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g03",
+   "first": "C",
+   "winner": "B",
+   "turns": 32,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 19,
+   "brago": 3,
+   "order": [
+    "A11",
+    "C",
+    "D"
+   ],
+   "ncast": 28,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Thought Vessel",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g04",
+   "first": "D",
+   "winner": "A11",
+   "turns": 24,
+   "mull": "7",
+   "Bdead": 42,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 10,
+   "brago": 1,
+   "order": [
+    "B",
+    "D",
+    "C"
+   ],
+   "ncast": 14,
+   "top": [
+    [
+     "Wall of Omens",
+     2
+    ],
+    [
+     "Solemn Simulacrum",
+     2
+    ],
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g05",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 28,
+   "mull": "7",
+   "Bdead": 49,
+   "deathactive": "A11",
+   "lastsrc": [
+    "A11",
+    "Knight of the White Orchid"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 12,
+   "brago": 3,
+   "order": [
+    "B",
+    "C",
+    "D"
+   ],
+   "ncast": 15,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Arcane Signet",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ],
+    [
+     "Mind Stone",
+     1
+    ],
+    [
+     "Soulherder",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g06",
+   "first": "C",
+   "winner": "A11",
+   "turns": 28,
+   "mull": "7",
+   "Bdead": 56,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 16,
+   "brago": 3,
+   "order": [
+    "D",
+    "C",
+    "B"
+   ],
+   "ncast": 23,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Wall of Omens",
+     1
+    ],
+    [
+     "Burnished Hart",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ],
+    [
+     "Thought Vessel",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g07",
+   "first": "B",
+   "winner": "B",
+   "turns": 27,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 15,
+   "brago": 1,
+   "order": [
+    "D",
+    "C",
+    "A11"
+   ],
+   "ncast": 21,
+   "top": [
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Fblthp, the Lost",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Brago, King Eternal",
+     1
+    ],
+    [
+     "Reflector Mage",
+     1
+    ],
+    [
+     "Banishing Light",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g08",
+   "first": "C",
+   "winner": "A11",
+   "turns": 26,
+   "mull": "7",
+   "Bdead": 47,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Angel Token",
+    "Angel Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 11,
+   "brago": 3,
+   "order": [
+    "B",
+    "C",
+    "D"
+   ],
+   "ncast": 14,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Cloudblazer",
+     1
+    ],
+    [
+     "Frost Titan",
+     1
+    ],
+    [
+     "Teleportation Circle",
+     1
+    ],
+    [
+     "Arcane Signet",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g09",
+   "first": "D",
+   "winner": "C",
+   "turns": 37,
+   "mull": "7",
+   "Bdead": 74,
+   "deathactive": "B",
+   "lastsrc": [
+    "C",
+    "Sorin, Vengeful Bloodlord"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 23,
+   "brago": 2,
+   "order": [
+    "A11",
+    "D",
+    "B"
+   ],
+   "ncast": 24,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Fellwar Stone",
+     1
+    ],
+    [
+     "Supreme Verdict",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Frost Titan",
+     1
+    ],
+    [
+     "Angel of Serenity",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g10",
+   "first": "D",
+   "winner": "D",
+   "turns": 40,
+   "mull": "7",
+   "Bdead": 80,
+   "deathactive": "B",
+   "lastsrc": [
+    "D",
+    "Electrostatic Field"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 22,
+   "brago": 4,
+   "order": [
+    "A11",
+    "C",
+    "B"
+   ],
+   "ncast": 30,
+   "top": [
+    [
+     "Brago, King Eternal",
+     4
+    ],
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Dream Trawler",
+     2
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Solemn Simulacrum",
+     1
+    ],
+    [
+     "Supreme Verdict",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g11",
+   "first": "D",
+   "winner": "A11",
+   "turns": 19,
+   "mull": "7",
+   "Bdead": 29,
+   "deathactive": "D",
+   "lastsrc": [
+    "D",
+    "Guttersnipe"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 7,
+   "brago": 1,
+   "order": [
+    "B",
+    "C",
+    "D"
+   ],
+   "ncast": 10,
+   "top": [
+    [
+     "Fellwar Stone",
+     1
+    ],
+    [
+     "Brago, King Eternal",
+     1
+    ],
+    [
+     "Reflector Mage",
+     1
+    ],
+    [
+     "Mind Stone",
+     1
+    ],
+    [
+     "Solemn Simulacrum",
+     1
+    ],
+    [
+     "Sea Gate Oracle",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g12",
+   "first": "B",
+   "winner": "A11",
+   "turns": 27,
+   "mull": "7",
+   "Bdead": 51,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 13,
+   "brago": 3,
+   "order": [
+    "D",
+    "B",
+    "C"
+   ],
+   "ncast": 14,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Preordain",
+     1
+    ],
+    [
+     "Sea Gate Oracle",
+     1
+    ],
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Soulherder",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g13",
+   "first": "D",
+   "winner": "B",
+   "turns": 36,
+   "mull": "6",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 22,
+   "brago": 3,
+   "order": [
+    "C",
+    "A11",
+    "D"
+   ],
+   "ncast": 43,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Fblthp, the Lost",
+     2
+    ],
+    [
+     "Agent of Treachery",
+     2
+    ],
+    [
+     "Preordain",
+     1
+    ],
+    [
+     "Wayfarer's Bauble",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g14",
+   "first": "D",
+   "winner": "C",
+   "turns": 26,
+   "mull": "7",
+   "Bdead": 48,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 3,
+   "Bturns": 12,
+   "brago": 2,
+   "order": [
+    "D",
+    "B",
+    "A11"
+   ],
+   "ncast": 18,
+   "top": [
+    [
+     "Sol Ring",
+     2
+    ],
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Burnished Hart",
+     1
+    ],
+    [
+     "Solemn Simulacrum",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ],
+    [
+     "Commander's Sphere",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g15",
+   "first": "C",
+   "winner": "D",
+   "turns": 28,
+   "mull": "7",
+   "Bdead": 55,
+   "deathactive": "D",
+   "lastsrc": [
+    "D",
+    "Stormcatch Mentor"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 15,
+   "brago": 2,
+   "order": [
+    "A11",
+    "C",
+    "B"
+   ],
+   "ncast": 20,
+   "top": [
+    [
+     "Mirrormade",
+     2
+    ],
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Fellwar Stone",
+     1
+    ],
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Preordain",
+     1
+    ],
+    [
+     "Cloudshift",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g16",
+   "first": "D",
+   "winner": "C",
+   "turns": 47,
+   "mull": "7",
+   "Bdead": 90,
+   "deathactive": "C",
+   "lastsrc": [
+    "token/other:Spirit Token",
+    "Spirit Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 23,
+   "brago": 6,
+   "order": [
+    "A11",
+    "B",
+    "D"
+   ],
+   "ncast": 35,
+   "top": [
+    [
+     "Brago, King Eternal",
+     6
+    ],
+    [
+     "Preordain",
+     1
+    ],
+    [
+     "Mind Stone",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Brainstorm",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g17",
+   "first": "B",
+   "winner": "D",
+   "turns": 21,
+   "mull": "7",
+   "Bdead": 31,
+   "deathactive": "A11",
+   "lastsrc": [
+    "A11",
+    "Mother of Runes"
+   ],
+   "lands_by_B_turn4": 3,
+   "Bturns": 8,
+   "brago": 0,
+   "order": [
+    "C",
+    "B",
+    "A11"
+   ],
+   "ncast": 7,
+   "top": [
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ],
+    [
+     "Flickerwisp",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Cloudshift",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g18",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 31,
+   "mull": "7",
+   "Bdead": 57,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Angel Token",
+    "Angel Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 14,
+   "brago": 3,
+   "order": [
+    "B",
+    "D",
+    "C"
+   ],
+   "ncast": 19,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Teferi, Hero of Dominaria",
+     2
+    ],
+    [
+     "Sol Ring",
+     1
+    ],
+    [
+     "Fellwar Stone",
+     1
+    ],
+    [
+     "Banishing Light",
+     1
+    ],
+    [
+     "Burnished Hart",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g19",
+   "first": "D",
+   "winner": "D",
+   "turns": 22,
+   "mull": "7",
+   "Bdead": 41,
+   "deathactive": "D",
+   "lastsrc": [
+    "D",
+    "Haughty Djinn"
+   ],
+   "lands_by_B_turn4": 3,
+   "Bturns": 11,
+   "brago": 1,
+   "order": [
+    "A11",
+    "B",
+    "C"
+   ],
+   "ncast": 10,
+   "top": [
+    [
+     "Charming Prince",
+     1
+    ],
+    [
+     "Fellwar Stone",
+     1
+    ],
+    [
+     "Cloudshift",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Soulherder",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g20",
+   "first": "C",
+   "winner": "C",
+   "turns": 40,
+   "mull": "7",
+   "Bdead": 69,
+   "deathactive": "C",
+   "lastsrc": [
+    "token/other:Spirit Token",
+    "Spirit Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 17,
+   "brago": 5,
+   "order": [
+    "B",
+    "D",
+    "A11"
+   ],
+   "ncast": 26,
+   "top": [
+    [
+     "Brago, King Eternal",
+     5
+    ],
+    [
+     "Kor Skyfisher",
+     2
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ],
+    [
+     "Supreme Verdict",
+     1
+    ],
+    [
+     "Cloudblazer",
+     1
+    ],
+    [
+     "Wayfarer's Bauble",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g21",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 26,
+   "mull": "7",
+   "Bdead": 51,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 14,
+   "brago": 4,
+   "order": [
+    "C",
+    "B"
+   ],
+   "ncast": 20,
+   "top": [
+    [
+     "Brago, King Eternal",
+     4
+    ],
+    [
+     "Fblthp, the Lost",
+     1
+    ],
+    [
+     "Swords to Plowshares",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g22",
+   "first": "C",
+   "winner": "C",
+   "turns": 21,
+   "mull": "7",
+   "Bdead": 41,
+   "deathactive": "B",
+   "lastsrc": [
+    "C",
+    "Butcher of Malakir"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 12,
+   "brago": 3,
+   "order": [
+    "A11",
+    "D",
+    "B"
+   ],
+   "ncast": 13,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Path to Exile",
+     1
+    ],
+    [
+     "Mirrormade",
+     1
+    ],
+    [
+     "Burnished Hart",
+     1
+    ],
+    [
+     "Charming Prince",
+     1
+    ],
+    [
+     "Cloudshift",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g23",
+   "first": "C",
+   "winner": "C",
+   "turns": 31,
+   "mull": "7",
+   "Bdead": 55,
+   "deathactive": "D",
+   "lastsrc": [
+    "token/other:Human Wizard Token",
+    "Human Wizard Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 14,
+   "brago": 2,
+   "order": [
+    "A11",
+    "B",
+    "D"
+   ],
+   "ncast": 19,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Negate",
+     1
+    ],
+    [
+     "Flickerwisp",
+     1
+    ],
+    [
+     "Reflector Mage",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Charming Prince",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g24",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 30,
+   "mull": "7",
+   "Bdead": 58,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Angel Token",
+    "Angel Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 15,
+   "brago": 3,
+   "order": [
+    "C",
+    "B",
+    "D"
+   ],
+   "ncast": 17,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Talisman of Progress",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g25",
+   "first": "B",
+   "winner": "B",
+   "turns": 29,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 17,
+   "brago": 2,
+   "order": [
+    "A11",
+    "D",
+    "C"
+   ],
+   "ncast": 23,
+   "top": [
+    [
+     "Frost Titan",
+     4
+    ],
+    [
+     "Agent of Treachery",
+     3
+    ],
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Wall of Omens",
+     1
+    ],
+    [
+     "Mind Stone",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g26",
+   "first": "C",
+   "winner": "C",
+   "turns": 32,
+   "mull": "7",
+   "Bdead": 61,
+   "deathactive": "C",
+   "lastsrc": [
+    "token/other:Vampire Token",
+    "Vampire Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 15,
+   "brago": 3,
+   "order": [
+    "A11",
+    "B",
+    "D"
+   ],
+   "ncast": 17,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Sol Ring",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Teleportation Circle",
+     1
+    ],
+    [
+     "Agent of Treachery",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g27",
+   "first": "C",
+   "winner": "C",
+   "turns": 22,
+   "mull": "7",
+   "Bdead": 38,
+   "deathactive": "D",
+   "lastsrc": [
+    "C",
+    "Vindictive Vampire"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 9,
+   "brago": 2,
+   "order": [
+    "B",
+    "D",
+    "A11"
+   ],
+   "ncast": 10,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Mind Stone",
+     1
+    ],
+    [
+     "Flickerwisp",
+     1
+    ],
+    [
+     "Solemn Simulacrum",
+     1
+    ],
+    [
+     "Hallowed Burial",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g28",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 40,
+   "mull": "7",
+   "Bdead": 77,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 19,
+   "brago": 2,
+   "order": [
+    "B",
+    "D",
+    "C"
+   ],
+   "ncast": 36,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Detention Sphere",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Restoration Angel",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g29",
+   "first": "C",
+   "winner": "D",
+   "turns": 21,
+   "mull": "7",
+   "Bdead": 41,
+   "deathactive": "D",
+   "lastsrc": [
+    "D",
+    "Guttersnipe"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 11,
+   "brago": 2,
+   "order": [
+    "C",
+    "B",
+    "A11"
+   ],
+   "ncast": 14,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Charming Prince",
+     2
+    ],
+    [
+     "Mind Stone",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Teleportation Circle",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g30",
+   "first": "D",
+   "winner": "A11",
+   "turns": 34,
+   "mull": "7",
+   "Bdead": 52,
+   "deathactive": "C",
+   "lastsrc": [
+    "token/other:Spirit Token",
+    "Spirit Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 13,
+   "brago": 3,
+   "order": [
+    "B",
+    "D",
+    "C"
+   ],
+   "ncast": 15,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Wayfarer's Bauble",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Arcane Signet",
+     1
+    ],
+    [
+     "Counterspell",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g31",
+   "first": "A11",
+   "winner": "C",
+   "turns": 24,
+   "mull": "7",
+   "Bdead": 39,
+   "deathactive": "C",
+   "lastsrc": [
+    "C",
+    "Syr Konrad, the Grim"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 10,
+   "brago": 1,
+   "order": [
+    "A11",
+    "B",
+    "D"
+   ],
+   "ncast": 12,
+   "top": [
+    [
+     "Arcane Signet",
+     1
+    ],
+    [
+     "Restoration Angel",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ],
+    [
+     "Brago, King Eternal",
+     1
+    ],
+    [
+     "Cloudshift",
+     1
+    ],
+    [
+     "Glen Elendra Archmage",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g32",
+   "first": "C",
+   "winner": "A11",
+   "turns": 28,
+   "mull": "7",
+   "Bdead": 51,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 12,
+   "brago": 2,
+   "order": [
+    "B",
+    "C",
+    "D"
+   ],
+   "ncast": 16,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Charming Prince",
+     1
+    ],
+    [
+     "Path to Exile",
+     1
+    ],
+    [
+     "Arcane Denial",
+     1
+    ],
+    [
+     "Restoration Angel",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g33",
+   "first": "A11",
+   "winner": "B",
+   "turns": 34,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 19,
+   "brago": 3,
+   "order": [
+    "A11",
+    "D",
+    "C"
+   ],
+   "ncast": 33,
+   "top": [
+    [
+     "Glen Elendra Archmage",
+     3
+    ],
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Negate",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ],
+    [
+     "Eerie Interlude",
+     1
+    ],
+    [
+     "Sea Gate Oracle",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g34",
+   "first": "D",
+   "winner": "A11",
+   "turns": 29,
+   "mull": "7",
+   "Bdead": 52,
+   "deathactive": "C",
+   "lastsrc": [
+    "token/other:Soldier Token",
+    "Soldier Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 13,
+   "brago": 2,
+   "order": [
+    "B",
+    "D",
+    "C"
+   ],
+   "ncast": 20,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Frantic Search",
+     1
+    ],
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Supreme Verdict",
+     1
+    ],
+    [
+     "Hallowed Burial",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g35",
+   "first": "D",
+   "winner": "C",
+   "turns": 23,
+   "mull": "7",
+   "Bdead": 45,
+   "deathactive": "B",
+   "lastsrc": [
+    "C",
+    "Syr Konrad, the Grim"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 12,
+   "brago": 1,
+   "order": [
+    "D",
+    "A11",
+    "B"
+   ],
+   "ncast": 19,
+   "top": [
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Preordain",
+     1
+    ],
+    [
+     "Brago, King Eternal",
+     1
+    ],
+    [
+     "Reflector Mage",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ],
+    [
+     "Arcane Denial",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g36",
+   "first": "D",
+   "winner": "D",
+   "turns": 27,
+   "mull": "7",
+   "Bdead": 54,
+   "deathactive": "D",
+   "lastsrc": [
+    "D",
+    "Veyran, Voice of Duality"
+   ],
+   "lands_by_B_turn4": 3,
+   "Bturns": 15,
+   "brago": 3,
+   "order": [
+    "A11",
+    "C",
+    "B"
+   ],
+   "ncast": 19,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Reflector Mage",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Counterspell",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g37",
+   "first": "B",
+   "winner": "C",
+   "turns": 31,
+   "mull": "7",
+   "Bdead": 61,
+   "deathactive": "C",
+   "lastsrc": [
+    "C",
+    "Vindictive Vampire"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 21,
+   "brago": 3,
+   "order": [
+    "A11",
+    "D",
+    "B"
+   ],
+   "ncast": 20,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Reflector Mage",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ],
+    [
+     "Restoration Angel",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Thought Vessel",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g38",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 32,
+   "mull": "7",
+   "Bdead": 60,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 16,
+   "brago": 4,
+   "order": [
+    "D",
+    "B",
+    "C"
+   ],
+   "ncast": 15,
+   "top": [
+    [
+     "Brago, King Eternal",
+     4
+    ],
+    [
+     "Wayfarer's Bauble",
+     1
+    ],
+    [
+     "Mirrormade",
+     1
+    ],
+    [
+     "Thirst for Discovery",
+     1
+    ],
+    [
+     "Banishing Light",
+     1
+    ],
+    [
+     "Negate",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g39",
+   "first": "A11",
+   "winner": "D",
+   "turns": 21,
+   "mull": "7",
+   "Bdead": 41,
+   "deathactive": "D",
+   "lastsrc": [
+    "token/other:Bird Illusion Token",
+    "Bird Illusion Token"
+   ],
+   "lands_by_B_turn4": 2,
+   "Bturns": 11,
+   "brago": 0,
+   "order": [
+    "A11",
+    "C",
+    "B"
+   ],
+   "ncast": 6,
+   "top": [
+    [
+     "Wayfarer's Bauble",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Path to Exile",
+     1
+    ],
+    [
+     "Spell Queller",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g40",
+   "first": "C",
+   "winner": "A11",
+   "turns": 17,
+   "mull": "7",
+   "Bdead": 34,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Angel Token",
+    "Angel Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 10,
+   "brago": 3,
+   "order": [
+    "D",
+    "C",
+    "B"
+   ],
+   "ncast": 10,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Arcane Denial",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Spell Queller",
+     1
+    ],
+    [
+     "Sea Gate Oracle",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g41",
+   "first": "D",
+   "winner": "B",
+   "turns": 33,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 19,
+   "brago": 2,
+   "order": [
+    "D",
+    "C",
+    "A11"
+   ],
+   "ncast": 33,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Dovin's Veto",
+     1
+    ],
+    [
+     "Soulherder",
+     1
+    ],
+    [
+     "Restoration Angel",
+     1
+    ],
+    [
+     "Banishing Light",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g42",
+   "first": "C",
+   "winner": "B",
+   "turns": 24,
+   "mull": "7",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 14,
+   "brago": 1,
+   "order": [
+    "A11",
+    "D",
+    "C"
+   ],
+   "ncast": 25,
+   "top": [
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Brainstorm",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g43",
+   "first": "C",
+   "winner": "C",
+   "turns": 24,
+   "mull": "7",
+   "Bdead": 48,
+   "deathactive": "C",
+   "lastsrc": [
+    "A11",
+    "Militia Bugler"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 13,
+   "brago": 3,
+   "order": [
+    "D",
+    "B",
+    "A11"
+   ],
+   "ncast": 20,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Man-o'-War",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Negate",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g44",
+   "first": "A11",
+   "winner": "D",
+   "turns": 23,
+   "mull": "7",
+   "Bdead": 45,
+   "deathactive": "A11",
+   "lastsrc": [
+    "D",
+    "Electrostatic Field"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 11,
+   "brago": 1,
+   "order": [
+    "A11",
+    "B",
+    "C"
+   ],
+   "ncast": 17,
+   "top": [
+    [
+     "Ephemerate",
+     2
+    ],
+    [
+     "Preordain",
+     1
+    ],
+    [
+     "Mulldrifter",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Soulherder",
+     1
+    ],
+    [
+     "Frantic Search",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g45",
+   "first": "D",
+   "winner": "D",
+   "turns": 34,
+   "mull": "7",
+   "Bdead": 67,
+   "deathactive": "B",
+   "lastsrc": [
+    "D",
+    "Niv-Mizzet, Parun"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 18,
+   "brago": 5,
+   "order": [
+    "A11",
+    "C",
+    "B"
+   ],
+   "ncast": 27,
+   "top": [
+    [
+     "Brago, King Eternal",
+     5
+    ],
+    [
+     "Counterspell",
+     1
+    ],
+    [
+     "Man-o'-War",
+     1
+    ],
+    [
+     "Banishing Light",
+     1
+    ],
+    [
+     "Thirst for Discovery",
+     1
+    ],
+    [
+     "Solemn Simulacrum",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g46",
+   "first": "C",
+   "winner": "A11",
+   "turns": 33,
+   "mull": "7",
+   "Bdead": 65,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Angel Token",
+    "Angel Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 18,
+   "brago": 2,
+   "order": [
+    "D",
+    "C",
+    "B"
+   ],
+   "ncast": 19,
+   "top": [
+    [
+     "Brago, King Eternal",
+     2
+    ],
+    [
+     "Mirrormade",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Generous Gift",
+     1
+    ],
+    [
+     "Burnished Hart",
+     1
+    ],
+    [
+     "Supreme Verdict",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g47",
+   "first": "B",
+   "winner": "B",
+   "turns": 24,
+   "mull": "6",
+   "Bdead": null,
+   "deathactive": null,
+   "lastsrc": null,
+   "lands_by_B_turn4": 4,
+   "Bturns": 14,
+   "brago": 1,
+   "order": [
+    "A11",
+    "D",
+    "C"
+   ],
+   "ncast": 17,
+   "top": [
+    [
+     "Sun Titan",
+     3
+    ],
+    [
+     "Counterspell",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Glen Elendra Archmage",
+     1
+    ],
+    [
+     "Dream Trawler",
+     1
+    ],
+    [
+     "Angel of Serenity",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g48",
+   "first": "B",
+   "winner": "A11",
+   "turns": 23,
+   "mull": "7",
+   "Bdead": 40,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Soldier Token",
+    "Soldier Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 10,
+   "brago": 1,
+   "order": [
+    "B",
+    "C",
+    "D"
+   ],
+   "ncast": 8,
+   "top": [
+    [
+     "Soulherder",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Brago, King Eternal",
+     1
+    ],
+    [
+     "Charming Prince",
+     1
+    ],
+    [
+     "Negate",
+     1
+    ],
+    [
+     "Elspeth, Sun's Champion",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g49",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 21,
+   "mull": "7",
+   "Bdead": 41,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Human Token",
+    "Human Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 11,
+   "brago": 3,
+   "order": [
+    "D",
+    "C",
+    "B"
+   ],
+   "ncast": 11,
+   "top": [
+    [
+     "Brago, King Eternal",
+     3
+    ],
+    [
+     "Dovin's Veto",
+     1
+    ],
+    [
+     "Ponder",
+     1
+    ],
+    [
+     "Oblivion Ring",
+     1
+    ],
+    [
+     "Angel of Serenity",
+     1
+    ],
+    [
+     "Agent of Treachery",
+     1
+    ]
+   ]
+  },
+  {
+   "g": "g50",
+   "first": "A11",
+   "winner": "A11",
+   "turns": 26,
+   "mull": "7",
+   "Bdead": 41,
+   "deathactive": "A11",
+   "lastsrc": [
+    "token/other:Soldier Token",
+    "Soldier Token"
+   ],
+   "lands_by_B_turn4": 4,
+   "Bturns": 10,
+   "brago": 1,
+   "order": [
+    "B",
+    "D",
+    "C"
+   ],
+   "ncast": 11,
+   "top": [
+    [
+     "Counterspell",
+     1
+    ],
+    [
+     "Fact or Fiction",
+     1
+    ],
+    [
+     "Wrath of God",
+     1
+    ],
+    [
+     "Restoration Angel",
+     1
+    ],
+    [
+     "Venser, Shaper Savant",
+     1
+    ],
+    [
+     "Reflector Mage",
+     1
+    ]
+   ]
+  }
+ ],
+ "casts": {
+  "Thought Vessel": 13,
+  "Brago, King Eternal": 117,
+  "Mulldrifter": 13,
+  "Cloudshift": 19,
+  "Cloudblazer": 14,
+  "Fact or Fiction": 21,
+  "Dovin's Veto": 10,
+  "Wrath of God": 18,
+  "Counterspell": 17,
+  "Angel of Serenity": 20,
+  "Man-o'-War": 16,
+  "Glen Elendra Archmage": 19,
+  "Frost Titan": 25,
+  "Path to Exile": 13,
+  "Banishing Light": 16,
+  "Preordain": 11,
+  "Teleportation Circle": 12,
+  "Agent of Treachery": 20,
+  "Talisman of Progress": 14,
+  "Negate": 14,
+  "Burnished Hart": 17,
+  "Generous Gift": 18,
+  "Elspeth, Sun's Champion": 14,
+  "Kor Skyfisher": 15,
+  "Soulherder": 19,
+  "Detention Sphere": 12,
+  "Mind Stone": 15,
+  "Wayfarer's Bauble": 10,
+  "Flickerwisp": 16,
+  "Fellwar Stone": 16,
+  "Ephemerate": 23,
+  "Eerie Interlude": 19,
+  "Reflector Mage": 13,
+  "Venser, Shaper Savant": 19,
+  "Frantic Search": 17,
+  "Sol Ring": 14,
+  "Sea Gate Oracle": 20,
+  "Oblivion Ring": 15,
+  "Hallowed Burial": 12,
+  "Thirst for Discovery": 12,
+  "Arcane Denial": 13,
+  "Sun Titan": 12,
+  "Brainstorm": 17,
+  "Dream Trawler": 8,
+  "Swords to Plowshares": 11,
+  "Wall of Omens": 12,
+  "Solemn Simulacrum": 22,
+  "Arcane Signet": 12,
+  "Ponder": 13,
+  "Austere Command": 10,
+  "Fblthp, the Lost": 7,
+  "Restoration Angel": 14,
+  "Spell Queller": 12,
+  "Mirrormade": 12,
+  "Supreme Verdict": 10,
+  "Commander's Sphere": 14,
+  "Charming Prince": 15,
+  "Teferi, Hero of Dominaria": 9
+ },
+ "castW": {
+  "Talisman of Progress": 5,
+  "Path to Exile": 7,
+  "Negate": 5,
+  "Burnished Hart": 5,
+  "Wrath of God": 3,
+  "Fact or Fiction": 7,
+  "Angel of Serenity": 8,
+  "Brago, King Eternal": 9,
+  "Teleportation Circle": 3,
+  "Cloudblazer": 5,
+  "Thought Vessel": 4,
+  "Agent of Treachery": 6,
+  "Generous Gift": 5,
+  "Elspeth, Sun's Champion": 4,
+  "Banishing Light": 6,
+  "Kor Skyfisher": 4,
+  "Soulherder": 5,
+  "Detention Sphere": 3,
+  "Mind Stone": 6,
+  "Dovin's Veto": 5,
+  "Wayfarer's Bauble": 2,
+  "Counterspell": 3,
+  "Frost Titan": 6,
+  "Flickerwisp": 1,
+  "Fellwar Stone": 5,
+  "Ephemerate": 4,
+  "Eerie Interlude": 5,
+  "Reflector Mage": 3,
+  "Venser, Shaper Savant": 7,
+  "Frantic Search": 6,
+  "Mulldrifter": 4,
+  "Sol Ring": 4,
+  "Sea Gate Oracle": 5,
+  "Oblivion Ring": 4,
+  "Hallowed Burial": 3,
+  "Thirst for Discovery": 3,
+  "Arcane Denial": 2,
+  "Sun Titan": 3,
+  "Brainstorm": 4,
+  "Dream Trawler": 4,
+  "Swords to Plowshares": 3,
+  "Glen Elendra Archmage": 5,
+  "Fblthp, the Lost": 3,
+  "Restoration Angel": 6,
+  "Ponder": 4,
+  "Spell Queller": 2,
+  "Preordain": 4,
+  "Cloudshift": 2,
+  "Commander's Sphere": 3,
+  "Arcane Signet": 3,
+  "Charming Prince": 1,
+  "Solemn Simulacrum": 5,
+  "Wall of Omens": 2,
+  "Teferi, Hero of Dominaria": 2,
+  "Supreme Verdict": 1
+ },
+ "castL": {
+  "Thought Vessel": 9,
+  "Brago, King Eternal": 39,
+  "Mulldrifter": 9,
+  "Cloudshift": 17,
+  "Cloudblazer": 9,
+  "Fact or Fiction": 14,
+  "Dovin's Veto": 5,
+  "Wrath of God": 15,
+  "Counterspell": 14,
+  "Angel of Serenity": 12,
+  "Man-o'-War": 16,
+  "Glen Elendra Archmage": 12,
+  "Frost Titan": 16,
+  "Path to Exile": 6,
+  "Banishing Light": 10,
+  "Preordain": 7,
+  "Teleportation Circle": 9,
+  "Agent of Treachery": 11,
+  "Brainstorm": 13,
+  "Frantic Search": 11,
+  "Wall of Omens": 9,
+  "Soulherder": 14,
+  "Kor Skyfisher": 10,
+  "Solemn Simulacrum": 16,
+  "Ephemerate": 9,
+  "Arcane Signet": 9,
+  "Mind Stone": 9,
+  "Negate": 9,
+  "Flickerwisp": 15,
+  "Hallowed Burial": 9,
+  "Burnished Hart": 12,
+  "Venser, Shaper Savant": 12,
+  "Generous Gift": 13,
+  "Arcane Denial": 11,
+  "Swords to Plowshares": 8,
+  "Ponder": 9,
+  "Austere Command": 10,
+  "Thirst for Discovery": 9,
+  "Sol Ring": 9,
+  "Mirrormade": 11,
+  "Fellwar Stone": 11,
+  "Supreme Verdict": 9,
+  "Eerie Interlude": 14,
+  "Wayfarer's Bauble": 8,
+  "Commander's Sphere": 11,
+  "Talisman of Progress": 9,
+  "Sun Titan": 7,
+  "Dream Trawler": 3,
+  "Elspeth, Sun's Champion": 10,
+  "Spell Queller": 10,
+  "Charming Prince": 13,
+  "Reflector Mage": 10,
+  "Sea Gate Oracle": 15,
+  "Oblivion Ring": 11,
+  "Teferi, Hero of Dominaria": 6,
+  "Detention Sphere": 9,
+  "Fblthp, the Lost": 3,
+  "Restoration Angel": 8
+ },
+ "gamesCast": {
+  "Thought Vessel": [
+   "g01",
+   "g02",
+   "g03",
+   "g05",
+   "g06",
+   "g10",
+   "g13",
+   "g16",
+   "g22",
+   "g23",
+   "g37",
+   "g42",
+   "g43"
+  ],
+  "Brago, King Eternal": [
+   "g01",
+   "g02",
+   "g03",
+   "g04",
+   "g05",
+   "g06",
+   "g07",
+   "g08",
+   "g09",
+   "g10",
+   "g11",
+   "g12",
+   "g13",
+   "g14",
+   "g15",
+   "g16",
+   "g18",
+   "g19",
+   "g20",
+   "g21",
+   "g22",
+   "g23",
+   "g24",
+   "g25",
+   "g26",
+   "g27",
+   "g28",
+   "g29",
+   "g30",
+   "g31",
+   "g32",
+   "g33",
+   "g34",
+   "g35",
+   "g36",
+   "g37",
+   "g38",
+   "g40",
+   "g41",
+   "g42",
+   "g43",
+   "g44",
+   "g45",
+   "g46",
+   "g47",
+   "g48",
+   "g49",
+   "g50"
+  ],
+  "Mulldrifter": [
+   "g01",
+   "g03",
+   "g05",
+   "g13",
+   "g20",
+   "g27",
+   "g28",
+   "g29",
+   "g35",
+   "g36",
+   "g42",
+   "g44",
+   "g47"
+  ],
+  "Cloudshift": [
+   "g01",
+   "g05",
+   "g06",
+   "g10",
+   "g12",
+   "g13",
+   "g15",
+   "g17",
+   "g19",
+   "g20",
+   "g22",
+   "g23",
+   "g24",
+   "g28",
+   "g31",
+   "g34",
+   "g36",
+   "g42",
+   "g46"
+  ],
+  "Cloudblazer": [
+   "g01",
+   "g02",
+   "g08",
+   "g09",
+   "g13",
+   "g18",
+   "g20",
+   "g21",
+   "g33",
+   "g35",
+   "g41",
+   "g42",
+   "g46",
+   "g49"
+  ],
+  "Fact or Fiction": [
+   "g01",
+   "g02",
+   "g03",
+   "g04",
+   "g06",
+   "g07",
+   "g13",
+   "g16",
+   "g24",
+   "g28",
+   "g33",
+   "g34",
+   "g35",
+   "g36",
+   "g38",
+   "g39",
+   "g41",
+   "g42",
+   "g46",
+   "g48",
+   "g50"
+  ],
+  "Dovin's Veto": [
+   "g01",
+   "g02",
+   "g07",
+   "g23",
+   "g33",
+   "g37",
+   "g41",
+   "g42",
+   "g45",
+   "g49"
+  ],
+  "Wrath of God": [
+   "g01",
+   "g02",
+   "g03",
+   "g08",
+   "g09",
+   "g10",
+   "g15",
+   "g16",
+   "g21",
+   "g26",
+   "g27",
+   "g28",
+   "g30",
+   "g34",
+   "g40",
+   "g41",
+   "g43",
+   "g50"
+  ],
+  "Counterspell": [
+   "g01",
+   "g02",
+   "g06",
+   "g07",
+   "g08",
+   "g14",
+   "g15",
+   "g18",
+   "g20",
+   "g22",
+   "g28",
+   "g30",
+   "g36",
+   "g38",
+   "g45",
+   "g47",
+   "g50"
+  ],
+  "Angel of Serenity": [
+   "g01",
+   "g02",
+   "g06",
+   "g07",
+   "g09",
+   "g10",
+   "g11",
+   "g13",
+   "g14",
+   "g23",
+   "g25",
+   "g33",
+   "g37",
+   "g40",
+   "g41",
+   "g42",
+   "g46",
+   "g47",
+   "g48",
+   "g49"
+  ],
+  "Man-o'-War": [
+   "g01",
+   "g04",
+   "g05",
+   "g09",
+   "g16",
+   "g17",
+   "g19",
+   "g24",
+   "g28",
+   "g29",
+   "g34",
+   "g36",
+   "g37",
+   "g43",
+   "g45",
+   "g46"
+  ],
+  "Glen Elendra Archmage": [
+   "g01",
+   "g03",
+   "g04",
+   "g05",
+   "g13",
+   "g16",
+   "g19",
+   "g22",
+   "g28",
+   "g31",
+   "g33",
+   "g34",
+   "g37",
+   "g41",
+   "g44",
+   "g46",
+   "g47"
+  ],
+  "Frost Titan": [
+   "g01",
+   "g02",
+   "g03",
+   "g05",
+   "g08",
+   "g09",
+   "g13",
+   "g15",
+   "g16",
+   "g20",
+   "g21",
+   "g24",
+   "g25",
+   "g29",
+   "g35",
+   "g37",
+   "g38",
+   "g41",
+   "g42",
+   "g43",
+   "g44",
+   "g45"
+  ],
+  "Path to Exile": [
+   "g01",
+   "g02",
+   "g10",
+   "g13",
+   "g22",
+   "g25",
+   "g32",
+   "g33",
+   "g36",
+   "g39",
+   "g41",
+   "g42",
+   "g47"
+  ],
+  "Banishing Light": [
+   "g01",
+   "g02",
+   "g06",
+   "g07",
+   "g09",
+   "g13",
+   "g16",
+   "g18",
+   "g20",
+   "g30",
+   "g33",
+   "g38",
+   "g41",
+   "g42",
+   "g43",
+   "g45"
+  ],
+  "Preordain": [
+   "g01",
+   "g10",
+   "g12",
+   "g13",
+   "g15",
+   "g16",
+   "g33",
+   "g35",
+   "g42",
+   "g44",
+   "g47"
+  ],
+  "Teleportation Circle": [
+   "g01",
+   "g02",
+   "g06",
+   "g08",
+   "g09",
+   "g13",
+   "g20",
+   "g23",
+   "g26",
+   "g29",
+   "g41",
+   "g46"
+  ],
+  "Agent of Treachery": [
+   "g01",
+   "g02",
+   "g06",
+   "g07",
+   "g09",
+   "g13",
+   "g16",
+   "g18",
+   "g24",
+   "g25",
+   "g26",
+   "g28",
+   "g41",
+   "g42",
+   "g46",
+   "g48",
+   "g49"
+  ],
+  "Talisman of Progress": [
+   "g02",
+   "g09",
+   "g12",
+   "g13",
+   "g16",
+   "g20",
+   "g24",
+   "g25",
+   "g28",
+   "g33",
+   "g37",
+   "g38",
+   "g41",
+   "g50"
+  ],
+  "Negate": [
+   "g02",
+   "g05",
+   "g10",
+   "g13",
+   "g16",
+   "g23",
+   "g25",
+   "g32",
+   "g33",
+   "g37",
+   "g38",
+   "g41",
+   "g43",
+   "g48"
+  ],
+  "Burnished Hart": [
+   "g02",
+   "g03",
+   "g06",
+   "g07",
+   "g10",
+   "g14",
+   "g16",
+   "g18",
+   "g22",
+   "g23",
+   "g24",
+   "g25",
+   "g31",
+   "g33",
+   "g44",
+   "g46",
+   "g50"
+  ],
+  "Generous Gift": [
+   "g02",
+   "g03",
+   "g06",
+   "g08",
+   "g10",
+   "g13",
+   "g17",
+   "g19",
+   "g21",
+   "g24",
+   "g32",
+   "g33",
+   "g40",
+   "g42",
+   "g43",
+   "g44",
+   "g46",
+   "g49"
+  ],
+  "Elspeth, Sun's Champion": [
+   "g02",
+   "g03",
+   "g10",
+   "g12",
+   "g13",
+   "g16",
+   "g18",
+   "g19",
+   "g21",
+   "g28",
+   "g32",
+   "g34",
+   "g41",
+   "g48"
+  ],
+  "Kor Skyfisher": [
+   "g02",
+   "g04",
+   "g09",
+   "g13",
+   "g14",
+   "g15",
+   "g18",
+   "g20",
+   "g28",
+   "g29",
+   "g33",
+   "g36",
+   "g42",
+   "g45"
+  ],
+  "Soulherder": [
+   "g02",
+   "g03",
+   "g04",
+   "g05",
+   "g09",
+   "g11",
+   "g12",
+   "g15",
+   "g19",
+   "g23",
+   "g24",
+   "g25",
+   "g31",
+   "g33",
+   "g40",
+   "g41",
+   "g43",
+   "g44",
+   "g48"
+  ],
+  "Detention Sphere": [
+   "g02",
+   "g03",
+   "g16",
+   "g19",
+   "g20",
+   "g21",
+   "g28",
+   "g35",
+   "g37",
+   "g42",
+   "g45",
+   "g46"
+  ],
+  "Mind Stone": [
+   "g02",
+   "g05",
+   "g07",
+   "g11",
+   "g16",
+   "g18",
+   "g21",
+   "g25",
+   "g27",
+   "g28",
+   "g29",
+   "g33",
+   "g41",
+   "g42",
+   "g43"
+  ],
+  "Wayfarer's Bauble": [
+   "g02",
+   "g09",
+   "g13",
+   "g14",
+   "g20",
+   "g28",
+   "g30",
+   "g38",
+   "g39",
+   "g45"
+  ],
+  "Flickerwisp": [
+   "g02",
+   "g05",
+   "g06",
+   "g09",
+   "g10",
+   "g14",
+   "g16",
+   "g17",
+   "g23",
+   "g27",
+   "g28",
+   "g30",
+   "g31",
+   "g34",
+   "g46",
+   "g50"
+  ],
+  "Fellwar Stone": [
+   "g02",
+   "g03",
+   "g07",
+   "g08",
+   "g09",
+   "g11",
+   "g13",
+   "g14",
+   "g15",
+   "g18",
+   "g19",
+   "g26",
+   "g28",
+   "g34",
+   "g45",
+   "g47"
+  ],
+  "Ephemerate": [
+   "g02",
+   "g04",
+   "g07",
+   "g10",
+   "g17",
+   "g20",
+   "g25",
+   "g28",
+   "g31",
+   "g32",
+   "g35",
+   "g41",
+   "g44"
+  ],
+  "Eerie Interlude": [
+   "g02",
+   "g03",
+   "g09",
+   "g10",
+   "g12",
+   "g13",
+   "g14",
+   "g15",
+   "g16",
+   "g20",
+   "g26",
+   "g28",
+   "g31",
+   "g33",
+   "g34",
+   "g36",
+   "g41",
+   "g43",
+   "g45"
+  ],
+  "Reflector Mage": [
+   "g02",
+   "g07",
+   "g11",
+   "g13",
+   "g16",
+   "g23",
+   "g26",
+   "g28",
+   "g35",
+   "g36",
+   "g37",
+   "g44",
+   "g50"
+  ],
+  "Venser, Shaper Savant": [
+   "g03",
+   "g06",
+   "g10",
+   "g13",
+   "g15",
+   "g16",
+   "g20",
+   "g24",
+   "g25",
+   "g27",
+   "g28",
+   "g33",
+   "g39",
+   "g41",
+   "g42",
+   "g43",
+   "g44",
+   "g47",
+   "g50"
+  ],
+  "Frantic Search": [
+   "g03",
+   "g04",
+   "g06",
+   "g07",
+   "g10",
+   "g13",
+   "g26",
+   "g28",
+   "g31",
+   "g33",
+   "g34",
+   "g36",
+   "g41",
+   "g43",
+   "g44",
+   "g45",
+   "g47"
+  ],
+  "Sol Ring": [
+   "g03",
+   "g08",
+   "g09",
+   "g13",
+   "g14",
+   "g16",
+   "g18",
+   "g20",
+   "g26",
+   "g28",
+   "g30",
+   "g41",
+   "g42"
+  ],
+  "Sea Gate Oracle": [
+   "g03",
+   "g07",
+   "g11",
+   "g12",
+   "g13",
+   "g15",
+   "g16",
+   "g18",
+   "g20",
+   "g21",
+   "g27",
+   "g28",
+   "g32",
+   "g33",
+   "g34",
+   "g35",
+   "g40",
+   "g42",
+   "g43",
+   "g45"
+  ],
+  "Oblivion Ring": [
+   "g03",
+   "g13",
+   "g14",
+   "g17",
+   "g20",
+   "g26",
+   "g30",
+   "g34",
+   "g35",
+   "g37",
+   "g39",
+   "g41",
+   "g42",
+   "g45",
+   "g49"
+  ],
+  "Hallowed Burial": [
+   "g03",
+   "g05",
+   "g10",
+   "g12",
+   "g13",
+   "g23",
+   "g26",
+   "g27",
+   "g33",
+   "g34",
+   "g45",
+   "g46"
+  ],
+  "Thirst for Discovery": [
+   "g03",
+   "g06",
+   "g13",
+   "g16",
+   "g23",
+   "g24",
+   "g26",
+   "g38",
+   "g41",
+   "g43",
+   "g44",
+   "g45"
+  ],
+  "Arcane Denial": [
+   "g03",
+   "g06",
+   "g14",
+   "g16",
+   "g21",
+   "g28",
+   "g32",
+   "g33",
+   "g35",
+   "g36",
+   "g40",
+   "g44",
+   "g45"
+  ],
+  "Sun Titan": [
+   "g03",
+   "g10",
+   "g16",
+   "g21",
+   "g26",
+   "g33",
+   "g34",
+   "g44",
+   "g46",
+   "g47"
+  ],
+  "Brainstorm": [
+   "g03",
+   "g04",
+   "g08",
+   "g12",
+   "g13",
+   "g15",
+   "g16",
+   "g17",
+   "g21",
+   "g22",
+   "g28",
+   "g32",
+   "g33",
+   "g34",
+   "g36",
+   "g42",
+   "g43"
+  ],
+  "Dream Trawler": [
+   "g03",
+   "g07",
+   "g10",
+   "g13",
+   "g28",
+   "g38",
+   "g47"
+  ],
+  "Swords to Plowshares": [
+   "g03",
+   "g06",
+   "g07",
+   "g11",
+   "g16",
+   "g21",
+   "g23",
+   "g29",
+   "g33",
+   "g35",
+   "g45"
+  ],
+  "Wall of Omens": [
+   "g04",
+   "g06",
+   "g09",
+   "g12",
+   "g14",
+   "g15",
+   "g16",
+   "g23",
+   "g25",
+   "g33",
+   "g50"
+  ],
+  "Solemn Simulacrum": [
+   "g04",
+   "g06",
+   "g09",
+   "g10",
+   "g11",
+   "g13",
+   "g14",
+   "g21",
+   "g24",
+   "g27",
+   "g28",
+   "g29",
+   "g30",
+   "g33",
+   "g35",
+   "g36",
+   "g37",
+   "g41",
+   "g42",
+   "g45",
+   "g47"
+  ],
+  "Arcane Signet": [
+   "g05",
+   "g08",
+   "g13",
+   "g18",
+   "g25",
+   "g28",
+   "g30",
+   "g31",
+   "g32",
+   "g36",
+   "g41",
+   "g43"
+  ],
+  "Ponder": [
+   "g06",
+   "g07",
+   "g12",
+   "g23",
+   "g25",
+   "g26",
+   "g30",
+   "g36",
+   "g37",
+   "g42",
+   "g44",
+   "g47",
+   "g49"
+  ],
+  "Austere Command": [
+   "g06",
+   "g09",
+   "g10",
+   "g14",
+   "g24",
+   "g26",
+   "g31",
+   "g32",
+   "g38",
+   "g46"
+  ],
+  "Fblthp, the Lost": [
+   "g07",
+   "g13",
+   "g18",
+   "g21",
+   "g28",
+   "g41"
+  ],
+  "Restoration Angel": [
+   "g07",
+   "g13",
+   "g25",
+   "g28",
+   "g29",
+   "g31",
+   "g32",
+   "g33",
+   "g35",
+   "g36",
+   "g37",
+   "g41",
+   "g47",
+   "g50"
+  ],
+  "Spell Queller": [
+   "g07",
+   "g10",
+   "g13",
+   "g15",
+   "g16",
+   "g20",
+   "g22",
+   "g23",
+   "g37",
+   "g39",
+   "g40",
+   "g45"
+  ],
+  "Mirrormade": [
+   "g08",
+   "g09",
+   "g10",
+   "g15",
+   "g18",
+   "g22",
+   "g30",
+   "g34",
+   "g37",
+   "g38",
+   "g46"
+  ],
+  "Supreme Verdict": [
+   "g09",
+   "g10",
+   "g16",
+   "g20",
+   "g24",
+   "g28",
+   "g34",
+   "g35",
+   "g41",
+   "g46"
+  ],
+  "Commander's Sphere": [
+   "g09",
+   "g11",
+   "g13",
+   "g14",
+   "g21",
+   "g28",
+   "g29",
+   "g30",
+   "g32",
+   "g35",
+   "g41",
+   "g42",
+   "g43",
+   "g45"
+  ],
+  "Charming Prince": [
+   "g10",
+   "g13",
+   "g15",
+   "g19",
+   "g21",
+   "g22",
+   "g23",
+   "g28",
+   "g29",
+   "g32",
+   "g34",
+   "g45",
+   "g48",
+   "g49"
+  ],
+  "Teferi, Hero of Dominaria": [
+   "g15",
+   "g18",
+   "g20",
+   "g33",
+   "g35",
+   "g37",
+   "g41",
+   "g45"
+  ]
+ },
+ "never": [
+  "Azorius Chancery",
+  "Azorius Signet",
+  "Castle Ardenvale",
+  "Command Tower",
+  "Conjurer's Closet",
+  "Deputy of Detention",
+  "Exotic Orchard",
+  "Ghostly Flicker",
+  "Glacial Fortress",
+  "Irrigated Farmland",
+  "Island",
+  "Meandering River",
+  "Mystic Confluence",
+  "Plains",
+  "Port Town",
+  "Prairie Stream",
+  "Reliquary Tower",
+  "Sejiri Refuge",
+  "Skycloud Expanse",
+  "Thriving Isle",
+  "Tranquil Cove"
+ ],
+ "dmg": {
+  "D": 631,
+  "token/other:Spirit Token": 53,
+  "A11": 383,
+  "token/other:Soldier Token": 272,
+  "token/other:Servo Token": 24,
+  "C": 180,
+  "token/other:Human Token": 517,
+  "token/other:Bird Token": 6,
+  "token/other:Angel Token": 384,
+  "token/other:Warrior Token": 16,
+  "token/other:Final Iteration": 18,
+  "token/other:Human Wizard Token": 63,
+  "token/other:Vampire Token": 43,
+  "token/other:Fire": 2,
+  "token/other:Citizen Token": 29,
+  "token/other:Elephant Token": 12,
+  "token/other:Bird Illusion Token": 14,
+  "token/other:Human Soldier Token": 1,
+  "token/other:Eldrazi Scion Token": 3,
+  "token/other:Frog Lizard Token": 3,
+  "B": 1,
+  "token/other:Ape Token": 4
+ },
+ "killer": [
+  [
+   "('A11', ('token/other:Human Token', 'Human Token'))",
+   9
+  ],
+  [
+   "('A11', ('token/other:Angel Token', 'Angel Token'))",
+   5
+  ],
+  [
+   "('C', ('token/other:Spirit Token', 'Spirit Token'))",
+   3
+  ],
+  [
+   "('D', ('D', 'Guttersnipe'))",
+   2
+  ],
+  [
+   "('A11', ('token/other:Soldier Token', 'Soldier Token'))",
+   2
+  ],
+  [
+   "('A11', ('A11', 'Angel of Invention'))",
+   1
+  ],
+  [
+   "('A11', ('A11', 'Knight of the White Orchid'))",
+   1
+  ],
+  [
+   "('B', ('C', 'Sorin, Vengeful Bloodlord'))",
+   1
+  ],
+  [
+   "('B', ('D', 'Electrostatic Field'))",
+   1
+  ],
+  [
+   "('D', ('D', 'Stormcatch Mentor'))",
+   1
+  ],
+  [
+   "('A11', ('A11', 'Mother of Runes'))",
+   1
+  ],
+  [
+   "('D', ('D', 'Haughty Djinn'))",
+   1
+  ],
+  [
+   "('B', ('C', 'Butcher of Malakir'))",
+   1
+  ],
+  [
+   "('D', ('token/other:Human Wizard Token', 'Human Wizard Token'))",
+   1
+  ],
+  [
+   "('C', ('token/other:Vampire Token', 'Vampire Token'))",
+   1
+  ],
+  [
+   "('D', ('C', 'Vindictive Vampire'))",
+   1
+  ],
+  [
+   "('C', ('C', 'Syr Konrad, the Grim'))",
+   1
+  ],
+  [
+   "('C', ('token/other:Soldier Token', 'Soldier Token'))",
+   1
+  ],
+  [
+   "('B', ('C', 'Syr Konrad, the Grim'))",
+   1
+  ],
+  [
+   "('D', ('D', 'Veyran, Voice of Duality'))",
+   1
+  ],
+  [
+   "('C', ('C', 'Vindictive Vampire'))",
+   1
+  ],
+  [
+   "('D', ('token/other:Bird Illusion Token', 'Bird Illusion Token'))",
+   1
+  ],
+  [
+   "('C', ('A11', 'Militia Bugler'))",
+   1
+  ],
+  [
+   "('A11', ('D', 'Electrostatic Field'))",
+   1
+  ],
+  [
+   "('B', ('D', 'Niv-Mizzet, Parun'))",
+   1
+  ]
+ ]
+}

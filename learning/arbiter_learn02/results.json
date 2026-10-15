@@ -1,0 +1,555 @@
+{
+ "gc_json_retrieved": "2026-10-14T10:56:58Z",
+ "toxic": {
+  "in_json": false,
+  "scryfall_flag": false
+ },
+ "B": {
+  "base": "B_control_V1.1",
+  "cid": "UW",
+  "count": 100,
+  "pre": [
+   80.48,
+   84.15
+  ],
+  "post": [
+   84.06,
+   87.73
+  ],
+  "swaps": [
+   {
+    "out": "Ghostly Flicker",
+    "inn": "Skyclave Apparition",
+    "out_present": true,
+    "out_line": 29,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "W",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      1.16,
+      "AVR",
+      "57"
+     ],
+     [
+      0.26,
+      "SOC",
+      "173"
+     ]
+    ],
+    "strict": [
+     [
+      1.16,
+      "AVR",
+      "57"
+     ],
+     [
+      0.26,
+      "SOC",
+      "173"
+     ]
+    ],
+    "extra": false,
+    "text": "When this creature enters, exile up to one target nonland, nontoken permanent you don't control with mana value 4 or less.\nWhen this creature leaves the battlefield, the exiled card's owner creates an X/X blue Illusion c",
+    "apply": true
+   },
+   {
+    "out": "Deputy of Detention",
+    "inn": "Aetherize",
+    "out_present": true,
+    "out_line": 22,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "U",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.34,
+      "RNA",
+      "165"
+     ],
+     [
+      0.3,
+      "FDC",
+      "59"
+     ]
+    ],
+    "strict": [
+     [
+      0.34,
+      "RNA",
+      "165"
+     ],
+     [
+      0.3,
+      "FDC",
+      "59"
+     ]
+    ],
+    "extra": false,
+    "text": "Return all attacking creatures to their owner's hand.",
+    "apply": true
+   },
+   {
+    "out": "Hallowed Burial",
+    "inn": "Comeuppance",
+    "out_present": true,
+    "out_line": 45,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "W",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.48,
+      "CN2",
+      "91"
+     ],
+     [
+      5.0,
+      "MAR",
+      "1"
+     ]
+    ],
+    "strict": [
+     [
+      0.48,
+      "CN2",
+      "91"
+     ],
+     [
+      5.0,
+      "MAR",
+      "1"
+     ]
+    ],
+    "extra": false,
+    "text": "Prevent all damage that would be dealt to you and planeswalkers you control this turn by sources you don't control. If damage from a creature source is prevented this way, Comeuppance deals that much damage to that creat",
+    "apply": true
+   },
+   {
+    "out": "Azorius Signet",
+    "inn": "Talisman of Progress",
+    "out_present": true,
+    "out_line": 6,
+    "in_absent": false,
+    "in_line": 5,
+    "legal": "legal",
+    "ci": "UW",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.26,
+      "FRC",
+      "53"
+     ],
+     [
+      0.28,
+      "FRC",
+      "64"
+     ]
+    ],
+    "strict": [
+     [
+      0.26,
+      "FRC",
+      "53"
+     ],
+     [
+      0.28,
+      "FRC",
+      "64"
+     ]
+    ],
+    "extra": false,
+    "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. This artifact deals 1 damage to you.",
+    "fallbacks": {
+     "Mind Stone": [
+      true,
+      4
+     ],
+     "Fellwar Stone": [
+      true,
+      9
+     ]
+    },
+    "apply": false
+   }
+  ]
+ },
+ "C": {
+  "base": "C_aristocrats_V1.1",
+  "cid": "BW",
+  "count": 100,
+  "pre": [
+   87.08,
+   94.33
+  ],
+  "post": [
+   90.95,
+   98.19
+  ],
+  "swaps": [
+   {
+    "out": "Undying Evil",
+    "inn": "Toxic Deluge",
+    "out_present": true,
+    "out_line": 41,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "B",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.4,
+      "DKA",
+      "77"
+     ],
+     [
+      4.81,
+      "MSC",
+      "161"
+     ]
+    ],
+    "strict": [
+     [
+      0.4,
+      "DKA",
+      "77"
+     ],
+     [
+      4.81,
+      "MSC",
+      "161"
+     ]
+    ],
+    "extra": false,
+    "text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn.",
+    "apply": true
+   },
+   {
+    "out": "Viscera Seer",
+    "inn": "Massacre Girl",
+    "out_present": true,
+    "out_line": 18,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "B",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.49,
+      "TDC",
+      "199"
+     ],
+     [
+      0.49,
+      "WAR",
+      "99"
+     ]
+    ],
+    "strict": [
+     [
+      0.49,
+      "TDC",
+      "199"
+     ],
+     [
+      0.49,
+      "WAR",
+      "99"
+     ]
+    ],
+    "extra": false,
+    "text": "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",
+    "apply": true
+   },
+   {
+    "out": "Path to Exile",
+    "inn": "Go for the Throat",
+    "out_present": true,
+    "out_line": 49,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "B",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.84,
+      "PLST",
+      "BLC-147"
+     ],
+     [
+      0.3,
+      "FDC",
+      "100"
+     ]
+    ],
+    "strict": [
+     [
+      0.85,
+      "FRC",
+      "30"
+     ],
+     [
+      0.3,
+      "FDC",
+      "100"
+     ]
+    ],
+    "extra": false,
+    "text": "Destroy target nonartifact creature.",
+    "apply": true
+   },
+   {
+    "out": "Orzhov Signet",
+    "inn": "Talisman of Hierarchy",
+    "out_present": true,
+    "out_line": 4,
+    "in_absent": false,
+    "in_line": 5,
+    "legal": "legal",
+    "ci": "BW",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.3,
+      "LCC",
+      "310"
+     ],
+     [
+      0.4,
+      "FIC",
+      "365"
+     ]
+    ],
+    "strict": [
+     [
+      0.3,
+      "LCC",
+      "310"
+     ],
+     [
+      0.4,
+      "FIC",
+      "365"
+     ]
+    ],
+    "extra": false,
+    "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you.",
+    "fallbacks": {
+     "Mind Stone": [
+      true,
+      6
+     ],
+     "Fellwar Stone": [
+      true,
+      7
+     ]
+    },
+    "apply": false
+   }
+  ]
+ },
+ "D": {
+  "base": "D_spellslinger_V1.1",
+  "cid": "RU",
+  "count": 100,
+  "pre": [
+   76.76,
+   79.69
+  ],
+  "post": [
+   76.21,
+   79.14
+  ],
+  "swaps": [
+   {
+    "out": "Faithless Looting",
+    "inn": "Mulldrifter",
+    "out_present": true,
+    "out_line": 32,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "U",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.37,
+      "LCC",
+      "225"
+     ],
+     [
+      0.28,
+      "MMA",
+      "54"
+     ]
+    ],
+    "strict": [
+     [
+      0.37,
+      "LCC",
+      "225"
+     ],
+     [
+      0.28,
+      "MMA",
+      "54"
+     ]
+    ],
+    "extra": false,
+    "text": "Flying\nWhen this creature enters, draw two cards.\nEvoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+    "apply": true
+   },
+   {
+    "out": "Blasphemous Act",
+    "inn": "Aetherize",
+    "out_present": true,
+    "out_line": 47,
+    "in_absent": true,
+    "in_line": null,
+    "legal": "legal",
+    "ci": "U",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.76,
+      "FDC",
+      "140"
+     ],
+     [
+      0.3,
+      "FDC",
+      "59"
+     ]
+    ],
+    "strict": [
+     [
+      0.76,
+      "FDC",
+      "140"
+     ],
+     [
+      0.3,
+      "FDC",
+      "59"
+     ]
+    ],
+    "extra": false,
+    "text": "Return all attacking creatures to their owner's hand.",
+    "apply": true
+   },
+   {
+    "out": "Izzet Signet",
+    "inn": "Talisman of Creativity",
+    "out_present": true,
+    "out_line": 4,
+    "in_absent": false,
+    "in_line": 5,
+    "legal": "legal",
+    "ci": "RU",
+    "ci_ok": true,
+    "ban": false,
+    "gc": [
+     false,
+     false
+    ],
+    "led": [
+     [
+      0.29,
+      "FRC",
+      "58"
+     ],
+     [
+      0.49,
+      "FRC",
+      "61"
+     ]
+    ],
+    "strict": [
+     [
+      0.29,
+      "FRC",
+      "58"
+     ],
+     [
+      0.49,
+      "FRC",
+      "61"
+     ]
+    ],
+    "extra": false,
+    "text": "{T}: Add {C}.\n{T}: Add {U} or {R}. This artifact deals 1 damage to you.",
+    "fallbacks": {
+     "Mind Stone": [
+      true,
+      6
+     ],
+     "Fellwar Stone": [
+      true,
+      7
+     ]
+    },
+    "apply": false
+   }
+  ]
+ }
+}

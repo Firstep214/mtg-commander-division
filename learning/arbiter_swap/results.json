@@ -1,0 +1,374 @@
+{
+ "A": {
+  "base": "A_tokens_V1.1",
+  "cid": "W",
+  "count": 100,
+  "pre": [
+   94.61,
+   []
+  ],
+  "pre_strict": [
+   99.3,
+   []
+  ],
+  "post": [
+   102.19,
+   []
+  ],
+  "post_strict": [
+   106.87,
+   []
+  ],
+  "swaps": [
+   {
+    "out": "Sunfall",
+    "inn": "Ghostly Prison",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "W"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     0.31,
+     "FRC",
+     "36"
+    ],
+    "price_in": [
+     5.68,
+     "PLST",
+     "CHK-10"
+    ],
+    "strict_in": [
+     5.78,
+     "C19",
+     "64"
+    ],
+    "strict_out": [
+     0.31,
+     "FRC",
+     "36"
+    ],
+    "extra": false,
+    "text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you."
+   },
+   {
+    "out": "Mirror Entity",
+    "inn": "Get Lost",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "W"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     1.01,
+     "PLST",
+     "CMA-16"
+    ],
+    "price_in": [
+     3.22,
+     "LCI",
+     "333"
+    ],
+    "strict_in": [
+     3.22,
+     "LCI",
+     "333"
+    ],
+    "strict_out": [
+     1.12,
+     "C16",
+     "70"
+    ],
+    "extra": false,
+    "text": "Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with \"{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.\")"
+   }
+  ]
+ },
+ "B": {
+  "base": "B_control",
+  "cid": "UW",
+  "count": 100,
+  "pre": [
+   83.5,
+   []
+  ],
+  "pre_strict": [
+   87.17,
+   []
+  ],
+  "post": [
+   80.48,
+   []
+  ],
+  "post_strict": [
+   84.15,
+   []
+  ],
+  "swaps": [
+   {
+    "out": "Conjurer's Closet",
+    "inn": "Fumigate",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "W"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     3.19,
+     "DRC",
+     "126"
+    ],
+    "price_in": [
+     0.25,
+     "EOC",
+     "65"
+    ],
+    "strict_in": [
+     0.25,
+     "EOC",
+     "65"
+    ],
+    "strict_out": [
+     3.19,
+     "DRC",
+     "126"
+    ],
+    "extra": false,
+    "text": "Destroy all creatures. You gain 1 life for each creature destroyed this way."
+   },
+   {
+    "out": "Mystic Confluence",
+    "inn": "Settle the Wreckage",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "W"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     0.49,
+     "LTC",
+     "193"
+    ],
+    "price_in": [
+     0.41,
+     "HOB",
+     "26"
+    ],
+    "strict_in": [
+     0.41,
+     "HOB",
+     "26"
+    ],
+    "strict_out": [
+     0.49,
+     "LTC",
+     "193"
+    ],
+    "extra": false,
+    "text": "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle."
+   }
+  ]
+ },
+ "C": {
+  "base": "C_aristocrats",
+  "cid": "BW",
+  "count": 100,
+  "pre": [
+   85.97,
+   []
+  ],
+  "pre_strict": [
+   93.22,
+   []
+  ],
+  "post": [
+   87.08,
+   []
+  ],
+  "post_strict": [
+   94.33,
+   []
+  ],
+  "swaps": [
+   {
+    "out": "Wake the Dead",
+    "inn": "Massacre Wurm",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "B"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     1.37,
+     "CMM",
+     "197"
+    ],
+    "price_in": [
+     2.63,
+     "FDN",
+     "754"
+    ],
+    "strict_in": [
+     2.63,
+     "FDN",
+     "754"
+    ],
+    "strict_out": [
+     1.37,
+     "CMM",
+     "197"
+    ],
+    "extra": false,
+    "text": "When this creature enters, creatures your opponents control get -2/-2 until end of turn.\nWhenever a creature an opponent controls dies, that player loses 2 life."
+   },
+   {
+    "out": "Sevinne's Reclamation",
+    "inn": "Pestilence",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "B"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     0.45,
+     "SOC",
+     "170"
+    ],
+    "price_in": [
+     0.3,
+     "4ED",
+     "152"
+    ],
+    "strict_in": [
+     0.3,
+     "4ED",
+     "152"
+    ],
+    "strict_out": [
+     0.45,
+     "SOC",
+     "170"
+    ],
+    "extra": false,
+    "text": "At the beginning of the end step, if no creatures are on the battlefield, sacrifice this enchantment.\n{B}: This enchantment deals 1 damage to each creature and each player."
+   }
+  ]
+ },
+ "D": {
+  "base": "D_spellslinger",
+  "cid": "RU",
+  "count": 100,
+  "pre": [
+   80.45,
+   []
+  ],
+  "pre_strict": [
+   83.38,
+   []
+  ],
+  "post": [
+   76.76,
+   []
+  ],
+  "post_strict": [
+   79.69,
+   []
+  ],
+  "swaps": [
+   {
+    "out": "Mizzix's Mastery",
+    "inn": "Fiery Cannonade",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "R"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     3.78,
+     "FCA",
+     "41"
+    ],
+    "price_in": [
+     0.22,
+     "CMR",
+     "178"
+    ],
+    "strict_in": [
+     0.22,
+     "CMR",
+     "178"
+    ],
+    "strict_out": [
+     3.78,
+     "FCA",
+     "41"
+    ],
+    "extra": false,
+    "text": "Fiery Cannonade deals 2 damage to each non-Pirate creature."
+   },
+   {
+    "out": "Past in Flames",
+    "inn": "Coruscation Mage",
+    "out_present": true,
+    "in_absent": true,
+    "legal": "legal",
+    "ci": [
+     "R"
+    ],
+    "ci_ok": true,
+    "ban": false,
+    "gc": false,
+    "price_out": [
+     2.53,
+     "40K",
+     "206"
+    ],
+    "price_in": [
+     2.4,
+     "BLB",
+     "131"
+    ],
+    "strict_in": [
+     2.4,
+     "BLB",
+     "131"
+    ],
+    "strict_out": [
+     2.53,
+     "40K",
+     "206"
+    ],
+    "extra": false,
+    "text": "Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nWhenever you cast a noncreature spell, this creature deals 1 damage to each opponent."
+   }
+  ]
+ }
+}
